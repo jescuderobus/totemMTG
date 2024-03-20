@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Configura la detección de deslizamientos hacia la izquierda y derecha
   hammer.on("swipeleft", function () {
+    moveCardToOtherMazo('descartadas');
     // Muestra el icono de favoritos
     document.getElementById("discard-icon").style.display = "block";
     document.getElementById("icon-overlay").style.display = "block";
@@ -20,9 +21,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
       cardImageElement.classList.add("card-swipe");
       // Lógica para descartar la carta
-      console.log("Descartada");
+      // console.log("Descartada card-swipe-left");
       if (currentCardIndex < cards.length) {
-        currentCardIndex++;
+        //currentCardIndex++;
         discardCount++;
         updateCounts();
         showCard(currentCardIndex);
@@ -31,6 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   hammer.on("swiperight", function () {
+    moveCardToOtherMazo('favoritas');
     // Muestra el icono de favoritos
     document.getElementById("favorite-icon").style.display = "block";
     document.getElementById("icon-overlay").style.display = "block";
@@ -43,9 +45,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
       cardImageElement.classList.add("card-swipe");
       // Lógica para añadir a favoritos
-      console.log("Añadida a favoritos");
+      //console.log("Añadida a favoritos card-swipe-right");
       if (currentCardIndex < cards.length) {
-        currentCardIndex++;
+        //currentCardIndex++;
         favoriteCount++;
         updateCounts();
         showCard(currentCardIndex);

@@ -9,7 +9,7 @@
 </head>
 <body>
     <div id="card-container">
-        <img src="" id="card-image" alt="Magic Card">
+        <img src="images/portadaMTG.jpg" id="card-image" alt="Magic Card">
         <div id="icon-overlay" style="display: none; position: absolute; top: 30%; left: 50%; transform: translate(-30%, -30%); opacity: 0.5;">
             <img src="images/favorite.svg" id="favorite-icon" style="display: none; width: 100px; height: 100px;" />
             <img src="images/discard.svg" id="discard-icon" style="display: none; width: 100px; height: 100px;" />
@@ -18,9 +18,11 @@
     <div id="button-container">
         <!-- Botones de acción -->
         <button id="restart-btn"><img src="images/restart.svg" alt="Restart"></button>
+        <button id="choose-type-btn"><img src="images/choose-type.svg" alt="Choose Type"></button>
+        <button id="main-deck-btn"><img src="images/main-deck.svg" alt="Choose Type"><span id="main-deck-count">0</span></button>
         <button id="discard-btn"><img src="images/discard.svg" alt="Discard"><span id="discard-count">0</span></button>
         <button id="favorite-btn"><img src="images/favorite.svg" alt="Favorite"><span id="favorite-count">0</span></button>
-        <button id="choose-type-btn"><img src="images/choose-type.svg" alt="Choose Type"><span id="choose-type-count">0</span></button>
+        
     </div>
 
     <script src="js/app.js"></script>

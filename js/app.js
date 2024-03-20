@@ -1,5 +1,8 @@
-let currentCardIndex = 0;
-let cards = [];
+let cards = []; // El mazo principal se carga desde el archivo JSON
+let discardedCards = []; // Mazo de cartas descartadas
+let favoriteCards = []; // Mazo de cartas favoritas
+let currentMazo = 'principal'; // Puede ser 'principal', 'descartadas', 'favoritas'
+let currentCardIndex = 0; // Índice de la carta actual en el mazo que se está revisando
 let discardCount = 0;
 let favoriteCount = 0;
 
@@ -42,31 +45,94 @@ function showCard(index) {
     }
 }
 
+// Funciones para mostrar las cartas del mazo actual
+
+function showCardFromCurrentMazo() {
+    let currentCards = getCurrentCards(); // Obtiene el mazo actual
+
+    if (currentCardIndex < currentCards.length) {
+        const card = currentCards[currentCardIndex];
+        document.getElementById('card-image').src = `imagesMTG/${card.id}.png`;
+    } else {
+        document.getElementById('card-image').src = ""; // O una imagen predeterminada
+        alert(`Fin del mazo ${currentMazo}. Cambie de mazo para seguir con su selección o reinicie la aplicación.`);
+    }
+}
+
+function getCurrentCards() {
+    switch(currentMazo) {
+        case 'principal':
+            return cards;
+        case 'descartadas':
+            return discardedCards;
+        case 'favoritas':
+            return favoriteCards;
+    }
+}
+
+
+function moveCardToOtherMazo(targetMazo) {
+    let currentCards = getCurrentCards();
+    if (currentCardIndex < currentCards.length) {
+        const card = currentCards.splice(currentCardIndex, 1)[0]; // Remueve la carta del mazo actual
+
+        // Imprime el nombre de la carta y el mazo destino
+        console.log(`Carta "${card.name}" movida a ${targetMazo === 'descartadas' ? 'descartadas' : 'favoritas'}.`);
+
+        if (targetMazo === 'descartadas') {
+            discardedCards.push(card);
+            //discardCount++; // Asegúrate de incrementar el contador
+        } else if (targetMazo === 'favoritas') {
+            favoriteCards.push(card);
+            //favoriteCount++; // Asegúrate de incrementar el contador
+        }
+        updateCounts(); // Actualiza los contadores
+        showCardFromCurrentMazo(); // Muestra la siguiente carta
+    }
+}
+
+
+
+// Funciones de Control
+
+function printMazoNames() {
+    console.log("Mazo Principal:", cards.map(card => card.name));
+    console.log("Mazo Descartadas:", discardedCards.map(card => card.name));
+    console.log("Mazo Favoritas:", favoriteCards.map(card => card.name));
+}
+
+function verifyTotalCards() {
+    const totalCards = cards.length + discardedCards.length + favoriteCards.length;
+    console.log(`Principal(${cards.length}) + Descartadas(${discardedCards.length}) + Favoritas(${favoriteCards.length}) = ${totalCards}`);
+}
+
+
+
 // Función para actualizar los contadores
 function updateCounts() {
-    document.getElementById('choose-type-count').textContent = cards.length - currentCardIndex;
+    document.getElementById('main-deck-count').textContent = cards.length - currentCardIndex;
     document.getElementById('discard-count').textContent = discardCount;
     document.getElementById('favorite-count').textContent = favoriteCount;
 }
 
-// Evento para el botón de descartar
+
 document.getElementById('discard-btn').addEventListener('click', function() {
-    if (currentCardIndex < cards.length) {
-        currentCardIndex++; // Avanza al siguiente índice
-        discardCount++; // Incrementa el contador de descartes
-        updateCounts(); // Actualiza los contadores
-        showCard(currentCardIndex); // Muestra la siguiente carta
-    }
+    currentMazo = 'descartadas';
+    currentCardIndex = 0;
+    showCardFromCurrentMazo();
 });
 
-// Evento para el botón de favoritos
+
 document.getElementById('favorite-btn').addEventListener('click', function() {
-    if (currentCardIndex < cards.length) {
-        currentCardIndex++; // Avanza al siguiente índice
-        favoriteCount++; // Incrementa el contador de favoritos
-        updateCounts(); // Actualiza los contadores
-        showCard(currentCardIndex); // Muestra la siguiente carta
-    }
+    currentMazo = 'favoritas';
+    currentCardIndex = 0;
+    showCardFromCurrentMazo();
+});
+
+document.getElementById('main-deck-btn').addEventListener('click', function() {
+    currentMazo = 'principal';
+    currentCardIndex = 0;
+    showCardFromCurrentMazo();
 });
 
 // Inicializar la aplicación
