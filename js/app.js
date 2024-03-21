@@ -28,7 +28,21 @@ function resetApp() {
 
 function showCard(index) {
     const cardImageElement = document.getElementById('card-image');
-    const card = cards[index];
+    let mazoActual = [];
+    switch (currentMazo) {
+        case 'principal':
+            mazoActual = cards;
+            break;
+        case 'descartadas':
+            mazoActual = discardedCards;
+            break;
+        case 'favoritas':
+            mazoActual = favoriteCards;
+            break;
+    }
+    const card = mazoActual[index];
+    //const cardImageElement = document.getElementById('card-image');
+    //const card = cards[index];
     if (card) {
         // Temporalmente quita la transición para cambiar la imagen instantáneamente
         cardImageElement.style.transition = 'none';
@@ -110,9 +124,12 @@ function verifyTotalCards() {
 
 // Función para actualizar los contadores
 function updateCounts() {
-    document.getElementById('main-deck-count').textContent = cards.length - currentCardIndex;
-    document.getElementById('discard-count').textContent = discardCount;
-    document.getElementById('favorite-count').textContent = favoriteCount;
+    //document.getElementById('main-deck-count').textContent = cards.length - currentCardIndex;
+    //document.getElementById('discard-count').textContent = discardCount;
+    //document.getElementById('favorite-count').textContent = favoriteCount;
+    document.getElementById('main-deck-count').textContent = cards.length;
+    document.getElementById('discard-count').textContent = discardedCards.length;
+    document.getElementById('favorite-count').textContent = favoriteCards.length;
 }
 
 
@@ -137,3 +154,5 @@ document.getElementById('main-deck-btn').addEventListener('click', function() {
 
 // Inicializar la aplicación
 document.getElementById('restart-btn').addEventListener('click', loadCards);
+
+

@@ -1,6 +1,3 @@
-# Descargamos un mazo de 100
-
-```python
 import requests
 import time
 import json
@@ -27,24 +24,7 @@ for _ in range(100):
         print(f"Se produjo un error: {e}")
 
 # Guardar la lista de cartas en un archivo JSON
-with open("mazo1.json", "w") as archivo:
+with open("mazo2_scryfall.json", "w") as archivo:
     json.dump(cartas, archivo)
 
 print("Se han guardado 100 cartas aleatorias en mazo1.json.")
-```
-
-## Creamos el fichero de mazo
-python3 crea_mazo2_scryfall.py
-
-jq '.[].multiverseid' cards.json
-
-jq '.cards[] | select(.multiverseid != null) | .multiverseid' cards.json > multiverseids.json
-
-jq '.cards[] | select(.name!= null) | .name' cards.json > nombres.txt
-
-
-
-curl -f -O https://api.scryfall.com/cards/multiverse/130550/png/
-
-jq '.[].image_uris.png' mazo1_scryfall.json
-
