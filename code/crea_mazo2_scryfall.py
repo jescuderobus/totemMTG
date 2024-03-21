@@ -27,4 +27,4 @@ for _ in range(100):
 with open("mazo2_scryfall.json", "w") as archivo:
     json.dump(cartas, archivo)
 
-print("Se han guardado 100 cartas aleatorias en mazo1.json.")
+print("Se han guardado 100 cartas aleatorias en mazo2_scryfall.json.")

@@ -1,31 +1,49 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Magic the Gathering App</title>
-    <link rel="stylesheet" href="css/styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8"></script>
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles_index.css">
 </head>
 <body>
-    <div id="card-container">
-        <img src="images/portadaMTG.jpg" id="card-image" alt="Magic Card">
-        <div id="icon-overlay" style="display: none; position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); opacity: 0.5;">
-            <img src="images/favorite.svg" id="favorite-icon" style="display: none; width: 100px; height: 100px;" />
-            <img src="images/discard.svg" id="discard-icon" style="display: none; width: 100px; height: 100px;" />
-        </div>
-    </div>
-    <div id="button-container">
-        <!-- Botones de acción -->
-        <button id="restart-btn"><img src="images/restart.svg" alt="Restart"></button>
-        <button id="choose-type-btn"><img src="images/choose-type.svg" alt="Choose Type"></button>
-        <button id="main-deck-btn"><img src="images/main-deck.svg" alt="Choose Type"><span id="main-deck-count">0</span></button>
-        <button id="discard-btn"><img src="images/discard.svg" alt="Discard"><span id="discard-count">0</span></button>
-        <button id="favorite-btn"><img src="images/favorite.svg" alt="Favorite"><span id="favorite-count">0</span></button>
-        
-    </div>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
 
-    <script src="js/app.js"></script>
-    <script src="js/hammer_config.js"></script>
+<div class="menu">
+  <input type="checkbox" id="toggle" />
+  <label id="show-menu" for="toggle">
+    <div class="btn">
+      <i class="material-icons md-36 toggleBtn menuBtn">menu</i>
+      <i class="material-icons md-36 toggleBtn closeBtn">close</i>
+    </div>
+    <div class="btn">
+        <a href="index_01_swipe.html">
+            <i class="material-icons md-36">Counter_1</i>
+        </a>
+    </div>
+    <div class="btn">
+      <i class="material-icons md-36">photo</i>
+    </div>
+    <div class="btn">
+      <i class="material-icons md-36">music_note</i>
+    </div>
+    <div class="btn">
+      <i class="material-icons md-36">chat_bubble</i>
+    </div>
+    <div class="btn">
+      <i class="material-icons md-36">settings</i>
+    </div>
+    <div class="btn">
+      <i class="material-icons md-36">phone</i>
+    </div>
+    <div class="btn">
+      <i class="material-icons md-36">cloud</i>
+    </div>
+    <div class="btn">
+      <i class="material-icons md-36">videocam</i>
+    </div>
+  </label>
+</div>
 </body>
 </html>
