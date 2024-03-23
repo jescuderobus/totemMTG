@@ -1,0 +1,7 @@
+[
+  {
+    "titulo": "Si quieres saber más visita la Wikipedia",
+    "html": "<iframe src='QR_wikipedia.html' width='320px' height='320px'style='border: 2px solid #03a9f4;'></iframe>",
+    "comentario": "<br/> una pagina web cooperativa en el que tu mism@ puedes aportar tus concimientos."
+  } 
+]

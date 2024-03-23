@@ -2,6 +2,7 @@ const sectors = [
   { color: "#f82", label: "PELÍCULAS" },
   { color: "#0bf", label: "FRASES" },
   { color: "#fb0", label: "ESCENAS" },
+//  { color: "#f82", label: "TRAILERS" },
   { color: "#0fb", label: "LIBROS" },
   { color: "#b0f", label: "NEW♥YORK" },
   { color: "#f0b", label: "EXTRA" },
@@ -124,7 +125,8 @@ function finJugada(resultado) {
   switch (resultado) {
     case "NEW♥YORK":
       document.getElementById("NEW♥YORK").style.display = "block";
-      procesaEscenas();
+      procesaExtra();
+      //procesaEscenas();
       break;
     case "FRASES":
       document.getElementById("FRASES").style.display = "block";

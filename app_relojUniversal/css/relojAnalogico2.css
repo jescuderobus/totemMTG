@@ -1,0 +1,100 @@
+.clock {
+  width: 30rem;
+  height: 30rem;
+  border: 7px solid #DDDDDD;
+  box-shadow: -4px -4px 10px rgba(220,220,220,0.5),
+              inset 4px 4px 10px rgba(240,240,240,0.5),
+              inset -4px -4px 10px rgba(220,220,220,0.5),
+              4px 4px 10px rgba(240,240,240,0.3);
+  border-radius: 50%;
+  margin: 50px auto;
+  position: relative;
+  padding: 2rem;
+}
+
+.outer-clock-face {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+  background: #FFFFFF;
+  overflow: hidden;
+}
+
+.outer-clock-face::after {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.outer-clock-face::before,
+.outer-clock-face::after,
+.outer-clock-face .marking {
+  content: '';
+  position: absolute;
+  width: 5px;
+  height: 100%;
+  background: #333333;
+  z-index: 0;
+  left: 49%;
+}
+
+.outer-clock-face .marking {
+  background: #606060;
+  width: 3px;
+}
+
+/* Ajustes específicos para cada marca horaria */
+.outer-clock-face .marking.marking-one { transform: rotate(30deg); }
+.outer-clock-face .marking.marking-two { transform: rotate(60deg); }
+.outer-clock-face .marking.marking-three { transform: rotate(90deg); } /* Corrección para las 3 horas */
+.outer-clock-face .marking.marking-four { transform: rotate(120deg); }
+.outer-clock-face .marking.marking-five { transform: rotate(150deg); }
+.outer-clock-face .marking.marking-six { transform: rotate(180deg); } /* Añadido para las 6 horas */
+.outer-clock-face .marking.marking-seven { transform: rotate(210deg); } /* Añadido para las 7 horas */
+.outer-clock-face .marking.marking-eight { transform: rotate(240deg); }
+.outer-clock-face .marking.marking-nine { transform: rotate(270deg); } /* Añadido para las 9 horas */
+.outer-clock-face .marking.marking-ten { transform: rotate(300deg); }
+.outer-clock-face .marking.marking-eleven { transform: rotate(330deg); }
+
+.inner-clock-face {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 80%;
+  height: 80%;
+  background: #F0F0F0;
+  border-radius: 100%;
+  z-index: 1;
+}
+
+.inner-clock-face::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 16px;
+  height: 16px;
+  border-radius: 18px;
+  margin-left: -8px;
+  margin-top: -8px;
+  background: #A5A5A5;
+  z-index: 11;
+}
+
+.hand {
+  width: 50%;
+  right: 50%;
+  height: 6px;
+  background: #000000;
+  position: absolute;
+  top: 50%;
+  border-radius: 6px;
+  transform-origin: 100%;
+  transform: rotate(90deg);
+  transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+}
+
+.hand.hour-hand { width: 30%; z-index: 3; }
+.hand.min-hand { height: 3px; z-index: 10; width: 40%; }
+.hand.second-hand { background: #D63031; width: 45%; height: 2px; }

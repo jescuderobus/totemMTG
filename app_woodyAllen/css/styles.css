@@ -54,7 +54,9 @@ div{
     text-align: right;
 }
 
-.extraHtml{
+.extraHtmlPlus{
     max-height: 400px; 
     overflow-y: auto;
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
 }

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="js/qrcode.min.js"></script>
+</head>
+<body>
+
+    <div id="qrcode"></div>
+    <script type="text/javascript">
+        // Crear el segundo QRCode con texto
+        new QRCode(document.getElementById("qrcode"), {
+            text: "https://es.wikipedia.org/wiki/Woody_Allen",
+            width: 300,
+            height: 300,
+            colorDark : "#000000",
+            colorLight : "#ffffff",
+            correctLevel : QRCode.CorrectLevel.H
+        });
+    </script>
+</body>
+</html>

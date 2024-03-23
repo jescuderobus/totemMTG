@@ -3,45 +3,48 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Portátiles en Cartuja</title>
+    <title>aquí el más tonto hace relojes</title>
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
     />
-
-    <style>
-      body {
-        background-color: #212121;
-      }
-      main {
-        padding-top: 1.5em;
-      }
-    </style>
+    <link rel="stylesheet" href="css/stylesMain.css" />
+    <!--<link rel="stylesheet" href="css/relojAnalogico0.css" /> -->
+    <link rel="stylesheet" href="css/relojAnalogico1.css" />
+    
   </head>
   <body>
     <header>
-      <span
-        style="
-          position: absolute;
-          top: 0;
-          left: 0;
-          padding: 2px;
-          padding-bottom: 1em;
-        "
-      >
+      <span>
         <a href="javascript:history.back()">
-          <span
-            class="mdi mdi-backburger"
-            style="
-              font-size: 2em;
-              color: #03a9f4;
-              text-shadow: 2px 2px 4px #555;
-            "
-          ></span>
+          <span class="mdi mdi-backburger backburger"></span>
         </a>
       </span>
+      <span class="appSubtitle">
+        aquí el más tonto hace relojes&nbsp;
+        <img src="images/clock2-svgrepo-com.svg" width="50px" alt="" />
+      </span>
     </header>
-    <main></main>
-    <footer></footer>
+    <main>
+      
+      <div class="clock">
+        <div class="outer-clock-face">
+          <div class="marking marking-one"></div>
+          <div class="marking marking-two"></div>
+          <div class="marking marking-three"></div>
+          <div class="marking marking-four"></div>
+          <div class="inner-clock-face">
+            <div class="hand hour-hand"></div>
+            <div class="hand min-hand"></div>
+            <div class="hand second-hand"></div>
+          </div>
+        </div>
+      </div>
+      <script src="js/relojAnalogico0.js"></script>
+    </main>
+    <footer>
+      <div class="relojDigital0"></div>
+      <script src="js/relojDigital0.js"></script>
+    </footer>
   </body>
 </html>
