@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exposición Woody Allen</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    />
+    <link rel="stylesheet" href="css/wheelOfFortune.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+
+    <style>
+      body {
+        background-color: #212121;
+      }
+      main {
+        padding-top: 1.5em;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <span
+        style="
+          position: absolute;
+          top: 0;
+          left: 0;
+          padding: 2px;
+          padding-bottom: 1em;
+        "
+      >
+        <a href="javascript:history.back()">
+          <span
+            class="mdi mdi-backburger"
+            style="
+              font-size: 2em;
+              color: #03a9f4;
+              text-shadow: 2px 2px 4px #555;
+            "
+          ></span>
+        </a>
+      </span>
+      <span style="position: absolute; right: 0px; top:0px; 
+      padding-right: 10px; 
+      z-index: 5;
+      display: flex; 
+      align-items: center;
+      font-size: 2em;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      color:#03a9f4;
+      ">
+        Woody Allen&nbsp;
+        <img
+        src="images/noun-woody-allen-03a9f4.svg"
+        width="50px"
+        alt=""
+      />
+      </span>
+
+    </header>
+    <main>
+      <!-- https://jamesrwilliams.ca/posts/css-wheel-of-fortune (Necesita SCSS) -->
+      <!-- https://codepen.io/jamesrwilliams/pen/LYExEmY -->
+      <!--https://cssgrid-generator.netlify.app/-->
+
+      <div class="parent">
+        <div class="div1">
+          <div id="wheelOfFortune">
+            <canvas id="wheel" width="300" height="300"></canvas>
+            <div id="spin">⟳</div>
+          </div>
+          <script src="js/wheelOfFortune.js"></script>
+        </div>
+        <div class="div2">
+          <div id="resultWheelOfFortune">
+            <div id="NEW♥YORK" style="color:#eee;display:none;">
+              <img src="images/new-york-panoramic-buildings-silhouette-svgrepo-com.svg" width="180px" alt="">
+              <div>NEW YORK</div>
+            </div>
+            <div id="FRASES" style="color:#eee;display:none;">
+              <img src="images/brain-14-svgrepo-com.svg" width="180px" alt="">
+              <div>FRASES</div>
+            </div>
+            <div id="ESCENAS" style="color:#eee;display:none;">
+              <img src="images/cinema-clapper-director-scene-movie-svgrepo-com.svg" width="180px" alt="">
+              <div>ESCENAS</div>
+            </div>
+            <div id="LIBROS" style="color:#eee;display:none;">
+              <img src="images/book-svgrepo-com.svg" width="180px" alt="">
+              <div>LIBROS</div>
+            </div>
+            <div id="PELÍCULAS" style="color:#eee;display:none;">
+              <img src="images/movie-projector-svgrepo-com.svg" width="180px" alt="">
+              <div>PELÍCULAS</div>
+            </div>
+            <div id="EXTRA" style="color:#eee;display:none;">
+              <img src="images/question1-svgrepo-com.svg" width="180px" alt="">
+              <div>EXTRA</div>
+            </div>
+          </div>
+        </div>
+        <div class="div3">
+          <div id="mostrarWoodyAllen">Pulse ⟳ para comenzar ...</div>
+        </div>
+      </div>
+    </main>
+
+    <footer></footer>
+  </body>
+</html>

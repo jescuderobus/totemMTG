@@ -1,0 +1,27 @@
+[
+  {
+    "pelicula": "La última noche de Boris Grushenko (inicio), 1975",
+    "escena": "<iframe width='560' height='315' src='https://www.youtube.com/embed/3mMf0dUa4jk?si=0sdySisJOgMV-Pvx' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+    "comentario": "Originalmente: Love & Death"
+  },
+  {
+    "pelicula": "La última noche de Boris Grushenko (el duelo), 1975",
+    "escena": "<iframe width='560' height='315' src='https://www.youtube.com/embed/s1T1pBAdqxY?si=5xr2V4FyoS3nB6zH' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+    "comentario": "Originalmente: Love & Death"
+  },
+  {
+    "pelicula": "La última noche de Boris Grushenko, 1975",
+    "escena": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rPrCHE_zbdc?si=2fM9h3mV53cTv2PF' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+    "comentario": "Originalmente: Love & Death"
+  },
+  {
+    "pelicula": "Manhattan, 1979",
+    "escena": "<iframe width='560' height='315' src='https://www.youtube.com/embed/7mwZYGcbQCo?si=MCUIWju5VqGcCqgl' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+    "comentario": ""
+  },
+  {
+    "pelicula": "El dormilón, 1979",
+    "escena": "<iframe width='560' height='315' src='https://www.youtube.com/embed/VDC1SUlXuGI?si=8q8CRYExOSjc-oka' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+    "comentario": "En inglés: Sleeper"
+  }
+]
