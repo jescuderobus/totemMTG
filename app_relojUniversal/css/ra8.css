@@ -1,0 +1,27 @@
+.ra8_cc{
+    background-color: #202020;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    margin: 0; /* Reset */
+    padding: 0; /* Reset */
+  }
+  
+  .ra8_clock {
+    height: 50vh;
+    width: 60vh;
+    background-color: #000;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    color: #101010;
+    font: 3vh/5.5vh 'Inconsolata', 'Courier', monospace;
+    letter-spacing: 1vh;
+    /* Right-side padding adjusted for letter spacing at the end of the line */
+    padding: 5vh 5vh 8vh 5vh;
+  }
+  
+  .ra8_always-on,
+  .ra8_on {
+    color: #fff;
+    text-shadow: 0 0 7px rgba(255, 255, 255, 0.8);
+  }

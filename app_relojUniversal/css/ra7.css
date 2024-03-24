@@ -1,0 +1,28 @@
+body {
+    background: #212121;
+  }
+  
+  .ra7_clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -150px;
+    margin-top: -200px;
+    transform: rotate(-90deg);
+    display: inline-block;
+  }
+  .ra7_clock div[class^=ra7_digit] > div {
+    margin: 3px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    transition: background-color 0.15s, box-shadow 0.15s;
+    background-color: #541c27;
+    border-radius: 50px;
+    border: 3px solid rgba(255, 255, 255, 0.05);
+    box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.3);
+  }
+  .ra7_clock div[class^=ra7_digit] > div.on {
+    box-shadow: 0 0 4px 2px #c24760;
+    background-color: #c24760;
+  }
