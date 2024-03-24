@@ -1,0 +1,140 @@
+.ra3_clock {
+    background: #ececec;
+    width: 30rem; /* ajustado de 300px */
+    height: 30rem; /* ajustado de 300px */
+    margin: 5% auto 0; /* Ajusta según sea necesario para centrar */
+    border-radius: 50%;
+    border: 22.4px solid #333; /* 14px * 1.6 */
+    position: relative;
+    box-shadow: 0 3.2vw 6.4vw -1.6vw rgba(0,0,0,0.8);
+    margin: 90px auto;
+    position: relative;
+
+}
+
+.ra3_dot {
+    width: 22.4px; /* 14px * 1.6 */
+    height: 22.4px; /* 14px * 1.6 */
+    border-radius: 50%;
+    background: #ccc;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 10;
+    box-shadow: 0 3.2px 6.4px -1.6px black;
+}
+
+.ra3_hour-hand {
+    position: absolute;
+    z-index: 5;
+    width: 6.4px; /* 4px * 1.6 */
+    height: 104px; /* 65px * 1.6 */
+    background: #333;
+    top: 126.4px; /* 79px * 1.6 */
+    transform-origin: 50% 115.2px; /* 72px * 1.6 */
+    left: 50%;
+    margin-left: -3.2px; /* -2px * 1.6 */
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.ra3_minute-hand {
+    position: absolute;
+    z-index: 6;
+    width: 6.4px; /* 4px * 1.6 */
+    height: 160px; /* 100px * 1.6 */
+    background: #666;
+    top: 73.6px; /* 46px * 1.6 */
+    left: 50%;
+    margin-left: -3.2px; /* -2px * 1.6 */
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    transform-origin: 50% 168px; /* 105px * 1.6 */
+}
+
+.ra3_second-hand {
+    position: absolute;
+    z-index: 7;
+    width: 3.2px; /* 2px * 1.6 */
+    height: 192px; /* 120px * 1.6 */
+    background: gold;
+    top: 41.6px; /* 26px * 1.6 */
+    left: 50%;
+    margin-left: -1.6px; /* -1px * 1.6 */
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    transform-origin: 50% 200px; /* 125px * 1.6 */
+}
+
+.ra3_h3, .ra3_h6, .ra3_h9, .ra3_h12 {
+    display: inline-block;
+    position: absolute;
+    color: #333;
+    font-size: 35.2px; /* 22px * 1.6 */
+    font-family: 'Poiret One';
+    font-weight: 700;
+    z-index: 4;
+}
+
+.ra3_h12 {
+    top: 48px; /* 30px * 1.6 */
+    left: 50%;
+    margin-left: -14.4px; /* -9px * 1.6 */
+}
+.ra3_h3 {
+    top: 224px; /* 140px * 1.6 */
+    right: 48px; /* 30px * 1.6 */
+}
+.ra3_h6 {
+    bottom: 48px; /* 30px * 1.6 */
+    left: 50%;
+    margin-left: -8px; /* -5px * 1.6 */
+}
+.ra3_h9 {
+    left: 51.2px; /* 32px * 1.6 */
+    top: 224px; /* 140px * 1.6 */
+}
+
+.ra3_diallines {
+    position: absolute;
+    z-index: 2;
+    width: 3.2px; /* 2px * 1.6 */
+    height: 24px; /* 15px * 1.6 */
+    background: #666;
+    left: 50%;
+    margin-left: -1.6px; /* -1px * 1.6 */
+    transform-origin: 50% 240px; /* 150px * 1.6 */
+}
+.ra3_diallines:nth-of-type(5n) {
+    width: 6.4px; /* 4px * 1.6 */
+    height: 40px; /* 25px * 1.6 */
+}
+
+.ra3_info {
+    position: absolute;
+    width: 192px; /* 120px * 1.6 */
+    height: 32px; /* 20px * 1.6 */
+    border-radius: 11.2px; /* 7px * 1.6 */
+    background: #ccc;
+    text-align: center;
+    line-height: 32px; /* Ajusta para mantener el texto centrado verticalmente */
+    color: #000;
+    font-size: 17.6px; /* 11px * 1.6 */
+    top: 320px; /* 200px * 1.6 */
+    left: 50%;
+    margin-left: -96px; /* -60px * 1.6 */
+    font-family: "Poiret One";
+    font-weight: 700;
+    z-index: 3;
+    letter-spacing: 4.8px; /* 3px * 1.6 */
+}
+.ra3_date {
+    top: 128px; /* 80px * 1.6 */
+}
+.ra3_day {
+    top: 320px; /* 200px * 1.6 */
+}
+

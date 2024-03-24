@@ -1,0 +1,59 @@
+  
+  .ra5_clock {
+    margin: auto;
+    position: relative;
+    display: flex;
+    flex-flow: column wrap;
+    width: 480px;
+    height: 200px;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 300;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14em;
+    
+  }
+  
+  .ra5_block {
+    width: calc(100% / 12);
+    height: 20%;
+    color: #474747;
+    transition: 0.4s;
+  }
+  .ra5_block:not(:nth-child(n+16)):nth-child(n+11), .ra5_block:not(:nth-child(n+46)):nth-child(n+41) {
+    margin-right: 10px;
+  }
+  .ra5_block:not(:nth-child(n+31)):nth-child(n+26) {
+    margin-right: 20px;
+  }
+  .ra5_block:before {
+    content: attr(data-num);
+    position: relative;
+    display: block;
+    font-size: 1.8em;
+    width: 100%;
+    height: 100%;
+    line-height: 20px;
+    text-align: center;
+  }
+  .ra5_block:nth-child(-n+10):before {
+    content: "0" attr(data-num);
+  }
+  .ra5_block.active:before {
+    color: whitesmoke;
+    font-weight: 500;
+  }
+  .ra5_block.second:before {
+    color: #FF8300;
+  }
+  
+  .ra5_divider {
+    position: absolute;
+    width: 4px;
+    background-color: whitesmoke;
+    height: 60%;
+    top: 20%;
+    left: calc(50% + 19px);
+  }
+  
+  
