@@ -1,0 +1,15 @@
+#ra10_clock_body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: auto;
+    overflow: hidden;
+    max-height: 480px;
+    max-width: 480px;
+    padding-top: 6em;
+  }
+  #ra10_backwards-clock {
+    display: block;
+    background-image: radial-gradient(grey, #212121, #212121);
+  }

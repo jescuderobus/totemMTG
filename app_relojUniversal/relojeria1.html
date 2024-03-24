@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>aquí el más tonto hace relojes</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    />
+    <link rel="stylesheet" href="css/stylesMain.css" />
+    <link rel="stylesheet" href="css/ra0.css" />
+    <link rel="stylesheet" href="css/ra1.css" />
+    <link rel="stylesheet" href="css/ra2.css" />
+    <link rel="stylesheet" href="css/ra3.css" />
+    <link rel="stylesheet" href="css/ra4.css" />
+    <link rel="stylesheet" href="css/ra5.css" />
+    <link rel="stylesheet" href="css/ra6.css" />
+    <link rel="stylesheet" href="css/ra7.css" />
+    <link rel="stylesheet" href="css/ra8.css" />
+    <link rel="stylesheet" href="css/ra9.css" />
+
+    <link rel="stylesheet" href="css/ra15.css" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <span>
+        <a href="javascript:history.back()">
+          <span class="mdi mdi-backburger backburger"></span>
+        </a>
+      </span>
+      <span class="appSubtitle">
+        aquí el más tonto hace relojes&nbsp;
+        <img src="images/clock2-svgrepo-com.svg" width="50px" alt="" />
+      </span>
+    </header>
+
+    <main id="relojActual">
+      <style>
+        #ra10_clock_body {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100vh;
+          margin: auto;
+          overflow: hidden;
+          max-height: 480px;
+          max-width: 480px;
+          padding-top: 6em;
+        }
+        #ra10_backwards-clock {
+          display: block;
+          background-image: radial-gradient(grey, #212121, #212121);
+        }
+      </style>
+      
+      <div id="ra10_clock_body">
+        <canvas id="ra10_backwards-clock"></canvas>
+      </div>
+      
+      <script src="http://www.michalpaszkiewicz.co.uk/clockjs/clock.js"></script>
+      <script>
+        var options = {
+          colour: "yellow",
+          lineWidth: 1,
+          rim: 60,
+          rimColour: "rgba(0,0,0,0.2)",
+          directionCoefficient: -1,
+          markerType: "number",
+          markerColour: "rgba(255,0,0,0.6)",
+          markerSize: 12,
+          centreCircle: true,
+          centreCircleColour: "white",
+        };
+        var blackClock = new clock("ra10_backwards-clock", options);
+        blackClock.start();
+      </script>
+      
+
+
+    </main>
+    <footer>
+      <div class="relojDigital0"></div>
+      <script src="js/relojControllerSinRecarga.js"></script>
+    </footer>
+  </body>
+</html>
