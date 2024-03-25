@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="css/ra7.css" />
     <link rel="stylesheet" href="css/ra8.css" />
     <link rel="stylesheet" href="css/ra9.css" />
+    <link rel="stylesheet" href="css/ra10.css" />
 
     <link rel="stylesheet" href="css/ra15.css" />
 
@@ -38,47 +39,11 @@
     </header>
 
     <main id="relojActual">
-      <style>
-        #ra10_clock_body {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          height: 100vh;
-          margin: auto;
-          overflow: hidden;
-          max-height: 480px;
-          max-width: 480px;
-          padding-top: 6em;
-        }
-        #ra10_backwards-clock {
-          display: block;
-          background-image: radial-gradient(grey, #212121, #212121);
-        }
-      </style>
-      
-      <div id="ra10_clock_body">
-        <canvas id="ra10_backwards-clock"></canvas>
-      </div>
-      
-      <script src="http://www.michalpaszkiewicz.co.uk/clockjs/clock.js"></script>
-      <script>
-        var options = {
-          colour: "yellow",
-          lineWidth: 1,
-          rim: 60,
-          rimColour: "rgba(0,0,0,0.2)",
-          directionCoefficient: -1,
-          markerType: "number",
-          markerColour: "rgba(255,0,0,0.6)",
-          markerSize: 12,
-          centreCircle: true,
-          centreCircleColour: "white",
-        };
-        var blackClock = new clock("ra10_backwards-clock", options);
-        blackClock.start();
-      </script>
-      
 
+      
+      <div class='ra8_cc'><div class='ra8_clock'><div class='ra8_row'><span class='ra8_always-on'>I&nbsp;T</span>&nbsp;L&nbsp;<span class='ra8_always-on'>I&nbsp;S</span>&nbsp;B&nbsp;F&nbsp;A&nbsp;M&nbsp;P&nbsp;M</div><div class='ra8_row'><span class='ra8_a'>A</span>&nbsp;C&nbsp;<span class='ra8_quarter'>Q&nbsp;U&nbsp;A&nbsp;R&nbsp;T&nbsp;E&nbsp;R</span>&nbsp;D&nbsp;C</div><div class='ra8_row'><span class='ra8_twenty'>T&nbsp;W&nbsp;E&nbsp;N&nbsp;T&nbsp;Y</span>&nbsp;<span class='ra8_five-min'>F&nbsp;I&nbsp;V&nbsp;E</span>&nbsp;X</div><div class='ra8_row'><span class='ra8_half'>H&nbsp;A&nbsp;L&nbsp;F</span>&nbsp;B&nbsp;<span class='ra8_ten-min'>T&nbsp;E&nbsp;N</span>&nbsp;F&nbsp;<span class='ra8_to'>T&nbsp;O</span></div><div class='ra8_row'><span class='ra8_past'>P&nbsp;A&nbsp;S&nbsp;T</span>&nbsp;E&nbsp;R&nbsp;U&nbsp;<span class='ra8_nine'>N&nbsp;I&nbsp;N&nbsp;E</span></div><div class='ra8_row'><span class='ra8_one'>O&nbsp;N&nbsp;E</span>&nbsp;<span class='ra8_six'>S&nbsp;I&nbsp;X</span>&nbsp;<span class='ra8_three'>T&nbsp;H&nbsp;R&nbsp;E&nbsp;E</div><div class='ra8_row'><span class='ra8_four'>F&nbsp;O&nbsp;U&nbsp;R</span>&nbsp;<span class='ra8_five-hr'>F&nbsp;I&nbsp;V&nbsp;E</span>&nbsp;<span class='ra8_two'>T&nbsp;W&nbsp;O</span></div><div class='ra8_row'><span class='ra8_eight'>E&nbsp;I&nbsp;G&nbsp;H&nbsp;T</span>&nbsp;<span class='ra8_eleven'>E&nbsp;L&nbsp;E&nbsp;V&nbsp;E&nbsp;N</span></div><div class='ra8_row'><span class='ra8_seven'>S&nbsp;E&nbsp;V&nbsp;E&nbsp;N</span>&nbsp;<span class='ra8_twelve'>T&nbsp;W&nbsp;E&nbsp;L&nbsp;V&nbsp;E</span></div><div class='ra8_row'><span class='ra8_ten-hr'>T&nbsp;E&nbsp;N</span>&nbsp;S&nbsp;E&nbsp;<span class='ra8_oclock'>O&rsquo;C&nbsp;L&nbsp;O&nbsp;C&nbsp;K</span></div></div></div>
+      
+<script src="js/ra8.js"></script>
 
     </main>
     <footer>

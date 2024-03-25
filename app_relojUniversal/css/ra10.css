@@ -1,13 +1,8 @@
 #ra10_clock_body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: auto;
-    overflow: hidden;
-    max-height: 480px;
-    max-width: 480px;
-    padding-top: 6em;
+    display: block;
+    max-height: 500px;
+    max-width: 500px;
+    padding: 1em;
   }
   #ra10_backwards-clock {
     display: block;

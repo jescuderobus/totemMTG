@@ -3,21 +3,18 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 70vh;
-    margin: 0; /* Reset */
-    padding: 0; /* Reset */
   }
   
   .ra8_clock {
-    height: 50vh;
-    width: 60vh;
+    height: 46vh;
+    width: 46vh;
     background-color: #000;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     color: #101010;
-    font: 3vh/5.5vh 'Inconsolata', 'Courier', monospace;
+    font: 2.4vh/4.6vh 'Inconsolata', 'Courier', monospace;
     letter-spacing: 1vh;
     /* Right-side padding adjusted for letter spacing at the end of the line */
-    padding: 5vh 5vh 8vh 5vh;
+    padding: 4vh 8vh 4vh 4vh;
   }
   
   .ra8_always-on,

@@ -1,9 +1,4 @@
-/*
-*, *::after, *::before {
-    box-sizing: border-box;
-  }
-*/
-  
+
 .ra9_clock_body {
     display: flex;
     justify-content: center;
