@@ -12,15 +12,6 @@
     <link rel="stylesheet" href="css/styles.css" />
     <script src="js/qrcode.min.js"></script>
 
-    <style>
-      body {
-        background-color: #212121;
-      }
-      header {
-        padding-top: 1.5em;
-
-      }
-    </style>
   </head>
   <body>
     <header>
@@ -60,23 +51,23 @@
         alt=""
       />
       </span>
-
     </header>
     <main>
       <!-- https://jamesrwilliams.ca/posts/css-wheel-of-fortune (Necesita SCSS) -->
       <!-- https://codepen.io/jamesrwilliams/pen/LYExEmY -->
       <!--https://cssgrid-generator.netlify.app/-->
 
-      <div class="parent">
-        <div class="div1">
+      <div class="wheelOfFortuneANDicon">
+        <div class="wheelOfFortuneCONT">
           <div id="wheelOfFortune">
             <canvas id="wheel" width="300" height="300"></canvas>
             <div id="spin">⟳</div>
           </div>
           <script src="js/wheelOfFortune.js"></script>
         </div>
-        <div class="div2">
-          <div id="resultWheelOfFortune">
+
+        <div class="iconCONT">
+          <div id="icon">
             <div id="NEW♥YORK" style="color:#eee;display:none;">
               <img src="images/new-york-panoramic-buildings-silhouette-svgrepo-com.svg" width="180px" alt="">
               <div>NEW YORK</div>
@@ -103,9 +94,11 @@
             </div>
           </div>
         </div>
-        <div class="div3">
+        
+        </div> <!--End WOF+icon-->
+
+        <div class="contenidoWA">
           <div id="mostrarWoodyAllen">Pulse ⟳ para comenzar ...</div>
-          
         </div>
       </div>
     </main>
