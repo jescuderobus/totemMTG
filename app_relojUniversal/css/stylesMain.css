@@ -27,6 +27,7 @@ main {
 }
 
 footer {
+  display: flex;
   padding:20px;
   height: 20%; /* 30% de la altura total de la página */
   background-color: #212121; /* Color de fondo ejemplo para el footer */
@@ -59,7 +60,7 @@ footer {
 /* Estilos del reloj digital del footer */
 
   .relojDigital0{
-    font-size: 5em;
+    font-size: 6em;
     width: 100%;
     text-align: center;
     color:#03a9f4;
