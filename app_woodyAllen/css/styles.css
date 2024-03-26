@@ -10,7 +10,6 @@ body, html {
   header {
     height: 8%; /* 5% de la altura total de la página */
     background-color: #212121; /* Color de fondo ejemplo para el header */
-    border: 1px solid red;
   }
   
   main {
@@ -21,7 +20,6 @@ body, html {
     justify-content: center; /* Alinea horizontalmente al centro */
     flex-direction: column;
     align-items: center; /* Alinea verticalmente al centro */
-    background:rgba(255,6,8,0.5); /* Color de fondo ejemplo para el main */
   }
   
   footer {
@@ -31,8 +29,6 @@ body, html {
     background-color: #212121; /* Color de fondo ejemplo para el footer */
     justify-content: center; /* Alinea horizontalmente al centro */
     align-items: center; /* Alinea verticalmente al centro */
-    border: 1px solid red;
-    background: rgba(255,255,1,0.5);
   }
   
 
@@ -40,7 +36,6 @@ body, html {
     height: 25%;
     width: 100%;
     padding: 1em;
-    border: 1px solid white;
     display: flex; 
     flex-direction: row;
     width: 100%;
@@ -48,8 +43,7 @@ body, html {
 
 .wheelOfFortuneCONT{
     width: 60%;
-    border: 1px solid white;
-    
+    padding-left: 4em;
 }
 
 #wheelOfFortune{
@@ -59,19 +53,21 @@ body, html {
 
 .iconCONT{
     width: 40%;
+    padding: 1em;
+    padding-right: 4em;
+    padding-top: 2em;
 }
 
 #icon{
     display: flex;
     justify-content:center;
+    padding: 1em;
     padding-top: 4em;
 }
 
 .contenidoWA{
     height: 75%;
-    border: 1px solid yellow;
-    padding: 4px;
-    background: rgba(255,255,1,0.2);
+    padding: 1em;
 }
 
 #mostrarWoodyAllen{
