@@ -1,10 +1,11 @@
 const sectors = [
   { color: "#f82", label: "PELÍCULAS" },
   { color: "#0bf", label: "FRASES" },
-  { color: "#fb0", label: "ESCENAS" },
-//  { color: "#f82", label: "TRAILERS" },
+  { color: "#fb0", label: "ESCENAS" }, // Trailers
   { color: "#0fb", label: "LIBROS" },
-  { color: "#b0f", label: "NEW♥YORK" },
+  { color: "#f82", label: "PELÍCULAS" },
+  { color: "#b0f", label: "NEW♥YORK" }, // Paris, Londres
+  { color: "GREEN", label: "PARTICIPA" },
   { color: "#f0b", label: "EXTRA" },
 ];
 
@@ -109,6 +110,7 @@ function inicioJugada() {
   document.getElementById("LIBROS").style.display = "none";
   document.getElementById("PELÍCULAS").style.display = "none";
   document.getElementById("EXTRA").style.display = "none";
+  document.getElementById("PARTICIPA").style.display = "none";
   document.getElementById("mostrarWoodyAllen").textContent = "";
   alertMostrado = false;
 }
@@ -120,12 +122,13 @@ function finJugada(resultado) {
   document.getElementById("ESCENAS").style.display = "none";
   document.getElementById("LIBROS").style.display = "none";
   document.getElementById("PELÍCULAS").style.display = "none";
+  document.getElementById("PARTICIPA").style.display = "none";
   document.getElementById("EXTRA").style.display = "none";
 
   switch (resultado) {
     case "NEW♥YORK":
       document.getElementById("NEW♥YORK").style.display = "block";
-      procesaExtra();
+      procesaPelicula();
       //procesaEscenas();
       break;
     case "FRASES":
@@ -138,15 +141,19 @@ function finJugada(resultado) {
       break;
     case "LIBROS":
       document.getElementById("LIBROS").style.display = "block";
-      procesaExtra();
+      procesaPelicula();
       break;
     case "PELÍCULAS":
       document.getElementById("PELÍCULAS").style.display = "block";
-      procesaExtra();
+      procesaPelicula();
       break;
     case "EXTRA":
       document.getElementById("EXTRA").style.display = "block";
       procesaExtra();
+      break;
+    case "PARTICIPA":
+      document.getElementById("PARICIPA").style.display = "block";
+      procesaParticipa();
       break;
     default:
       procesaFrases();
@@ -198,23 +205,68 @@ async function procesaEscenas() {
 }
 
 async function procesaExtra() {
-	try {
-	  const response = await fetch("./js/EXTRA.json");
-	  const extra = await response.json();
-  
-	  const indiceAleatorio = Math.floor(Math.random() * extra.length);
-	  const extraElegida = extra[indiceAleatorio];
-  
-	  // Construir la cadena HTML
-	  const html = `
+  try {
+    const response = await fetch("./js/EXTRA.json");
+    const extra = await response.json();
+
+    const indiceAleatorio = Math.floor(Math.random() * extra.length);
+    const extraElegida = extra[indiceAleatorio];
+
+    // Construir la cadena HTML
+    const html = `
 			<h1 class="extraTitulo">${extraElegida.titulo}</h1>
 			<div class="extraHtml">${extraElegida.html}</div>
 			<div class="extraComentario">${extraElegida.comentario}</div>
 		  `;
-  
-	  // Insertar HTML en el DOM, ajusta el selector según sea necesario
-	  document.getElementById("mostrarWoodyAllen").innerHTML = html;
-	} catch (error) {
-	  console.error("Error al cargar el archivo JSON:", error);
-	}
+
+    // Insertar HTML en el DOM, ajusta el selector según sea necesario
+    document.getElementById("mostrarWoodyAllen").innerHTML = html;
+  } catch (error) {
+    console.error("Error al cargar el archivo JSON:", error);
   }
+}
+
+async function procesaPelicula() {
+  try {
+    const response = await fetch("./js/PELÍCULAS.json");
+    const pelicula = await response.json();
+
+    const indiceAleatorio = Math.floor(Math.random() * pelicula.length);
+    const peliculaElegida = pelicula[indiceAleatorio];
+
+    // Construir la cadena HTML
+    const html = `
+        <h1 class="peliculaTitulo">${peliculaElegida.Title}&nbsp;(${peliculaElegida.Year})</h1>
+        <div class="peliculaHtml"><img src="${peliculaElegida.Poster}"></div>
+        <div class="peliculaComentario">${peliculaElegida.Plot}</div>
+        `;
+
+    // Insertar HTML en el DOM, ajusta el selector según sea necesario
+    document.getElementById("mostrarWoodyAllen").innerHTML = html;
+  } catch (error) {
+    console.error("Error al cargar el archivo JSON:", error);
+  }
+}
+
+
+async function procesaParticipa() {
+  try {
+    const response = await fetch("./js/PARTICIPA.json");
+    const participa = await response.json();
+
+    const indiceAleatorio = Math.floor(Math.random() * participa.length);
+    const participaElegida = participa[indiceAleatorio];
+
+    // Construir la cadena HTML
+    const html = `
+        <h1 class="participaTitulo">${participaElegida.Title}&nbsp;(${participaElegida.Year})</h1>
+        <div class="participaHtml"><img src="${participaElegida.Poster}"></div>
+        <div class="participaComentario">${participaElegida.Plot}</div>
+        `;
+
+    // Insertar HTML en el DOM, ajusta el selector según sea necesario
+    document.getElementById("mostrarWoodyAllen").innerHTML = html;
+  } catch (error) {
+    console.error("Error al cargar el archivo JSON:", error);
+  }
+}
