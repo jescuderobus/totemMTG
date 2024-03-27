@@ -65,4 +65,10 @@ window.onclick = function(event) {
 }
 
 
+/* DEBUG */
 
+document.getElementById("resolutionBtn").onclick = function() {
+    var width = window.innerWidth;
+    var height = window.innerHeight;
+    document.getElementById("resolution").innerHTML = "Resolución: " + width + " x " + height;
+  };
