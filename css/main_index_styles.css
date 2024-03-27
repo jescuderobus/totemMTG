@@ -240,3 +240,55 @@ input#toggle:checked ~ #show-menu .btn .closeBtn {
   opacity: 1;
 }
 
+/* Aqui va el css del modal de información */
+
+/* Estilo del fondo oscuro del modal */
+.modal {
+  display: none; /* Oculto por defecto */
+  position: fixed; /* Se queda fijo en el lugar */
+  z-index: 1; /* Se sitúa sobre otros elementos */
+  left: 0;
+  top: 0;
+  width: 100%; /* Anchura completa */
+  height: 100%; /* Altura completa */
+  overflow: auto; /* Habilita scroll si es necesario */
+  background-color: rgb(0,0,0); /* Fondo negro */
+  background-color: rgba(0,0,0,0.1); /* Negro con opacidad */
+}
+
+/* Estilo del contenido del modal */
+.modal-content {
+  background: rgba(0,0,0,0.1);
+  margin: 25% auto; /* 15% desde la parte superior y centrado horizontalmente */
+  border: 2px solid #888;
+  box-shadow: 2px 2px 2px #03a9f4;
+  width: 80%; /* Podrías ajustar esto según prefieras */
+  height: 66%;
+  color: #eceff1;
+}
+
+/* El botón para cerrar el modal */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 4em;
+  font-weight: bold;
+  padding-right: 0.5em;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.circle1 {
+  width: 85px; 
+  height: 85px; 
+  border-radius: 50%; 
+  border: 5px solid yellow; 
+  background-color: transparent; 
+  transform: translate(284px, 308px);
+}
