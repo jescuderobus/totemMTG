@@ -7,3 +7,5 @@ app_relojUniversal
 app_screensaver
 
 
+La resolucion del totem 786x1397
+

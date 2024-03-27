@@ -293,17 +293,6 @@ input#toggle:checked ~ #show-menu .btn .closeBtn {
   transform: translate(284px, 308px);
 }
 
-/* Debug */
-.resolution-display {
-  text-align: center; /* Centra el contenido */
-  margin-top: 10px; /* Espacio en la parte superior */
-}
-
-button {
-  padding: 10px; /* Espacio interior para el botón */
-  margin-bottom: 5px; /* Espacio debajo del botón */
-  cursor: pointer; /* Cursor como puntero para indicar acción */
-}
 
 
 
