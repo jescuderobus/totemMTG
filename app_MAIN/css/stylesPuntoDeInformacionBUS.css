@@ -1,0 +1,130 @@
+/* Aqui va el css del modal de información */
+
+/* Estilo del fondo oscuro del modal */
+.modal {
+  display: none; /* Oculto por defecto */
+  position: fixed; /* Se queda fijo en el lugar */
+  z-index: 1; /* Se sitúa sobre otros elementos */
+  left: 0;
+  top: 0;
+  width: 100%; /* Anchura completa */
+  height: 100%; /* Altura completa */
+  overflow: auto; /* Habilita scroll si es necesario */
+  background-color: rgb(0, 0, 0); /* Fondo negro */
+  background-color: rgba(0, 0, 0, 0.1); /* Negro con opacidad */
+}
+
+/* Estilo del contenido del modal ajustado para usar Flexbox */
+.modal-content {
+  display: flex; /* Usar Flexbox */
+  flex-direction: column; /* Alinear los hijos verticalmente */
+  justify-content: space-between; /* Espacio entre los elementos del inicio y el final */
+  background: rgba(0, 0, 0, 0.1);
+  margin: 25% auto;
+  border: 2px solid rgb(193, 223, 138); /*#888;*/
+  box-shadow: 2px 2px 2px #888;
+  width: 80%;
+  height: 66%;
+  color: #eceff1;
+  padding: 20px; /* Agregar un poco de padding */
+}
+
+/* El botón para cerrar el modal */
+
+.modal-content-title {
+  color: rgb(193, 223, 138); /*#aaa;*/
+  float: left;
+  font-size: 2em;
+  font-weight: bold;
+  padding-left: 0.5em;
+  padding-top: 0.5em;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 4em;
+  font-weight: bold;
+  padding-right: 0.1em;
+}
+
+.close:hover,
+.close:focus {
+  color: rgb(193, 223, 138);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.infoApp {
+  display: flex;
+  flex-direction: column;
+  flex-basis: auto;
+  font-size: 1.5em;
+  text-align: center;
+  color: rgb(193, 223, 138);
+}
+
+.app {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.app1,
+.app2,
+.app3,
+.app4,
+.app5,
+.app6,
+.app7,
+.app8 {
+  position: relative; /* Hace que el posicionamiento absoluto de los círculos sea relativo a estos divs */
+  /* Asegúrate de tener altura y anchura adecuadas o quitar estas restricciones si es necesario */
+}
+
+.circleApp {
+  position: absolute;
+  /* No más transformaciones aquí */
+}
+
+.circleApp {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  border: 5px solid rgb(193, 223, 138);
+  background-color: transparent;
+}
+
+.circle1 {
+  transform: translate(278px, -518px);
+}
+
+.circle2 {
+  transform: translate(378px, -404px);
+}
+
+.circle3 {
+  transform: translate(428px, -368px);
+}
+
+.circle4 {
+  transform: translate(378px, -268px);
+}
+
+.circle5 {
+  transform: translate(278px, -216px);
+}
+
+.circle6 {
+  transform: translate(178px, -268px);
+}
+
+.circle7 {
+  transform: translate(128px, -368px);
+}
+
+.circle8 {
+  transform: translate(178px, -434px);
+}
