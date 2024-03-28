@@ -16,7 +16,7 @@ header {
 
 main {
   padding: 20px;
-  height: 90%; /* 65% de la altura total de la página */
+  height: 60%; /* 65% de la altura total de la página */
   display: flex; /* Habilita flexbox dentro del main */
   justify-content: center; /* Alinea horizontalmente al centro */
   align-items: center; /* Alinea verticalmente al centro */
@@ -27,10 +27,11 @@ main {
 footer {
   display: flex;
   padding: 20px;
-  height: 2%; /* 30% de la altura total de la página */
+  height: 32%; /* 30% de la altura total de la página */
   background-color: #212121; /* Color de fondo ejemplo para el footer */
   justify-content: center; /* Alinea horizontalmente al centro */
   align-items: center; /* Alinea verticalmente al centro */
+
 }
 
 /* Estilos de la barra superior */
