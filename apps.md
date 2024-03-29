@@ -20,8 +20,14 @@ https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fvalencianow.str
 https://booksbymood.com/
 
 # Everyone is John
+https://www.youtube.com/watch?v=URahJkSqQAs&ab_channel=MysteryQuest
+https://jamesproyect.wordpress.com/2016/08/18/guia-de-everyone-is-john-al-espanol/
 https://news.ycombinator.com/item?id=39814079
 
 
+# Dibujos CSS
 https://codepad.co/snippet/darth-vader-css
 
+# Dados
+Atrapados por el azar (Foolish by randomness)
+http://www.dinamaticas.com/dados/
