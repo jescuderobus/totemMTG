@@ -1,0 +1,199 @@
+body {
+  display: block;
+  margin: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  /************************************************************************/
+  font-size: 1em;
+  /*******************************************************************/
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 0.3fr 2.3fr 0.4fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    "header header header header"
+    "page page page page"
+    "footer footer footer footer";
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    "reloj titulo titulo logo"
+    "reloj titulo titulo logo";
+  grid-area: header;
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    "bib bib dia dia"
+    "bib bib dia dia";
+  grid-area: footer;
+}
+
+.logo {
+  grid-area: logo;
+  background-color: #980000;
+  text-align: right;
+  padding: 6px;
+}
+
+.titulo {
+  grid-area: titulo;
+  background-color: #980000;
+  color: white;
+  text-align: center;
+  font-size: 200%;
+  font-weight: bold;
+  padding: 12px;
+}
+
+.reloj {
+  grid-area: reloj;
+  color: white;
+  font-size: 200%;
+  font-weight: bold;
+  background-color: #980000;
+  padding: 12px;
+}
+
+.dia {
+  grid-area: dia;
+  background-color: #980000;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 24px;
+}
+
+.bib {
+  grid-area: bib;
+  background-color: black;
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.page {
+  grid-area: page;
+  z-index: 5;
+  margin-left: 10px;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 10;
+  height: 5.5%;
+}
+
+#header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+  /********************************************************/
+  height: 9%;
+  /**********************************************************/
+  /*height: 7.5%;*/
+}
+
+.wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.page {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  margin-left: 0px;
+  height: 98%;
+}
+
+.foto {
+  width: 100%;
+  height: 100%;
+}
+
+.texto1 {
+  background: rgba(152, 0, 0, 0.9);
+  color: white;
+  position: absolute;
+  left: 10%;
+  /*bottom:25%;*/
+  bottom: 35%;
+  width: 80%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  /*padding: auto;*/
+  /********************************************************/
+  /*padding:10px;*/
+  /******************************************************/
+  text-indent: 40px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  /************************************************************/
+  /*font-size: 60px;*/
+  font-size: 35px;
+  /*****************************************************************/
+}
+.texto2 {
+  background: rgba(155, 155, 155, 0.9);
+  position: absolute;
+  /*top: 75%;*/
+  top: 65%;
+  left: 10%;
+  width: 80%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  /*padding: auto;*/
+  /**************************************************************/
+  /*padding:10px;*/
+  /**************************************************************/
+  text-indent: 40px;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  /***************************************************************/
+  /*font-size: 60px;*/
+  font-size: 45px;
+  /*****************************************************************/
+}
+
+.oculto {
+  opacity: 0;
+}
+
+.tabla-rol {
+  padding: 5px;
+  border-style: solid;
+  background-color: lightgray;
+}
+
+.tabla-def {
+  padding: 5px;
+  border-style: solid;
+  background-color: #eeeeee;
+}

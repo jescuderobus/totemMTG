@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="css/styles.css" />
     <link rel="stylesheet" href="css/cssTabs.css" />
     <link rel="stylesheet" href="css/abueloNieto.css" />
+    <script src="js/qrcode.min.js"></script>
+    
   </head>
   <body>
 
@@ -44,20 +46,64 @@
         <input type="radio" id="tabToggle04" name="tabs" value="4" />
         <label for="tabToggle04">BECAS</label>
         <tab-content>
-          <p>TAB [ <tab-number>01</tab-number> ] content</p>
-          <p>CSS...</p>
+          <h2>Necesitamos conocer tu opinión para mejorar, para ello hacemos encuestas.</h2>
+          <div id="qrcode1" style="display: flex; justify-content: center; align-items: center;padding: 1em;margin:auto; border:1px solid white;background-color: white;"></div>
+          <script type="text/javascript">
+              // Crear el segundo QRCode con texto
+              new QRCode(document.getElementById("qrcode1"), {
+                  text: "https://bib.us.es",
+                  width: 350,
+                  height: 350,
+                  colorDark : "#000000",
+                  colorLight : "#ffffff",
+                  correctLevel : QRCode.CorrectLevel.H
+              });
+          </script>
         </tab-content>
         <tab-content>
-          <p>TAB [ <tab-number>02</tab-number> ] content</p>
-          <p>CSS Grid...</p>
+          <h2>Necesitamos que nos aconsejes si falta algún recurso necesario para tus estudios o tu ocio.</h2>
+          <div id="qrcode2" style="display: flex; justify-content: center; align-items: center;padding: 1em;margin:auto; border:1px solid white;background-color: white;"></div>
+          <script type="text/javascript">
+              // Crear el segundo QRCode con texto
+              new QRCode(document.getElementById("qrcode2"), {
+                  text: "https://fama.us.es",
+                  width: 350,
+                  height: 350,
+                  colorDark : "#000000",
+                  colorLight : "#ffffff",
+                  correctLevel : QRCode.CorrectLevel.H
+              });
+          </script>
         </tab-content>
         <tab-content>
-          <p>TAB [ <tab-number>03</tab-number> ] content</p>
-          <p>CSS Grid is the...</p>
+          <h2>Nos puedes hacer llegar tus sugerencias (y tambien tus quejas, si fuera necesario)</h2>
+          <div id="qrcode3" style="display: flex; justify-content: center; align-items: center;padding: 1em;margin:auto; border:1px solid white;background-color: white;"></div>
+          <script type="text/javascript">
+              // Crear el segundo QRCode con texto
+              new QRCode(document.getElementById("qrcode3"), {
+                  text: "https://exponaus.us.es",
+                  width: 350,
+                  height: 350,
+                  colorDark : "#000000",
+                  colorLight : "#ffffff",
+                  correctLevel : QRCode.CorrectLevel.H
+              });
+          </script>
         </tab-content>
         <tab-content>
-          <p>TAB [ <tab-number>04</tab-number> ] content</p>
-          <p>CSS Grid is the future!</p>
+          <h2>Nos gustaría que empezaras a trabajar con nosotros, para ello cada año tenemos becas de formación.</h2>
+          <div id="qrcode4" style="display: flex; justify-content: center; align-items: center;padding: 1em;margin:auto; border:1px solid white;background-color: white;"></div>
+          <script type="text/javascript">
+              // Crear el segundo QRCode con texto
+              new QRCode(document.getElementById("qrcode4"), {
+                  text: "https://bib.us.es/noticias/convocatoria-2024-de-becas-de-formacion",
+                  width: 350,
+                  height: 350,
+                  colorDark : "#000000",
+                  colorLight : "#ffffff",
+                  correctLevel : QRCode.CorrectLevel.H
+              });
+          </script>
         </tab-content>
       </tab-container>
 
@@ -147,5 +193,6 @@
       </div>
       <div class="creator">Created by Manz.dev on twitch</div>
     </footer>
+    
   </body>
 </html>

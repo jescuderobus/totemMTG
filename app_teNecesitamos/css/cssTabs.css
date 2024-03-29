@@ -2,13 +2,13 @@
 	--page-height: 100vh;
 	--page-width: 100vw;
 	--page-margin: 0;
-	--page-padding: 0;
+	--page-padding: 1em;
 	--page-font-family: Calibri, "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
 	--page-text-color: #8e9196;
-	--page-text-color-hover: rgba(255,255,255,1.0);
+	--page-text-color-hover: rgba(3,169,244,1);
 	--page-background-color: #1a1e23;
 	--tab-display: grid;
-	--tab-background-color: rgba(255, 255, 255, 0.03);
+	--tab-background-color: rgba(33, 33, 33, 0.8);
 	--display-none: none;
 	--box-sizing: border-box;
 }
@@ -33,26 +33,38 @@ p {padding: 0 1em;}
 p span {color: var(--page-text-color-hover);}
 */
 
+main {
+    display: flex; /* Asegúrate de que main sea un contenedor flex */
+    flex-direction: column; /* Los hijos se organizan verticalmente */
+    align-items: center; /* Centra los hijos horizontalmente */
+    justify-content: flex-start; /* Alinea los hijos al inicio del contenedor */
+  }
+
 tab-container {
 	display: var(--tab-display);
 	margin-top: 10px;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	grid-template-rows: auto 1fr;
-	border: solid rgba(255,255,255,0.03);
+	border: solid rgba(3,169,244,0.4);
 	border-radius: .5em;
     font-size: 1.4em;
+    background: rgba(200,200,200,0.5);
+    color: #111;
+    padding: 1em;
 }
 /*
 TAB CONTROLS
 Hide radios */
 input {display: none;}
 input:checked + label {
-	color: var(--page-text-color-hover);
+	color: black;
 	background-color: rgba(255,255,255,0.0);
 	transition: all 250ms;
+    font-size: 1.2em;
 }
 label {
 	cursor: pointer;
+    font-weight: bold;
 	transition: color 250ms;
 	padding: 1em;
 	border-right: solid 2px var(--page-background-color);
@@ -64,11 +76,13 @@ label:last-of-type {border: none; }
 label:hover {
 	color: var(--page-text-color-hover);
 	background-color: rgba(255,255,255,0.05);
+    font-weight: bold;
 }
 
 tab-content {
 	display: var(--tab-display);
 	grid-column: 1 / -1;
+    color:#222222;
 }
 /*
 Why doesn't this work!? 

@@ -46,7 +46,7 @@ function showCard(index) {
     if (card) {
         // Temporalmente quita la transición para cambiar la imagen instantáneamente
         cardImageElement.style.transition = 'none';
-        const imageUrl = `imagesMTG/${card.id}.png`; // Construye la URL de la imagen basada en el ID de la carta
+        const imageUrl = `../imagesMTG/${card.id}.png`; // Construye la URL de la imagen basada en el ID de la carta
         cardImageElement.src = imageUrl;
 
         // Restablece la opacidad y la transición después de un breve retraso
@@ -66,7 +66,7 @@ function showCardFromCurrentMazo() {
 
     if (currentCardIndex < currentCards.length) {
         const card = currentCards[currentCardIndex];
-        document.getElementById('card-image').src = `imagesMTG/${card.id}.png`;
+        document.getElementById('card-image').src = `../imagesMTG/${card.id}.png`;
     } else {
         document.getElementById('card-image').src = ""; // O una imagen predeterminada
         alert(`Fin del mazo ${currentMazo}. Cambie de mazo para seguir con su selección o reinicie la aplicación.`);

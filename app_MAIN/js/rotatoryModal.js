@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
     };
 
     // Inicializa la rotación de los elementos
-    setInterval(updateVisibleApp, 10000); // Cambia cada 10 segundos
+    setInterval(updateVisibleApp, 8000); // Cambia cada 10 segundos
 
     // Asegúrate de que el primer elemento está visible inicialmente si es necesario
     apps[currentIndex].classList.add('show');
