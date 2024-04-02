@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // URL del archivo JSON
-    const url = 'https://biblus.us.es/bib2/portatiles/results.json';
+    const url = 'https://biblus.us.es/bib2/portatiles/results.php';
   
     
     // Función para obtener los datos del archivo JSON
