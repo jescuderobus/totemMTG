@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Estamos trabajando en ello ...</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    />
+
+    <link rel="stylesheet" href="css/styles.css" />
+
+    <link rel="stylesheet" href="css/accordion.css" />
+  </head>
+  <body>
+
+      <header>
+        <span>
+          <a href="javascript:history.back()">
+            <span class="mdi mdi-backburger backburger"></span>
+          </a>
+        </span>
+        <span class="appSubtitle">
+          preguntas frecuentes&nbsp;<span
+            class="mdi mdi-frequently-asked-questions faq"
+          ></span>
+        </span>
+      </header>
+
+    <main>
+      <div class="main-accordion">
+      <div class="accordion">
+
+        <article>
+          <input id="article1" type="radio" name="articles" checked/>
+          <label for="article1">
+            <h2>¿Hay portátiles/cargadores de préstamo?</h2>
+          </label>
+          <div>
+            <p>En <big>Comunicación</big> quedan:</p>
+            <ul>
+              <li><span class="portatilesCom">12</span> portátiles.</li>
+              <li><span class="cargaIphoneCom">x</span> cargadores de iPhone.</li>
+              <li><span class="cargaAndroidCom">x</span> cargadores de Android.</li>
+            </ul>
+          </div>
+        </article>
+
+        <article>
+          <input id="article2" type="radio" name="articles"  />
+          <label for="article2">
+            <h2>¿Cuál es el horario de la biblioteca?</h2>
+          </label>
+          <div>
+            De lunes a viernes de 8 a 21h.<br>
+            En festivos y verano tenemos horarios especiales.<br>
+            https://bib.us.es/horarios 
+            <!--/var/www/html/horarios/libraryAC_230705_1800.json-->
+          </div>
+        </article>
+
+
+
+        <article>
+          <input id="article3" type="radio" name="articles" />
+          <label for="article3">
+            <h2>¿Hay salas de trabajo en grupo libres?</h2>
+          </label>
+          <div>
+            https://bib.us.es/reserva_salas          </div>
+        </article>
+
+        <article>
+          <input id="article4" type="radio" name="articles" />
+          <label for="article4">
+            <h2>¿Puedo leer periódicos y revistas?</h2>
+          </label>
+          <div>
+            Busca "Press Reader" en nuestro catalago fama.us.es
+          </div>
+        </article>
+
+        <article>
+          <input id="article6" type="radio" name="articles" />
+          <label for="article6">
+            <h2>nuestra web es &nbsp;https://bib.us.es</h2>
+          </label>
+          <div>
+            Casi cualquier pregunta que tengas sobre los servicios que ofrecemos está allí resuelta.
+          </div>
+        </article>
+<!--
+        <article>
+          <input id="article7" type="radio" name="articles" />
+          <label for="article7">
+            <h2>Tengo que ver una película que no está en ninguna plataforma</h2>
+          </label>
+          <div>
+            Seguro que la puedes encontrar en nuestra videoteca.
+          </div>
+        </article>
+-->
+
+      </div>
+    </div>
+    </main>
+    <footer></footer>
+  </body>
+</html>

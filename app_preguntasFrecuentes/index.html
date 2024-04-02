@@ -12,104 +12,267 @@
     <link rel="stylesheet" href="css/styles.css" />
 
     <link rel="stylesheet" href="css/accordion.css" />
+    <link rel="stylesheet" href="css/existencias.css" />
+
   </head>
   <body>
-
-      <header>
-        <span>
-          <a href="javascript:history.back()">
-            <span class="mdi mdi-backburger backburger"></span>
-          </a>
-        </span>
-        <span class="appSubtitle">
-          preguntas frecuentes&nbsp;<span
-            class="mdi mdi-frequently-asked-questions faq"
-          ></span>
-        </span>
-      </header>
+    
+    <header>
+      <span>
+        <a href="javascript:history.back()">
+          <span class="mdi mdi-backburger backburger"></span>
+        </a>
+      </span>
+      <span class="appSubtitle">
+        preguntas frecuentes&nbsp;<span
+          class="mdi mdi-frequently-asked-questions faq"
+        ></span>
+      </span>
+    </header>
 
     <main>
       <div class="main-accordion">
-      <div class="accordion">
+        <div class="accordion">
+          <article>
+            <input id="article1" type="radio" name="articles" checked />
+            <label for="article1">
+              <h2>¿Hay portátiles/cargadores de préstamo?</h2>
+            </label>
+            <div>
+              <p>En <b>Comunicación</b> quedan:</p>
 
-        <article>
-          <input id="article1" type="radio" name="articles" checked/>
-          <label for="article1">
-            <h2>¿Hay portátiles de préstamo?</h2>
-          </label>
-          <div>
-            <p>En Comunicación quedan <span class="portatilesCom">12</span> portátiles.</p>
-            <p>En Ingenieros quedan <span class="portatilesIng">15</span> portátiles.</p>
-          </div>
-        </article>
-
-        <article>
-          <input id="article2" type="radio" name="articles"  />
-          <label for="article2">
-            <h2>¿Cuál es el horario de la biblioteca?</h2>
-          </label>
-          <div>
-            De lunes a viernes de 8 a 21h.<br>
-            En festivos y verano tenemos horariso especiales.<br>
-            https://bib.us.es/horarios 
-          </div>
-        </article>
-
-
-
-        <article>
-          <input id="article3" type="radio" name="articles" />
-          <label for="article3">
-            <h2>¿Hay cargadores para prestar?</h2>
-          </label>
-          <div>
-            <p>Quedan <span class="cargadorComIphone">8</span> de iPhone y <span class="cargadorComAndroid">8</span> de Android.</p>
-          </div>
-        </article>
-
-        <article>
-          <input id="article4" type="radio" name="articles" />
-          <label for="article4">
-            <h2>¿Puedo leer periódicos y revistas?</h2>
-          </label>
-          <div>
-            Busca "Press Reader" en nuestro catalago fama.us.es
-          </div>
-        </article>
-
-        <article>
-          <input id="article5" type="radio" name="articles" />
-          <label for="article5">
-            <h2>¿Hay salas de trabajo en grupo libres?</h2>
-          </label>
-          <div>
-            https://bib.us.es/reserva_salas
-          </div>
-        </article>
-
-        <article>
-          <input id="article6" type="radio" name="articles" />
-          <label for="article6">
-            <h2>nuestra web es &nbsp;https://bib.us.es</h2>
-          </label>
-          <div>
-            Casi cualquier pregunta que tengas sobre los servicios que ofrecemos está allí resuelta.
-          </div>
-        </article>
-<!--
-        <article>
-          <input id="article7" type="radio" name="articles" />
-          <label for="article7">
-            <h2>Tengo que ver una película que no está en ninguna plataforma</h2>
-          </label>
-          <div>
-            Seguro que la puedes encontrar en nuestra videoteca.
-          </div>
-        </article>
--->
-
-      </div>
+<div class="existencias">
+  <div class="ext portatilesCom"><span id="portatilesCom">x</span></div>
+  <div class="ext cargaIphoneCom">
+    <span id="cargaiPhoneCom">x</span>
+    <div>
+      <img src="images/apple-inc-svgrepo-com.svg" alt="Logo de Apple">
     </div>
+  </div> 
+  <div class="ext cargaAndroidCom"><span id="cargaAndroidCom">x</span>
+    <div>
+      <img src="images/android-svgrepo-com.svg" alt="Logo de Android">
+    </div>
+  </div>
+</div>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <p>En <b>Ingenieros</b> quedan:  <span id="portatilesIng">x</span> / x / x</p>
+          </article>
+
+          <article>
+            <input id="article2" type="radio" name="articles" />
+            <label for="article2">
+              <h2>¿Cuál es el horario de la Biblioteca?</h2>
+            </label>
+            <div>
+              De lunes a viernes de 8 a 21h.<br />
+              En festivos y verano tenemos horarios especiales.<br />
+              https://bib.us.es/horarios
+              <!--/var/www/html/horarios/libraryAC_230705_1800.json-->
+            </div>
+            <div class="horariobib">
+              <link
+                rel="stylesheet"
+                href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+              />
+              <link rel="stylesheet" href="css/styles9.css" />
+              <link
+                href="https://fonts.googleapis.com/css?family=Lato:400,300,700,400italic,700italic,900"
+                rel="stylesheet"
+                type="text/css"
+              />
+
+              <div style="display: none">
+                <button id="prevWeek">
+                  <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                </button>
+                <button id="nextWeek">
+                  <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                </button>
+              </div>
+
+              <!-- Biblioteca de Comunicación Biblioteca-->
+              <div id="COMB" class="horariobib impar">
+                <div class="div1">
+                  <div class="biblioteca"><b>Biblioteca</b> de Comunicación</div>
+                  <!--
+                  <div id="COMB-estadoBiblioteca" class="estadoBiblioteca">
+                    ---
+                  </div>-->
+                </div>
+
+                <div class="div2">
+                  <div class="anterior">
+                    <button id="COMB-prevWeek">
+                      <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                    </button>
+                  </div>
+                  <div id="COMB-muestraSemana" class="eligeSemana">
+                    Semana ??, del ??/?? al ??/??
+                  </div>
+                  <div class="siguiente">
+                    <button id="COMB-nextWeek">
+                      <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="semana">
+                  <div class="dayContainer lunes">
+                    <div id="COMB-dia0-nombre">lun</div>
+                    <div id="COMB-dia0-apertura">8:00</div>
+                    <div id="COMB-dia0-separador">-</div>
+                    <div id="COMB-dia0-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer martes">
+                    <div id="COMB-dia1-nombre">mar</div>
+                    <div id="COMB-dia1-apertura">8:00</div>
+                    <div id="COMB-dia1-separador">-</div>
+                    <div id="COMB-dia1-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer miercoles">
+                    <div id="COMB-dia2-nombre">mié</div>
+                    <div id="COMB-dia2-apertura">8:00</div>
+                    <div id="COMB-dia2-separador">-</div>
+                    <div id="COMB-dia2-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer jueves">
+                    <div id="COMB-dia3-nombre">jue</div>
+                    <div id="COMB-dia3-apertura">8:00</div>
+                    <div id="COMB-dia3-separador">-</div>
+                    <div id="COMB-dia3-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer viernes">
+                    <div id="COMB-dia4-nombre">vie</div>
+                    <div id="COMB-dia4-apertura">8:00</div>
+                    <div id="COMB-dia4-separador">-</div>
+                    <div id="COMB-dia4-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer sabado">
+                    <div id="COMB-dia5-nombre">sab</div>
+                    <div id="COMB-dia5-apertura">-</div>
+                    <div id="COMB-dia5-separador">Cerrado</div>
+                    <div id="COMB-dia5-cierre">-</div>
+                  </div>
+                  <div class="dayContainer domingo">
+                    <div id="COMB-dia6-nombre">dom</div>
+                    <div id="COMB-dia6-apertura">-</div>
+                    <div id="COMB-dia6-separador">Cerrado</div>
+                    <div id="COMB-dia6-cierre">-</div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Biblioteca de Comunicación Videoteca-->
+              <div id="COMV" class="horariobib par">
+                <div class="div1">
+                  <div class="biblioteca"><b>Videoteca</b> de Comunicación</div>
+                  <!--
+                  <div id="COMV-estadoBiblioteca" class="estadoBiblioteca">
+                    ---
+                  </div>-->
+                </div>
+
+                <div class="div2">
+                  <div class="anterior">
+                    <button id="COMV-prevWeek">
+                      <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                    </button>
+                  </div>
+                  <div id="COMV-muestraSemana" class="eligeSemana">
+                    Semana ??, del ??/?? al ??/??
+                  </div>
+                  <div class="siguiente">
+                    <button id="COMV-nextWeek">
+                      <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="semana">
+                  <div class="dayContainer lunes">
+                    <div id="COMV-dia0-nombre">lun</div>
+                    <div id="COMV-dia0-apertura">8:00</div>
+                    <div id="COMV-dia0-separador">-</div>
+                    <div id="COMV-dia0-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer martes">
+                    <div id="COMV-dia1-nombre">mar</div>
+                    <div id="COMV-dia1-apertura">8:00</div>
+                    <div id="COMV-dia1-separador">-</div>
+                    <div id="COMV-dia1-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer miercoles">
+                    <div id="COMV-dia2-nombre">mié</div>
+                    <div id="COMV-dia2-apertura">8:00</div>
+                    <div id="COMV-dia2-separador">-</div>
+                    <div id="COMV-dia2-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer jueves">
+                    <div id="COMV-dia3-nombre">jue</div>
+                    <div id="COMV-dia3-apertura">8:00</div>
+                    <div id="COMV-dia3-separador">-</div>
+                    <div id="COMV-dia3-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer viernes">
+                    <div id="COMV-dia4-nombre">vie</div>
+                    <div id="COMV-dia4-apertura">8:00</div>
+                    <div id="COMV-dia4-separador">-</div>
+                    <div id="COMV-dia4-cierre">21:00</div>
+                  </div>
+                  <div class="dayContainer sabado">
+                    <div id="COMV-dia5-nombre">sab</div>
+                    <div id="COMV-dia5-apertura">-</div>
+                    <div id="COMV-dia5-separador">Cerrado</div>
+                    <div id="COMV-dia5-cierre">-</div>
+                  </div>
+                  <div class="dayContainer domingo">
+                    <div id="COMV-dia6-nombre">dom</div>
+                    <div id="COMV-dia6-apertura">-</div>
+                    <div id="COMV-dia6-separador">Cerrado</div>
+                    <div id="COMV-dia6-cierre">-</div>
+                  </div>
+                </div>
+              </div>
+
+              <script src="js/app9.js"></script>
+              <script>
+                var jsonFile = "js/libraryAC_230705_1800.json";
+              </script>
+            </div>
+          </article>
+
+          <article>
+            <input id="article3" type="radio" name="articles" />
+            <label for="article3">
+              <h2>¿Hay salas de trabajo en grupo libres?</h2>
+            </label>
+            <div>https://biblus.us.es/bib2/estado_salas/BC</div>
+          </article>
+
+          <article>
+            <input id="article4" type="radio" name="articles" />
+            <label for="article4">
+              <h2>¿Puedo leer periódicos y revistas?</h2>
+            </label>
+            <div>Busca "Press Reader" en nuestro catalago fama.us.es</div>
+          </article>
+
+          <article>
+            <input id="article6" type="radio" name="articles" />
+            <label for="article6">
+              <h2>nuestra web es &nbsp;https://bib.us.es</h2>
+            </label>
+            <div>
+              Casi cualquier pregunta que tengas sobre los servicios que
+              ofrecemos está allí resuelta.
+            </div>
+          </article>
+        </div>
+      </div>
     </main>
     <footer></footer>
   </body>
