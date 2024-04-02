@@ -1,3 +1,6 @@
+/* https://biblus.us.es/bib2/portatiles/results.json */
+
+
 .existencias{
     display: flex;
     justify-content: space-around;
@@ -9,7 +12,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 2.5em;
+    font-size: 2.6em;
+    font-weight: bold;
+    
     position: relative;
     display: flex;
     justify-content: center;
