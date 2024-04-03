@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="contenido">
+        <h1 id="titulo"></h1>
+        <img id="cartel" src="">
+        <p id="descripcion"></p>
+        <div id="QR"></div>
+    </div>
+
+    <script>
+// Función asincrónica para obtener el JSON de la API
+async function obtenerPeliculasDeWoodyAllen() {
+  //const url = 'https://expobus.us.es/api/items?property[0][joiner]=and&property[0][property]=dcterms:title&property[0][type]=eq&property[0][text]=Allen,%20Woody,%201935,%20director%20y%20guionista';
+  const url = 'api_omeka_02.json'; // Asegúrate de que esta URL es accesible en el contexto en el que se ejecuta el script
+
+  try {
+    const respuesta = await fetch(url);
+    if (!respuesta.ok) {
+      throw new Error('La solicitud a la API falló');
+    }
+    const data = await respuesta.json();
+    return data;
+  } catch (error) {
+    console.error('Error al obtener datos de la API:', error);
+  }
+}
+
+// Función para obtener la URL grande del thumbnail de la imagen
+async function obtenerThumbnailGrande(mediaId) {
+  const urlMedia = `https://expobus.us.es/api/media/${mediaId}`;
+  try {
+    const respuesta = await fetch(urlMedia);
+    const mediaData = await respuesta.json();
+    return mediaData['o:thumbnail_urls']['large']; // URL del thumbnail grande
+  } catch (error) {
+    console.error('Error al obtener el thumbnail grande:', error);
+    return null; // Devolver null en caso de error para manejo posterior
+  }
+}
+
+// Función principal que une todo
+async function mostrarInformacionPeliculaAleatoria() {
+  const data = await obtenerPeliculasDeWoodyAllen();
+  if (data) {
+    const peliculaAleatoria = seleccionarPeliculaAleatoria(data);
+    const urlThumbnailGrande = await obtenerThumbnailGrande(peliculaAleatoria.mediaId); // Obtener la URL grande del thumbnail
+
+    // Obtener los elementos del DOM por su ID.
+    const tituloEl = document.getElementById('titulo');
+    const cartelEl = document.getElementById('cartel');
+    const descripcionEl = document.getElementById('descripcion');
+    const qrEl = document.getElementById('QR');
+
+    // Asignar los valores a los elementos.
+    tituloEl.innerText = peliculaAleatoria.titulo;
+    cartelEl.src = urlThumbnailGrande || peliculaAleatoria.enlaceCartel; // Usar el thumbnail grande si está disponible
+    descripcionEl.innerText = peliculaAleatoria.descripcion;
+    qrEl.innerText = `Enlace para QR: ${peliculaAleatoria.enlaceQR}`; // Mostrar el enlace directamente
+  } else {
+    console.log('No se pudo obtener datos de la API.');
+  }
+}
+
+// Asegúrate de llamar a `mostrarInformacionPeliculaAleatoria` donde sea apropiado, por ejemplo, después de que la página haya cargado.
+
+
+// Ejecutar la función principal
+mostrarInformacionPeliculaAleatoria()
+
+
+    </script>
+</body>
+</html>
