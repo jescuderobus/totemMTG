@@ -1,104 +1,5 @@
 [
     {
-        "identificador": 4198,
-        "creator": "Woody Allen. Toma el dinero y corre (1969)",
-        "titulo": "Toma el dinero y corre (1969)",
-        "anio": "Año no disponible",
-        "descripcion": "Descripción no disponible",
-        "enlace_permanente": "Enlace no disponible",
-        "omeka_items": "https://expobus.us.es/api/items/4198",
-        "omeka_media": "https://expobus.us.es/api/media/4199",
-        "cartel": ""
-    },
-    {
-        "identificador": 4199,
-        "creator": "Woody Allen. Manhattan (1979) ",
-        "titulo": "Titulo no disponible",
-        "anio": "Año no disponible",
-        "descripcion": "Descripción no disponible",
-        "enlace_permanente": "Enlace no disponible",
-        "omeka_items": "https://expobus.us.es/api/items/4199",
-        "omeka_media": "https://expobus.us.es/api/media/4200",
-        "cartel": ""
-    },
-    {
-        "identificador": 4200,
-        "creator": "Woody Allen. Sueños de un seductor (1972)",
-        "titulo": "Titulo no disponible",
-        "anio": "Año no disponible",
-        "descripcion": "Descripción no disponible",
-        "enlace_permanente": "Enlace no disponible",
-        "omeka_items": "https://expobus.us.es/api/items/4200",
-        "omeka_media": "https://expobus.us.es/api/media/4201",
-        "cartel": ""
-    },
-    {
-        "identificador": 4361,
-        "creator": "El dormilón (1973). Woody Allen",
-        "titulo": "Titulo no disponible",
-        "anio": "Año no disponible",
-        "descripcion": "Descripción no disponible",
-        "enlace_permanente": "Enlace no disponible",
-        "omeka_items": "https://expobus.us.es/api/items/4361",
-        "omeka_media": "https://expobus.us.es/api/media/4362",
-        "cartel": ""
-    },
-    {
-        "identificador": 4364,
-        "creator": "Sueños de un seductor (1972). Woody Allen",
-        "titulo": "Titulo no disponible",
-        "anio": "Año no disponible",
-        "descripcion": "Descripción no disponible",
-        "enlace_permanente": "Enlace no disponible",
-        "omeka_items": "https://expobus.us.es/api/items/4364",
-        "omeka_media": "https://expobus.us.es/api/media/4365",
-        "cartel": ""
-    },
-    {
-        "identificador": 4366,
-        "creator": "Midnight in Paris (2011). Woody Allen",
-        "titulo": "Titulo no disponible",
-        "anio": "Año no disponible",
-        "descripcion": "Descripción no disponible",
-        "enlace_permanente": "Enlace no disponible",
-        "omeka_items": "https://expobus.us.es/api/items/4366",
-        "omeka_media": "https://expobus.us.es/api/media/4367",
-        "cartel": ""
-    },
-    {
-        "identificador": 4778,
-        "creator": "Woody Allen. Midnight in Paris (2011)",
-        "titulo": "Titulo no disponible",
-        "anio": "Año no disponible",
-        "descripcion": "Descripción no disponible",
-        "enlace_permanente": "Enlace no disponible",
-        "omeka_items": "https://expobus.us.es/api/items/4778",
-        "omeka_media": "https://expobus.us.es/api/media/4779",
-        "cartel": ""
-    },
-    {
-        "identificador": 4793,
-        "creator": "Woody Allen. Midnight in Paris (2011)",
-        "titulo": "Titulo no disponible",
-        "anio": "Año no disponible",
-        "descripcion": "Descripción no disponible",
-        "enlace_permanente": "Enlace no disponible",
-        "omeka_items": "https://expobus.us.es/api/items/4793",
-        "omeka_media": "https://expobus.us.es/api/media/4794",
-        "cartel": ""
-    },
-    {
-        "identificador": 5308,
-        "creator": "Woody Allen. Midnight in Paris (2011)",
-        "titulo": "Titulo no disponible",
-        "anio": "Año no disponible",
-        "descripcion": "Descripción no disponible",
-        "enlace_permanente": "Enlace no disponible",
-        "omeka_items": "https://expobus.us.es/api/items/5308",
-        "omeka_media": "https://expobus.us.es/api/media/5309",
-        "cartel": ""
-    },
-    {
         "identificador": 13332,
         "creator": "Allen, Woody, 1935-, director y guionista",
         "titulo": "Broadway Danny Rose",
@@ -107,7 +8,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991004964809704987",
         "omeka_items": "https://expobus.us.es/api/items/13332",
         "omeka_media": "https://expobus.us.es/api/media/13333",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/21c1e30a63f5266c180c5e5fa123247bf1920f95.jpg"
     },
     {
         "identificador": 13334,
@@ -118,7 +19,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/18mroog/alma991004967449704987",
         "omeka_items": "https://expobus.us.es/api/items/13334",
         "omeka_media": "https://expobus.us.es/api/media/13335",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/5aa78d02cdb54b8ffa749bf8735ddc27933f21c0.jpg"
     },
     {
         "identificador": 13336,
@@ -129,7 +30,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005157349704987",
         "omeka_items": "https://expobus.us.es/api/items/13336",
         "omeka_media": "https://expobus.us.es/api/media/13337",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/142d513a194f4d2f1cc068e284ec8310a6493e2a.jpg"
     },
     {
         "identificador": 13338,
@@ -140,7 +41,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991004952089704987",
         "omeka_items": "https://expobus.us.es/api/items/13338",
         "omeka_media": "https://expobus.us.es/api/media/13339",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/316c96a752ebfe4754232ec0d1419d4c243e3b0e.jpg"
     },
     {
         "identificador": 13340,
@@ -151,7 +52,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991004962419704987",
         "omeka_items": "https://expobus.us.es/api/items/13340",
         "omeka_media": "https://expobus.us.es/api/media/13341",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/ab21246939975c1c7074677a0d0ff1e34cbffede.jpg"
     },
     {
         "identificador": 13342,
@@ -162,7 +63,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005172739704987",
         "omeka_items": "https://expobus.us.es/api/items/13342",
         "omeka_media": "https://expobus.us.es/api/media/13343",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/964390cf0c20cff8fdc2ca4e8abc08e76b297ba2.jpg"
     },
     {
         "identificador": 13344,
@@ -173,7 +74,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991004921749704987",
         "omeka_items": "https://expobus.us.es/api/items/13344",
         "omeka_media": "https://expobus.us.es/api/media/13345",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/6c30e05641d7a0f035b8188b61224baee8a0ce7a.jpg"
     },
     {
         "identificador": 13346,
@@ -184,7 +85,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005375649704987",
         "omeka_items": "https://expobus.us.es/api/items/13346",
         "omeka_media": "https://expobus.us.es/api/media/13347",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/83b81a17000c268f9dcbad091b380efc3beb584f.jpg"
     },
     {
         "identificador": 13348,
@@ -195,7 +96,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991004952129704987",
         "omeka_items": "https://expobus.us.es/api/items/13348",
         "omeka_media": "https://expobus.us.es/api/media/13349",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/a9e0429d5e690e77be71222a6d3e0dfab5f1b02c.jpg"
     },
     {
         "identificador": 13350,
@@ -206,7 +107,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991004961829704987",
         "omeka_items": "https://expobus.us.es/api/items/13350",
         "omeka_media": "https://expobus.us.es/api/media/13351",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/38709137fa37c450c97a303cc70ef977d1760f81.jpg"
     },
     {
         "identificador": 13352,
@@ -217,7 +118,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005049899704987",
         "omeka_items": "https://expobus.us.es/api/items/13352",
         "omeka_media": "https://expobus.us.es/api/media/13353",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/1ef03bcce4e101c56821785fc775ea832c554756.jpg"
     },
     {
         "identificador": 13356,
@@ -228,7 +129,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991011056199704987",
         "omeka_items": "https://expobus.us.es/api/items/13356",
         "omeka_media": "https://expobus.us.es/api/media/13357",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/235e7d8e21b63d55c1a917d66801beae7d25ea54.jpg"
     },
     {
         "identificador": 13358,
@@ -239,7 +140,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991010996429704987",
         "omeka_items": "https://expobus.us.es/api/items/13358",
         "omeka_media": "https://expobus.us.es/api/media/13359",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/10c7308939001870ad21aca4ec4fead18276fe9e.jpg"
     },
     {
         "identificador": 13360,
@@ -250,7 +151,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991011013779704987",
         "omeka_items": "https://expobus.us.es/api/items/13360",
         "omeka_media": "https://expobus.us.es/api/media/13361",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/cd226c2debf0610ce0a16b18c0f1f22e0bc0508d.jpg"
     },
     {
         "identificador": 13362,
@@ -261,7 +162,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991011056209704987",
         "omeka_items": "https://expobus.us.es/api/items/13362",
         "omeka_media": "https://expobus.us.es/api/media/13363",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/00b947a4cc2e70a6438cd2c97f8a08de60f48254.jpg"
     },
     {
         "identificador": 13364,
@@ -272,7 +173,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991010979689704987",
         "omeka_items": "https://expobus.us.es/api/items/13364",
         "omeka_media": "https://expobus.us.es/api/media/13365",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/940403e18b2656296f1d000a3cbaa9e70c3bc7f2.jpg"
     },
     {
         "identificador": 13366,
@@ -283,7 +184,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991011056189704987",
         "omeka_items": "https://expobus.us.es/api/items/13366",
         "omeka_media": "https://expobus.us.es/api/media/13367",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/30a11942f2faed260267d4e1be7826f84bca85e8.jpg"
     },
     {
         "identificador": 13368,
@@ -294,7 +195,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991011056299704987",
         "omeka_items": "https://expobus.us.es/api/items/13368",
         "omeka_media": "https://expobus.us.es/api/media/13369",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/2970725c1d7324f7c7d06567274a2a29bf856c95.jpg"
     },
     {
         "identificador": 13370,
@@ -305,7 +206,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005114179704987",
         "omeka_items": "https://expobus.us.es/api/items/13370",
         "omeka_media": "https://expobus.us.es/api/media/13371",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/e9b70621ce7d1acf8bf4383212b8de2e3f4a8ea3.jpg"
     },
     {
         "identificador": 13372,
@@ -316,7 +217,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005556969704987",
         "omeka_items": "https://expobus.us.es/api/items/13372",
         "omeka_media": "https://expobus.us.es/api/media/13373",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/cc02ec116fab8f64aa8f4c28e70f859660068e88.jpg"
     },
     {
         "identificador": 13374,
@@ -327,7 +228,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991008207679704987",
         "omeka_items": "https://expobus.us.es/api/items/13374",
         "omeka_media": "https://expobus.us.es/api/media/13375",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/b27650822df2f8ca4e891952669a9688ffb89793.jpg"
     },
     {
         "identificador": 13382,
@@ -338,7 +239,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991011033219704987",
         "omeka_items": "https://expobus.us.es/api/items/13382",
         "omeka_media": "https://expobus.us.es/api/media/13383",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/b20c05c26cd019e6b6f79b0bce60fa40d992d113.jpg"
     },
     {
         "identificador": 13384,
@@ -349,7 +250,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991009138509704987",
         "omeka_items": "https://expobus.us.es/api/items/13384",
         "omeka_media": "https://expobus.us.es/api/media/13385",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/8a01cd838a848030e929f00582e3b3814651254b.jpg"
     },
     {
         "identificador": 13386,
@@ -360,7 +261,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991007791709704987",
         "omeka_items": "https://expobus.us.es/api/items/13386",
         "omeka_media": "https://expobus.us.es/api/media/13387",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/eb473e332d31b7dcb6c1612b42b370b36fb81dd8.jpg"
     },
     {
         "identificador": 13390,
@@ -371,7 +272,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991008135779704987",
         "omeka_items": "https://expobus.us.es/api/items/13390",
         "omeka_media": "https://expobus.us.es/api/media/13391",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/673d8bafe7f618a12bb6f2f6ceb967a98907269f.jpg"
     },
     {
         "identificador": 13392,
@@ -382,7 +283,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991011856749704987",
         "omeka_items": "https://expobus.us.es/api/items/13392",
         "omeka_media": "https://expobus.us.es/api/media/13393",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/02b011e5cf5260b62ba63fb8f9f4513212202566.jpg"
     },
     {
         "identificador": 13394,
@@ -393,7 +294,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991009080659704987",
         "omeka_items": "https://expobus.us.es/api/items/13394",
         "omeka_media": "https://expobus.us.es/api/media/13395",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/616ad8f0a275d3b59481b3700d31fa6e166c279a.jpg"
     },
     {
         "identificador": 13398,
@@ -404,7 +305,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991006503069704987",
         "omeka_items": "https://expobus.us.es/api/items/13398",
         "omeka_media": "https://expobus.us.es/api/media/13399",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/92e9d89602880896aeaa277165e827a23dead87d.jpg"
     },
     {
         "identificador": 13400,
@@ -415,7 +316,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005016249704987",
         "omeka_items": "https://expobus.us.es/api/items/13400",
         "omeka_media": "https://expobus.us.es/api/media/13401",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/d63eb6e54b1f8805c95b336e785b06868439162d.jpg"
     },
     {
         "identificador": 13402,
@@ -426,7 +327,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991004867129704987",
         "omeka_items": "https://expobus.us.es/api/items/13402",
         "omeka_media": "https://expobus.us.es/api/media/13403",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/8a66b3b857f647b20fb9d7085d27f98caadca779.jpg"
     },
     {
         "identificador": 13404,
@@ -437,7 +338,7 @@
         "enlace_permanente": "Enlace no disponible",
         "omeka_items": "https://expobus.us.es/api/items/13404",
         "omeka_media": "https://expobus.us.es/api/media/13405",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/70d6f13790389e329b95bea7d430bb6fc099dc49.jpg"
     },
     {
         "identificador": 13406,
@@ -448,7 +349,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005376919704987",
         "omeka_items": "https://expobus.us.es/api/items/13406",
         "omeka_media": "https://expobus.us.es/api/media/13407",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/00a8d699af0638d42fbf815704d8b85fd0a0240d.jpg"
     },
     {
         "identificador": 13408,
@@ -459,7 +360,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005210089704987",
         "omeka_items": "https://expobus.us.es/api/items/13408",
         "omeka_media": "https://expobus.us.es/api/media/13409",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/3bb39be83a5ca6a67960b139589ee6f70099894c.jpg"
     },
     {
         "identificador": 13410,
@@ -470,7 +371,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991011655799704987",
         "omeka_items": "https://expobus.us.es/api/items/13410",
         "omeka_media": "https://expobus.us.es/api/media/13411",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/e74a6c119f6007e9cc5bfa3ed86afca03d927271.jpg"
     },
     {
         "identificador": 13412,
@@ -481,7 +382,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005166229704987",
         "omeka_items": "https://expobus.us.es/api/items/13412",
         "omeka_media": "https://expobus.us.es/api/media/13413",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/c953544d4ab1504c21255b703b4d12016576faad.jpg"
     },
     {
         "identificador": 13414,
@@ -492,7 +393,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991011161669704987",
         "omeka_items": "https://expobus.us.es/api/items/13414",
         "omeka_media": "https://expobus.us.es/api/media/13415",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/7f5c6362baf2923293a8944fe63b23dc0e7bbf9f.jpg"
     },
     {
         "identificador": 13416,
@@ -503,7 +404,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991007904049704987",
         "omeka_items": "https://expobus.us.es/api/items/13416",
         "omeka_media": "https://expobus.us.es/api/media/13417",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/83e9e070b9859faf8cd64f41ba700a960797b125.jpg"
     },
     {
         "identificador": 13418,
@@ -514,7 +415,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991005168059704987",
         "omeka_items": "https://expobus.us.es/api/items/13418",
         "omeka_media": "https://expobus.us.es/api/media/13419",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/360f7235d6f5bee93a44957fa4564b0930130b7e.jpg"
     },
     {
         "identificador": 13420,
@@ -525,7 +426,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991012916529704987",
         "omeka_items": "https://expobus.us.es/api/items/13420",
         "omeka_media": "https://expobus.us.es/api/media/13421",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/176d05956438d7e373444e6ca271e0b3904a8f1a.jpg"
     },
     {
         "identificador": 13422,
@@ -536,7 +437,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991009333719704987",
         "omeka_items": "https://expobus.us.es/api/items/13422",
         "omeka_media": "https://expobus.us.es/api/media/13423",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/5f2593c4dbe0f750dff408c015f16ac9b448e214.jpg"
     },
     {
         "identificador": 13424,
@@ -547,7 +448,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991010977059704987",
         "omeka_items": "https://expobus.us.es/api/items/13424",
         "omeka_media": "https://expobus.us.es/api/media/13425",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/708d5235d73f5f3fb250ebbde693795b3d5701fa.jpg"
     },
     {
         "identificador": 13428,
@@ -558,7 +459,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991011727639704987",
         "omeka_items": "https://expobus.us.es/api/items/13428",
         "omeka_media": "https://expobus.us.es/api/media/13429",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/3d2abbba62d4a6c09f12a5bab3ecdccc8e270868.jpg"
     },
     {
         "identificador": 13430,
@@ -569,7 +470,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991012102919704987",
         "omeka_items": "https://expobus.us.es/api/items/13430",
         "omeka_media": "https://expobus.us.es/api/media/13431",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/058ffa8217dc3738536b21d5aad343fb6cc899c1.jpg"
     },
     {
         "identificador": 13432,
@@ -580,7 +481,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991012232439704987",
         "omeka_items": "https://expobus.us.es/api/items/13432",
         "omeka_media": "https://expobus.us.es/api/media/13433",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/04c9443764fbe8a4acd3e3ec2f18742ac0f84ae5.jpg"
     },
     {
         "identificador": 13434,
@@ -591,7 +492,7 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991012445899704987",
         "omeka_items": "https://expobus.us.es/api/items/13434",
         "omeka_media": "https://expobus.us.es/api/media/13435",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/d1222bcd464fb3d74b5ea1e70af769e5fddd270c.jpg"
     },
     {
         "identificador": 13436,
@@ -602,17 +503,6 @@
         "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/3enc2g/alma991013253408304987",
         "omeka_items": "https://expobus.us.es/api/items/13436",
         "omeka_media": "https://expobus.us.es/api/media/13437",
-        "cartel": ""
-    },
-    {
-        "identificador": 13440,
-        "creator": "Woody Allen ",
-        "titulo": "Rentero, Juan Carlos, 1955",
-        "anio": "Madrid : Ediciones JC, 1983",
-        "descripcion": "Woody Allen utiliza su agudo sentido del humor y la sutileza de su ironía para mostrarnos con exquisita sensibilidad un amplio abanico de emociones y sentimientos. Con inusitada energía, propone en cada una de sus películas una manera diferente de adentrarse en la complejidad del comportamiento humano.",
-        "enlace_permanente": "https://fama.us.es/permalink/34CBUA_US/1732veu/alma991002698859704987",
-        "omeka_items": "https://expobus.us.es/api/items/13440",
-        "omeka_media": "https://expobus.us.es/api/media/13441",
-        "cartel": ""
+        "cartel": "https://expobus.us.es/files/original/aeeb2b627a8532c742c70013ac4b90bf94da344b.jpg"
     }
 ]

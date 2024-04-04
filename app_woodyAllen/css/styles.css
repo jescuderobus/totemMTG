@@ -20,6 +20,7 @@ body, html {
     justify-content: center; /* Alinea horizontalmente al centro */
     flex-direction: column;
     align-items: center; /* Alinea verticalmente al centro */
+    
   }
   
   footer {
@@ -34,52 +35,51 @@ body, html {
 
 .wheelOfFortuneANDicon {
     height: 25%;
-    width: 100%;
+    width: 90%;
     padding: 1em;
     display: flex; 
     flex-direction: row;
-    width: 100%;
+
 }
 
 .wheelOfFortuneCONT{
-    width: 60%;
-    padding-left: 4em;
+    width: 20%;
+    padding-left: 2em;
 }
 
-#wheelOfFortune{
-    justify-content: center;
-    align-items: center;
-}
 
 .iconCONT{
     width: 40%;
     padding: 1em;
-    padding-right: 4em;
-    padding-top: 2em;
 }
 
 #icon{
-    display: flex;
-    justify-content:center;
-    padding: 1em;
-    padding-top: 4em;
+position: absolute;
+top: 10em;
+right: 5em;
 }
 
 .contenidoWA{
-    height: 75%;
-    padding: 1em;
-    padding-top: 2em;
+    height: 90%;
+    padding-top: 1em;
 }
 
 #mostrarWoodyAllen{
-    width: auto;
-    margin:1em;
+    width: 90%;
+    margin:auto;
     border-radius: 1em;
     color: #eee;
     padding: 1em;
 
+
 }
 
+#pageQR{
+    border: 10px solid white;
+    position:absolute;
+    bottom: 1em;
+    right: 1em;
+}
 
 /* Estilos de lo añadido */
 
@@ -101,4 +101,8 @@ body, html {
     overflow-y: auto;
     scrollbar-color: rebeccapurple green;
     scrollbar-width: thin;
+}
+
+.peliculaHtml{
+    font-size: 2em;
 }

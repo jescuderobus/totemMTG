@@ -1,3 +1,8 @@
+
+
+
+//----------------------------------------------------------------------------
+
 const sectors = [
   { color: "#f82", label: "PELÍCULAS" },
   { color: "#0bf", label: "FRASES" },
@@ -103,6 +108,8 @@ function init() {
 
 init();
 
+
+
 function inicioJugada() {
   document.getElementById("NEW♥YORK").style.display = "none";
   document.getElementById("FRASES").style.display = "none";
@@ -112,7 +119,6 @@ function inicioJugada() {
   document.getElementById("EXTRA").style.display = "none";
   document.getElementById("PARTICIPA").style.display = "none";
   document.getElementById("mostrarWoodyAllen").textContent = "";
-  alertMostrado = false;
 }
 
 function finJugada(resultado) {
@@ -126,20 +132,20 @@ function finJugada(resultado) {
   document.getElementById("EXTRA").style.display = "none";
 
   switch (resultado) {
-    case "NEW♥YORK":
+    case "aNEW♥YORK":
       document.getElementById("NEW♥YORK").style.display = "block";
       procesaPelicula();
       //procesaEscenas();
       break;
-    case "FRASES":
+    case "aFRASES":
       document.getElementById("FRASES").style.display = "block";
       procesaFrases();
       break;
-    case "ESCENAS":
+    case "aESCENAS":
       document.getElementById("ESCENAS").style.display = "block";
       procesaEscenas();
       break;
-    case "LIBROS":
+    case "aLIBROS":
       document.getElementById("LIBROS").style.display = "block";
       procesaPelicula();
       break;
@@ -147,16 +153,16 @@ function finJugada(resultado) {
       document.getElementById("PELÍCULAS").style.display = "block";
       procesaPelicula();
       break;
-    case "EXTRA":
+    case "aEXTRA":
       document.getElementById("EXTRA").style.display = "block";
       procesaExtra();
       break;
-    case "PARTICIPA":
+    case "aPARTICIPA":
       document.getElementById("PARICIPA").style.display = "block";
       procesaParticipa();
       break;
     default:
-      procesaFrases();
+      procesaPelicula();
   }
 }
 
@@ -228,7 +234,7 @@ async function procesaExtra() {
 
 async function procesaPelicula() {
   try {
-    const response = await fetch("./js/PELÍCULAS.json");
+    const response = await fetch("./js/PELÍCULAS_omeka.json");
     const pelicula = await response.json();
 
     const indiceAleatorio = Math.floor(Math.random() * pelicula.length);
@@ -236,10 +242,25 @@ async function procesaPelicula() {
 
     // Construir la cadena HTML
     const html = `
-        <h1 class="peliculaTitulo">${peliculaElegida.Title}&nbsp;(${peliculaElegida.Year})</h1>
-        <div class="peliculaHtml"><img src="${peliculaElegida.Poster}"></div>
-        <div class="peliculaComentario">${peliculaElegida.Plot}</div>
+        <h1 class="peliculaTitulo">${peliculaElegida.titulo}</h1>
+        <div class="peliculaHtml">
+        <img src="${peliculaElegida.cartel}" width="250px" >
+        ${peliculaElegida.descripcion}
+        </div>
+        
+        <div id="peliculaQR" style="width:250px;height:250px;border:10px solid white;"></div>
+        <script type="text/javascript">
+        new QRCode(document.getElementById("peliculaQR"), {
+          text: "${peliculaElegida.enlace_permanente}",
+          width: 128,
+          height: 128,
+          colorDark : "#000000",
+          colorLight : "#ffffff",
+          correctLevel : QRCode.CorrectLevel.H
+        });
+        </script>
         `;
+
 
     // Insertar HTML en el DOM, ajusta el selector según sea necesario
     document.getElementById("mostrarWoodyAllen").innerHTML = html;
