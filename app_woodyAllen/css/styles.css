@@ -106,3 +106,19 @@ right: 5em;
 .peliculaHtml{
     font-size: 2em;
 }
+
+
+.participaTitulo{
+    font-size: 2em;
+}
+
+.participaMensaje1{
+    color: green;
+    font-size: 1.8em;
+}
+
+.participaMensaje2{
+    color: white;
+    font-size: 3em;
+    
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Manhattan y Caffe Vivaldi sin Atribuciones ni Control de Zoom</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="../css/newYork.css">
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+<h1>Caffe Vivaldi</h1>
+    <div class="newyorkHtml">
+        <div id="mapid"></div> <!-- Mapa colocado aquí -->
+        <div class="carousel" id="carousel"> <!-- Carrusel colocado aquí -->
+            <img src="https://cdn.vox-cdn.com/thumbor/MIeqarbNq92RKxcEKs-xeJNAlNM=/0x0:1000x799/1200x800/filters:focal(420x320:580x480)/cdn.vox-cdn.com/uploads/chorus_image/image/60171173/caffe_vivaldi.0.jpg" alt="Caffe Vivaldi 1" class="active">
+            <img src="https://cdn.cms.prod.nypr.digital/images/aa6d75.2e16d0ba.fill-640x427.format-webp.webpquality-70.webp" alt="Caffe Vivaldi 2">
+            <img src="https://cdn.cms.prod.nypr.digital/images/98fb8a.2e16d0ba.fill-640x427.format-webp.webpquality-70.webp" alt="Caffe Vivaldi 3">
+            <img src="https://media.licdn.com/dms/image/C4E1BAQFF47sv1V-ViQ/company-background_10000/0/1586310354687/caffe_vivaldi_cover?e=2147483647&v=beta&t=_q7qm8HIIv09jPDQDSauVTV7dt3Mj5nok-IcSgnBjRA" alt="Caffe Vivaldi 4">
+        </div>
+    </div>
+    <script>
+        var mymap = L.map('mapid', {
+            center: [40.758, -73.9712],
+            zoom: 12,
+            zoomControl: false, // Desactiva el control de zoom
+            dragging: false, // Deshabilita el arrastre
+            scrollWheelZoom: false, // Deshabilita el zoom con la rueda del mouse
+            doubleClickZoom: false, // Deshabilita el zoom con doble clic
+            boxZoom: false, // Deshabilita el zoom al arrastrar un cuadro
+            touchZoom: false, // Deshabilita el zoom con gestos táctiles
+            keyboard: false // Deshabilita el control con el teclado
+        });
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        }).addTo(mymap);
+
+        var marker = L.marker([40.7338, -74.0030]).addTo(mymap);
+        marker.bindPopup("<b>Caffe Vivaldi</b><br>32 Jones Street").openPopup();
+    </script>
+
+    <script>
+        let current = 0;
+        const images = document.querySelectorAll('#carousel img');
+        const totalImages = images.length;
+
+        setInterval(() => {
+            images[current].classList.remove('active');
+            current = (current + 1) % totalImages;
+            images[current].classList.add('active');
+        }, 10000); // Cambia cada 10 segundos
+    </script>
+</body>
+</html>

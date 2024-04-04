@@ -1,0 +1,15 @@
+[
+    {
+        "site": "Caffe Vivaldi",
+        "openStreetMap_center": "[40.758, -73.9712]",
+        "openStreetMap_site_zoom": "12",
+        "openStreetMap_site_coord": "[40.7338, -74.0030]",
+        "openStreetMap_site": "<b>Caffe Vivaldi</b><br>32 Jones Street",
+        "descripcion": "Larry David se reúne con sus amigos para despotricar sobre el mundo en el Café Vivaldi antes de que irrumpa en su vida Evan Rachel Wood, a la que descubrirá los encantos de la comida judía de Yonah Schimmel y con la que terminará casándose en el Ayuntamiento de la ciudad.",
+        "googleMaps": "https://www.google.com/maps/place/32+Jones+St,+New+York,+NY+10014,+USA/@40.7317446,-74.0055919,16z/data=!3m1!4b1!4m6!3m5!1s0x89c25993a3735033:0x151ce208f6f2b995!8m2!3d40.7317406!4d-74.003017!16s%2Fg%2F11c5n5nf0d?entry=ttu",
+        "image1": "https://cdn.vox-cdn.com/thumbor/MIeqarbNq92RKxcEKs-xeJNAlNM=/0x0:1000x799/1200x800/filters:focal(420x320:580x480)/cdn.vox-cdn.com/uploads/chorus_image/image/60171173/caffe_vivaldi.0.jpg",
+        "image2": "https://cdn.cms.prod.nypr.digital/images/aa6d75.2e16d0ba.fill-640x427.format-webp.webpquality-70.webp",
+        "image3": "https://cdn.cms.prod.nypr.digital/images/98fb8a.2e16d0ba.fill-640x427.format-webp.webpquality-70.webp",
+        "image4": "https://media.licdn.com/dms/image/C4E1BAQFF47sv1V-ViQ/company-background_10000/0/1586310354687/caffe_vivaldi_cover?e=2147483647&v=beta&t=_q7qm8HIIv09jPDQDSauVTV7dt3Mj5nok-IcSgnBjRA"
+    }
+]
