@@ -14,7 +14,7 @@ body, html {
   
   main {
     width:100%;
-    padding: 1em;
+    padding: 1em 0;
     height: 84%; /* 65% de la altura total de la página */
     display: flex; /* Habilita flexbox dentro del main */
     justify-content: center; /* Alinea horizontalmente al centro */
@@ -30,6 +30,10 @@ body, html {
     background-color: #212121; /* Color de fondo ejemplo para el footer */
     justify-content: center; /* Alinea horizontalmente al centro */
     align-items: center; /* Alinea verticalmente al centro */
+  }
+
+  div{
+    border: 1px solid white;
   }
   
 
@@ -70,8 +74,7 @@ right: 5em;
     border-radius: 1em;
     color: #eee;
     padding: 1em;
-
-
+    
 }
 
 #pageQR{
@@ -104,7 +107,8 @@ right: 5em;
 }
 
 .peliculaHtml{
-    font-size: 2em;
+    font-size: 1.6em;
+    overflow-y: auto;
 }
 
 

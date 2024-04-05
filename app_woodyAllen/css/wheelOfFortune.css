@@ -1,9 +1,9 @@
-
+/*
 #wheelOfFortune {
-
   display: inline-block;
   position: relative;
   overflow: hidden;
+  border: 1px solid white;
 }
 
 #wheel {
@@ -38,3 +38,52 @@
   border-bottom-color: currentColor;
   border-top: none;
 }
+*/
+
+#wheelOfFortune {
+  display: inline-flex; /* Cambiado a inline-flex para permitir flexibilidad en el contenedor */
+  justify-content: center; /* Centra los elementos hijos horizontalmente */
+  align-items: center; /* Centra los elementos hijos verticalmente */
+  position: relative;
+  overflow: hidden;
+  width: 300px; /* Asegúrate de que el contenedor tenga dimensiones específicas */
+  height: 300px; /* Asegúrate de que el contenedor tenga dimensiones específicas */
+}
+
+#wheel {
+  position: relative; /* Asegura que el canvas se posicione correctamente dentro del flexbox */
+}
+
+#spin {
+  font: 3em/0 sans-serif;
+  user-select: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute; /* Mantener absolute pero ajustar su posicionamiento */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Ajusta esto para asegurar el centrado */
+  width: 30%;
+  height: 30%;
+  background: #fff;
+  color: white; 
+  box-shadow: 0 0 0 8px currentColor, 0 0px 15px 5px rgba(0, 0, 0, 0.6);
+  border-radius: 50%;
+  transition: 0.8s;
+}
+
+
+
+#spin::after {
+  content: '';
+  position: absolute;
+  top: -17px;
+  border: 10px solid transparent;
+  border-bottom-color: currentColor;
+  border-top: none;
+}
+
+
+
