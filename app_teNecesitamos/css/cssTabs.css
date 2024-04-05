@@ -38,6 +38,7 @@ main {
     flex-direction: column; /* Los hijos se organizan verticalmente */
     align-items: center; /* Centra los hijos horizontalmente */
     justify-content: flex-start; /* Alinea los hijos al inicio del contenedor */
+    margin: 0 2em;
   }
 
 tab-container {

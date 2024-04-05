@@ -88,7 +88,7 @@ right: 5em;
 
 
 .cuerpoFrase{
-    font-size: 2.5em;
+    font-size: 2.6em;
     font-style: oblique;
     text-shadow: 2px 2px 4px #03a9f4;
 
@@ -108,7 +108,10 @@ right: 5em;
 
 .peliculaHtml{
     font-size: 1.6em;
+<<<<<<< HEAD
     overflow-y: auto;
+=======
+>>>>>>> 8c9811580c573c420aeff99852c3f564a4d443fb
 }
 
 

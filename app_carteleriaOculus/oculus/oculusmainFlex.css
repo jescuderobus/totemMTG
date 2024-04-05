@@ -64,9 +64,11 @@ https://bus.us.es/oculus/xcrud/uploads/oculusCOM/
 
 .page {
   height: 84%;
-  background-color: #212121;
-  background-image: url('alas_bus.png');
-  background-size: cover;
+  background-color: white;
+  background-image: url('fondo.png');
+  background-size: cover; /* o 'contain' dependiendo de lo que necesites */
+  background-repeat: no-repeat;
+  background-position: center; /* Esto centrará la imagen en el contenedor */
   z-index: 10;
   /*transition: background-image 0.5s ease-in-out;*/
 }
