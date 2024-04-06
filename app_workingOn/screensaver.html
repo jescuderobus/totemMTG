@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>El tiempo</title>
+  </head>
+
+  <style>
+    body {
+      background: #222;
+      padding: 5vw;
+      position: relative;
+      line-height: 1.5;
+    }
+
+    a {
+      color: tomato;
+    }
+
+    .wrap {
+      width: 70vw;
+      height: 70vh;
+      background: rgba(0, 0, 0, 0.5);
+      position: relative;
+      margin: 0 auto;
+    }
+
+    /* Box sizes */
+    /* boxes */
+    .box-1,
+    .inner-1,
+    .box-2,
+    .inner-2,
+    .box-3,
+    .inner-3 {
+      position: absolute;
+      border-radius: 50%;
+    }
+
+    .inner-1 {
+      background: palegreen;
+    }
+
+    .inner-2 {
+      background: tomato;
+    }
+
+    .inner-3 {
+      background: gold;
+    }
+
+    /* box-1 */
+    .box-1 {
+      width: 60px;
+      height: 60px;
+      -webkit-animation: box-1x 27s linear infinite alternate;
+      animation: box-1x 27s linear infinite alternate;
+    }
+
+    .inner-1 {
+      width: 60px;
+      height: 60px;
+      -webkit-animation: box-1y 20s linear infinite alternate;
+      animation: box-1y 20s linear infinite alternate;
+    }
+
+    @-webkit-keyframes box-1x {
+      100% {
+        transform: translateX(calc(70vw - 60px));
+      }
+    }
+
+    @keyframes box-1x {
+      100% {
+        transform: translateX(calc(70vw - 60px));
+      }
+    }
+    @-webkit-keyframes box-1y {
+      100% {
+        transform: translateY(calc(70vh - 60px));
+      }
+    }
+    @keyframes box-1y {
+      100% {
+        transform: translateY(calc(70vh - 60px));
+      }
+    }
+    /* Box-2 */
+    .box-2 {
+      width: 40px;
+      height: 40px;
+      -webkit-animation: box-2x 15s linear infinite alternate;
+      animation: box-2x 15s linear infinite alternate;
+    }
+
+    .inner-2 {
+      width: 40px;
+      height: 40px;
+      -webkit-animation: box-2y 77s linear infinite alternate;
+      animation: box-2y 77s linear infinite alternate;
+    }
+
+    @-webkit-keyframes box-2x {
+      100% {
+        transform: translateX(calc(70vw - 40px));
+      }
+    }
+
+    @keyframes box-2x {
+      100% {
+        transform: translateX(calc(70vw - 40px));
+      }
+    }
+    @-webkit-keyframes box-2y {
+      100% {
+        transform: translateY(calc(70vh - 40px));
+      }
+    }
+    @keyframes box-2y {
+      100% {
+        transform: translateY(calc(70vh - 40px));
+      }
+    }
+    /* box-3 */
+    .box-3 {
+      width: 20px;
+      height: 20px;
+      -webkit-animation: box-3x 33s linear infinite alternate;
+      animation: box-3x 33s linear infinite alternate;
+    }
+
+    .inner-3 {
+      width: 20px;
+      height: 20px;
+      -webkit-animation: box-3y 10s linear infinite alternate;
+      animation: box-3y 10s linear infinite alternate;
+    }
+
+    @-webkit-keyframes box-3x {
+      100% {
+        transform: translateX(calc(70vw - 20px));
+      }
+    }
+
+    @keyframes box-3x {
+      100% {
+        transform: translateX(calc(70vw - 20px));
+      }
+    }
+    @-webkit-keyframes box-3y {
+      100% {
+        transform: translateY(calc(70vh - 20px));
+      }
+    }
+    @keyframes box-3y {
+      100% {
+        transform: translateY(calc(70vh - 20px));
+      }
+    }
+    .notes {
+      max-width: 400px;
+      margin: 10vw auto;
+      color: #ccc;
+    }
+  </style>
+  <body>
+    <a href="javascript:history.back()" style="z-index: 1">Volver</a>
+
+    <h1>Screensaver</h1>
+
+    <article class="wrap">
+      <div class="box-1">
+        <div class="inner inner-1"></div>
+      </div>
+      <div class="box-2">
+        <div class="inner inner-2"></div>
+      </div>
+      <div class="box-3">
+        <div class="inner inner-3"></div>
+      </div>
+    </article>
+
+    <article class="notes">
+      <h3>Notes:</h3>
+      <p>
+        The idea for this pen originates from
+        <a href="https://codepen.io/scottkellum/pen/BoZvjR" target="_blank"
+          >a pen by Scott Kelum</a
+        >.
+      </p>
+      <p>
+        Important: Make sure that the background colour is set on the inner
+        element, not the parent!
+      </p>
+      <p>
+        This effect is based on animating the x and y positions of an element
+        and its inner element. If you want to have something animating in some
+        way, for example, a rotating image, or scaling, code in an additional
+        element within the inner element and perform the animation on that.
+      </p>
+      <p>
+        It's possible to play around with the duration of the animation as well
+        as things like easing.
+      </p>
+      <p>
+        There is no real application for this, apart from some kind of screen
+        saver, or perhaps a loading screen. I have used this in a 404 page with
+        a book and it's pages floating around. The primary use is just for fun!
+      </p>
+    </article>
+  </body>
+</html>
