@@ -10,7 +10,6 @@
     />
 
     <link rel="stylesheet" href="css/styles.css" />
-
     <link rel="stylesheet" href="css/accordion.css" />
     <link rel="stylesheet" href="css/existencias.css" />
 
@@ -38,7 +37,8 @@
             <label for="article1">
               <h2>¿Hay portátiles/cargadores de préstamo?</h2>
             </label>
-            <div>
+            <div class="accordion-content">
+            
               <p>En <b>Comunicación</b> quedan:</p>
 
                   <div class="existencias">
@@ -57,9 +57,9 @@
                   </div>
                 </li>
               </ul>
-            </div>
-            <div>
               <p>En <b>Ingenieros</b> quedan:  <span id="portatilesIng">4</span> / 1 / 2</p>
+            </div>
+            
           </article>
 
           <article>
@@ -67,12 +67,12 @@
             <label for="article2">
               <h2>¿Cuál es el horario de la Biblioteca?</h2>
             </label>
-            <div>
+            <div class="accordion-content">
               De lunes a viernes de 8 a 21h.<br />
               En festivos y verano tenemos horarios especiales.<br />
               https://bib.us.es/horarios
               <!--/var/www/html/horarios/libraryAC_230705_1800.json-->
-            </div>
+            
             <div class="horariobib">
               <link
                 rel="stylesheet"
@@ -238,10 +238,11 @@
                 </div>
               </div>
 
-              <script src="js/app9.js"></script>
+              <script src="js/horarios_app9.js"></script>
               <script>
-                var jsonFile = "js/libraryAC_230705_1800.json";
+                var jsonFile = "js/horarios_data.json";
               </script>
+            </div>
             </div>
           </article>
 
@@ -250,7 +251,7 @@
             <label for="article3">
               <h2>¿Hay salas de trabajo en grupo libres?</h2>
             </label>
-            <div>
+            <div class="accordion-content">
               <p>https://biblus.us.es/bib2/estado_salas/BC</p>
               <img src="images/demo_salas.jpg" width="100%" alt="">
               <p>información reportada el martes 2 de abril a las 18:24</p>
@@ -262,7 +263,7 @@
             <label for="article4">
               <h2>¿Puedo leer periódicos y revistas?</h2>
             </label>
-            <div>Busca "Press Reader" en nuestro catalago fama.us.es</div>
+            <div class="accordion-content">Busca "Press Reader" en nuestro catalago fama.us.es</div>
           </article>
 
           <article>
@@ -270,7 +271,7 @@
             <label for="article6">
               <h2>nuestra web es &nbsp;https://bib.us.es</h2>
             </label>
-            <div>
+            <div class="accordion-content">
               Casi cualquier pregunta que tengas sobre los servicios que
               ofrecemos está allí resuelta.
             </div>
@@ -280,5 +281,6 @@
     </main>
     <footer></footer>
     <script src="js/consultaPortatiles.js"></script>
+    <script src="js/javascript_accordion.js"></script>
   </body>
 </html>
