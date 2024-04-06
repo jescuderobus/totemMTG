@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exposición Woody Allen</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="css/styles.css" />
+
+    <script src="js/qrcode.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <span
+        style="
+          position: absolute;
+          top: 0;
+          left: 0;
+          padding: 2px;
+          padding-bottom: 1em;
+        "
+      >
+        <a href="javascript:history.back()">
+          <span
+            class="mdi mdi-backburger"
+            style="
+              font-size: 2em;
+              color: #03a9f4;
+              text-shadow: 2px 2px 4px #555;
+            "
+          ></span>
+        </a>
+      </span>
+      <span
+        style="
+          position: absolute;
+          right: 0px;
+          top: 0px;
+          padding-right: 10px;
+          z-index: 5;
+          display: flex;
+          align-items: center;
+          font-size: 2em;
+          font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+            Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+            sans-serif;
+          color: #03a9f4;
+        "
+      >
+        23 de Abril de 2024&nbsp;
+        <img
+          src="images/dragon-1-svgrepo-com.svg"
+          width="50px"
+          alt=""
+        />
+      </span>
+    </header>
+    <main>
+      <div class="mainArriba">
+        <div class="postcardFront"></div>
+      </div>
+
+
+      <div class="mainEnmedio">
+
+        <form class="postcardBack" action="">
+          <div class="receiver absolute">
+            <label for="r-name" >Para: </label>
+            <input type="text" name="receiver-name" placeholder="San Jorge">
+          </div>
+          <div class="sender absolute">
+            <label for="s-name" >De: </label>
+            <input type="text" name="sender-name" placeholder="la dragona herida">
+          </div>
+          <div class="reply absolute">
+            <label for="t-reply" >correo: </label>
+            <input type="text" name="reply-text" placeholder="correoDestinatario@us.es">
+          </div>
+          <div class="message absolute">
+            <label for="t-message" >Tu mensaje: </label>
+            <br>
+            <textarea name="message" rows="12" cols="40" placeholder="Hay una cosa que te quiero decir, que es importante al menos para mí."></textarea>
+          </div>
+          <div class="send-btn absolute">
+            <button type="submit" name="button">Envia tu mensaje >>></button>
+          </div>
+        </form>
+
+      </div>
+
+    </main>
+
+    <footer>
+      <div id="pageQR">
+        <script>
+          var qrcode = new QRCode("pageQR", {
+            text: "https://www.alibrate.com/libros-dominio-publico?_escaped_next_=1",
+            width: 150,
+            height: 150,
+            colorDark: "#000000",
+            colorLight: "#ffffff",
+            correctLevel: QRCode.CorrectLevel.H,
+          });
+        </script>
+      </div>
+    </footer>
+  </body>
+</html>

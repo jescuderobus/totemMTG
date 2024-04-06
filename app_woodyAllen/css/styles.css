@@ -8,32 +8,33 @@ body, html {
   }
   
   header {
-    height: 8%; /* 5% de la altura total de la página */
+    height: 5%; /* 5% de la altura total de la página */
     background-color: #212121; /* Color de fondo ejemplo para el header */
   }
   
   main {
     width:100%;
     padding: 1em 0;
-    height: 84%; /* 65% de la altura total de la página */
+    height: 94%; /* 65% de la altura total de la página */
     display: flex; /* Habilita flexbox dentro del main */
     justify-content: center; /* Alinea horizontalmente al centro */
     flex-direction: column;
     align-items: center; /* Alinea verticalmente al centro */
+
     
   }
   
   footer {
     display: flex;
     padding:20px;
-    height: 8%; /* 30% de la altura total de la página */
+    height: 1%; /* 30% de la altura total de la página */
     background-color: #212121; /* Color de fondo ejemplo para el footer */
     justify-content: center; /* Alinea horizontalmente al centro */
     align-items: center; /* Alinea verticalmente al centro */
   }
 
   div{
-    border: 1px solid white;
+   /* border: 1px solid white;*/
   }
   
 
@@ -108,10 +109,7 @@ right: 5em;
 
 .peliculaHtml{
     font-size: 1.6em;
-<<<<<<< HEAD
     overflow-y: auto;
-=======
->>>>>>> 8c9811580c573c420aeff99852c3f564a4d443fb
 }
 
 

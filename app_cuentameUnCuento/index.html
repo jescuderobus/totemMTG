@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exposición Woody Allen</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    />
+
+    <link rel="stylesheet" href="css/styles.css" />
+
+    <script src="js/qrcode.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <span
+        style="
+          position: absolute;
+          top: 0;
+          left: 0;
+          padding: 2px;
+          padding-bottom: 1em;
+        "
+      >
+        <a href="javascript:history.back()">
+          <span
+            class="mdi mdi-backburger"
+            style="
+              font-size: 2em;
+              color: #03a9f4;
+              text-shadow: 2px 2px 4px #555;
+            "
+          ></span>
+        </a>
+      </span>
+      <span
+        style="
+          position: absolute;
+          right: 0px;
+          top: 0px;
+          padding-right: 10px;
+          z-index: 5;
+          display: flex;
+          align-items: center;
+          font-size: 2em;
+          font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+            Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+            sans-serif;
+          color: #03a9f4;
+        "
+      >
+        cuéntame un cuento&nbsp;
+        <img
+          src="images/story-image-circle-line-svgrepo-com-03a9f4.svg"
+          width="50px"
+          alt=""
+        />
+      </span>
+    </header>
+    <main>
+      <div class="mainArriba">
+        <div class="cuentoDemo">
+          ... las princesas se escaparon <br />
+          por un hueco que existía <br />
+          que las llevo hasta la vía <br />
+          del tren que iba para Italia <br />
+          y en Italia se perdieron <br />
+          y llegaron a Jamaica ...
+        </div>
+        <div class="juglar">
+          <img src="images/juglar.png" alt="" />
+        </div>
+      </div>
+      <!--End WOF+icon-->
+
+      <div class="mainEnmedio">
+        <h1>Dados de historias</h1>
+        <div id="dice-game" class="grid">
+          <!-- Espacios para 9 dados en una cuadrícula 3x3 -->
+          <div class="dice" id="dice1"></div>
+          <div class="dice" id="dice2"></div>
+          <div class="dice" id="dice3"></div>
+          <div class="dice" id="dice4"></div>
+          <div class="dice" id="dice5"></div>
+          <div class="dice" id="dice6"></div>
+          <div class="dice" id="dice7"></div>
+          <div class="dice" id="dice8"></div>
+          <div class="dice" id="dice9"></div>
+        </div>
+
+        <button id="rollDice">Lanza los dados</button>
+        <script src="js/dadosHistorias.js"></script>
+      </div>
+    </main>
+
+    <footer>
+      <div id="pageQR">
+        <script>
+          var qrcode = new QRCode("pageQR", {
+            text: "https://davebirss.com/storydice-creative-story-ideas/",
+            width: 150,
+            height: 150,
+            colorDark: "#000000",
+            colorLight: "#ffffff",
+            correctLevel: QRCode.CorrectLevel.H,
+          });
+        </script>
+      </div>
+    </footer>
+  </body>
+</html>

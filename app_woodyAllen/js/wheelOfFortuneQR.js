@@ -430,3 +430,33 @@ async function procesaNewYork() {
     console.error("Error al cargar el archivo JSON:", error);
   }
 }
+
+
+function spinWithHighFriction() {
+  // Valor local de fricción alto para este giro específico
+  let localFriction = 0.98;
+  // Establece una velocidad angular inicial alta para un giro rápido
+  angVel = rand(0.01, 0.02);
+
+  // Función personalizada para simular el giro con fricción alta
+  function frameWithHighFriction() {
+    if (!angVel) return; // Detiene la animación si la velocidad angular es 0
+    angVel *= localFriction; // Aplica la fricción local
+    if (angVel < 0.002) angVel = 0; // Detiene el giro si la velocidad es muy baja
+
+    ang += angVel; // Actualiza el ángulo de rotación
+    ang %= TAU; // Mantiene el ángulo dentro de un rango de 0 a 2*PI
+    rotate(); // Actualiza la rotación de la ruleta basada en el nuevo ángulo
+
+    // Solicita el próximo frame de animación si aún hay velocidad angular
+    if (angVel > 0) {
+      requestAnimationFrame(frameWithHighFriction);
+    }
+  }
+
+  // Inicia el giro con fricción alta
+  frameWithHighFriction();
+}
+
+
+document.getElementById('rotateButton').addEventListener('click', spinWithHighFriction);

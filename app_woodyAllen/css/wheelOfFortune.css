@@ -85,5 +85,9 @@
   border-top: none;
 }
 
-
+#rotateButton{
+  color:#eee;
+  position: relative;
+  bottom: 28px;
+}
 
