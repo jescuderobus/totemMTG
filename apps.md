@@ -31,3 +31,10 @@ https://codepad.co/snippet/darth-vader-css
 # Dados
 Atrapados por el azar (Foolish by randomness)
 http://www.dinamaticas.com/dados/
+
+
+# Emoji poll
+https://codepen.io/chriscoyier/pen/EKzpwo (Airtable emoji poll)
+https://codepen.io/yamini/pen/QqJgwX
+
+

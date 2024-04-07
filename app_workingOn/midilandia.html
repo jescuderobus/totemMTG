@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>El tiempo</title>
+  </head>
+
+  <style>
+    html,
+    body {
+      background-color: #212121;
+      color: black;
+    }
+
+    h1 {
+      color: aqua;
+    }
+
+    .container {
+      max-width: 300px;
+      width: 100%;
+      margin: 2em auto;
+      transform: scale(2);
+      position: absolute;
+      bottom: 200px;
+      left: 150px;
+    }
+    #XMLID_226_ {
+      animation: draw 10s forwards;
+    }
+
+    @keyframes draw {
+      from {
+      }
+
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+  <body>
+    <a href="javascript:history.back()" style="z-index: 1">Volver</a>
+
+    <div style="font-size: 2em; color: #eee; text-decoration: none">
+      <script
+        type="text/javascript"
+        src="//www.midijs.net/lib/midi.js"
+      ></script>
+      <ul>
+        <li>
+          <a href="#" onClick="MIDIjs.play('./files/jinmeri.mid');"
+            >PLAY - Merry Go Round of Life</a
+          >
+          <a href="#" onClick="MIDIjs.stop();">stop</a>
+        </li>
+        <li>
+          <a href="#" onClick="MIDIjs.play('./files/Arabesque1Debussy.mid');"
+            >PLAY - Arabesque nº 1 Debussy</a
+          >
+          <a href="#" onClick="MIDIjs.stop();">stop</a>
+        </li>
+        <li>
+          <a href="#" onClick="MIDIjs.play('./files/DueloNavajas.mid');"
+            >PLAY - Duelo de Navajas</a
+          >
+          <a href="#" onClick="MIDIjs.stop();">stop</a>
+        </li>
+      </ul>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
+
+    <midi-player
+      src="./files/jinmeri.mid"
+      sound-font
+      visualizer="#myVisualizer"
+    >
+    </midi-player>
+    <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
+
+    
+  </body>
+</html>

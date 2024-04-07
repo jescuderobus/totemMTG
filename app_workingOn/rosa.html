@@ -42,7 +42,20 @@
   <body>
     <a href="javascript:history.back()" style="z-index: 1">Volver</a>
 
-    <h1>Una Rosa</h1>
+    <div style="font-size: 2em; color: #eee; text-decoration: none">
+      <script
+        type="text/javascript"
+        src="//www.midijs.net/lib/midi.js"
+      ></script>
+      <ul>
+        <li>
+          <a href="#" onClick="MIDIjs.play('./files/jinmeri.mid');"
+            >PLAY - Merry Go Round of Life</a
+          >
+          <a href="#" onClick="MIDIjs.stop();">stop</a>
+        </li>
+      </ul>
+    </div>
 
     <div class="container">
       <svg
