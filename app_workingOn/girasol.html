@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>El tiempo</title>
+  </head>
+
+  <style>
+    html,
+    body {
+      background-color: #212121;
+      color: black;
+    }
+
+    h1 {
+      color: aqua;
+    }
+
+    .container {
+      max-width: 300px;
+      width: 100%;
+      margin: 2em auto;
+      transform: scale(2);
+      position: absolute;
+      bottom: 150px;
+      left: 10px;
+    }
+
+  </style>
+  <body>
+    <a href="javascript:history.back()" style="z-index: 1">Volver</a>
+
+    <div style="font-size: 2em; color: #eee; text-decoration: none">
+      <script
+        type="text/javascript"
+        src="//www.midijs.net/lib/midi.js"
+      ></script>
+      <ul>
+        <li>
+          <a href="#" onClick="MIDIjs.play('./files/DueloNavajas.mid');"
+            >PLAY - Duelo de Navajas</a
+          >
+          <a href="#" onClick="MIDIjs.stop();">stop</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <svg viewBox="0 0 500 500" width="500px" height="500px" xmlns="http://www.w3.org/2000/svg"
+     xmlns:bx="https://boxy-svg.com">
+    <style type="text/css"> 
+        #leaf0 #leaf0-0 {
+            animation: animate-leaf-0-1 2s forwards 2s ease-in;
+        }
+
+        #leaf0 #leaf0-1 {
+            animation: animate-leaf-0-0 2s forwards 2s;
+        }
+
+        #leaf1 #leaf0-0 {
+
+            animation: animate-leaf-0-1 2s forwards 3.5s ease-in;
+        }
+
+        #leaf1 #leaf0-1 {
+            animation-delay: 4s;
+            animation: animate-leaf-0-0 2s forwards 3.5s;
+        }
+
+        #leaf2 #leaf0-0 {
+
+            animation: animate-leaf-0-1 2s forwards 5.4s ease-in;
+        }
+
+        #leaf2 #leaf0-1 {
+            animation-delay: 4s;
+            animation: animate-leaf-0-0 2s forwards 5.4s;
+        }
+
+        #leaf3 #leaf0-0 {
+
+            animation: animate-leaf-0-1 2s forwards 7.4s ease-in;
+        }
+
+        #leaf3 #leaf0-1 {
+            animation-delay: 4s;
+            animation: animate-leaf-0-0 2s forwards 7.4s;
+        }
+
+        #vine {
+            stroke-dasharray: 500;
+            stroke-dashoffset: 500;
+            animation: animate-vine 15s forwards;
+        }
+
+        #dot {
+            animation: animate-center-0 5s forwards 13s;
+        }
+
+        #sun {
+            stroke-dasharray: 600;
+            stroke-dashoffset: 600;
+            animation: animate-sun 5s forwards 16s;
+        }
+
+        @keyframes animate-sun {
+            0% {
+                stroke-dashoffset: 600;
+            }
+            80% {
+                stroke-dashoffset: 0;
+                fill-opacity: 0;
+            }
+            100% {
+                stroke-dashoffset: 0;
+                fill-opacity: 1.0;
+            }
+
+        }
+
+        @keyframes animate-center-0 {
+            0% {
+                transform: scale(1.0,);
+                fill-opacity: 0;
+                stroke-opacity: 1.0
+            }
+            100% {
+                transform: scale(2.50);
+                fill-opacity: 1.0;
+                stroke-opacity: 1.0
+            }
+        }
+
+        @keyframes animate-vine {
+            0% {
+                stroke-dashoffset: 500;
+            }
+            100% {
+                stroke-dashoffset: 180;
+            }
+        }
+
+        @keyframes animate-leaf-0-0 {
+            0% {
+                stroke-dashoffset: 100;
+                fill-opacity: 0;
+            }
+            30% {
+                stroke-dashoffset: 100;
+                fill-opacity: 0;
+            }
+            95% {
+                stroke-dashoffset: 25;
+                fill-opacity: 0;
+            }
+            100% {
+                stroke-dashoffset: 0;
+                fill-opacity: 100;
+            }
+        }
+
+        @keyframes animate-leaf-0-1 {
+            0% {
+                stroke-dashoffset: 100;
+                fill-opacity: 0;
+            }
+            33% {
+                stroke-dashoffset: 50;
+                fill-opacity: 0;
+            }
+            90% {
+                stroke-dashoffset: 50;
+                fill-opacity: 0;
+            }
+            100% {
+                stroke-dashoffset: 50;
+                fill-opacity: 1.0;
+
+            }
+
+        }
+ </style>
+    <g id="dirt" transform="translate(244,446)">
+        <ellipse id="dirt2" cx="0" cy="0" rx="200" ry="25" fill="#8b7653"></ellipse>
+        <ellipse cx="0" cy="0" rx="20" ry="5" fill="#765432"></ellipse>
+    </g>
+    <path id="vine" style="stroke-width: 4px; stroke: rgb(45, 70, 41); fill: none;"
+          d="M 244.224 445.545 C 244.224 445.545 281.904 325.406 280.695 263.545 C 279.851 220.336 266.227 133.664 266.227 133.664"></path>
+    <g transform="translate(265.618362539,87.109)">
+
+        <!--<path style="stroke: rgb(9, 9, 9); fill: rgb(203, 209, 29);" transform="" d="M 499.618362539 221.109 L 500.381637461 221.109 L 505.566762264 235.785500054 A 31.707 31.707 0 0 1 506.085126751 235.88239917 L 516.221874969 224.070053568 L 516.933607637 224.345780273 L 516.466829189 239.904292121 A 31.707 31.707 0 0 1 516.915185679 240.181902707 L 530.634533296 232.829034285 L 531.198600269 233.343249275 L 525.142959585 247.682509679 A 31.707 31.707 0 0 1 525.460755051 248.103338887 L 540.909828149 246.202993269 L 541.250049058 246.886248961 L 530.423393968 258.069661348 A 31.707 31.707 0 0 1 530.567708371 258.576873861 L 545.660024022 262.385703253 L 545.730450147 263.145722179 L 531.594980414 269.662904736 A 31.707 31.707 0 0 1 531.546323293 270.187998694 L 544.24358064 279.191599581 L 544.034700542 279.925736974 L 528.499489681 280.896508084 A 31.707 31.707 0 0 1 528.264432451 281.368566638 L 536.85179653 294.35095283 L 536.391820625 294.960059367 L 521.554984945 290.253311012 A 31.707 31.707 0 0 1 521.165273387 290.608580039 L 524.482973096 305.816408342 L 523.834023678 306.21822081 L 511.699360053 296.469625436 A 31.707 31.707 0 0 1 511.207626872 296.660123886 L 508.80758848 312.039492818 L 508.057309764 312.179744217 L 500.263671756 298.705903649 A 31.707 31.707 0 0 1 499.736328244 298.705903649 L 491.942690236 312.179744217 L 491.19241152 312.039492818 L 488.792373128 296.660123886 A 31.707 31.707 0 0 1 488.300639947 296.469625436 L 476.165976322 306.21822081 L 475.517026904 305.816408342 L 478.834726613 290.608580039 A 31.707 31.707 0 0 1 478.445015055 290.253311012 L 463.608179375 294.960059367 L 463.14820347 294.35095283 L 471.735567549 281.368566638 A 31.707 31.707 0 0 1 471.500510319 280.896508084 L 455.965299458 279.925736974 L 455.75641936 279.191599581 L 468.453676707 270.187998694 A 31.707 31.707 0 0 1 468.405019586 269.662904736 L 454.269549853 263.145722179 L 454.339975978 262.385703253 L 469.432291629 258.576873861 A 31.707 31.707 0 0 1 469.576606032 258.069661348 L 458.749950942 246.886248961 L 459.090171851 246.202993269 L 474.539244949 248.103338887 A 31.707 31.707 0 0 1 474.857040415 247.682509679 L 468.801399731 233.343249275 L 469.365466704 232.829034285 L 483.084814321 240.181902707 A 31.707 31.707 0 0 1 483.533170811 239.904292121 L 483.066392363 224.345780273 L 483.778125031 224.070053568 L 493.914873249 235.88239917 A 31.707 31.707 0 0 1 494.433237736 235.785500054 Z M 500 267 A 0 0 0 0 0 500 267 A 0 0 0 0 0 500 267" bx:shape="cog 500 267 0 31.707 45.891 0.91 17 1@803a545a"></path>-->
+        <path id="sun" style="stroke: rgb(9, 9, 9); fill: rgb(203, 209, 29); fill-opacity: 0;" transform="" d="M 0 0 L 0.763274922 0 L 5.948399725 14.676500054 A 31.707 31.707 0 0 1 6.46676 14.7734 L 16.6035 2.96105 L 17.3152 3.23678
+           L 16.8485 18.7953 A 31.707 31.707 0 0 1 17.2968 19.0729 L 31.0162 11.72 L 31.5802 12.2342 L 25.5246 26.5735 A 31.707 31.707 0 0 1 25.8424 26.9943 L 41.2915 25.094 L 41.6317 25.7772 L 30.805 36.9607
+           A 31.707 31.707 0 0 1 30.9493 37.4679 L 46.0417 41.2767 L 46.1121 42.0367 L 31.9766 48.5539 A 31.707 31.707 0 0 1 31.928 49.079 L 44.6252 58.0826 L 44.4163 58.8167 L 28.8811 59.7875 A 31.707 31.707 0 0 1 28.6461 60.2596 L 37.2334 73.242 L 36.7735 73.8511 L 21.9366 69.1443 A 31.707 31.707 0 0 1 21.5469 69.4996 L 24.8646 84.7074 L 24.2157 85.1092 L 12.081 75.3606 A 31.707 31.707 0 0 1 11.5893 75.5511 L 9.18923 90.9305 L 8.43895 91.0707 L 0.645309 77.5969 A 31.707 31.707 0 0 1 0.117966 77.5969 L -7.67567 91.0707 L -8.42595 90.9305 L -10.826 75.5511 A 31.707 31.707 0 0 1 -11.3177 75.3606 L -23.4524 85.1092 L -24.1013 84.7074 L -20.7836 69.4996 A 31.707 31.707 0 0 1 -21.1733 69.1443 L -36.0102 73.8511 L -36.4702 73.242 L -27.8828 60.2596 A 31.707 31.707 0 0 1 -28.1179 59.7875 L -43.6531 58.8167 L -43.8619 58.0826 L -31.1647 49.079 A 31.707 31.707 0 0 1 -31.2133 48.5539 L -45.3488 42.0367 L -45.2784 41.2767 L -30.1861 37.4679 A 31.707 31.707 0 0 1 -30.0418 36.9607 L -40.8684 25.7772 L -40.5282 25.094 L -25.0791 26.9943 A 31.707 31.707 0 0 1 -24.7613 26.5735 L -30.817 12.2342 L -30.2529 11.72 L -16.5335 19.0729 A 31.707 31.707 0 0 1 -16.0852 18.7953 L -16.552 3.23678 L -15.8402 2.96105 L -5.70349 14.7734 A 31.707 31.707 0 0 1 -5.18512 14.6765 Z M 0.381637 45.891 A 0 0 0 0 0 0.381637 45.891 A 0 0 0 0 0 0.381637 45.891"
+              bx:shape="cog 500 267 0 31.707 45.891 0.91 17 1@803a545a"></path>
+
+    </g>
+    <g id="leaf0" style="fill-opacity: 0" transform="translate(258,376)">
+
+        <path id="leaf0-0"
+              stroke-dasharray="100 100"
+              stroke-dashoffset="100"
+              fill="rgba(63, 97, 54,0.5)"
+              stroke-width="2px"
+              stroke="rgb(11, 12, 11)"
+              d="M 0 22 A 22.214 22.214 0 0 1 40 22">
+        </path>
+        <path
+                stroke-dasharray="100 100"
+                stroke-dashoffset="101"
+                id="leaf0-1" style="stroke-width: 1px; fill: rgb(83, 117, 84); stroke: rgb(11, 12, 11);"
+                d="M 40 22 A 32.214 22.214 0 0 1 0 22 L 1 22 A 32.214 12 0 0 1 40 22">
+        </path>
+
+        <!--        <path id="leaf0.1" style="stroke-width: 1px; fill: rgb(73, 117, 74); stroke: rgb(11, 12, 11);"-->
+        <!--              d="M 208.917 234.67 A 22.214 22.214 0 0 1 248.917 235 L 248.1 235 A 32.214 22.214 0 0 0 208.917 234.67"-->
+        <!--              bx:shape="crescent 542 519 44.214 162 0.7 1@6d7a9765" bx:origin="-0.048874 0.009439"></path>-->
+    </g>
+    <!--    <circle cx="267" cy="133.664" r="5" style="stroke: black; stroke-width: 1px; fill: none"></circle>-->
+    <g id="leaf1" transform="scale(-1,1) translate(-275,306) " style="fill-opacity: 0">
+
+        <path id="leaf0-0"
+              stroke-dasharray="100 100"
+              stroke-dashoffset="100"
+              fill="rgba(63, 97, 54,0.5)"
+              stroke-width="2px"
+              stroke="rgb(11, 12, 11)"
+              d="M 0 22 A 22.214 22.214 0 0 1 40 22">
+        </path>
+        <path
+                stroke-dasharray="100 100"
+                stroke-dashoffset="101"
+                id="leaf0-1" style="stroke-width: 1px; fill: rgb(83, 117, 84); stroke: rgb(11, 12, 11);"
+                d="M 40 22 A 32.214 22.214 0 0 1 0 22 L 1 22 A 32.214 12 0 0 1 40 22">
+        </path>
+
+        <!--        <path id="leaf0.1" style="stroke-width: 1px; fill: rgb(73, 117, 74); stroke: rgb(11, 12, 11);"-->
+        <!--              d="M 208.917 234.67 A 22.214 22.214 0 0 1 248.917 235 L 248.1 235 A 32.214 22.214 0 0 0 208.917 234.67"-->
+        <!--              bx:shape="crescent 542 519 44.214 162 0.7 1@6d7a9765" bx:origin="-0.048874 0.009439"></path>-->
+    </g>
+    <!--    <circle cx="267" cy="133.664" r="5" style="stroke: black; stroke-width: 1px; fill: none"></circle>-->
+    <g id="leaf2" transform="translate(280,226) " style="fill-opacity: 0">
+
+        <path id="leaf0-0"
+              stroke-dasharray="100 100"
+              stroke-dashoffset="100"
+              fill="rgba(63, 97, 54,0.5)"
+              stroke-width="2px"
+              stroke="rgb(11, 12, 11)"
+              d="M 0 22 A 22.214 22.214 0 0 1 40 22">
+        </path>
+        <path
+                stroke-dasharray="100 100"
+                stroke-dashoffset="101"
+                id="leaf0-1" style="stroke-width: 1px; fill: rgb(83, 117, 84); stroke: rgb(11, 12, 11);"
+                d="M 40 22 A 32.214 22.214 0 0 1 0 22 L 1 22 A 32.214 12 0 0 1 40 22">
+        </path>
+
+        <!--        <path id="leaf0.1" style="stroke-width: 1px; fill: rgb(73, 117, 74); stroke: rgb(11, 12, 11);"-->
+        <!--              d="M 208.917 234.67 A 22.214 22.214 0 0 1 248.917 235 L 248.1 235 A 32.214 22.214 0 0 0 208.917 234.67"-->
+        <!--              bx:shape="crescent 542 519 44.214 162 0.7 1@6d7a9765" bx:origin="-0.048874 0.009439"></path>-->
+    </g>
+
+    <g id="leaf3" transform="scale(-1,1) translate(-275,176) " style="fill-opacity: 0">
+
+        <path id="leaf0-0"
+              stroke-dasharray="100 100"
+              stroke-dashoffset="100"
+              fill="rgba(63, 97, 54,0.5)"
+              stroke-width="2px"
+              stroke="rgb(11, 12, 11)"
+              d="M 0 22 A 22.214 22.214 0 0 1 40 22">
+        </path>
+        <path
+                stroke-dasharray="100 100"
+                stroke-dashoffset="101"
+                id="leaf0-1" style="stroke-width: 1px; fill: rgb(83, 117, 84); stroke: rgb(11, 12, 11);"
+                d="M 40 22 A 32.214 22.214 0 0 1 0 22 L 1 22 A 32.214 12 0 0 1 40 22">
+        </path>
+
+        <!--        <path id="leaf0.1" style="stroke-width: 1px; fill: rgb(73, 117, 74); stroke: rgb(11, 12, 11);"-->
+        <!--              d="M 208.917 234.67 A 22.214 22.214 0 0 1 248.917 235 L 248.1 235 A 32.214 22.214 0 0 0 208.917 234.67"-->
+        <!--              bx:shape="crescent 542 519 44.214 162 0.7 1@6d7a9765" bx:origin="-0.048874 0.009439"></path>-->
+    </g>
+    <g transform="translate(267,133.664)">
+        <!--       <circle cx="267" cy="133.664" r="5" style="stroke: black; stroke-width: 1px; fill: #704312"></circle>-->
+        <circle id="dot" cx="0" cy="0" r="10"
+                style="stroke: black; stroke-width: 1px; stroke-opacity: 0; fill: #a6631b;fill-opacity: 0"></circle>
+    </g>
+<!--    <g transform="translate(244, 446)">-->
+<!--        &lt;!&ndash;       <circle cx="267" cy="133.664" r="5" style="stroke: black; stroke-width: 1px; fill: #704312"></circle>&ndash;&gt;-->
+<!--        <circle id="dot2" class="follower" cx="0" cy="0" r="3"-->
+<!--                style="stroke: black; stroke-width: 1px; fill: #a6631b;fill-opacity: 0">-->
+<!--            &lt;!&ndash;            <animateMotion dur="10s" repeatCount="indefinite"&ndash;&gt;-->
+<!--            &lt;!&ndash;                path="M20,50 C20,-50 180,150 180,50 C180-50 20,150 20,50 z" />&ndash;&gt;-->
+<!--        </circle>-->
+<!--        <text id="loadTxt" class="follower" x="10" y="-10" fill="black">Loading...</text>-->
+
+<!--    </g>-->
+
+</svg>
+
+    </div>
+  </body>
+</html>
