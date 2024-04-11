@@ -1,0 +1,3972 @@
+{
+    "bib": [
+        {
+            "mms_id": "991002423299704987",
+            "title": "Las aventuras de Astérix /",
+            "author": "Goscinny,",
+            "isbn": "84-7419-912-3",
+            "network_number": [
+                "(OCoLC)928071120",
+                "z002535369",
+                "(esseubg)b12510798-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona",
+            "date_of_publication": "1993",
+            "publisher_const": "Grijalbo Mondadori,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002423299704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-7419-912-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991002423299704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991003134129704987",
+            "title": "Compañía Monteverdi (Orfeo) /",
+            "author": "Ibarrola, José,",
+            "network_number": [
+                "(OCoLC)1426939071",
+                "(esseubg)b13250723-34cbua_us"
+            ],
+            "place_of_publication": "San Sebastián",
+            "date_of_publication": "1987",
+            "publisher_const": "Ttarttalo,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003134129704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991003134129704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991004335519704987",
+            "title": "El secreto del unicornio /",
+            "author": "Hergé,",
+            "complete_edition": "5a ed.",
+            "network_number": [
+                "(OCoLC)928228889",
+                "z004571141",
+                "(esseubg)b14546577-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona",
+            "date_of_publication": "1972",
+            "publisher_const": "Juventud,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991004335519704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991004335519704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991005402989704987",
+            "title": "Spiderman /",
+            "author": "Mañas, Jóse Ángel",
+            "network_number": [
+                "(OCoLC)433125044",
+                "(esseubg)b15767942-34cbua_us"
+            ],
+            "place_of_publication": "[S.L.] :",
+            "date_of_publication": "D.L. 2003",
+            "publisher_const": "Planeta DeAgostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005402989704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991005402989704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991005579169704987",
+            "title": "Peter Pank, el licantropunk /",
+            "author": "Max,",
+            "isbn": "84-85733-77-0",
+            "complete_edition": "2a ed.",
+            "network_number": [
+                "(OCoLC)928329962",
+                "(esseubg)b15967025-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "D.L. 1989",
+            "publisher_const": "Ediciones La Cúpula,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005579169704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-85733-77-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991005579169704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991005623569704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "network_number": [
+                "(OCoLC)928334437",
+                "(esseubg)b1602154x-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1983",
+            "publisher_const": "Distrinovel,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005623569704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991005623569704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991006668419704987",
+            "title": "La Balada del mar salado /",
+            "author": "Pratt, Hugo,",
+            "isbn": "84-8431-063-9",
+            "network_number": [
+                "(OCoLC)919954699",
+                "REBIUN4713794",
+                "(esseubg)b17594881-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2000",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006668419704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-8431-063-9.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991006668419704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991007792529704987",
+            "title": "La isla de Borbón 1730 /",
+            "author": "Appollo",
+            "isbn": "9788496427525",
+            "network_number": [
+                "(OCoLC)137316235",
+                "(esseubg)b19214030-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2007",
+            "publisher_const": "Ponent Mqn,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007792529704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788496427525.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991007792529704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991007986059704987",
+            "title": "Las Doce pruebas de Astérix : Astérix conquista Roma /",
+            "author": "Goscinny,",
+            "isbn": "8475100325",
+            "network_number": [
+                "(OCoLC)928691618",
+                "REBIUN4874314",
+                "(esseubg)b19458605-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1983",
+            "publisher_const": "Grijalbo/Dargaud,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007986059704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/8475100325.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991007986059704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991008439289704987",
+            "title": "Watchmen/",
+            "author": "Moore, Alan,",
+            "isbn": "9788467433975",
+            "network_number": [
+                "(OCoLC)437581284",
+                "(esseubg)b20308012-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2009",
+            "publisher_const": "Planeta DeAgostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008439289704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467433975.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991008439289704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009088869704987",
+            "title": "Asterix en Hispania /",
+            "author": "Goscinny,",
+            "isbn": "9788434567320",
+            "network_number": [
+                "(OCoLC)920237702",
+                "(esseubg)b21399657-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2009",
+            "publisher_const": "Salvat,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009088869704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788434567320.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009088869704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009149089704987",
+            "title": "Kick-ass /",
+            "author": "Millar, Mark,",
+            "isbn": "978-84-9885-164-9",
+            "network_number": [
+                "(OCoLC)868766182",
+                "a4780418",
+                "(esseubg)b21517587-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí :",
+            "date_of_publication": "cop. 2010",
+            "publisher_const": "Panini España",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009149089704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9885-164-9.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009149089704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009152969704987",
+            "title": "Batman, año uno /",
+            "author": "Miller, Frank,",
+            "isbn": "9788467449051",
+            "network_number": [
+                "(OCoLC)276809758"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2008.",
+            "publisher_const": "Planeta DeAgostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009152969704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467449051.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009152969704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009152999704987",
+            "title": "Batman : el largo Halloween /",
+            "author": "Loeb, Jeph",
+            "isbn": "9788467453980",
+            "network_number": [
+                "(OCoLC)75713974",
+                "REBIUN0898362",
+                "(esseubg)b21521876-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2008",
+            "publisher_const": "Planeta DeAgostiniNorma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009152999704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467453980.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009152999704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153029704987",
+            "title": "Batman : el regreso del caballero oscuro /",
+            "author": "Miller, Frank,",
+            "isbn": "84-674-3319-1",
+            "network_number": [
+                "(OCoLC)75713974",
+                "(esseubg)b21521906-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2006",
+            "publisher_const": "Planeta DeAgostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153029704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-674-3319-1.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153029704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153059704987",
+            "title": "Green lantern, green arrow /",
+            "author": "O'Neil, Dennis",
+            "isbn": "978-84-674-3473-6",
+            "network_number": [
+                "(OCoLC)434079283",
+                "bimo0002391217",
+                "(esseubg)b21521931-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "[2007]",
+            "publisher_const": "Planeta DeAgostini",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153059704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-674-3473-6.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153059704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153279704987",
+            "title": "Superman : hijo rojo/",
+            "author": "Millar, Mark,",
+            "isbn": "978-84-674-7519-7",
+            "network_number": [
+                "(OCoLC)920237983",
+                "00000000114734",
+                "(esseubg)b2152225x-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona",
+            "date_of_publication": ", [2009]",
+            "publisher_const": "Planeta de Agostini",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153279704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-674-7519-7.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153279704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153289704987",
+            "title": "Superman identidad secreta /",
+            "author": "Busiek, Kurt",
+            "isbn": "9788467416794",
+            "network_number": [
+                "(OCoLC)63696296",
+                "(esseubg)b21522261-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2005",
+            "publisher_const": "Planeta-De Agostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153289704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467416794.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153289704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153299704987",
+            "title": "Superman para todas las estaciones/",
+            "author": "Loeb, Jeph",
+            "isbn": "84-674-2510-5",
+            "network_number": [
+                "(OCoLC)434006721",
+                "00000000090734",
+                "(esseubg)b21522273-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona",
+            "date_of_publication": ", [2006]",
+            "publisher_const": "Planeta de Agostini",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153299704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-674-2510-5.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153299704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153309704987",
+            "title": "Elektra lives again /",
+            "author": "Miller, Frank,",
+            "isbn": "8439517831 (cart.)",
+            "network_number": [
+                "(OCoLC)928973319"
+            ],
+            "place_of_publication": "Torroella de Montgrí :",
+            "date_of_publication": "cop. 2007",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153309704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/8439517831 (cart.).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153309704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153339704987",
+            "title": "Iron Man : el demonio en una botella /",
+            "author": "Lee, Stan,",
+            "isbn": "978-84-9885-398-8",
+            "network_number": [
+                "(OCoLC)971657580",
+                "a4776629",
+                "(esseubg)b21522327-34cbua_us"
+            ],
+            "place_of_publication": "Girona :",
+            "date_of_publication": "2010",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153339704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9885-398-8.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153339704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153349704987",
+            "title": "The ultimates : [superhumanos]/",
+            "author": "Millar, Mark,",
+            "isbn": "978-84-9885-299-8",
+            "network_number": [
+                "(OCoLC)920237174",
+                "(esseubg)b21522339-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí (Girona)",
+            "date_of_publication": ", D.L. 2009",
+            "publisher_const": "Panini",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153349704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9885-299-8.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153349704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153359704987",
+            "title": "Spiderman de Steve Ditko /",
+            "author": "Lee, Stan,",
+            "isbn": "849665270X (vol. 1 : cart.)",
+            "network_number": [
+                "(OCoLC)433989234",
+                "REBIUN9628006",
+                "(esseubg)b21522340-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí :",
+            "date_of_publication": "cop. 2006-",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153359704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/849665270X (vol. 1 : cart.).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153359704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153369704987",
+            "title": "Capitán América /",
+            "author": "Rieber, John Ney",
+            "isbn": "8496734064 (cart.)",
+            "network_number": [
+                "(OCoLC)434012914",
+                "REBIUN1157006",
+                "(esseubg)b21522352-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí :",
+            "date_of_publication": "cop. 2006",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153369704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/8496734064 (cart.).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153369704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153379704987",
+            "title": "El increíble Hulk : [banner] /",
+            "author": "Jones, Bruce",
+            "isbn": "978-84-96874-24-4",
+            "network_number": [
+                "(OCoLC)928973433",
+                "(esseubg)b21522364-34cbua_us"
+            ],
+            "place_of_publication": "Girona :",
+            "date_of_publication": "cop. 2008",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153379704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-96874-24-4.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153379704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009153389704987",
+            "title": "El Vigía /",
+            "author": "Jenkins, Paul,",
+            "isbn": "8496652769 (cart.)",
+            "network_number": [
+                "(OCoLC)433971892",
+                "REBIUN3081120",
+                "(esseubg)b21522376-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí :",
+            "date_of_publication": "cop. 2006",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153389704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/8496652769 (cart.).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153389704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009159589704987",
+            "title": "Astérix chez les Belges /",
+            "author": "Goscinny,",
+            "isbn": "2012101569",
+            "network_number": [
+                "(OCoLC)863397684",
+                "(esseubg)b2152905x-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2008",
+            "publisher_const": "Hachette,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009159589704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/2012101569.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009159589704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009162939704987",
+            "title": "Kingdom come /",
+            "author": "Waid, Mark",
+            "isbn": "978-84-674-3800-0",
+            "network_number": [
+                "(OCoLC)920204066",
+                "REBIUN5079274",
+                "(esseubg)b21533192-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "[2007]",
+            "publisher_const": "Planeta de Agostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009162939704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-674-3800-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009162939704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009167389704987",
+            "title": "El heredero /",
+            "author": "Francq, Philippe",
+            "isbn": "84-8431-968-7 (v. 1)",
+            "network_number": [
+                "(OCoLC)1085865394",
+                "BPO",
+                "(esseubg)b21538025-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2004",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167389704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-8431-968-7 (v. 1).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167389704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009167449704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "84-7904-189-7",
+            "complete_edition": "2ª ed.",
+            "network_number": [
+                "(OCoLC)928973724",
+                "(esseubg)b21538086-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2004",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167449704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-7904-189-7.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167449704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009169729704987",
+            "title": "Las aventuras de Spirou y Fantasio : diario de un ingenuo",
+            "author": "Bravo, Émile",
+            "isbn": "978-84-674-8226-3",
+            "network_number": [
+                "(OCoLC)920236404",
+                "a4625112",
+                "(esseubg)b21540810-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2009",
+            "publisher_const": "Planeta DeAgostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009169729704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-674-8226-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009169729704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009174339704987",
+            "title": "The fantastic four = Los cuatro fantásticos/",
+            "author": "Lee, Stan,",
+            "isbn": "978-84-96871-05-2",
+            "network_number": [
+                "(OCoLC)920214511",
+                "(esseubg)b21546071-34cbua_us"
+            ],
+            "place_of_publication": "[Girona",
+            "date_of_publication": ", 2007]",
+            "publisher_const": "Panini",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009174339704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-96871-05-2.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009174339704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009190629704987",
+            "title": "Corto Maltese : Les Celtiques /",
+            "author": "Pratt, Hugo,",
+            "isbn": "2203024461",
+            "complete_edition": "Nouv. éd.",
+            "network_number": [
+                "(OCoLC)928974932",
+                "(esseubg)b21563366-34cbua_us"
+            ],
+            "place_of_publication": "Tournai :",
+            "date_of_publication": "2009",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009190629704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/2203024461.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009190629704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009190699704987",
+            "title": "Corto Maltese : Fable de Venise /",
+            "author": "Pratt, Hugo,",
+            "isbn": "2203024488",
+            "complete_edition": "Nouv. éd.",
+            "network_number": [
+                "(OCoLC)928974795",
+                "(esseubg)b21563433-34cbua_us"
+            ],
+            "place_of_publication": "Tournai :",
+            "date_of_publication": "2009",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009190699704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/2203024488.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009190699704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009190729704987",
+            "title": "Corto Maltese : Tango /",
+            "author": "Pratt, Hugo,",
+            "isbn": "2203024461",
+            "complete_edition": "Nouv. éd.",
+            "network_number": [
+                "(OCoLC)928974932",
+                "(esseubg)b21563470-34cbua_us"
+            ],
+            "place_of_publication": "Tournai :",
+            "date_of_publication": "2009",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009190729704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/2203024461.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009190729704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009191239704987",
+            "title": "Le lotus bleu /",
+            "author": "Hergé,",
+            "isbn": "9782203001046",
+            "network_number": [
+                "(OCoLC)928975008",
+                "(esseubg)b21564061-34cbua_us"
+            ],
+            "place_of_publication": "Tournai :",
+            "date_of_publication": "1974",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009191239704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782203001046.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009191239704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009191249704987",
+            "title": "L'oreille cassée /",
+            "author": "Hergé,",
+            "isbn": "9782203001053",
+            "network_number": [
+                "(OCoLC)928974817",
+                "(esseubg)b21564073-34cbua_us"
+            ],
+            "place_of_publication": "Tournai :",
+            "date_of_publication": "1979",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009191249704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782203001053.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009191249704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009191259704987",
+            "title": "Tintin au Congo /",
+            "author": "Hergé,",
+            "isbn": "9782203001015",
+            "network_number": [
+                "(OCoLC)916523317",
+                "(esseubg)b21564085-34cbua_us"
+            ],
+            "place_of_publication": "Tournai :",
+            "date_of_publication": "1974",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009191259704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782203001015.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009191259704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009196859704987",
+            "title": "La Tempestad /",
+            "author": "García, Santiago,",
+            "isbn": "978-84-96815-53-7",
+            "network_number": [
+                "(OCoLC)433820233",
+                "(esseubg)b21580364-34cbua_us"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2008",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009196859704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-96815-53-7.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009196859704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009219209704987",
+            "title": "Astérix en Corse /",
+            "author": "Goscinny,",
+            "isbn": "9782012101524",
+            "network_number": [
+                "(OCoLC)928986293",
+                "(esseubg)b21687043-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2008",
+            "publisher_const": "Hachette,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219209704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782012101524.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219209704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009219219704987",
+            "title": "Astérix en Hispanie /",
+            "author": "Goscinny,",
+            "isbn": "9782012101463",
+            "network_number": [
+                "(OCoLC)631085747",
+                "(esseubg)b21687055-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2008",
+            "publisher_const": "Hachette,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219219704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782012101463.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219219704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009219229704987",
+            "title": "La grande traversée /",
+            "author": "Goscinny,",
+            "isbn": "9782012101548",
+            "network_number": [
+                "(OCoLC)928986294",
+                "(esseubg)b21687067-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2008",
+            "publisher_const": "Hachette,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219229704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782012101548.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219229704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009219239704987",
+            "title": "Le Tour de Gaule d'Astérix /",
+            "author": "Goscinny,",
+            "isbn": "9782012101371",
+            "network_number": [
+                "(OCoLC)920163096",
+                "(esseubg)b21687079-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2005",
+            "publisher_const": "Hachette,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219239704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782012101371.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219239704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009220739704987",
+            "title": "De Cape et de Crocs.",
+            "author": "Ayroles, Alain,",
+            "isbn": "9782840550594",
+            "network_number": [
+                "(OCoLC)928986837",
+                "(esseubg)b21695611-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "1995",
+            "publisher_const": "Delcourt,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009220739704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782840550594.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009220739704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009220759704987",
+            "title": "De Cape et de Crocs.",
+            "author": "Ayroles, Alain,",
+            "isbn": "9782840552369",
+            "network_number": [
+                "(OCoLC)928986978",
+                "(esseubg)b21695647-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "1999",
+            "publisher_const": "Delcourt,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009220759704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782840552369.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009220759704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009220779704987",
+            "title": "De Cape et de Crocs.",
+            "author": "Ayroles, Alain,",
+            "isbn": "9782840551430",
+            "network_number": [
+                "(OCoLC)928986973",
+                "(esseubg)b21695660-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "1997",
+            "publisher_const": "Delcourt,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009220779704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782840551430.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009220779704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009222509704987",
+            "title": "Bécassine en apprentissage /",
+            "author": "Caumery,",
+            "isbn": "9782211710022",
+            "network_number": [
+                "(OCoLC)928991582",
+                "(esseubg)b21716845-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "1992",
+            "publisher_const": "Gautier-Languereau,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222509704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782211710022.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222509704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009222549704987",
+            "title": "Bécassine pendant la Grande Guerre /",
+            "author": "Caumery,",
+            "isbn": "9782217100032",
+            "network_number": [
+                "(OCoLC)928991583",
+                "(esseubg)b21716882-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "1993",
+            "publisher_const": "Gautier-Languereau,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222549704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782217100032.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222549704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009274519704987",
+            "title": "Cuentos vivos /",
+            "author": "Mestres, Apeles,",
+            "isbn": "9788483573402",
+            "network_number": [
+                "(OCoLC)259743112",
+                "(esseubg)b21784565-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona:",
+            "date_of_publication": "2007",
+            "publisher_const": "Glénat,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274519704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788483573402.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274519704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009293819704987",
+            "title": "La estrella misteriosa /",
+            "author": "Hergé,",
+            "isbn": "978-84-261-0965-1",
+            "complete_edition": "27a ed.",
+            "network_number": [
+                "(OCoLC)700140834",
+                "(esseubg)b21806937-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2009",
+            "publisher_const": "Juventud,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009293819704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-261-0965-1.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009293819704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009293869704987",
+            "title": "Tintín en el Tibet /",
+            "author": "Hergé,",
+            "isbn": "978-84-261-0382-6",
+            "complete_edition": "26a ed.",
+            "network_number": [
+                "(OCoLC)991794372",
+                "(esseubg)b21806986-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2009",
+            "publisher_const": "Juventud,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009293869704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-261-0382-6.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009293869704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009375539704987",
+            "title": "Astérix et Cléopâtre /",
+            "author": "Goscinny,",
+            "isbn": "9782012101388",
+            "network_number": [
+                "(OCoLC)929024372",
+                "(esseubg)b22035278-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2010",
+            "publisher_const": "Hachette,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009375539704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782012101388.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009375539704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009375549704987",
+            "title": "Astérix et les normands /",
+            "author": "Goscinny,",
+            "isbn": "9782012101418",
+            "network_number": [
+                "(OCoLC)929024287",
+                "(esseubg)b2203528x-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2010",
+            "publisher_const": "Hachette,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009375549704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782012101418.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009375549704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009375739704987",
+            "title": "Le trésor de Rackham le rouge /",
+            "author": "Hergé,",
+            "isbn": "9782203001886",
+            "network_number": [
+                "(OCoLC)929024369",
+                "(esseubg)b22035497-34cbua_us"
+            ],
+            "place_of_publication": "Tournai :",
+            "date_of_publication": "2007",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009375739704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782203001886.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009375739704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399399704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "9788479041922",
+            "complete_edition": "2a. Ed.",
+            "network_number": [
+                "(OCoLC)929030626",
+                "(esseubg)b22102358-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2006",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399399704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788479041922.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399399704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399409704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "9788479042226",
+            "network_number": [
+                "(OCoLC)929030566",
+                "(esseubg)b2210236x-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1995",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399409704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788479042226.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399409704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399419704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "9788479042295",
+            "network_number": [
+                "(OCoLC)929030644",
+                "(esseubg)b22102371-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2007",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399419704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788479042295.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399419704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399439704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "9788479042295 (Duplicado)",
+            "complete_edition": "[2ª ed.]",
+            "network_number": [
+                "(OCoLC)929030578",
+                "(esseubg)b22102395-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2008",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399439704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788479042295 (Duplicado).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399439704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399479704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "84-7904-485-3",
+            "complete_edition": "2ª ed.",
+            "network_number": [
+                "(OCoLC)929030277",
+                "(esseubg)b22102449-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2004",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399479704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-7904-485-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399479704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399489704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "84-7904-486-1",
+            "network_number": [
+                "(OCoLC)929030645",
+                "bimo0000971541",
+                "(esseubg)b22102450-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2002",
+            "publisher_const": "Norma",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399489704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-7904-486-1.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399489704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399499704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "847904487X",
+            "network_number": [
+                "(OCoLC)929030612",
+                "bimo0001120420",
+                "(esseubg)b22102462-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2003",
+            "publisher_const": "Norma",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399499704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/847904487X.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399499704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399519704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "84-7904-488-8",
+            "complete_edition": "2a. ed.",
+            "network_number": [
+                "(OCoLC)929030658",
+                "(esseubg)b22102486-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2000",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399519704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-7904-488-8.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399519704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399529704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "8486595908",
+            "network_number": [
+                "(OCoLC)929030659",
+                "(esseubg)b22102498-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1993",
+            "publisher_const": "Norma editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399529704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/8486595908.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399529704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399539704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "84-7904-003-3",
+            "complete_edition": "[2a. ed.]",
+            "network_number": [
+                "(OCoLC)929030660",
+                "(esseubg)b22102504-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1997",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399539704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-7904-003-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399539704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399549704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "84-7904-011-4",
+            "complete_edition": "2a. Ed.",
+            "network_number": [
+                "(OCoLC)929030661",
+                "bimo0000311865",
+                "(esseubg)b22102516-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1997",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399549704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-7904-011-4.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399549704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009399559704987",
+            "title": "Thorgal.",
+            "author": "Rosinski, Grzegorz",
+            "isbn": "84-8431-197-X",
+            "complete_edition": "2a. ed.",
+            "network_number": [
+                "(OCoLC)45885516",
+                "(esseubg)b22102528-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2000",
+            "publisher_const": "Norma editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399559704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-8431-197-X.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399559704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009478859704987",
+            "title": "El caballero errante /",
+            "author": "Martin, George R. R.,",
+            "isbn": "9788499891064",
+            "network_number": [
+                "(OCoLC)828246953",
+                "(esseubg)b22269873-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2011",
+            "publisher_const": "Debolsillo,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009478859704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788499891064.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009478859704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009490249704987",
+            "title": "Hellboy : the wild hunt /",
+            "author": "Mignola, Mike",
+            "isbn": "9781595824318",
+            "network_number": [
+                "(OCoLC)929064090",
+                "(esseubg)b22295860-34cbua_us"
+            ],
+            "place_of_publication": "Milwaukie, OR :",
+            "date_of_publication": "2010",
+            "publisher_const": "Dark Horse Books,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009490249704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9781595824318.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009490249704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009490489704987",
+            "title": "Hellboy : The Crooked Man and Others /",
+            "author": "Mignola, Mike",
+            "isbn": "9781595824776",
+            "network_number": [
+                "(OCoLC)929064091",
+                "(esseubg)b22296104-34cbua_us"
+            ],
+            "place_of_publication": "Milwaukie, OR :",
+            "date_of_publication": "2010",
+            "publisher_const": "Dark Horse,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009490489704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9781595824776.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009490489704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009490529704987",
+            "title": "Hellboy : The Bride of Hell and others /",
+            "author": "Mignola, Mike",
+            "isbn": "9781595827401",
+            "network_number": [
+                "(OCoLC)929064109",
+                "(esseubg)b22296141-34cbua_us"
+            ],
+            "place_of_publication": "Milwaukie, OR :",
+            "date_of_publication": "2011",
+            "publisher_const": "Dark Horse,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009490529704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9781595827401.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009490529704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991009490989704987",
+            "title": "The Amazing Screw-On Head and others curious objects /",
+            "author": "Mignola, Mike",
+            "isbn": "9781595825018",
+            "network_number": [
+                "(OCoLC)929064190",
+                "(esseubg)b2229661x-34cbua_us"
+            ],
+            "place_of_publication": "Milwaukie, OR :",
+            "date_of_publication": "2010",
+            "publisher_const": "Dark Horse Books,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009490989704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9781595825018.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991009490989704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991010970349704987",
+            "title": "Batman /",
+            "author": "Kane, Bob,",
+            "isbn": "849638909x",
+            "network_number": [
+                "(OCoLC)920165491",
+                "(esseubg)b2398787x-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2004",
+            "publisher_const": "DC Cómics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010970349704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/849638909x.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991010970349704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991010972519704987",
+            "title": "The Spider : King of crooks /",
+            "author": "Cowan, Ted",
+            "isbn": "184576000x",
+            "network_number": [
+                "(OCoLC)929288486"
+            ],
+            "place_of_publication": "London :",
+            "date_of_publication": "2005",
+            "publisher_const": "Titan Books,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010972519704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/184576000x.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991010972519704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991010972529704987",
+            "title": "The steel claw : the vanishing man /",
+            "author": "Bulmer, Ken",
+            "isbn": "1845761561",
+            "network_number": [
+                "(OCoLC)929288487",
+                "(esseubg)b24028782-34cbua_us"
+            ],
+            "place_of_publication": "London :",
+            "date_of_publication": "2005",
+            "publisher_const": "Titan Books,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010972529704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/1845761561.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991010972529704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991010973239704987",
+            "title": "Los dientes de la eternidad.",
+            "author": "García, Jorge",
+            "isbn": "9788496730670",
+            "network_number": [
+                "(OCoLC)949699368",
+                "(esseubg)b24029518-34cbua_us"
+            ],
+            "place_of_publication": "Alicante :",
+            "date_of_publication": "2011",
+            "publisher_const": "Edicions de Ponent,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010973239704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788496730670.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991010973239704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991010974459704987",
+            "title": "Capitán Trueno.",
+            "author": "Ferrándiz, Ricard",
+            "isbn": "9788466649704",
+            "network_number": [
+                "(OCoLC)1097834356",
+                "BPC",
+                "(esseubg)b24030855-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2011",
+            "publisher_const": "Ediciones B,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010974459704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788466649704.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991010974459704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011035059704987",
+            "title": "Theodore Poussin : el integral 1 /",
+            "author": "Le Gall, Frank",
+            "isbn": "9788467478662",
+            "network_number": [
+                "(OCoLC)920261096",
+                "(esseubg)b24234096-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2010",
+            "publisher_const": "Planeta DeAgostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011035059704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467478662.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011035059704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011066869704987",
+            "title": "Los cuatro fantásticos /",
+            "author": "Lee, Stan,",
+            "isbn": "9788498857597",
+            "network_number": [
+                "(OCoLC)828275934",
+                "(esseubg)b24320535-34cbua_us"
+            ],
+            "place_of_publication": "Girona :",
+            "date_of_publication": "2011",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011066869704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788498857597.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011066869704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011073269704987",
+            "title": "Animal man /",
+            "author": "Morrison, Grant",
+            "isbn": "978-84-674-9868-4",
+            "network_number": [
+                "(OCoLC)776693591",
+                "a5099129",
+                "(esseubg)b24327852-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2011",
+            "publisher_const": "Planeta DeAgostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011073269704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-674-9868-4.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011073269704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011082629704987",
+            "title": "Athos en América /",
+            "author": "Jason",
+            "isbn": "9788415163497",
+            "network_number": [
+                "(OCoLC)796364125",
+                "(esseubg)b2433814x-34cbua_us"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2012",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011082629704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788415163497.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011082629704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011086499704987",
+            "title": "Green Lantern, amanecer y ocaso /",
+            "author": "Giffen, Keith",
+            "isbn": "978-84-674-5198-6",
+            "network_number": [
+                "(OCoLC)434329425",
+                "a4400353",
+                "(esseubg)b24352767-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "[2008]",
+            "publisher_const": "Planeta DeAgostini",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011086499704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-674-5198-6.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011086499704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011086629704987",
+            "title": "Batman : justicia ciega /",
+            "author": "Hamm, Sam",
+            "isbn": "978-84-674-7515-9",
+            "network_number": [
+                "(OCoLC)971742310",
+                "(esseubg)b24352913-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2009",
+            "publisher_const": "Planeta de Agostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011086629704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-674-7515-9.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011086629704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011089259704987",
+            "title": "El héroe : libro 1 /",
+            "author": "Rubin, David",
+            "isbn": "97884415163114",
+            "network_number": [
+                "(OCoLC)929320749",
+                "(esseubg)b24356918-34cbua_us"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2011",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011089259704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/97884415163114.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011089259704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011089599704987",
+            "title": "Crisis en tierras infinitas /",
+            "author": "Wolfman, Marv",
+            "isbn": "9788467441352",
+            "network_number": [
+                "(OCoLC)180754459",
+                "REBIUN2144999",
+                "(esseubg)b24357261-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2007",
+            "publisher_const": "Planeta DeAgostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011089599704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467441352.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011089599704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011097629704987",
+            "title": "Starman.",
+            "author": "Robinson, James",
+            "isbn": "9788467499858",
+            "network_number": [
+                "(OCoLC)520762246",
+                "(esseubg)b2437927x-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2010",
+            "publisher_const": "Planeta de Agostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011097629704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467499858.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011097629704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011114059704987",
+            "title": "Daredevil, el hombre sin miedo : Elektra /",
+            "author": "Miller, Frank,",
+            "isbn": "978-84-96874-27-5",
+            "network_number": [
+                "(OCoLC)929322940",
+                "a4366151",
+                "(esseubg)b24402424-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "[2007]",
+            "publisher_const": "Panini España",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011114059704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-96874-27-5.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011114059704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011140219704987",
+            "title": "The league of extraordinary gentlemen.",
+            "author": "Moore, Alan,",
+            "isbn": "9788467457650",
+            "network_number": [
+                "(OCoLC)929324432",
+                "REBIUN10733001",
+                "(esseubg)b2443792x-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2008",
+            "publisher_const": "Planeta-De Agostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011140219704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467457650.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011140219704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011142389704987",
+            "title": "Daredevil, el hombre sin miedo : guerra de bandas /",
+            "author": "Miller, Frank,",
+            "isbn": "9788496874350",
+            "network_number": [
+                "(OCoLC)929324535",
+                "(esseubg)b2444022x-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "[2007]",
+            "publisher_const": "Panini España",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011142389704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788496874350.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011142389704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011142419704987",
+            "title": "Daredevil, el hombre sin miedo : marcado por la muerte /",
+            "author": "Miller, Frank,",
+            "isbn": "9788496874213",
+            "network_number": [
+                "(OCoLC)929324536",
+                "(esseubg)b24440255-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "[2007]",
+            "publisher_const": "Panini España",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011142419704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788496874213.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011142419704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011152479704987",
+            "title": "La longue marche /",
+            "author": "Charlier, Jean-Michel,",
+            "isbn": "9782205054873",
+            "network_number": [
+                "(OCoLC)929340146",
+                "(esseubg)b2449074x-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2010",
+            "publisher_const": "Dargaud,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011152479704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782205054873.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011152479704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011210079704987",
+            "title": "Vida y muerte del Capitán Marvel /",
+            "author": "Starlin, Jim",
+            "isbn": "978-84-9885-613-2",
+            "network_number": [
+                "(OCoLC)776715455",
+                "(esseubg)b2456526x-34cbua_us"
+            ],
+            "place_of_publication": "Girona :",
+            "date_of_publication": "2010",
+            "publisher_const": "Marvel,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011210079704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9885-613-2.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011210079704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011236639704987",
+            "title": "Les aventures de Tintin au pays des Soviets : reporter du \"petit vingtieme\" /",
+            "author": "Hergé,",
+            "isbn": "9782203001008",
+            "network_number": [
+                "(OCoLC)929347722",
+                "(esseubg)b24593291-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2012",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236639704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782203001008.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236639704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011236669704987",
+            "title": "Les aventures de Tintin reporter : Tintin au Congo /",
+            "author": "Hergé,",
+            "isbn": "9782203019980",
+            "network_number": [
+                "(OCoLC)929347801",
+                "(esseubg)b24593321-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2010",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236669704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782203019980.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236669704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011236689704987",
+            "title": "Les aventures de Tintin reporter : Tintin en Amérique /",
+            "author": "Hergé,",
+            "isbn": "9782203019997",
+            "network_number": [
+                "(OCoLC)929347524",
+                "(esseubg)b24593357-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "[s.d.]",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236689704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782203019997.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236689704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011236699704987",
+            "title": "Les aventures de Tintin : les cigares du Pharaon /",
+            "author": "Hergé,",
+            "isbn": "9782203026445",
+            "network_number": [
+                "(OCoLC)929347836",
+                "(esseubg)b24593369-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2009",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236699704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782203026445.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236699704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011236729704987",
+            "title": "Les Aventures de Tintin : le lotus bleu /",
+            "author": "Hergé,",
+            "isbn": "9782203020047",
+            "network_number": [
+                "(OCoLC)1004761659",
+                "(esseubg)b24593394-34cbua_us"
+            ],
+            "place_of_publication": "Paris :",
+            "date_of_publication": "2010",
+            "publisher_const": "Casterman,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236729704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9782203020047.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236729704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011275689704987",
+            "title": "Las aventuras de Tintín /",
+            "author": "Hergé,",
+            "network_number": [
+                "(OCoLC)912009807",
+                "(esseubg)b24762350-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1982",
+            "publisher_const": "Juventud,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011275689704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011275689704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011361659704987",
+            "title": "Invencible : ultimate collection.",
+            "author": "Kirkman, Robert",
+            "isbn": "9788415225386",
+            "network_number": [
+                "(OCoLC)929376556",
+                "(esseubg)b24907017-34cbua_us"
+            ],
+            "place_of_publication": "Valencia :",
+            "date_of_publication": "2012",
+            "publisher_const": "Aleta Ediciones,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011361659704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788415225386.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011361659704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011361909704987",
+            "title": "El héroe : libro dos /",
+            "author": "Rubin, David",
+            "isbn": "9788415163879",
+            "network_number": [
+                "(OCoLC)920301709",
+                "(esseubg)b24907303-34cbua_us"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2012",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011361909704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788415163879.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011361909704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011366909704987",
+            "title": "El supergrupo : el superretorno /",
+            "author": "Pérez navarro, Francisco",
+            "isbn": "9788499476513",
+            "network_number": [
+                "(OCoLC)864165812",
+                "(esseubg)b24945651-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2012",
+            "publisher_const": "Editores de Tebeos,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011366909704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788499476513.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011366909704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011391999704987",
+            "title": "Absolute ex machina /",
+            "author": "Vaughan, Brian K.",
+            "isbn": "9788467906684 (V.2)",
+            "network_number": [
+                "(OCoLC)929383402",
+                "(esseubg)b24973932-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2011",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011391999704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467906684 (V.2).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011391999704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011396859704987",
+            "title": "52 /",
+            "author": "Johns, Geoff",
+            "isbn": "9788415748649 (Vol. 3)",
+            "network_number": [
+                "(OCoLC)864121881",
+                "(esseubg)b2500069x-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2012",
+            "publisher_const": "ECC Ediciones,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011396859704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788415748649 (Vol. 3).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011396859704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011396879704987",
+            "title": "Omega : el desconocido /",
+            "author": "Lethem, Jonathan,",
+            "isbn": "978-84-9885-161-8",
+            "network_number": [
+                "(OCoLC)733682734",
+                "a4571528",
+                "(esseubg)b25000731-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "2008",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011396879704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9885-161-8.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011396879704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011624359704987",
+            "title": "Kick-Ass 2",
+            "author": "Millar, Mark,",
+            "isbn": "978-84-9024-188-2",
+            "network_number": [
+                "(OCoLC)864116589",
+                "a5325327",
+                "(esseubg)b25474959-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Gerona :",
+            "date_of_publication": "D.L. 2012",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011624359704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9024-188-2.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011624359704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011641329704987",
+            "title": "Pasajeros del viento /",
+            "author": "Bourgeon, François",
+            "isbn": "978-2-35648-097-2",
+            "complete_edition": "2ª ed.",
+            "network_number": [
+                "(OCoLC)920225385",
+                "a4517138",
+                "(esseubg)b25518999-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2009",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011641329704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-2-35648-097-2.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011641329704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011648469704987",
+            "title": "Batman knighfall.",
+            "author": "Moench, Doug",
+            "isbn": "978-1401233792",
+            "network_number": [
+                "(OCoLC)929595843",
+                "(esseubg)b25545206-34cbua_us"
+            ],
+            "place_of_publication": "New York :",
+            "date_of_publication": "2012",
+            "publisher_const": "DC Comics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011648469704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-1401233792.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011648469704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011654599704987",
+            "title": "Supreme/",
+            "author": "Moore, Alan,",
+            "isbn": "9788499087597 (v.2)",
+            "network_number": [
+                "(OCoLC)929601199",
+                "(esseubg)b25566763-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2011-",
+            "publisher_const": "Debolsillo,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011654599704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788499087597 (v.2).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011654599704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011659199704987",
+            "title": "Daredevil, el hombre sin miedo : cazadores /",
+            "author": "Miller, Frank,",
+            "isbn": "9788498851632",
+            "network_number": [
+                "(OCoLC)929601622",
+                "(esseubg)b25571643-34cbua_us"
+            ],
+            "place_of_publication": "Girona :",
+            "date_of_publication": "2007",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011659199704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788498851632.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011659199704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011659259704987",
+            "title": "Daredevil : acabado /",
+            "author": "Miller, Frank,",
+            "isbn": "9788498853650",
+            "network_number": [
+                "(OCoLC)929601714",
+                "(esseubg)b25571709-34cbua_us"
+            ],
+            "place_of_publication": "B arcelona :",
+            "date_of_publication": "2009",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011659259704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788498853650.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011659259704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011659299704987",
+            "title": "Daredevil, el hombre sin miedo : condenados /",
+            "author": "Miller, Frank,",
+            "isbn": "9788498852486",
+            "network_number": [
+                "(OCoLC)929601844",
+                "(esseubg)b25571746-34cbua_us"
+            ],
+            "place_of_publication": "Girona :",
+            "date_of_publication": "2007",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011659299704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788498852486.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011659299704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011659329704987",
+            "title": "Nuevos X-Men /",
+            "author": "Morrison, Grant",
+            "isbn": "9788496874411 (V. 7)",
+            "network_number": [
+                "(OCoLC)434464072"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2006",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011659329704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788496874411 (V. 7).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011659329704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011721189704987",
+            "title": "The invisibles omnibus /",
+            "author": "Morrison, Grant",
+            "isbn": "9781401234591",
+            "network_number": [
+                "(OCoLC)929659689"
+            ],
+            "place_of_publication": "New York :",
+            "date_of_publication": "2012",
+            "publisher_const": "Vértigo,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011721189704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9781401234591.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011721189704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011755129704987",
+            "title": "La isla de los cien mil muertos /",
+            "author": "Jason",
+            "isbn": "9788415163961",
+            "network_number": [
+                "(OCoLC)870177515",
+                "REBIUN6837642",
+                "(esseubg)b25971748-34cbua_us"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2013",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011755129704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788415163961.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011755129704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011755139704987",
+            "title": "El último mosquetero /",
+            "author": "Jason",
+            "isbn": "978-84-96815-71-1",
+            "network_number": [
+                "(OCoLC)434120689",
+                "REBIUN4018171",
+                "(esseubg)b2597175x-34cbua_us"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2008",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011755139704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-96815-71-1.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011755139704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011900159704987",
+            "title": "Batman : all-star /",
+            "author": "Miller, Frank,",
+            "isbn": "9788415925613",
+            "network_number": [
+                "(OCoLC)920320052",
+                "(esseubg)b26368730-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2013",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011900159704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788415925613.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011900159704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011912099704987",
+            "title": "Legado /",
+            "author": "Abnett, Dan",
+            "isbn": "978-84-9885-156-4",
+            "network_number": [
+                "(OCoLC)868735479",
+                "a4765850",
+                "(esseubg)b26381333-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "2008",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011912099704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9885-156-4.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011912099704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011930019704987",
+            "title": "Hechizo total /",
+            "author": "Hanselmann, Simon,",
+            "isbn": "978-84-16167-00-5",
+            "complete_edition": "2ª ed.",
+            "network_number": [
+                "(OCoLC)1026262522",
+                "a5574338",
+                "(esseubg)b2641403x-34cbua_us"
+            ],
+            "place_of_publication": "[Logroño] :",
+            "date_of_publication": "2014",
+            "publisher_const": "Fulgencio Pimentel,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930019704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-16167-00-5.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930019704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011930089704987",
+            "title": "Puño de hierro /",
+            "author": "Thomas, Roy,",
+            "isbn": "9788490249598",
+            "network_number": [
+                "(OCoLC)903107885",
+                "(esseubg)b26414119-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2014",
+            "publisher_const": "Panini",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930089704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788490249598.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930089704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011930099704987",
+            "title": "Dios ama, el hombre mata /",
+            "author": "Claremont, Chris,",
+            "isbn": "978-84-9024-532-3",
+            "network_number": [
+                "(OCoLC)870169773",
+                "a5458415",
+                "(esseubg)b26414120-34cbua_us"
+            ],
+            "place_of_publication": "[Torroella de Montgrí, Gerona] : Santa Perpètua de Mogoda, Barcelona :",
+            "date_of_publication": "2013",
+            "publisher_const": "Panini Comics",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930099704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9024-532-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930099704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011930109704987",
+            "title": "Alpha Flight /",
+            "author": "Byrne, John,",
+            "isbn": "978-84-9024-886-7",
+            "network_number": [
+                "(OCoLC)898022072",
+                "a5575907",
+                "(esseubg)b26414132-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona : Barcelona :",
+            "date_of_publication": "D.L. 2014",
+            "publisher_const": "Panini España",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930109704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9024-886-7.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930109704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011930119704987",
+            "title": "La Patrulla-X : no más humanos /",
+            "author": "Carey, Mike,",
+            "isbn": "978-84-9024-699-3",
+            "network_number": [
+                "(OCoLC)894646325",
+                "a5552524",
+                "(esseubg)b26414144-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "D.L. 2014",
+            "publisher_const": "Panini Comics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930119704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9024-699-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930119704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011940749704987",
+            "title": "Watchmen /",
+            "author": "Moore, Alan,",
+            "isbn": "9788416194803",
+            "complete_edition": "3a. ed.",
+            "network_number": [
+                "(OCoLC)929754073",
+                "(esseubg)b26425191-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2014",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011940749704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788416194803.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011940749704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991011978179704987",
+            "title": "Sandman. preludios y nocturnos /",
+            "author": "Gaiman, Neil",
+            "isbn": "9788416194377",
+            "network_number": [
+                "(OCoLC)1055566518",
+                "a5432428",
+                "(esseubg)b26499277-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2014",
+            "publisher_const": "ECC",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011978179704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788416194377.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991011978179704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012041079704987",
+            "title": "The league of extraordinary gentlemen.",
+            "author": "Moore, Alan,",
+            "isbn": "9788467439960",
+            "network_number": [
+                "(OCoLC)930847012",
+                "REBIUN7172398",
+                "(esseubg)b26583148-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2007",
+            "publisher_const": "Planeta de Agostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012041079704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467439960.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012041079704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012073329704987",
+            "title": "Daredevil : Born again /",
+            "author": "Miller, Frank",
+            "isbn": "978-84-9885-475-6",
+            "network_number": [
+                "(OCoLC)920289069",
+                "a4879736",
+                "(esseubg)b26621496-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona : Barcelona :",
+            "date_of_publication": "D.L. 2010",
+            "publisher_const": "Panini España",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012073329704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9885-475-6.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012073329704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012379719704987",
+            "title": "Sherlock Holmes y el legado de Moriarty /",
+            "author": "Colomino, Sergio",
+            "isbn": "978-84-679-2477-0",
+            "network_number": [
+                "(OCoLC)961103252",
+                "(esseubg)b27254161-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2016",
+            "publisher_const": "Norma editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379719704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-679-2477-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379719704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012379729704987",
+            "title": "Sherlock Holmes y la conspiración de Barcelona /",
+            "author": "Colomino, Sergio",
+            "isbn": "978-84-679-0887-9",
+            "complete_edition": "2a. edición",
+            "network_number": [
+                "(OCoLC)794619660",
+                "(esseubg)b27254173-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2012",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379729704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-679-0887-9.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379729704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012379789704987",
+            "title": "Sherlock Holmes Society.",
+            "author": "Cordurié, Sylvain,",
+            "isbn": "978-84-16428-52-6",
+            "network_number": [
+                "(OCoLC)971792347",
+                "(esseubg)b27254239-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2016-",
+            "publisher_const": "Yermo,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379789704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-16428-52-6.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379789704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012379819704987",
+            "title": "Sherlock Holmes Society.",
+            "author": "Cordurié, Sylvain,",
+            "isbn": "978-84-16428-67-0",
+            "network_number": [
+                "(OCoLC)971785655",
+                "(esseubg)b27254264-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2016",
+            "publisher_const": "Yermo,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379819704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-16428-67-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379819704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012379829704987",
+            "title": "Los Cuatro de Baker Street /",
+            "author": "Legrand, Olivier,",
+            "isbn": "978-84-16428-47-2 (v. 2)",
+            "network_number": [
+                "(OCoLC)927720446",
+                "(SpMaBN)a5682936",
+                "(esseubg)b27254276-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2016",
+            "publisher_const": "Yermo",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379829704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-16428-47-2 (v. 2).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379829704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012437149704987",
+            "title": "Isaac el Pirata.",
+            "author": "Blain, Christophe,",
+            "isbn": "978-84-8431-733-3",
+            "network_number": [
+                "(OCoLC)63519683",
+                "(esseubg)b27426920-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2003",
+            "publisher_const": "Norma Editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437149704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-8431-733-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012437149704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012437229704987",
+            "title": "Orquídea negra /",
+            "author": "Gaiman, Neil",
+            "isbn": "9788416840441",
+            "network_number": [
+                "(OCoLC)7203868",
+                "(esseubg)b27427006-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2016",
+            "publisher_const": "ECC Ediciones,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437229704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788416840441.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012437229704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012440739704987",
+            "title": "Masks /",
+            "author": "Roberson, Chris,",
+            "isbn": "978-84-16074-70-9",
+            "network_number": [
+                "(OCoLC)927775787",
+                "(SpMaBN)a5693268",
+                "(esseubg)b27430649-34cbua_us"
+            ],
+            "place_of_publication": "Mareny de Barraquetes, Valencia :",
+            "date_of_publication": "2015",
+            "publisher_const": "Aleta,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012440739704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-16074-70-9.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012440739704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012504489704987",
+            "title": "Los dientes de la eternidad /",
+            "author": "García, Jorge",
+            "isbn": "9788467922561",
+            "network_number": [
+                "(OCoLC)951910895",
+                "(esseubg)b27586650-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2016",
+            "publisher_const": "Norma Editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012504489704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467922561.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012504489704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012613689704987",
+            "title": "Destino : una novela en imágenes /",
+            "author": "Nückel, Otto,",
+            "isbn": "978-84-942922-6-2",
+            "network_number": [
+                "(OCoLC)931023358",
+                "(SpMaBN)a5719451",
+                "(esseubg)b27942429-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona ; Buenos Aires :",
+            "date_of_publication": "D.L. 2015",
+            "publisher_const": "Sans Soleil,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012613689704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-942922-6-2.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012613689704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012648579704987",
+            "title": "Cortomaltés : Equatoria /",
+            "author": "Díaz Canales, Juan",
+            "isbn": "9788467928785",
+            "network_number": [
+                "(OCoLC)1004729502",
+                "(esseubg)b28057843-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2017",
+            "publisher_const": "Norma Editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012648579704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467928785.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012648579704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012673709704987",
+            "title": "Tom a Los Ángeles /",
+            "author": "Torres, Daniel,",
+            "isbn": "84-7904-887-5",
+            "network_number": [
+                "(OCoLC)733596222"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1999",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012673709704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-7904-887-5.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012673709704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012855569704987",
+            "title": "La chica murciélago de Burnside /",
+            "author": "Stewart, Cameron",
+            "isbn": "978-84-16475-58-2",
+            "network_number": [
+                "(OCoLC)1322937746",
+                "(esseubg)b2850625x-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2015",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012855569704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-16475-58-2.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012855569704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012855659704987",
+            "title": "Saint Seiya.",
+            "author": "Kurumada, Masami",
+            "isbn": "9788416401901",
+            "network_number": [
+                "(OCoLC)988061260",
+                "(esseubg)b28506340-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1985",
+            "publisher_const": "Planeta,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012855659704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788416401901.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012855659704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012861199704987",
+            "title": "Jessica Jones. [Alias] /",
+            "author": "Bendis, Brian Michael",
+            "isbn": "9788490944899",
+            "network_number": [
+                "(esseubg)b28512017-34cbua_us"
+            ],
+            "place_of_publication": "Torroella de Montgrí :",
+            "date_of_publication": "DL 2015",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012861199704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788490944899.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012861199704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012875059704987",
+            "title": "Hora de aventuras /",
+            "author": "Ward, Pendleton",
+            "isbn": "9788467912852 (Vol. 3)",
+            "network_number": [
+                "(OCoLC)907080762",
+                "(esseubg)b28526144-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2012",
+            "publisher_const": "Norma editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012875059704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467912852 (Vol. 3).jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012875059704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012914029704987",
+            "title": "Jack Kirby, centenario /",
+            "author": "Davis, Shane",
+            "isbn": "9788417316389",
+            "network_number": [
+                "(OCoLC)1322951767",
+                "(esseubg)b2856618x-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2018",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012914029704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788417316389.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012914029704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991012915569704987",
+            "title": "Astérix en Hispania /",
+            "author": "Goscinny,",
+            "isbn": "978-84-471-1711-6",
+            "network_number": [
+                "(OCoLC)1322859843",
+                "(esseubg)b28567766-34cbua_us"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2010",
+            "publisher_const": "Salvat,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012915569704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-471-1711-6.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991012915569704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013104008904987",
+            "title": "Genpet /",
+            "author": "Damián",
+            "isbn": "978-84-17294-23-6",
+            "network_number": [
+                "(OCoLC)1034909464",
+                "(SpMaBN)a6148275"
+            ],
+            "place_of_publication": "Madrid",
+            "date_of_publication": "D.L. 2018",
+            "publisher_const": "Dibbuks",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013104008904987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-17294-23-6.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013104008904987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013147808004987",
+            "title": "Sandman 1 : preludios y nocturnos /",
+            "author": "Gaiman, Neil",
+            "isbn": "9788417612955",
+            "complete_edition": "Sexta edición",
+            "network_number": [
+                "(OCoLC)1027832591"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2018",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013147808004987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788417612955.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013147808004987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013148308904987",
+            "title": "La Visión /",
+            "author": "King, Tom",
+            "isbn": "9788491673569",
+            "network_number": [
+                "(OCoLC)1039984651"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2018",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013148308904987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788491673569.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013148308904987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013149899004987",
+            "title": "Batman : year one /",
+            "author": "Miller, Frank,",
+            "isbn": "9781401272944",
+            "complete_edition": "Deluxe edition",
+            "network_number": [
+                "(OCoLC)1322906025"
+            ],
+            "place_of_publication": "Burbank, CA :",
+            "date_of_publication": "[2017]",
+            "publisher_const": "DC Comics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013149899004987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9781401272944.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013149899004987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013150099704987",
+            "title": "Watchmen /",
+            "author": "Moore, Alan",
+            "isbn": "9788415844723",
+            "network_number": [
+                "(OCoLC)1322882102"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2013",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013150099704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788415844723.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013150099704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013203008704987",
+            "title": "Blackhand Ironhead /",
+            "author": "López, David",
+            "isbn": "978-84-16880-95-9",
+            "network_number": [
+                "(OCoLC)1123058843"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2019",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013203008704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-16880-95-9.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013203008704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013203008804987",
+            "title": "La noche polar /",
+            "author": "Prior, Marcos",
+            "isbn": "978-84-17575-01-4",
+            "network_number": [
+                "(OCoLC)1090542056"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2019",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013203008804987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-17575-01-4.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013203008804987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013207209804987",
+            "title": "Campus Cómic : Certamen universitario de cómic y novela gráfica /",
+            "isbn": "9788417776640",
+            "network_number": [
+                "(OCoLC)1148229562"
+            ],
+            "place_of_publication": "Huelva :",
+            "date_of_publication": "2019",
+            "publisher_const": "Universidad de Huelva, Campus Cómic, Área de Cultura,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013207209804987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788417776640.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013207209804987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013250809504987",
+            "title": "Rusty Brown /",
+            "author": "Ware, Chris",
+            "isbn": "9788417910044",
+            "network_number": [
+                "(OCoLC)1080588667"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2019",
+            "publisher_const": "Penguin Random House,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013250809504987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788417910044.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013250809504987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013319690304987",
+            "title": "V de Vendetta /",
+            "author": "Moore, Alan",
+            "isbn": "9788417908362",
+            "complete_edition": "10ª ed.",
+            "network_number": [
+                "(OCoLC)1322969808"
+            ],
+            "place_of_publication": "US :",
+            "date_of_publication": "2020",
+            "publisher_const": "ECC : Black Label,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013319690304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788417908362.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013319690304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013324395104987",
+            "title": "Lobezno en la Guerra Civil española : sangre, arena y garras /",
+            "author": "Hama, Larry",
+            "isbn": "9788491676218",
+            "complete_edition": "1ª ed.",
+            "network_number": [
+                "(OCoLC)1322858634",
+                "(ES-MaREB)Rebiun22249149"
+            ],
+            "place_of_publication": "Torroella, Girona :",
+            "date_of_publication": "2018.",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013324395104987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788491676218.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013324395104987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013324395204987",
+            "title": "El Testamento de Magneto /",
+            "author": "Pak, Greg,",
+            "isbn": "9788491670926",
+            "network_number": [
+                "(OCoLC)1322908583"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "[2017]",
+            "publisher_const": "Panini Comics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013324395204987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788491670926.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013324395204987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013324395304987",
+            "title": "El Asombroso Spiderman: el peligro de las drogas /",
+            "author": "Lee, Stan,",
+            "isbn": "9788491678571",
+            "network_number": [
+                "(OCoLC)1322938180"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "[2018]",
+            "publisher_const": "Evolution Comics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013324395304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788491678571.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013324395304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013326603304987",
+            "title": "Cuttlas",
+            "author": "Calpurnio",
+            "isbn": "9788466337663",
+            "complete_edition": "1ª ed.",
+            "network_number": [
+                "(OCoLC)1005715739",
+                "(SpMaBN)a6017221"
+            ],
+            "place_of_publication": "Barcelona",
+            "date_of_publication": "2017",
+            "publisher_const": "Debolsillo",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013326603304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788466337663.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013326603304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013327609404987",
+            "title": "La cosa del pantano  /",
+            "author": "Moore, Alan (",
+            "isbn": "9788417665609 (",
+            "network_number": [
+                "(OCoLC)1322986004"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2018-2019.",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013327609404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788417665609 (.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013327609404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013364908704987",
+            "title": "Cortomaltés /",
+            "author": "Pratt, Hugo,",
+            "isbn": "8496389162",
+            "complete_edition": "ed. especial / realizada con la colaboración de Panini Comics",
+            "network_number": [
+                "(OCoLC)1322892473"
+            ],
+            "place_of_publication": "[Torroella de Montgrí] : [Bélgica] :",
+            "date_of_publication": "[2004]",
+            "publisher_const": "Panini Comics ;",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013364908704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/8496389162.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013364908704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013365003104987",
+            "title": "El buscón en las Indias /",
+            "author": "Ayroles, Alain",
+            "isbn": "9788467940787",
+            "complete_edition": "segunda edición",
+            "network_number": [
+                "(OCoLC)1196834970"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2021",
+            "publisher_const": "Norma Editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013365003104987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467940787.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013365003104987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013369206004987",
+            "title": "Las aventuras de Tontón, Ida de olla  /",
+            "author": "Moya Camacho, Antonio",
+            "complete_edition": "Edición de autor",
+            "network_number": [
+                "(OCoLC)1322906612"
+            ],
+            "place_of_publication": "Sevilla :",
+            "date_of_publication": "2016",
+            "publisher_const": "Imprenta Gallardo,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013369206004987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013369206004987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013369206104987",
+            "title": "Makoki presenta El Pase y fuga en la Modelo /",
+            "author": "Gallardo, Miguel,",
+            "isbn": "8485733126",
+            "complete_edition": "4ª ed.",
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1989",
+            "publisher_const": "La Cúpula,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013369206104987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/8485733126.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013369206104987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013369206204987",
+            "title": "Las aventuras de Tintín, reportero del \"Petit Vingtième\" en el país de los soviets /",
+            "author": "Hergé",
+            "isbn": "84-261-1988-3",
+            "complete_edition": "[2ª ed.]",
+            "network_number": [
+                "(OCoLC)920250298",
+                "(SpMaBN)bimo0000225230"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "1984",
+            "publisher_const": "Juventud,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013369206204987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-261-1988-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013369206204987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013405269404987",
+            "title": "Asterix tras las huellas del grifo /",
+            "author": "Goscinny, René,",
+            "isbn": "9788469663875",
+            "network_number": [
+                "(OCoLC)1322885263"
+            ],
+            "place_of_publication": "Madrid :",
+            "date_of_publication": "2021",
+            "publisher_const": "Bruño,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013405269404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788469663875.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013405269404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013406969704987",
+            "title": "Black Hammer. orígenes secretos /",
+            "author": "Lemire, Jeff",
+            "isbn": "978-84-16880-21-8",
+            "complete_edition": "Tercera edición",
+            "network_number": [
+                "(SpMaBN)a6131674"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2018",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013406969704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-16880-21-8.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013406969704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013411879104987",
+            "title": "Alerta Bécquer /",
+            "author": "Guíu, Raúl",
+            "isbn": "9788494848414",
+            "network_number": [
+                "(OCoLC)1130290580"
+            ],
+            "place_of_publication": "Zaragoza :",
+            "date_of_publication": "2021",
+            "publisher_const": "GP Ediciones,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879104987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788494848414.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879104987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013411879504987",
+            "title": "Superman. el hombe de acero /",
+            "author": "Byrne, John,",
+            "isbn": "9788416660582",
+            "network_number": [
+                "(OCoLC)31607938"
+            ],
+            "place_of_publication": "[s.l.] :",
+            "date_of_publication": "2016",
+            "publisher_const": "ECC Ediciones,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879504987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788416660582.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879504987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013411879604987",
+            "title": "El Sombra : el día del sacrificio /",
+            "author": "Molina, Edu,",
+            "isbn": "978-84-948484-5-2",
+            "network_number": [
+                "(OCoLC)1322935453"
+            ],
+            "place_of_publication": "Zaragoza :",
+            "date_of_publication": "[2019]",
+            "publisher_const": "GP Ediciones,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879604987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-948484-5-2.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879604987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013411879704987",
+            "title": "El asombroso Spiderman /",
+            "author": "Spencer, Nick",
+            "isbn": "9770005339009",
+            "network_number": [
+                "(OCoLC)743733726"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2019",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9770005339009.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013411879904987",
+            "title": "Madre pánico : un proyecto en marcha /",
+            "author": "Houser, Jody",
+            "isbn": "978-84-17401-74-0",
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2018",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879904987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-17401-74-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879904987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013421289304987",
+            "title": "Devilman, the first /",
+            "author": "Nagai, Gō,",
+            "isbn": "9788413340715",
+            "network_number": [
+                "(OCoLC)1322896861"
+            ],
+            "place_of_publication": "Torroella de Montrí (Girona)",
+            "date_of_publication": "2019",
+            "publisher_const": "Panini Manga,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013421289304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788413340715.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013421289304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013434393304987",
+            "title": "Espada /",
+            "author": "Colazo, Anabel",
+            "isbn": "9788418809170",
+            "network_number": [
+                "(OCoLC)7883024"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2022",
+            "publisher_const": "La Cúpula,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434393304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788418809170.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434393304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013439620104987",
+            "title": "El conde de Montecristo /",
+            "author": "Chan, Crystal S.,",
+            "isbn": "978-84-679-3196-9",
+            "network_number": [
+                "(OCoLC)1059564430"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2018",
+            "publisher_const": "Norma Editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620104987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-679-3196-9.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620104987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013440623304987",
+            "title": "Stranger things : Dungeons and Dragons /",
+            "author": "Houser, Jody",
+            "isbn": "9788467947014",
+            "complete_edition": "Primera edición, octubre de 2021",
+            "network_number": [
+                "(OCoLC)1322902755"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "[2021]",
+            "publisher_const": "Norma Comic ,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440623304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467947014.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440623304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013440623404987",
+            "title": "The Magic Order /",
+            "author": "Millar, Mark,",
+            "isbn": "9788491678793",
+            "network_number": [
+                "(OCoLC)1322884313"
+            ],
+            "place_of_publication": "[Torroella de Montgrí, Girona] :",
+            "date_of_publication": "[2019]",
+            "publisher_const": "Panini Comics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440623404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788491678793.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440623404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013440624404987",
+            "title": "Bribones.",
+            "author": "El Torres,",
+            "isbn": "978-84-16507-87-0",
+            "network_number": [
+                "(OCoLC)1322958273",
+                "(SpMaBN)a6174709"
+            ],
+            "place_of_publication": "Madrid",
+            "date_of_publication": "2017",
+            "publisher_const": "Dibbuks",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440624404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-16507-87-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440624404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013440624704987",
+            "title": "Bribones.",
+            "author": "El Torres,",
+            "isbn": "978-84-15850-63-2",
+            "complete_edition": "Primera ed. en castellano",
+            "network_number": [
+                "(OCoLC)1322906762",
+                "(SpMaBN)a5622883"
+            ],
+            "place_of_publication": "Madrid",
+            "date_of_publication": "2015",
+            "publisher_const": "Dibbuks",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440624704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-15850-63-2.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440624704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013440625504987",
+            "title": "El cazador cazado /",
+            "author": "Moebius,",
+            "isbn": "9788467910070",
+            "complete_edition": "1ª edición diciembre 2012",
+            "network_number": [
+                "(OCoLC)864120930",
+                "(ES-GrU)b21923383-34cbua_ugr"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2012",
+            "publisher_const": "Norma Editorial ,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440625504987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467910070.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440625504987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013441114704987",
+            "title": "Marvels : must-have /",
+            "author": "Busiek, Kurt,",
+            "isbn": "9788411010382",
+            "network_number": [
+                "(OCoLC)32158367"
+            ],
+            "place_of_publication": ":",
+            "date_of_publication": "2021",
+            "publisher_const": "Panini España,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441114704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788411010382.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441114704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013441117004987",
+            "title": "The black holes /",
+            "author": "González, Borja",
+            "isbn": "9788418897344",
+            "complete_edition": "Primera edición con esta encuadernación: abril de 2022",
+            "network_number": [
+                "(OCoLC)1322947264"
+            ],
+            "place_of_publication": "[Barcelona]",
+            "date_of_publication": "2022",
+            "publisher_const": "Penguin Random House,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441117004987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788418897344.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441117004987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013441221704987",
+            "title": "Dos espíritus /",
+            "author": "Alba, Tyto,",
+            "isbn": "978-84-15685-01-2",
+            "network_number": [
+                "(OCoLC)859521789"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2013",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441221704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-15685-01-2.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441221704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013452617004987",
+            "title": "Bone /",
+            "author": "Smith, Jeff,",
+            "isbn": "978-84-18215-10-0",
+            "complete_edition": "[Edición] integral en color",
+            "network_number": [
+                "(OCoLC)1235949277"
+            ],
+            "place_of_publication": "Bilbao",
+            "date_of_publication": "2020",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452617004987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-18215-10-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452617004987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013452619504987",
+            "title": "V de V Vendetta /",
+            "author": "Moore, Alan,",
+            "isbn": "9788418326936",
+            "network_number": [
+                "(OCoLC)793082452"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2013",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452619504987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788418326936.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452619504987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013461021004987",
+            "title": "Policán /",
+            "author": "Pilkey, Dav,",
+            "isbn": "9788467594454",
+            "complete_edition": "Octava edición, mayo de 2021",
+            "network_number": [
+                "(OCoLC)1322950581"
+            ],
+            "place_of_publication": "Madrid :",
+            "date_of_publication": "2021",
+            "publisher_const": "SM,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013461021004987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467594454.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013461021004987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013476572404987",
+            "title": "Bouncer. un diamante para el más allá /",
+            "author": "Jodorowsky, Alejandro,",
+            "isbn": "9788467950663",
+            "complete_edition": "Edición integral",
+            "network_number": [
+                "(OCoLC)1322866917"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2022",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013476572404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467950663.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013476572404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013481666804987",
+            "title": "Miles Morales : shock waves /",
+            "author": "Reynolds, Justin A.",
+            "isbn": "9788413349732",
+            "network_number": [
+                "(OCoLC)1287888009"
+            ],
+            "place_of_publication": "Girona :",
+            "date_of_publication": "2021",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013481666804987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788413349732.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013481666804987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013481672404987",
+            "title": "Imperio secreto : [integral] /",
+            "author": "Spencer, Nick",
+            "isbn": "9788411013635",
+            "network_number": [
+                "(OCoLC)1322985615"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2022",
+            "publisher_const": "Panini Cómics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013481672404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788411013635.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013481672404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013487771304987",
+            "title": "Long John Silver /",
+            "author": "Dorison, Xavier",
+            "isbn": "9788467913736",
+            "network_number": [
+                "(OCoLC)1426937338"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2015",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013487771304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467913736.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013487771304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013599850404987",
+            "title": "Lore Olympus : cuentos del Olimpo : Libro uno  /",
+            "author": "Smythe, Rachel",
+            "isbn": "9788418040306",
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2022",
+            "publisher_const": "Random Comics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013599850404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788418040306.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013599850404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013623301804987",
+            "title": "El Jabato.",
+            "author": "Mora, Víctor,",
+            "isbn": "9788468459516",
+            "complete_edition": "Edición 60 aniversario",
+            "network_number": [
+                "(OCoLC)1426939232"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2018",
+            "publisher_const": "Editorial Planeta de Agostini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013623301804987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788468459516.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013623301804987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013627502104987",
+            "title": "En un cielo lejano /",
+            "author": "Pratt, Hugo,",
+            "isbn": "9788479043568",
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2000",
+            "publisher_const": "Norma Editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627502104987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788479043568.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013627502104987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013627901304987",
+            "title": "La estampida del oro /",
+            "author": "Lach, John",
+            "isbn": "84-85529-11-1",
+            "place_of_publication": "Madrid :",
+            "date_of_publication": "D.L. 1979",
+            "publisher_const": "Esco",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627901304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-85529-11-1.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013627901304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013628705004987",
+            "title": "Lore Olympus : Cuentos del Olimpo : Libro 2 /",
+            "author": "Smythe, Rachel",
+            "isbn": "9788418040122",
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2022",
+            "publisher_const": "Randon Comics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013628705004987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788418040122.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013628705004987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013655505704987",
+            "title": "La patrulla condenada",
+            "author": "Morrison, Grant,",
+            "isbn": "978-84-18475-52-8",
+            "network_number": [
+                "(OCoLC)1369606806",
+                "(SpMaBN)a6677511"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "[2019]",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013655505704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-18475-52-8.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013655505704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013655797404987",
+            "title": "El fuego /",
+            "author": "David Rubín,",
+            "isbn": "9788418909511",
+            "network_number": [
+                "(OCoLC)1356523434"
+            ],
+            "place_of_publication": "Bilbao:",
+            "date_of_publication": "2022",
+            "publisher_const": "Astiberri,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013655797404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788418909511.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013655797404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013666503404987",
+            "title": "Murder Falcon /",
+            "author": "Johnson, Daniel Warren,",
+            "isbn": "978-84-19351-76-0",
+            "network_number": [
+                "(OCoLC)1350504495",
+                "(SpMaBN)a7171380"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "[2022]",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-19351-76-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013666503504987",
+            "title": "All-Star, Superman /",
+            "author": "Morrison, Grant,",
+            "isbn": "978-84-18326-78-3",
+            "network_number": [
+                "(OCoLC)1300735513",
+                "(SpMaBN)a7046295"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2020",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503504987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-18326-78-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503504987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013666503704987",
+            "title": "El rayo mortal /",
+            "author": "Clowes, Daniel,",
+            "isbn": "9788418897689",
+            "network_number": [
+                "(OCoLC)1363017686"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2022",
+            "publisher_const": "Reservoir Books,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788418897689.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013666697904987",
+            "title": "Leñadoras : un plan terrible /",
+            "author": "Stevenson, ND",
+            "isbn": "9788494506390",
+            "network_number": [
+                "(OCoLC)1363018025",
+                "(ES-BaLIB)9788494616754"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2017",
+            "publisher_const": "Sapristi,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666697904987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788494506390.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666697904987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013666698004987",
+            "title": "Leñadoras : cuidado con el gatete sagrado",
+            "author": "Stevenson, ND,",
+            "isbn": "978-84-944257-7-6",
+            "network_number": [
+                "(OCoLC)1363021306",
+                "(SpMaBN)a6011554"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2016",
+            "publisher_const": "Roca",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666698004987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-944257-7-6.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666698004987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013666698104987",
+            "title": "Leñadoras : todas a una /",
+            "author": "Stevenson, ND",
+            "isbn": "978-84-946167-8-5",
+            "network_number": [
+                "(OCoLC)1285937240",
+                "(SpMaBN)a6241555"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2018",
+            "publisher_const": "Sapristi,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666698104987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-946167-8-5.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666698104987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013674902804987",
+            "title": "Totem.",
+            "network_number": [
+                "(OCoLC)1366114485"
+            ],
+            "place_of_publication": "Madrid :",
+            "date_of_publication": "[1980]",
+            "publisher_const": "Nueva Frontera,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674902804987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674902804987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013674902904987",
+            "title": "Totem.",
+            "isbn": "978",
+            "network_number": [
+                "(OCoLC)1366113476"
+            ],
+            "place_of_publication": "Madrid :",
+            "date_of_publication": "[1981]",
+            "publisher_const": "Nueva Frontera,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674902904987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674902904987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013675403804987",
+            "title": "Maestros /",
+            "author": "Skroce, Steve,",
+            "isbn": "978-84-679-3646-9",
+            "network_number": [
+                "(OCoLC)1369605832"
+            ],
+            "place_of_publication": "Barcelona:",
+            "date_of_publication": "2019",
+            "publisher_const": "Norma Editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013675403804987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-679-3646-9.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013675403804987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013687105004987",
+            "title": "Decorum /",
+            "author": "Hickman, Jonathan,",
+            "isbn": "978-84-679-5206-3",
+            "network_number": [
+                "(OCoLC)1346656329"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2022",
+            "publisher_const": "Norma,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013687105004987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-679-5206-3.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013687105004987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013736899804987",
+            "title": "Nadie regresa al bosque encantado /",
+            "author": "Robinson, Robin",
+            "isbn": "9788411408554",
+            "network_number": [
+                "(OCoLC)1390555034"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2023",
+            "publisher_const": "Planeta Cómic,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013736899804987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788411408554.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013736899804987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013736899904987",
+            "title": "Los increíbles antiadolescentes /",
+            "author": "Lemire, Jeff",
+            "isbn": "9788419670045",
+            "network_number": [
+                "(OCoLC)1390555544"
+            ],
+            "place_of_publication": "Bilbao :",
+            "date_of_publication": "2023",
+            "publisher_const": "Astiberri Ediciones,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013736899904987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788419670045.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013736899904987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013739602104987",
+            "title": "Batman R.I.P. : la saga completa /",
+            "author": "Morrison, Grant,",
+            "isbn": "978-84-19021-12-0",
+            "network_number": [
+                "(OCoLC)1322827568",
+                "(SpMaBN)a7113703"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2021",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013739602104987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-19021-12-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013739602104987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013740604804987",
+            "title": "Flex Mentallo : el justiciero musculoso /",
+            "author": "Morrison, Grant,",
+            "isbn": "978-84-18026-79-9",
+            "network_number": [
+                "(OCoLC)1224986893",
+                "(SpMaBN)a6741477"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "[2019]",
+            "publisher_const": "ECC Ediciones,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013740604804987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-18026-79-9.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013740604804987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013753402604987",
+            "title": "The boys : Integral.",
+            "author": "Ennis, Garth",
+            "isbn": "9788467911381",
+            "network_number": [
+                "(OCoLC)1397530674"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2013",
+            "publisher_const": "Norma editorial,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013753402604987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788467911381.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013753402604987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013759801304987",
+            "title": "Los fabulosos Freak Brothers, la vuelta al mundo /",
+            "author": "Shelton, Gilbert",
+            "isbn": "84-7833-237-5",
+            "complete_edition": "[4ª ed.]",
+            "network_number": [
+                "(OCoLC)433920083",
+                "(SpMaBN)Mimo0002112432"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2005",
+            "publisher_const": "La Cúpula,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013759801304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/84-7833-237-5.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013759801304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013764100404987",
+            "title": "El misterio de la Sagrada Familia /",
+            "author": "Castelli, Alfredo",
+            "isbn": "978-84-96992-52-8",
+            "network_number": [
+                "(OCoLC)1407259954",
+                "(SpMaBN)a5384851"
+            ],
+            "place_of_publication": "Mareny de Barraquetes, Sueca, Valencia :",
+            "date_of_publication": "[2011]",
+            "publisher_const": "Aleta,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764100404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-96992-52-8.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764100404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013780203404987",
+            "title": "Miracleman 3 : Olimpo /",
+            "author": "Anglo, Mick,",
+            "isbn": "978-8490942055",
+            "network_number": [
+                "(OCoLC)971712742"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "2015",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013780203404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-8490942055.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013780203404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013780203504987",
+            "title": "Miracleman. El síndrome del rey rojo /",
+            "author": "Anglo, Mick,",
+            "isbn": "978-84-9094-073-0",
+            "network_number": [
+                "(OCoLC)1410582944",
+                "(SpMaBN)a5636532"
+            ],
+            "place_of_publication": "Torroella de Montgrí, Girona :",
+            "date_of_publication": "2015",
+            "publisher_const": "Panini Cómics,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013780203504987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-9094-073-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013780203504987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013780203604987",
+            "title": "Miracleman. el sueño de volar /",
+            "author": "Anglo, Mick,",
+            "isbn": "9788411501019",
+            "network_number": [
+                "(OCoLC)1410582342"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2022",
+            "publisher_const": "Panini,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013780203604987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788411501019.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013780203604987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013784402704987",
+            "title": "Los archivos de The Spirit /",
+            "author": "Eisner, Will,",
+            "isbn": "9788484314660",
+            "complete_edition": "Tercera edición: octubre de 2008",
+            "network_number": [
+                "(Sirsi) 792990",
+                "(UAM)792990",
+                "792990-34uam_inst"
+            ],
+            "place_of_publication": "[Barcelona] :",
+            "date_of_publication": "2008",
+            "publisher_const": "Norma",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013784402704987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788484314660.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013784402704987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013794005404987",
+            "title": "El juego de las golondrinas : morir partir regresar /",
+            "author": "Abirached, Zeina,",
+            "isbn": "9788418347689",
+            "complete_edition": "Primera edición: junio de 2022",
+            "network_number": [
+                "(OCoLC)434065482",
+                "(Sirsi) 998973",
+                "(UAM)998973",
+                "998973-34uam_inst"
+            ],
+            "place_of_publication": "[Barcelona] :",
+            "date_of_publication": "2022",
+            "publisher_const": "Salamadra Graphic",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013794005404987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788418347689.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013794005404987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013801103304987",
+            "title": "Punto cero /",
+            "author": "Gage, Christos ,",
+            "isbn": "978-8418862021",
+            "complete_edition": "Septiembre 2021",
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2021",
+            "publisher_const": "ECC Ediciones,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013801103304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-8418862021.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013801103304987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013805805604987",
+            "title": "Works. el arte de Victor Santos /",
+            "author": "Santos, Victor",
+            "isbn": "9788496706644",
+            "network_number": [
+                "(OCoLC)1416737798"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2007",
+            "publisher_const": "Dolmen,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805805604987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788496706644.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805805604987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013807405204987",
+            "title": "Joe el bárbaro /",
+            "author": "Morrison, Grant,",
+            "isbn": "978-84-18326-79-0",
+            "network_number": [
+                "(OCoLC)1229146682"
+            ],
+            "place_of_publication": "Barcelona :",
+            "date_of_publication": "2020",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013807405204987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/978-84-18326-79-0.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013807405204987.jpg",
+            "cover3": ""
+        },
+        {
+            "mms_id": "991013830202304987",
+            "title": "Batman/Spawn : Trilogía/",
+            "author": "Miller, Frank,",
+            "isbn": "9788419678355",
+            "network_number": [
+                "(OCoLC)1417746430"
+            ],
+            "place_of_publication": "Madrid :",
+            "date_of_publication": "2023",
+            "publisher_const": "ECC,",
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013830202304987",
+            "genero": "Aventura / Superhéroes",
+            "cover1": "../images/9788419678355.jpg",
+            "cover2": "https://biblus.us.es/fama2/com/COMIC/991013830202304987.jpg",
+            "cover3": ""
+        }
+    ]
+}

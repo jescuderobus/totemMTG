@@ -1,0 +1,2615 @@
+{
+  "bib": [
+    {
+      "mms_id": "991009005299704987",
+      "title": "The Beatles : Su historia /",
+      "isbn": "9788461335282",
+      "network_number": [
+        "(OCoLC)796324259",
+        "(esseubg)b21235314-34cbua_us"
+      ],
+      "place_of_publication": "Girona :",
+      "date_of_publication": "2009",
+      "publisher_const": "Rossell,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009005299704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991009079859704987",
+      "title": "Todo Paracuellos /",
+      "author": "Giménez, Carlos,",
+      "isbn": "978-84-8346-324-6",
+      "network_number": [
+        "(OCoLC)434528790",
+        "(esseubg)b21389305-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2007",
+      "publisher_const": "Debolsillo,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009079859704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991009211139704987",
+      "title": "Alec.",
+      "author": "Campbell, Eddie",
+      "isbn": "9788497269827",
+      "network_number": [
+        "(OCoLC)928977099",
+        "(esseubg)b21606481-34cbua_us"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2010",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009211139704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991009211249704987",
+      "title": "Dublinés /",
+      "author": "Zapico, Alfonso",
+      "isbn": "9788415163046",
+      "network_number": [
+        "(OCoLC)725411392",
+        "(esseubg)b21606596-34cbua_us"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2011",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009211249704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991010892239704987",
+      "title": "Pollo con ciruelas /",
+      "author": "Satrapi, Marjane,",
+      "isbn": "9788498141894",
+      "complete_edition": "5ª ed.",
+      "network_number": [
+        "(OCoLC)906964985",
+        "00000000098448",
+        "(esseubg)b23704822-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2009",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010892239704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011081869704987",
+      "title": "The beats /",
+      "author": "Pekar, Harvey",
+      "isbn": "9788492891108",
+      "network_number": [
+        "(OCoLC)776569020",
+        "(esseubg)b24337353-34cbua_us"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2011",
+      "publisher_const": "451 editores,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011081869704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011102509704987",
+      "title": "Maus : relato de un superviviente /",
+      "author": "Spiegelman, Art",
+      "isbn": "9788439720713",
+      "complete_edition": "11a. Ed.",
+      "network_number": [
+        "(OCoLC)827776366",
+        "(esseubg)b24384598-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2012",
+      "publisher_const": "Reservoir books,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011102509704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011103729704987",
+      "title": "Goya : novela gráfica /",
+      "author": "Olmos, Diego",
+      "isbn": "9788466647298",
+      "network_number": [
+        "(OCoLC)929322396",
+        "(esseubg)b24385864-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2012",
+      "publisher_const": "Ediciones B,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011103729704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011150009704987",
+      "title": "Pasolini /",
+      "author": "Toffolo, Davide",
+      "isbn": "9788492891221",
+      "network_number": [
+        "(OCoLC)796239115",
+        "(esseubg)b24485421-34cbua_us"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2012",
+      "publisher_const": "451 Editores,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011150009704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011294559704987",
+      "title": "El hijo del legionario /",
+      "author": "Saraiba, Aitor,",
+      "isbn": "978-84-96730-68-7",
+      "network_number": [
+        "(OCoLC)828262952",
+        "(esseubg)b24792688-34cbua_us"
+      ],
+      "place_of_publication": "Alicante :",
+      "date_of_publication": "D.L. 2011",
+      "publisher_const": "Edicions Ponent,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011294559704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011307739704987",
+      "title": "Persépolis /",
+      "author": "Satrapi, Marjane,",
+      "isbn": "978-84-9847-066-6",
+      "complete_edition": "6a ed.",
+      "network_number": [
+        "(OCoLC)906978753",
+        "(esseubg)b24836369-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2010",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011307739704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011319089704987",
+      "title": "Shenzhen /",
+      "author": "Delisle, Guy,",
+      "isbn": "9788493508807",
+      "complete_edition": "3a. ed.",
+      "network_number": [
+        "(OCoLC)773773662",
+        "(esseubg)b24850457-34cbua_us"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2011",
+      "publisher_const": "Astiberri",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011319089704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011394219704987",
+      "title": "La huella de Lorca /",
+      "author": "Hernández, Carlos",
+      "isbn": "978-84-679-0531-1",
+      "network_number": [
+        "(OCoLC)796268232",
+        "(esseubg)b24997262-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2011",
+      "publisher_const": "Norma ,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011394219704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011490569704987",
+      "title": "Casa Babili /",
+      "author": "Duleimi, Lutfiya",
+      "isbn": "9788467911633",
+      "network_number": [
+        "(OCoLC)864324385",
+        "(esseubg)b25240377-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2013",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011490569704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011618489704987",
+      "title": "Piscina Molitor : la vida \"swing\" de Boris Vian /",
+      "author": "Cailleaux, Christian",
+      "isbn": "9788415578970",
+      "complete_edition": "1ª ed.",
+      "network_number": [
+        "(OCoLC)1194603483",
+        "(esseubg)b25468698-34cbua_us"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2013",
+      "publisher_const": "Impedimenta,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011618489704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011679039704987",
+      "title": "Los surcos del azar /",
+      "author": "Roca, Paco,",
+      "isbn": "9788415685364",
+      "complete_edition": "4a ed.",
+      "network_number": [
+        "(OCoLC)868009574",
+        "(esseubg)b25600837-34cbua_us"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2013, 2014",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011679039704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011732099704987",
+      "title": "Thoreau : la vida sublime /",
+      "author": "Le Roy, Maximilien,",
+      "isbn": "9788415578376",
+      "network_number": [
+        "(OCoLC)864334118",
+        "(esseubg)b25906896-34cbua_us"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2013",
+      "publisher_const": "Impedimenta,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011732099704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991011755109704987",
+      "title": "Mi amigo Dahmer /",
+      "author": "Backderf, Derf",
+      "isbn": "9788415685449",
+      "network_number": [
+        "(OCoLC)894638179",
+        "(esseubg)b25971724-34cbua_us"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2014",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011755109704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012180119704987",
+      "title": "Los últimos días de Stefan Zweig /",
+      "author": "Seksik, Laurent,",
+      "isbn": "978-84-679-1485-6",
+      "complete_edition": "2ª ed.",
+      "network_number": [
+        "(OCoLC)1059569662",
+        "a5501768",
+        "(esseubg)b26886522-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2015",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012180119704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012319789704987",
+      "title": "Chucrut : una novela gráfica de Anapurna",
+      "author": "Anapurna,",
+      "isbn": "978-84-16131-18-1",
+      "network_number": [
+        "(OCoLC)933578354",
+        "(SpMaBN)a5732154",
+        "(esseubg)b27136048-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2015",
+      "publisher_const": "Salamandra Graphic",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012319789704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012354049704987",
+      "title": "Pablo.",
+      "author": "Birmant, Julie",
+      "isbn": "978-84-679-1336-1",
+      "network_number": [
+        "(OCoLC)934678801"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2013",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012354049704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012355129704987",
+      "title": "Pablo.",
+      "author": "Birmant, Julie",
+      "isbn": "978-84-679-1468-9",
+      "network_number": [
+        "(OCoLC)857307727"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2013",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012355129704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012355139704987",
+      "title": "Pablo.",
+      "author": "Birmant, Julie",
+      "isbn": "978-84-679-1529-7",
+      "network_number": [
+        "(OCoLC)857306856"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2014",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012355139704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012355169704987",
+      "title": "Pablo.",
+      "author": "Birmant, Julie",
+      "isbn": "978-84-679-1669-0",
+      "network_number": [
+        "(OCoLC)937390948"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "cop. 2014",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012355169704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012399129704987",
+      "title": "Soñadores : cuatro genios que cambiaron la historia /",
+      "author": "Villani, Cédric,",
+      "isbn": "9788416251582",
+      "network_number": [
+        "(OCoLC)971870356",
+        "(esseubg)b27285935-34cbua_us"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2016",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012399129704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012437099704987",
+      "title": "El piano oriental /",
+      "author": "Abirached, Zeina,",
+      "isbn": "9788416131242",
+      "network_number": [
+        "(OCoLC)1012939473",
+        "(esseubg)b27426877-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2016",
+      "publisher_const": "Salamandra,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437099704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012445259704987",
+      "title": "Magritte : Ceci n'est pas une biographie /",
+      "author": "Zabus, Vincent",
+      "isbn": "978-2-8036-7027-7",
+      "complete_edition": "Première édition",
+      "network_number": [
+        "(OCoLC)1322973194",
+        "(SpMaBN)a5596283",
+        "(esseubg)b27435271-34cbua_us"
+      ],
+      "place_of_publication": "Bruxelles :",
+      "date_of_publication": "[2016]",
+      "publisher_const": "Les Éditions du Lombard,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012445259704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012445769704987",
+      "title": "Histeria : una novela gráfica sobre Sigmund Freud y el nacimiento del psicoanálisis /",
+      "author": "Appignanesi, Richard,",
+      "isbn": "978-84-16840-56-4",
+      "network_number": [
+        "(OCoLC)962134151"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2016",
+      "publisher_const": "ECC,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012445769704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012458589704987",
+      "title": "El perdón y la furia /",
+      "author": "Altarriba, Antonio,",
+      "complete_edition": "1a edición",
+      "network_number": [
+        "(OCoLC)987620979"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2017",
+      "publisher_const": "Museo del Prado,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012458589704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012503429704987",
+      "title": "Las aventuras de Joselito : el pequeño ruiseñor /",
+      "author": "García, José Pablo,",
+      "isbn": "978-84-15973-41-6",
+      "network_number": [
+        "(OCoLC)910537333",
+        "(esseubg)b27585244-34cbua_us"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2015",
+      "publisher_const": "Reino de Cordelia,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012503429704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012509369704987",
+      "title": "Las Meninas /",
+      "author": "García, Santiago,",
+      "isbn": "9788415685487",
+      "complete_edition": "2a edición",
+      "network_number": [
+        "(OCoLC)960288591",
+        "(esseubg)b27593320-34cbua_us"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2015",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012509369704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012517239704987",
+      "title": "Tetris, el juego del que todos hablan /",
+      "author": "Brown, Box",
+      "isbn": "9788494534935",
+      "network_number": [
+        "(esseubg)b27602345-34cbua_us"
+      ],
+      "place_of_publication": "Bollullos de la Mitación :",
+      "date_of_publication": "2016",
+      "publisher_const": "Héroes de papel,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012517239704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012648599704987",
+      "title": "Confesiones de un hombre en pijama /",
+      "author": "Roca, Paco,",
+      "isbn": "9788416880232",
+      "network_number": [
+        "(OCoLC)1003457794",
+        "(esseubg)b28057867-34cbua_us"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2017",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012648599704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012793899704987",
+      "title": "Larson : el hombre con más suerte del mundo /",
+      "author": "Castro, Javi de",
+      "isbn": "9788494781407",
+      "network_number": [
+        "(OCoLC)1015195728",
+        "(esseubg)b28345381-34cbua_us"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2017",
+      "publisher_const": "Modernito books,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012793899704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012831679704987",
+      "title": "Goya : lo sublime terrible /",
+      "author": "Galán, Fran,",
+      "isbn": "978-84-16507-99-3",
+      "network_number": [
+        "(OCoLC)1035607925",
+        "(esseubg)b28481598-34cbua_us"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2018",
+      "publisher_const": "Dibbuks,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012831679704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012911649704987",
+      "title": "Die Band /",
+      "author": "Witzel, Markus",
+      "isbn": "9783931377458",
+      "network_number": [
+        "(OCoLC)57937034"
+      ],
+      "date_of_publication": "2004",
+      "publisher_const": "Berlin",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012911649704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991012945399704987",
+      "title": "Andy. Una fábula real: La vida y la época de Andy Warhol /",
+      "author": "Typex,",
+      "isbn": "9788417125943",
+      "network_number": [
+        "(esseubg)b28598350-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2018",
+      "publisher_const": "Penguin Random House,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012945399704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013096209404987",
+      "title": "Thoreau : la vida sublime /",
+      "author": "Le Roy, Maximilien,",
+      "isbn": "97884165429180",
+      "complete_edition": "Cuarta reimpresión",
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2017",
+      "publisher_const": "Impedimenta,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013096209404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013107606004987",
+      "title": "Black dog : los sueños de Paul Nash /",
+      "author": "McKean, Dave",
+      "isbn": "9788417243197",
+      "network_number": [
+        "(OCoLC)1123013887"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2018",
+      "publisher_const": "ECC ediciones ,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013107606004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013144896204987",
+      "title": "Jonas Fink : una vida interrumpida /",
+      "author": "Giardino, Vittorio",
+      "isbn": "978-84-679-3441-0",
+      "complete_edition": "Edición integral",
+      "network_number": [
+        "(OCoLC)1322855425"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2019",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013144896204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013145907904987",
+      "title": "Balthus y el Conde de Rola /",
+      "author": "Alba,Tyto,",
+      "isbn": "9788417575229",
+      "complete_edition": "1ª edición",
+      "network_number": [
+        "(OCoLC)1086330898"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2019",
+      "publisher_const": "Astiberri Ediciones y Museo Nacional Thyssen-Bornemisza ,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013145907904987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013150208504987",
+      "title": "Descifrando enigma Alan Turing : un genio de su tiempo /",
+      "author": "Ottaviani, Jim",
+      "isbn": "9788441541115",
+      "network_number": [
+        "(OCoLC)1126670033"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2019",
+      "publisher_const": "Anaya,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013150208504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013165009504987",
+      "title": "El Increíble viaje de Alexander von Humboldt al corazón de la naturaleza /",
+      "author": "Wulf, Andrea,",
+      "isbn": "9788417247416",
+      "complete_edition": "Primera edición",
+      "network_number": [
+        "(OCoLC)1154119516"
+      ],
+      "place_of_publication": "[Barcelona] :",
+      "date_of_publication": "mayo de 2019",
+      "publisher_const": "Random Comics,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013165009504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013198807504987",
+      "title": "Picasso en la Guerra Civil /",
+      "author": "Torres, Daniel,",
+      "isbn": "978-84-679-3162-4",
+      "network_number": [
+        "(OCoLC)1043071818"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2018",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013198807504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013198807704987",
+      "title": "Marie Curie /",
+      "author": "Milani, Alice",
+      "isbn": "978-84-17651-16-9",
+      "network_number": [
+        "(OCoLC)1091234473"
+      ],
+      "place_of_publication": "Madrid",
+      "date_of_publication": "2019",
+      "publisher_const": "Nórdica Libros,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013198807704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013198808004987",
+      "title": "Ligero de equipaje : vida de Antonio Machado /",
+      "author": "Gibson, Ian,",
+      "isbn": "9788466666442",
+      "network_number": [
+        "(OCoLC)1129256286"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "Barcelona :",
+      "publisher_const": "Ediciones B,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013198808004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013247009104987",
+      "title": "La divina comedia de Oscar Wilde /",
+      "author": "Isusi, Javier de (",
+      "isbn": "8417575022",
+      "network_number": [
+        "(OCoLC)1107028606"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2019",
+      "publisher_const": "Astiberri Ediciones,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013247009104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013254709404987",
+      "title": "La ciudad de cristal /",
+      "author": "Greenberg, Isabel,",
+      "isbn": "9788417553531",
+      "network_number": [
+        "(OCoLC)1203970931"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2020",
+      "publisher_const": "Impedimenta,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013254709404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013307705704987",
+      "title": "Kurosawa : el samurái caído  /",
+      "author": "Santos, Víctor,",
+      "isbn": "9788467941388",
+      "complete_edition": "Primera edición, abril de 2020",
+      "network_number": [
+        "(OCoLC)1322944798"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2020",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013307705704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013320106404987",
+      "title": "Fellini en Roma /",
+      "author": "Alba, Tyto",
+      "isbn": "978-84-16880-29-4",
+      "network_number": [
+        "(OCoLC)1012942563"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2017",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013320106404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013326708104987",
+      "title": "The incredible Nellie Bly : journalist, Investigator, feminist, and philanthropist /",
+      "author": "Cimino, Luciana",
+      "isbn": "9781419750175",
+      "network_number": [
+        "(OCoLC)1200494679"
+      ],
+      "place_of_publication": "New York :",
+      "date_of_publication": "2021",
+      "publisher_const": "Abrams ComicArts,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013326708104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013352806804987",
+      "title": "Warburg & Beach /",
+      "author": "Carrión, Jorge,",
+      "isbn": "9788416131747",
+      "complete_edition": "Primera edición: marzo de 2021",
+      "network_number": [
+        "(OCoLC)1242601132",
+        "(ES-GrU)991014391258604990"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "[2021]",
+      "publisher_const": "Salamandra Graphic,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013352806804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013359599804987",
+      "title": "Las tres vidas de Hannah Arendt : la tiranía de la verdad /",
+      "author": "Krimstein, Kem",
+      "isbn": "9788416131617",
+      "complete_edition": "1ª ed.",
+      "network_number": [
+        "(OCoLC)1286476173"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Salamandra Graphic,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013359599804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013368706104987",
+      "title": "La sombra roja /",
+      "author": "Pécau, Jean-Pierre",
+      "isbn": "978-84-679-4567-6",
+      "network_number": [
+        "(OCoLC)982204539"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Norma Editorial,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013368706104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013368906804987",
+      "title": "Whitman /",
+      "author": "Alba, Tyto,",
+      "isbn": "978-84-17575-88-5",
+      "network_number": [
+        "(OCoLC)1286831612"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2021",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013368906804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013368907904987",
+      "title": "Lola Flores : el arte de vivir /",
+      "author": "González, Sete",
+      "isbn": "9788418260537",
+      "network_number": [
+        "(OCoLC)1262604563"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Planeta,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013368907904987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013369206404987",
+      "title": "Rosa Lux 19 /",
+      "author": "Ripio, Vanesa",
+      "isbn": "9788446047636",
+      "network_number": [
+        "(OCoLC)1106975182",
+        "(SpMaBN)a6622755"
+      ],
+      "place_of_publication": "Tres Cantos, Madrid :",
+      "date_of_publication": "[2019]",
+      "publisher_const": "Akal,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013369206404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013378603704987",
+      "title": "Crónicas de juventud /",
+      "author": "Delisle, Guy,",
+      "isbn": "978-84-18215-59-9",
+      "network_number": [
+        "(OCoLC)22164029"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2021",
+      "publisher_const": "Astiberri",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013378603704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013398778704987",
+      "title": "Johnny Cash : I see a darkness /",
+      "author": "Kleist, Reinhard,",
+      "isbn": "9788417787233",
+      "network_number": [
+        "(OCoLC)1331415303"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "ECC,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013398778704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013405068204987",
+      "title": "Noticias de pintores /",
+      "author": "Luque, María",
+      "isbn": "978-84-948993-8-6",
+      "complete_edition": "Primera edición en España: febrero de 2019",
+      "network_number": [
+        "(OCoLC)1090845262",
+        "(SpMaBN)a6960052"
+      ],
+      "place_of_publication": "Madrid, España",
+      "date_of_publication": "[2019]",
+      "publisher_const": "Sigilo,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013405068204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013405272904987",
+      "title": "La Rosa roja : biografía gráfica sobre Rosa Luxemburg",
+      "author": "Evans, Kate",
+      "isbn": "978-84-697-3210-6",
+      "network_number": [
+        "(OCoLC)1043003761"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2017",
+      "publisher_const": "Izquierda Diario,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013405272904987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013411879404987",
+      "title": "Como traté de ser una buena persona /",
+      "author": "Lust, Ulli,",
+      "isbn": "978-84-17442-41-5",
+      "network_number": [
+        "(OCoLC)1124914772"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "[2019]",
+      "publisher_const": "Ediciones La Cúpula,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013429097704987",
+      "title": "Los Borgia: Edición integral /",
+      "author": "Jodorowsky, Alejandro",
+      "isbn": "9788467948912",
+      "network_number": [
+        "(OCoLC)2750441"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2022",
+      "publisher_const": "Norma Editorial,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013429097704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013429098104987",
+      "title": "Klimt /",
+      "author": "Cornette, Jean-Luc",
+      "isbn": "9788467948929",
+      "network_number": [
+        "(OCoLC)23281785"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Norma editorial ,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013429098104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013434391604987",
+      "title": "El accidente de caza /",
+      "author": "Carlson, David",
+      "isbn": "9788491749257",
+      "network_number": [
+        "(OCoLC)1292971529"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Planeta de Agostini,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434391604987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013434392004987",
+      "title": "El club de los libros prohibidos /",
+      "author": "Kim, Hyun Sook",
+      "isbn": "978-84-121282-8-4",
+      "network_number": [
+        "(OCoLC)1294927944"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Sapristi,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434392004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013434393204987",
+      "title": "Doña Concha : la rosa y la espina /",
+      "author": "Berrocal, Carla,",
+      "isbn": "9788417910952",
+      "complete_edition": "1ª edición noviembre de 2021",
+      "network_number": [
+        "(OCoLC)1274137189"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Reservoir Books,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434393204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013439620704987",
+      "title": "Pólvora mojada /",
+      "author": "Kreitz, Isabel,",
+      "isbn": "978-84-16400-88-1",
+      "network_number": [
+        "(OCoLC)1042927756"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2018",
+      "publisher_const": "La Cúpula,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013440924004987",
+      "title": "Valle-Inclán : los años del esperpento  /",
+      "author": "López Poy, Manuel,",
+      "isbn": "9788409363841",
+      "network_number": [
+        "(OCoLC)1313652807"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Cascaborra Ediciones,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013440924204987",
+      "title": "Galdós y la miseria /",
+      "author": "El Torres,",
+      "isbn": "9788417989491",
+      "network_number": [
+        "(OCoLC)1231724212"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2021",
+      "publisher_const": "Nuevo Nueve Editores,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013440924304987",
+      "title": "Residencia de estudiantes /",
+      "author": "Martín, Susanna.",
+      "isbn": "978-84-02-42211-8",
+      "network_number": [
+        "(OCoLC)1129259469"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2019",
+      "publisher_const": "Bruguera,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013440925304987",
+      "title": "Unamuno : el hombre y la razón /",
+      "author": "Crespo, Borja,",
+      "isbn": "978-84-16575-80-0",
+      "network_number": [
+        "(OCoLC)1266217446"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2021",
+      "publisher_const": "El Gallo de Oro,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440925304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441117704987",
+      "title": "Maus : relato de un superviviente /",
+      "author": "Spiegelman, Art,",
+      "isbn": "9788439720713",
+      "complete_edition": "4ª edición noviembre 2016, 6ª reimpresión noviembre 2021",
+      "network_number": [
+        "(OCoLC)827776366",
+        "(esseubg)b24384598-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Penguin Random House,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441117704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441217404987",
+      "title": "Hierba /",
+      "author": "Gendry-Kim, Keum Suk (1971-),",
+      "isbn": "9788418897030",
+      "network_number": [
+        "(OCoLC)1303217890"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2022",
+      "publisher_const": "Reservoir Books,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441217404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441218404987",
+      "title": "Clara Campoamor /",
+      "author": "Jiménez, Rafael,",
+      "isbn": "978-84-09-27828-2",
+      "network_number": [
+        "(OCoLC)1300740867"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "[2021]",
+      "publisher_const": "Cascaborra Ediciones,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441218404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441219604987",
+      "title": "Angela Davis /",
+      "author": "Pesce, Mariapaola",
+      "isbn": "978-84-16763-66-5",
+      "network_number": [
+        "(OCoLC)1309415578"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "La Otra H,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441219604987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441220704987",
+      "title": "Tamara De Lempicka /",
+      "author": "Greiner, Virginie",
+      "isbn": "978-84-1341-207-8",
+      "network_number": [
+        "(OCoLC)1202792598"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2020",
+      "publisher_const": "Planeta Cómic,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441220704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441221504987",
+      "title": "La vida : una historia de Carles Casagemas y Pablo Picasso /",
+      "author": "Alba, Tyto,",
+      "isbn": "978-84-16251-77-3",
+      "network_number": [
+        "(OCoLC)964552117"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2016",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441221504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441221604987",
+      "title": "Tante Wussi /",
+      "author": "Bacher, Katrin,",
+      "isbn": "978-84-16251-23-0",
+      "network_number": [
+        "(OCoLC)932120682"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2015",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441221604987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441222104987",
+      "title": "No te olvides de recordar /",
+      "author": "Kuper, Peter,",
+      "isbn": "978-84-96815-72-8",
+      "network_number": [
+        "(OCoLC)434339459"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2008",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441222104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441225204987",
+      "title": "Primo Levi /",
+      "author": "Mastragostino, Matteo",
+      "isbn": "978-84-16763-58-0",
+      "network_number": [
+        "(OCoLC)1286842020"
+      ],
+      "place_of_publication": "[Barcelona] :",
+      "date_of_publication": "2021",
+      "publisher_const": "La otra H,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441225304987",
+      "title": "Mary Shelley : el eterno sueño /",
+      "author": "Di Virgilio, Alessandro",
+      "isbn": "978-84-16763-62-7",
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "La Otra H,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441225404987",
+      "title": "Las hermanas Brontë /",
+      "author": "Santoni, Manuela",
+      "isbn": "978-84-16763-64-1",
+      "network_number": [
+        "(OCoLC)1294930613"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "La Otra H,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441225504987",
+      "title": "Rosa Parks /",
+      "author": "Pesce, Mariapaola",
+      "isbn": "9788416763764",
+      "network_number": [
+        "(OCoLC)1322821336"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2022",
+      "publisher_const": "La Otra H,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441225804987",
+      "title": "Kiki de Montparnasse /",
+      "author": "Catel,",
+      "isbn": "978-84-96722-30-9",
+      "network_number": [
+        "(OCoLC)1322925365"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2008",
+      "publisher_const": "Sinsentido,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441424204987",
+      "title": "Le pont des arts = el puente de las artes [pequeñas historias de grandes amistades entre pintores y escritores] /",
+      "author": "Meurisse, Catherine",
+      "isbn": "9788418668319",
+      "network_number": [
+        "(OCoLC)817710403"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2022",
+      "publisher_const": "EditoriaI Impedimenta,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441424204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013441424304987",
+      "title": "Nebrija /",
+      "author": "Comotto, Agustín,",
+      "isbn": "9788418930553",
+      "network_number": [
+        "(OCoLC)1298589615"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2022",
+      "publisher_const": "Nórdica Libros,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441424304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013444122504987",
+      "title": "Vida y muerte de Federico García Lorca /",
+      "author": "Gibson, Ian,",
+      "isbn": "9788466665087",
+      "complete_edition": "Sexta edición",
+      "network_number": [
+        "(OCoLC)1077586993"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Penguin Random House,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013444122504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013450526004987",
+      "title": "Las tres heridas de Miguel Hernández /",
+      "author": "Esquembre, Carles,",
+      "isbn": "9788491749325",
+      "network_number": [
+        "(OCoLC)1317846298"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2022",
+      "publisher_const": "Planeta Comic,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013450526004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013451725504987",
+      "title": "Emilia Pardo Bazán /",
+      "author": "Palmer, Alicia",
+      "isbn": "9788409341085",
+      "network_number": [
+        "(OCoLC)1294927225"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Cascaborra Ediciones,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013451725504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013452508204987",
+      "title": "George Sand : Hija del siglo /",
+      "author": "Vidal, Severine",
+      "isbn": "9788412332674",
+      "network_number": [
+        "(OCoLC)1322981572"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2022",
+      "publisher_const": "Garbuix Books,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452508204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013452617504987",
+      "title": "Munch : una biografía /",
+      "author": "Marras, Giorgia,",
+      "isbn": "978-84-94414-09-1",
+      "complete_edition": "Primera edición: septiembre de 2016",
+      "network_number": [
+        "(OCoLC)962503742"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2016",
+      "publisher_const": "Roca,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452617504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013452625204987",
+      "title": "Todo es inflamable /",
+      "author": "Bell, Gabrielle,",
+      "isbn": "978-84-17442-74-3",
+      "network_number": [
+        "(OCoLC)1254153121"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2020",
+      "publisher_const": "La Cúpula,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452625204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013452626004987",
+      "title": "Kersten : [médico de Himmler] /",
+      "author": "Perna, Pat",
+      "isbn": "978-84-17318-55-0",
+      "complete_edition": "[Edición] integral",
+      "network_number": [
+        "(OCoLC)1262496411"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2019",
+      "publisher_const": "Ponent Mon,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452626004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013452626104987",
+      "title": "El hermano de Göring /",
+      "author": "Le Gouëfflec, Arnaud,",
+      "isbn": "978-84-17318-93-2",
+      "complete_edition": "[Edición] Integral",
+      "network_number": [
+        "(OCoLC)1258421143"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2020",
+      "publisher_const": "Proyectos y Producciones Editoriales CYAN S.A.,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452626104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013476572504987",
+      "title": "Leonard Cohen : on the wire /",
+      "author": "Girard, Philippe R.",
+      "isbn": "9788467951097",
+      "network_number": [
+        "(OCoLC)1322943963"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2022",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013476572504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013476672604987",
+      "title": "Goya Saturnalia : una fuga en cinco movimientos /",
+      "author": "Gutiérrez, Manuel,",
+      "isbn": "9788409393206",
+      "complete_edition": "Primera edición",
+      "network_number": [
+        "(OCoLC)1426938135"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "[2022]",
+      "publisher_const": "Cascaborra Ediciones,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013476672604987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013481670704987",
+      "title": "Isaac Peral /",
+      "author": "Vallina, Alicia,",
+      "isbn": "978-84-09-31104-0",
+      "network_number": [
+        "(OCoLC)1290645782"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2021",
+      "publisher_const": "Cascaborra Ediciones,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013481670704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013527561804987",
+      "title": "Filosofía en viñetas /",
+      "author": "Patton, Michael F.",
+      "isbn": "9788466342902",
+      "network_number": [
+        "(OCoLC)1143695533"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2022",
+      "publisher_const": "Penguin Random House,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013527561804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013599850304987",
+      "title": "Mamás /",
+      "author": "Ma, Yeong-shin.",
+      "isbn": "9788418309472",
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2022",
+      "publisher_const": "Cyan,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013599850304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013623305704987",
+      "title": "El joven Ludwig /",
+      "author": "Ross, Mikael",
+      "isbn": "9788418052361",
+      "network_number": [
+        "(OCoLC)1344528347"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2022",
+      "publisher_const": "Reservoir Books,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013623305704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013627382004987",
+      "title": "Soy la Malinche /",
+      "author": "Jaraba Abellán, Alicia",
+      "isbn": "978-84-19148-05-6",
+      "complete_edition": "Primera edición en castellano de mayo de 2022",
+      "network_number": [
+        "(OCoLC)1322824852"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2022",
+      "publisher_const": "Nuevo Nueve,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627382004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013627902204987",
+      "title": "Joe Shuster : una historia a la sombra de Superman /",
+      "author": "Voloj, Julian",
+      "isbn": "978-84-17294-24-3",
+      "network_number": [
+        "(OCoLC)1050782167"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "D.L. 2018",
+      "publisher_const": "Dibbuks,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627902204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013627902304987",
+      "title": "El rey Pelé : el hombre y la leyenda /",
+      "author": "Simon, Eddy,",
+      "isbn": "978-84-679-2405-3",
+      "network_number": [
+        "(OCoLC)971785268"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2016",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627902304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013627902404987",
+      "title": "Las aventuras de Hergé  /",
+      "author": "Bocquet, José-Louis,",
+      "isbn": "978-84-679-0773-5",
+      "network_number": [
+        "(OCoLC)796275711"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2011",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627902404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013627902504987",
+      "title": "Rembrandt /",
+      "author": "Typex,",
+      "isbn": "978-84-679-1176-3",
+      "network_number": [
+        "(OCoLC)864284854"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2013",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627902504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013627902604987",
+      "title": "Iguana lady : la vida de Gracia Iturbide /",
+      "author": "Quintero, Isabel",
+      "isbn": "978-84-17048-28-0",
+      "network_number": [
+        "(OCoLC)1055855620"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "D.L. 2017",
+      "publisher_const": "La Fábrica,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627902604987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013627902704987",
+      "title": "Sartre : una existencia, algunas libertades /",
+      "author": "Ramadier, Mathilde",
+      "isbn": "978-84-415-3983-9",
+      "network_number": [
+        "(OCoLC)1034922012"
+      ],
+      "place_of_publication": "Madrid :",
+      "date_of_publication": "2018",
+      "publisher_const": "Oberon,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627902704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013628704804987",
+      "title": "Freddie Mercury : una biografía /",
+      "author": "Casas, Alfonso,",
+      "isbn": "978-84-18040-19-1",
+      "network_number": [
+        "(OCoLC)1322821009",
+        "(SpMaBN)a7106575"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "[2021]",
+      "publisher_const": "Random Cómics,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013628704804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013628704904987",
+      "title": "Hitler /",
+      "author": "Mizuki, Shigeru,",
+      "isbn": "978-84-16880-09-6",
+      "complete_edition": "Segunda edición",
+      "network_number": [
+        "(OCoLC)1123083648"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2019",
+      "publisher_const": "Astiberri",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013628704904987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013631704704987",
+      "title": "Ghetto Brother, una leyenda del Bronx /",
+      "author": "Voloj, Julian",
+      "isbn": "978-84-943326-0-9",
+      "network_number": [
+        "(OCoLC)920323225"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2015",
+      "publisher_const": "Sapristi,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013631704704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013631704804987",
+      "title": "Blanco y negro : auge y caída de Bobby Fischer /",
+      "author": "Voloj, Julian",
+      "isbn": "978-84-18347-87-0",
+      "network_number": [
+        "(OCoLC)1290643250"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "[2021]",
+      "publisher_const": "Salamandra Graphic,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013631704804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013666504104987",
+      "title": "Chartwell Manor /",
+      "author": "Head, Glenn,",
+      "isbn": "978-84-18809-19-4",
+      "network_number": [
+        "(OCoLC)1343099076",
+        "(SpMaBN)a7135210"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "[2022]",
+      "publisher_const": "Ediciones La Cúpula, S.L.,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666504104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013687599804987",
+      "title": "How to Be Ace : A Memoir of Growing Up Asexual /",
+      "author": "Burgess, Rebecca",
+      "isbn": "1787752151",
+      "network_number": [
+        "(OCoLC)1369606329",
+        ".b91981141"
+      ],
+      "place_of_publication": "London :",
+      "date_of_publication": "2021",
+      "publisher_const": "Jessica Kingsley Publishers,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013687599804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013693998804987",
+      "title": "Alice Guy /",
+      "author": "Catel",
+      "isbn": "9782203171657",
+      "network_number": [
+        "(OCoLC)1371130820"
+      ],
+      "place_of_publication": "Paris :",
+      "date_of_publication": "2021",
+      "publisher_const": "Casterman,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013693998804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013694396304987",
+      "title": "Blanco alrededor /",
+      "author": "Lupano,",
+      "isbn": "978-84-679-5117-2",
+      "network_number": [
+        "(OCoLC)1346647798",
+        "(SpMaBN)a7169107"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "[2022]",
+      "publisher_const": "Norma Editorial,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013694396304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013713502004987",
+      "title": "Fatty : el primer rey de Hollywood /",
+      "author": "Frey, Julien",
+      "isbn": "978-84-18909-48-1",
+      "network_number": [
+        "(OCoLC)1374934625",
+        "(SpMaBN)a7237196"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "[2022]",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713502004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013713502604987",
+      "title": "Lorca : un poeta en Nueva York /",
+      "author": "Esquembre, Carles,",
+      "isbn": "978-84-1334-388-4",
+      "network_number": [
+        "(OCoLC)1254152759",
+        "(SpMaBN)a6867205"
+      ],
+      "place_of_publication": "Torroella de Montgrí (Girona) :",
+      "date_of_publication": "2019",
+      "publisher_const": "Evolution Comics,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713502604987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013713502704987",
+      "title": "Quentin por Tarantino /",
+      "author": "Ameziane, Amazing",
+      "isbn": "9788418703515",
+      "network_number": [
+        "(OCoLC)1389599153"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2023",
+      "publisher_const": "Redbook Ediciones,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713502704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013713503504987",
+      "title": "Subnormal : una historia de acoso escolar /",
+      "author": "Llor, Fernando,",
+      "isbn": "9788413344096",
+      "network_number": [
+        "(OCoLC)1195964667"
+      ],
+      "place_of_publication": "Torroella de Montgrí, Girona :",
+      "date_of_publication": "2020",
+      "publisher_const": "Panini,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713503504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013734104904987",
+      "title": "La araña del olvido /",
+      "author": "Bonet, Enrique",
+      "isbn": "9788419670076",
+      "complete_edition": "Tercera edición",
+      "network_number": [
+        "(OCoLC)1389599136"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2023",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013734104904987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013734105004987",
+      "title": "Asuntos de mujeres /",
+      "author": "Delporte, Julie",
+      "isbn": "9788418215766",
+      "network_number": [
+        "(OCoLC)1313648382"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2021",
+      "publisher_const": "Astiberri ,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013734105004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013734105104987",
+      "title": "María la jabalina /",
+      "author": "Durán, Cristina",
+      "isbn": "9788418909658",
+      "complete_edition": "Segunda edición",
+      "network_number": [
+        "(OCoLC)1390907792"
+      ],
+      "place_of_publication": "Bilbao :",
+      "date_of_publication": "2023",
+      "publisher_const": "Astiberri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013734105104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013736900104987",
+      "title": "Einstein /",
+      "author": "Ottaviani, Jim",
+      "isbn": "9788467962222",
+      "network_number": [
+        "(OCoLC)1390553292"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2023",
+      "publisher_const": "Norma Editorial,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013736900104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013756405104987",
+      "title": "Juan Latino /",
+      "author": "Sepúlveda Sanchis, Juan",
+      "isbn": "978-84-09-35615-7",
+      "network_number": [
+        "(OCoLC)1313665803",
+        "(SpMaBN)a7088459"
+      ],
+      "place_of_publication": "[Barcelona] :",
+      "date_of_publication": "[2021]",
+      "publisher_const": "Cascaborra Ediciones,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013756405104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013764402604987",
+      "title": "Fouche : el genio tenebroso /",
+      "author": "Kim,",
+      "isbn": "9788467964738",
+      "network_number": [
+        "(OCoLC)1402093802"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2023",
+      "publisher_const": "Norma Editorial,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764402604987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013795604304987",
+      "title": "Vincent /",
+      "author": "Stock, Barbara,",
+      "isbn": "9788416131310",
+      "complete_edition": "Segunda edición: febrero de 2019. Primera reimpresión: octubre de 2020",
+      "network_number": [
+        "(OCoLC)1005710765",
+        "(Sirsi) 986581",
+        "(UAM)986581",
+        "986581-34uam_inst"
+      ],
+      "place_of_publication": "Barcelona",
+      "date_of_publication": "2020",
+      "publisher_const": "Salamandra",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013795604304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013795604504987",
+      "title": "Monet : nómada de la luz /",
+      "author": "Rubio, Salva,",
+      "isbn": "9788467926705",
+      "complete_edition": "Primera edición: marzo de 2017",
+      "network_number": [
+        "(OCoLC)1011618562",
+        "(ES-GrU)991009866299704990"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2017",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013795604504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013795604704987",
+      "title": "El sueño de Dalí /",
+      "author": "Hernández, Carlos,",
+      "isbn": "978-84-679-3078-8",
+      "complete_edition": "Primera edición: abril de 2018",
+      "network_number": [
+        "(OCoLC)1031391629",
+        "(ES-GrU)991007039149704990",
+        "(SpMaBN)aocm06243120"
+      ],
+      "place_of_publication": "Barcelona:",
+      "date_of_publication": "2018",
+      "publisher_const": "Norma;",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013795604704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013795604804987",
+      "title": "Hokusai /",
+      "author": "Ishinomori, Shōtarō,",
+      "isbn": "978-84-9167-885-4",
+      "complete_edition": "Primera edición: abril 2019",
+      "network_number": [
+        "(OCoLC)1198575987",
+        "(SpMaBN)a6707532"
+      ],
+      "place_of_publication": "Torroella de Montgrí (Girona)",
+      "date_of_publication": "[2019]",
+      "publisher_const": "Panini Manga,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013795604804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013796904404987",
+      "title": "La traición de lo real /",
+      "author": "Wagner, Céline",
+      "isbn": "978-84-17318-72-7",
+      "network_number": [
+        "(OCoLC)1262496790",
+        "(SpMaBN)a6901296"
+      ],
+      "place_of_publication": "Madrid",
+      "date_of_publication": "[2020]",
+      "publisher_const": "Proyectos y Proyecciones Editoriales CYAN, S.A.,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013796904404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013796904604987",
+      "title": "Modigliani : príncipe de la bohemia /",
+      "author": "Le Hénanff, Fabrice,",
+      "isbn": "978-84-679-2458-9",
+      "complete_edition": "Primera edición: diciembre de 2016",
+      "network_number": [
+        "(OCoLC)970960229",
+        "(SpMaBN)a5984511"
+      ],
+      "place_of_publication": "Barcelona",
+      "date_of_publication": "2016",
+      "publisher_const": "Norma",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013796904604987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013798704004987",
+      "title": "Leonora Carrington en España /",
+      "author": "Fruns, María Luisa",
+      "isbn": "978-84-19539-04-5",
+      "complete_edition": "Primera edición",
+      "place_of_publication": "[Madrid] :",
+      "date_of_publication": "2023",
+      "publisher_const": "Turner",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013798704004987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013799705404987",
+      "title": "Caravaggio : edición integral en blanco y negro /",
+      "author": "Manara, Milo,",
+      "isbn": "978-84-679-4632-1",
+      "complete_edition": "Segunda edición: julio de 2023",
+      "network_number": [
+        "(OCoLC)1412607354"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2023",
+      "publisher_const": "Norma Editorial,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013799705404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013799705504987",
+      "title": "Frida Kahlo : una biografía /",
+      "author": "Hesse, María,",
+      "isbn": "9788426403438",
+      "complete_edition": "Tercera edición: diciembre de 2016. Decimoctava reimpresión: noviembre de 2019.",
+      "network_number": [
+        "(OCoLC)965201038",
+        "(esseubg)b27576036-34cbua_us"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "[2019]",
+      "publisher_const": "Lumen,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013799705504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013800704504987",
+      "title": "Mies /",
+      "author": "Ferrer Casas, Agustín,",
+      "isbn": "9788494767050",
+      "complete_edition": "3a edición, febrero 2020",
+      "network_number": [
+        "(OCoLC)1322981540"
+      ],
+      "place_of_publication": "Valencia :",
+      "date_of_publication": "2020",
+      "publisher_const": "Grafito Editorial,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013800704504987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013817005304987",
+      "title": "Buñuel en el laberinto de las tortugas /",
+      "author": "Solís, Fermín,",
+      "isbn": "9788419940223",
+      "complete_edition": "Primera edición con esta encuadernación: noviembre de 2023",
+      "network_number": [
+        "(OCoLC)1285069215"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2023",
+      "publisher_const": "Reservoir Books,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013817005304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841001404987",
+      "title": "Los últimos días de Pompeo : hasta el final /",
+      "author": "Pazienza, Andrea,",
+      "isbn": "978-84-16167-97-5",
+      "network_number": [
+        "(OCoLC)1286837597",
+        "(SpMaBN)a6997870"
+      ],
+      "place_of_publication": "Logroño :",
+      "date_of_publication": "2020",
+      "publisher_const": "Fulgencio Pimentel,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841001404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841201104987",
+      "title": "La muerte de Stalin /",
+      "author": "Nury, Fabien,",
+      "isbn": "978-84-679-2219-6",
+      "network_number": [
+        "(OCoLC)971689365"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2017",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841201104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841201704987",
+      "title": "Edgar P. Jacobs : el soñador de apocalipsis /",
+      "author": "Rivière, François,",
+      "isbn": "9788467966282",
+      "network_number": [
+        "(OCoLC)1422208413"
+      ],
+      "place_of_publication": "Barcelona :",
+      "date_of_publication": "2023",
+      "publisher_const": "Norma,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841201704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841201804987",
+      "title": "El ruiseñor de dos cabezas /",
+      "author": "Mira, Helio",
+      "isbn": "9788419740786",
+      "network_number": [
+        "(OCoLC)1422208289"
+      ],
+      "place_of_publication": "Palma de Mallorca :",
+      "date_of_publication": "2023",
+      "publisher_const": "Dolmen Press,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841201804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841592904987",
+      "title": "Copérnico, el centro del universo /",
+      "isbn": "9788412157178",
+      "network_number": [
+        "(OCoLC)1423118761"
+      ],
+      "place_of_publication": "Alboraya (Valencia) :",
+      "date_of_publication": "2023",
+      "publisher_const": "[Jordi Bayarri Dolz],",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841592904987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841593104987",
+      "title": "Ramón y Cajal, una vida al microscopio /",
+      "author": "Bayarri, Jordi",
+      "isbn": "9788494223785",
+      "network_number": [
+        "(OCoLC)1423119558"
+      ],
+      "place_of_publication": "Alboraia (Valencia)",
+      "date_of_publication": "2015",
+      "publisher_const": "[Jordi Bayarri Dolz],",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593104987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841593204987",
+      "title": "Aristóteles /",
+      "author": "Bayarri, Jordi (",
+      "isbn": "9788494569814",
+      "network_number": [
+        "(OCoLC)1002941923"
+      ],
+      "place_of_publication": "Alboraia, València :",
+      "date_of_publication": "2016",
+      "publisher_const": "J. Bayarri,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593204987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841593304987",
+      "title": "Pasteur : la revolución microbiana /",
+      "author": "Bayarri, Jordi",
+      "isbn": "9788412157109",
+      "network_number": [
+        "(OCoLC)1423117993"
+      ],
+      "place_of_publication": "Alboraia (Valencia) :",
+      "date_of_publication": "2020",
+      "publisher_const": "Jordi Bayarri Dolz,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593304987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841593404987",
+      "title": "Newton : la gravedad en acción /",
+      "author": "Bayarri, Jordi",
+      "isbn": "9788493874612",
+      "network_number": [
+        "(OCoLC)1423118027"
+      ],
+      "place_of_publication": "Alboraya (Valencia) :",
+      "date_of_publication": "2017",
+      "publisher_const": "[Jordi Bayarri Dolz],",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593404987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841593704987",
+      "title": "Darwin : la evolución de la teoría /",
+      "author": "Bayarri, Jordi",
+      "isbn": "9788493874667",
+      "network_number": [
+        "(OCoLC)1423118846"
+      ],
+      "place_of_publication": "Alboraia (Valencia)",
+      "date_of_publication": "2016",
+      "publisher_const": "Anillo de Sirio,",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593704987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841593804987",
+      "title": "Einstein : el salto cuántico /",
+      "author": "Bayarri, Jordi",
+      "isbn": "978-84-945698-6-9",
+      "network_number": [
+        "(OCoLC)1282156492",
+        "(SpMaBN)a6968638"
+      ],
+      "place_of_publication": "Alboraia (València)",
+      "date_of_publication": "[2019]",
+      "publisher_const": "[Jordi Bayarri Dolz],",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593804987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    },
+    {
+      "mms_id": "991013841593904987",
+      "title": "Marie Curie : la actividad del radio /",
+      "author": "Bayarri, Jordi",
+      "isbn": "9788494223747",
+      "network_number": [
+        "(OCoLC)1424703484"
+      ],
+      "place_of_publication": "Alboraia (Valencia)",
+      "date_of_publication": "2019",
+      "publisher_const": "[Jordi Bayarri Dolz],",
+      "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593904987",
+      "genero": "Biografía",
+      "cover1": "",
+      "cover2": "",
+      "cover3": ""
+    }
+  ]
+}
