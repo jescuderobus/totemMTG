@@ -3,34 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Magic the Gathering App</title>
-    <link rel="stylesheet" href="css/styles_01_swipe.css">
-    <script src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8"></script>
+    <title>elige tu comic</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css" />
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <span style="position: absolute;top: 0;left: 0;padding: 2px;">
-        <a href="javascript:history.back()">
-            <span class="mdi mdi-backburger" style="font-size: 2em;color:#03A9F4;"></span>
-        </a>
-    </span>
-    <div id="card-container">
-        <img src="images/portadaMTG.jpg" id="card-image" alt="Magic Card">
-        <div id="icon-overlay" style="display: none; position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); opacity: 0.5;">
-            <img src="images/favorite.svg" id="favorite-icon" style="display: none; width: 100px; height: 100px;" />
-            <img src="images/discard.svg" id="discard-icon" style="display: none; width: 100px; height: 100px;" />
-        </div>
+
+    <header>
+        <span>
+          <a href="javascript:history.back()">
+            <span class="mdi mdi-backburger backburger"></span>
+          </a>
+        </span>
+        <span class="appSubtitle">
+          elige tu comic&nbsp;
+          <img
+            src="images/noun-comic-5640534.svg"
+            width="50px"
+            style="padding: 4px"
+            alt=""
+          />
+        </span>
+      </header>
+
+<main>
+    <div id="comic-container">
+        <img src="images/portadaZC_0.jpg" id="comic-cover" alt="Magic Card">
     </div>
     <div id="button-container">
         <!-- Botones de acción -->
         <button id="restart-btn"><img src="images/restart.svg" alt="Restart"></button>
         <button id="choose-type-btn"><img src="images/choose-type.svg" alt="Choose Type"></button>
-        <button id="main-deck-btn"><img src="images/main-deck.svg" alt="Choose Type"><span id="main-deck-count">0</span></button>
-        <button id="discard-btn"><img src="images/discard.svg" alt="Discard"><span id="discard-count">0</span></button>
-        <button id="favorite-btn"><img src="images/favorite.svg" alt="Favorite"><span id="favorite-count">0</span></button>
-        
+        <button id="main-deck-btn"><img src="images/main-deck.svg" alt="main deck"><span id="main-deck-count">0</span></button>
+        <button id="favorite-btn"><img src="images/favorite.svg" alt="Favorite"><span id="favorite-count">0</span></button>        
     </div>
-    <script src="js/app_01_swipe.js"></script>
-    <script src="js/hammer_config_01_swipe.js"></script>
+</main>
+<footer></footer>
 </body>
 </html>
