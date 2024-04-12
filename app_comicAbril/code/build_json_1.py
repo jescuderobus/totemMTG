@@ -24,7 +24,7 @@ generos = {
 }
 
 base_url = "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/"
-api_key = "l8xx72763ba7234243abaf9d967c37a77fff"
+api_key = "l8xx72763ba7234243abaf9d967c37a77f__"
 
 # Esta función genera los comandos curl y los nombres de los archivos
 def generar_comandos_y_archivos():
