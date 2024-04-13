@@ -1,65 +1,63 @@
+const categoryToFileMap = {
+    "Adaptación Literaria": "Adaptación_literaria.json",
+    "Aventura / Superhéroes": "Aventura_Superhéroes.json",
+    "Bélico": "Bélico.json",
+    "Biografía": "Biografía.json",
+    "Ciencia Ficción": "Ciencia_Ficción.json",
+    "Costumbrismo/Drama": "Costumbrismo_Drama.json",
+    "Fantasía/Romance": "Fantasía_Romance.json",
+    "Negro/Terror/Underground": "Género_negro_Terror_Underground.json",
+    "Histórico/Política": "Histórico_Política.json",
+    "Humor": "Humor.json",
+    "Manga": "Manga.json",
+    "Metacomic": "Metacomic.json",
+    "Mujeres/Feminismo": "Mujeres_Feminismo.json",
+    "Premios Nacionales": "Premios_Nacionales.json",
+    "Social/LGTBI+": "Social_LGTBIplus.json"
+};
+
+
+
+
 document.addEventListener('DOMContentLoaded', function() {
     const switchElegirTodas = document.getElementById('elegirTodas').querySelector('input[type="checkbox"]');
     const switchElegirNinguna = document.getElementById('elegirNinguna').querySelector('input[type="checkbox"]');
     const categorySwitches = document.querySelectorAll('#elige-tipo-cont .categoria input[type="checkbox"]:not([id="elegirTodas"], [id="elegirNinguna"])');
+    const mainDeckCount = document.getElementById('main-deck-count'); // Asegúrate de que este ID está en tu HTML
 
+    function updateComicsCount() {
+        let totalComics = 0;
+        const promises = [];
 
-// Evento para 'Elegir Todas'
-switchElegirTodas.addEventListener('change', function() {
-    if (this.checked) {
-        // Si 'Elegir Todas' se activa, activa todos los switches de categoría y desactiva 'Elegir Ninguna'
-        categorySwitches.forEach(sw => sw.checked = true);
-        switchElegirNinguna.checked = false;
-    } else {
-        // Si 'Elegir Todas' se desactiva manualmente, desactiva todos los switches de categoría
-        categorySwitches.forEach(sw => sw.checked = false);
-        // Verificar si debería activarse 'Elegir Ninguna' (todos desactivados)
-        const allUnchecked = Array.from(categorySwitches).every(sw => !sw.checked);
-        switchElegirNinguna.checked = allUnchecked;
-    }
-});
-
-// Evento para 'Elegir Ninguna'
-switchElegirNinguna.addEventListener('change', function() {
-    if (this.checked) {
-        // Si 'Elegir Ninguna' se activa, desactiva todos los switches de categoría y 'Elegir Todas'
-        categorySwitches.forEach(sw => sw.checked = false);
-        switchElegirTodas.checked = false;
-    } else {
-        // Si 'Elegir Ninguna' se desactiva manualmente, verifica si todos están desactivados
-        const anyChecked = Array.from(categorySwitches).some(sw => sw.checked);
-        switchElegirTodas.checked = anyChecked;
-        // Actualiza 'Elegir Todas' basándose en si alguno está activado
-        const allChecked = Array.from(categorySwitches).every(sw => sw.checked);
-        switchElegirTodas.checked = allChecked;
-    }
-});
-
-
-
-
-    // Eventos para cada switch de categoría individual
-    categorySwitches.forEach(switchCateg => {
-        switchCateg.addEventListener('change', function() {
-            // Si algún switch individual se desactiva
-            if (!this.checked) {
-                switchElegirTodas.checked = false;
-                // Verificar si ningún switch está activado y activar 'Elegir Ninguna'
-                const noneChecked = Array.from(categorySwitches).every(sw => !sw.checked);
-                switchElegirNinguna.checked = noneChecked;
-            } else {
-                // Si cualquier switch se activa, desactivar 'Elegir Ninguna'
-                switchElegirNinguna.checked = false;
-                // Comprobar si todos los switches individuales están activados
-                const allChecked = Array.from(categorySwitches).every(sw => sw.checked);
-                switchElegirTodas.checked = allChecked;
+        Array.from(categorySwitches).forEach(sw => {
+            if (sw.checked) {
+                const categoryName = sw.closest('.categoria').querySelector('.legend').textContent.trim();
+                const filename = categoryToFileMap[categoryName];
+                const promise = fetch(`js/${filename}`) // Asegúrate de que la ruta es correcta
+                    .then(response => response.json())
+                    .then(data => {
+                        totalComics += data.bib.length;
+                    })
+                    .catch(error => console.error('Error loading JSON for category:', categoryName, error));
+                promises.push(promise);
             }
+        });
+
+        Promise.all(promises).then(() => {
+            mainDeckCount.textContent = totalComics; // Actualizar el contador en el UI
         });
     }
 
+    // Añadir manejadores de eventos para 'Elegir Todas' y 'Elegir Ninguna'
+    [switchElegirTodas, switchElegirNinguna].forEach(switchEl => {
+        switchEl.addEventListener('change', () => {
+            categorySwitches.forEach(sw => sw.checked = switchEl.checked);
+            updateComicsCount(); // Actualiza el contador cada vez que se cambia 'Elegir Todas' o 'Elegir Ninguna'
+        });
+    });
 
-
-);
+    // Añadir evento a cada switch de categoría individual
+    categorySwitches.forEach(sw => {
+        sw.addEventListener('change', updateComicsCount);
+    });
 });
-
-

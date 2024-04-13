@@ -133,16 +133,44 @@ button img {
 
 }
 
-.categoria{
+.categoria {
   padding: 0.2em;
   display: flex;
   flex-direction: row;
   font-size: 0.9em;
-
 }
 
 
 .active-categories-list{
   font-size: 2em;
   color: #03a9f4;
+}
+
+/* Estilo para el botón que contiene la imagen y el contador */
+button#main-deck-btn {
+  position: relative; /* Posicionamiento relativo para el botón */
+  border: none; /* Elimina el borde si es necesario */
+  background: none; /* Fondo transparente */
+  cursor: pointer; /* Cursor como puntero para indicar que es un botón */
+  padding: 0; /* Sin padding para ajustar la imagen y el texto exactamente */
+}
+
+/* Estilo para la imagen dentro del botón */
+button#main-deck-btn img {
+  width: 100px; /* Ajusta esto según el tamaño deseado de la imagen */
+  height: auto; /* Altura automática para mantener la proporción */
+  display: block; /* Asegura que la imagen no tenga espacio extra alrededor */
+}
+
+/* Estilo para el span que muestra el contador */
+#main-deck-count {
+  position: absolute; /* Posicionamiento absoluto respecto a su contenedor relativo */
+  top: 90%; /* Centrado verticalmente */
+  right: 10px; /* Ajuste horizontal para colocarlo sobre la imagen o cerca del borde derecho */
+  transform: translateY(-50%); /* Centra el texto verticalmente en la posición calculada */
+  padding: 2px 5px; /* Espaciado interno para el texto */
+  border-radius: 5px; /* Bordes redondeados para el fondo del contador */
+  font-size: 1em; /* Tamaño de fuente adecuado para el contador */
+  color: #03a9f4;
+  font-weight: bold; /* Negrita para el texto del contador */
 }

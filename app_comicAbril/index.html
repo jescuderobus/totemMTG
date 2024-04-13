@@ -10,6 +10,7 @@
     />
     <link rel="stylesheet" href="css/styles.css" />
     <link rel="stylesheet" href="css/switch.css" />
+    <link rel="stylesheet" href="css/decks.css" />
   </head>
   <body>
     <header>
@@ -42,116 +43,160 @@
             <label class="switch"
               ><input type="checkbox" /><span class="slider"></span
             ></label>
-            <span class="legend">Elegir Todas</span>
+            <span class="legend">Elegir Todas</span> (<span class="ccount"
+              >1711</span
+            >)
           </div>
 
-          <div id="elegirNinguna" class="categoria">
+          <div id="elegirNinguna" class="categoria" style="display: none">
             <label class="switch"
               ><input type="checkbox" checked /><span class="slider"></span
             ></label>
             <span class="legend">Elegir Ninguna</span>
           </div>
 
-          <div id="adaptacionL"  class="categoria">
+          <div id="adaptacionL" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Adaptación Literaria</span>
+            <span class="legend">Adaptación Literaria</span> (<span
+              class="ccount"
+              >111</span
+            >)
           </div>
-          <div  id="aventuraSH" class="categoria">
+          <div id="aventuraSH" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Aventura / Superhéroes</span>
+            <span class="legend">Aventura / Superhéroes</span> (<span
+              class="ccount"
+              >221</span
+            >)
           </div>
-          <div  id="belico" class="categoria">
+          <div id="belico" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Bélico</span>
+            <span class="legend">Bélico</span> (<span class="ccount">13</span>)
           </div>
-          <div  id="biografia" class="categoria">
+          <div id="biografia" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Biografía</span>
+            <span class="legend">Biografía</span> (<span class="ccount"
+              >149</span
+            >)
           </div>
-          <div  id="cienciaFiccion"  class="categoria">
+          <div id="cienciaFiccion" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Ciencia Ficción</span>
+            <span class="legend">Ciencia Ficción</span> (<span class="ccount"
+              >91</span
+            >)
           </div>
-          <div  id="drama" class="categoria">
+          <div id="drama" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Costumbrismo/Drama</span>
+            <span class="legend">Costumbrismo/Drama</span> (<span class="ccount"
+              >124</span
+            >)
           </div>
-          <div  id="fantasiaR" class="categoria">
+          <div id="fantasiaR" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Fantasía/Romance</span>
+            <span class="legend">Fantasía/Romance</span> (<span class="ccount"
+              >74</span
+            >)
           </div>
-          <div  id="terror"  class="categoria">
+          <div id="terror" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Negro/Terror/Underground</span>
+            <span class="legend">Negro/Terror/Underground</span> (<span
+              class="ccount"
+              >149</span
+            >)
           </div>
-          <div  id="historicoP" class="categoria">
+          <div id="historicoP" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Histórico/Política</span>
+            <span class="legend">Histórico/Política</span> (<span class="ccount"
+              >170</span
+            >)
           </div>
-          <div  id="humor" class="categoria">
+          <div id="humor" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Humor</span>
+            <span class="legend">Humor</span> (<span class="ccount">148</span>)
           </div>
           <div class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span  id="manga" class="legend">Manga</span>
+            <span id="manga" class="legend">Manga</span> (<span class="ccount"
+              >111</span
+            >)
           </div>
-          <div  id="metacomic" class="categoria">
+          <div id="metacomic" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Metacomic</span>
+            <span class="legend">Metacomic</span> (<span class="ccount"
+              >185</span
+            >)
           </div>
-          <div  id="mujeres" class="categoria">
+          <div id="mujeres" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Mujeres/Feminismo</span>
+            <span class="legend">Mujeres/Feminismo</span> (<span class="ccount"
+              >72</span
+            >)
           </div>
-          <div  id="premiosN" class="categoria">
+          <div id="premiosN" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Premios Nacionales</span>
+            <span class="legend">Premios Nacionales</span> (<span class="ccount"
+              >21</span
+            >)
           </div>
-          <div  id="socialL" class="categoria">
+          <div id="socialL" class="categoria">
             <label class="switch"
               ><input type="checkbox" /><span class="slider round"></span
             ></label>
-            <span class="legend">Social/LGTBI+</span>
+            <span class="legend">Social/LGTBI+</span>(<span class="ccount"
+              >72</span
+            >)
           </div>
         </div>
 
         <div id="main-deck-cont" style="display: none">
-          <h2>Categorías Seleccionadas</h2>
-          <ul id="active-categories-list"></ul> <!-- Lista para categorías activas -->
-      </div>
-      
+          <div class="comic-navigation">
+            <div class="comic-status">comic status</div>
+            <button id="prev-comic">&#10094;</button>
+            <button id="next-comic">&#10095;</button>
+            <button id="heart-comic">&#9829;</button>
+          </div>
+          <div id="comic-display">MAIN, Nada por aquí</div>
+        </div>
 
-        <div id="favorite-cont" style="display: none">FAVORITO, Nada por aquí</div>
+        <div id="favorite-cont" style="display: none">
+          <div class="comic-navigation">
+            <div class="comic-status">comic status</div>
+            <button id="prev-comic">&#10094;</button>
+            <button id="next-comic">&#10095;</button>
+            <button id="heart-comic">&#9829;</button>
+          </div>
+          <div id="comic-display">FAVORITO, Nada por aquí</div>
+        </div>
       </div>
+
       <div id="button-container">
         <!-- Botones de acción -->
         <button id="restart-btn">
@@ -176,6 +221,7 @@
     </main>
     <footer>
       <script src="js/main-buttons.js"></script>
+      <script src="js/restart-button.js"></script>
       <script src="js/categorias-switchs.js"></script>
       <script src="js/main-deck.js"></script>
       <script src="js/favorite-deck.js"></script>

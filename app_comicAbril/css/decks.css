@@ -1,0 +1,55 @@
+.comic-navigation {
+    display: flex; /* Utiliza flexbox para facilitar la alineación */
+    justify-content: space-between; /* Separa los botones entre sí al máximo */
+    align-items: center; /* Centra los botones verticalmente en su contenedor */
+    padding: 10px; /* Espaciado interno para evitar que los botones toquen los bordes del contenedor */
+}
+
+#prev-comic, #next-comic {
+    font-size: 5em; /* Tamaño del texto para hacer los botones grandes */
+    text-shadow: 2px 2px 4px #03a9f4; /* Borde azul alrededor de los botones */
+    background-color: transparent; /* Fondo transparente */
+    cursor: pointer; /* Cursor en forma de mano para indicar que son clickeables */
+    padding: 10px; /* Espaciado interno para mejorar la interacción */
+    transition: background-color 0.3s, color 0.3s; /* Transición suave para efectos de hover */
+
+}
+
+#prev-comic{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+
+#next-comic{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+}
+
+#prev-comic:hover, #next-comic:hover {
+    color: #03a9f4; /* Cambia el texto a blanco en hover */
+}
+
+#heart-comic {
+    font-size: 5em; /* Tamaño del corazón */
+    border: none; /* Sin borde */
+    background-color: transparent; /* Fondo transparente */
+    cursor: pointer; /* Cursor en forma de mano */
+    color: #212121; /* Color inicial del corazón */
+    transition: color 0.3s; /* Transición suave para el color */
+    position: absolute;
+    bottom: 22%;
+    right: 5%;
+}
+
+#heart-comic.active {
+    color: red; /* Color cuando está activado */
+}
+
+.comic-status{
+    position: absolute;
+    top: 13%;
+    left: 14%;
+    font-size: 2em; 
+}
