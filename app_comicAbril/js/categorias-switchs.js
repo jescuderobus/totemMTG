@@ -17,8 +17,6 @@ const categoryToFileMap = {
 };
 
 
-
-
 document.addEventListener('DOMContentLoaded', function() {
     const switchElegirTodas = document.getElementById('elegirTodas').querySelector('input[type="checkbox"]');
     const switchElegirNinguna = document.getElementById('elegirNinguna').querySelector('input[type="checkbox"]');

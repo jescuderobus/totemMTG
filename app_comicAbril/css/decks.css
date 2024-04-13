@@ -1,11 +1,11 @@
-.comic-navigation {
+.comic-navigation, .fav-comic-navigation {
     display: flex; /* Utiliza flexbox para facilitar la alineación */
     justify-content: space-between; /* Separa los botones entre sí al máximo */
     align-items: center; /* Centra los botones verticalmente en su contenedor */
     padding: 10px; /* Espaciado interno para evitar que los botones toquen los bordes del contenedor */
 }
 
-#prev-comic, #next-comic {
+#prev-comic, #next-comic, #fav-prev-comic, #fav-next-comic {
     font-size: 5em; /* Tamaño del texto para hacer los botones grandes */
     text-shadow: 2px 2px 4px #03a9f4; /* Borde azul alrededor de los botones */
     background-color: transparent; /* Fondo transparente */
@@ -15,23 +15,25 @@
 
 }
 
-#prev-comic{
+#prev-comic, #fav-prev-comic {
     position: absolute;
     top: 40%;
     left: 5%;
 }
 
-#next-comic{
+#next-comic, #fav-next-comic  {
     position: absolute;
     top: 40%;
     right: 5%;
 }
 
-#prev-comic:hover, #next-comic:hover {
+
+
+#prev-comic:hover, #next-comic:hover, #fav-prev-comic:hover, #fav-next-comic:hover  {
     color: #03a9f4; /* Cambia el texto a blanco en hover */
 }
 
-#heart-comic {
+#heart-comic , #fav-heart-comic {
     font-size: 5em; /* Tamaño del corazón */
     border: none; /* Sin borde */
     background-color: transparent; /* Fondo transparente */
@@ -43,11 +45,11 @@
     right: 5%;
 }
 
-#heart-comic.active {
+#heart-comic.active, #fav-heart-comic.active {
     color: red; /* Color cuando está activado */
 }
 
-.comic-status{
+.comic-status, .fav-comic-status{
     position: absolute;
     top: 13%;
     left: 14%;
