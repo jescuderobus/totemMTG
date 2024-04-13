@@ -1,43 +1,184 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>elige tu comic</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css" />
-    <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/switch.css" />
+  </head>
+  <body>
     <header>
-        <span>
-          <a href="javascript:history.back()">
-            <span class="mdi mdi-backburger backburger"></span>
-          </a>
-        </span>
-        <span class="appSubtitle">
-          elige tu comic&nbsp;
-          <img
-            src="images/noun-comic-5640534.svg"
-            width="50px"
-            style="padding: 4px"
-            alt=""
-          />
-        </span>
-      </header>
+      <span>
+        <a href="javascript:history.back()">
+          <span class="mdi mdi-backburger backburger"></span>
+        </a>
+      </span>
+      <span class="appSubtitle">
+        elige tu comic&nbsp;
+        <img
+          src="images/noun-comic-5640534.svg"
+          width="50px"
+          style="padding: 4px"
+          alt=""
+        />
+      </span>
+    </header>
 
-<main>
-    <div id="comic-container">
-        <img src="images/portadaZC_0.jpg" id="comic-cover" alt="Magic Card">
-    </div>
-    <div id="button-container">
+    <main>
+      <div id="comic-container">
+        <div id="restart-cont" style="display: block">
+          <img src="images/portadaZC_0.jpg" id="comic-cover" alt="Magic Card" />
+        </div>
+
+        <div id="elige-tipo-cont" style="display: none">
+          <h1>Elige categorias</h1>
+
+          <div id="elegirTodas" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider"></span
+            ></label>
+            <span class="legend">Elegir Todas</span>
+          </div>
+
+          <div id="elegirNinguna" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" checked /><span class="slider"></span
+            ></label>
+            <span class="legend">Elegir Ninguna</span>
+          </div>
+
+          <div id="adaptacionL"  class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Adaptación Literaria</span>
+          </div>
+          <div  id="aventuraSH" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Aventura / Superhéroes</span>
+          </div>
+          <div  id="belico" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Bélico</span>
+          </div>
+          <div  id="biografia" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Biografía</span>
+          </div>
+          <div  id="cienciaFiccion"  class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Ciencia Ficción</span>
+          </div>
+          <div  id="drama" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Costumbrismo/Drama</span>
+          </div>
+          <div  id="fantasiaR" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Fantasía/Romance</span>
+          </div>
+          <div  id="terror"  class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Negro/Terror/Underground</span>
+          </div>
+          <div  id="historicoP" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Histórico/Política</span>
+          </div>
+          <div  id="humor" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Humor</span>
+          </div>
+          <div class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span  id="manga" class="legend">Manga</span>
+          </div>
+          <div  id="metacomic" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Metacomic</span>
+          </div>
+          <div  id="mujeres" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Mujeres/Feminismo</span>
+          </div>
+          <div  id="premiosN" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Premios Nacionales</span>
+          </div>
+          <div  id="socialL" class="categoria">
+            <label class="switch"
+              ><input type="checkbox" /><span class="slider round"></span
+            ></label>
+            <span class="legend">Social/LGTBI+</span>
+          </div>
+        </div>
+
+        <div id="main-deck-cont" style="display: none">
+          <h2>Categorías Seleccionadas</h2>
+          <ul id="active-categories-list"></ul> <!-- Lista para categorías activas -->
+      </div>
+      
+
+        <div id="favorite-cont" style="display: none">FAVORITO, Nada por aquí</div>
+      </div>
+      <div id="button-container">
         <!-- Botones de acción -->
-        <button id="restart-btn"><img src="images/restart.svg" alt="Restart"></button>
-        <button id="choose-type-btn"><img src="images/choose-type.svg" alt="Choose Type"></button>
-        <button id="main-deck-btn"><img src="images/main-deck.svg" alt="main deck"><span id="main-deck-count">0</span></button>
-        <button id="favorite-btn"><img src="images/favorite.svg" alt="Favorite"><span id="favorite-count">0</span></button>        
-    </div>
-</main>
-<footer></footer>
-</body>
+        <button id="restart-btn">
+          <img src="images/restart.svg" alt="Restart" />
+        </button>
+        <button id="elige-tipo-btn">
+          <img src="images/choose-type.svg" alt="Choose Type" />
+        </button>
+        <button id="main-deck-btn">
+          <img src="images/main-deck.svg" alt="main deck" /><span
+            id="main-deck-count"
+            >0</span
+          >
+        </button>
+        <button id="favorite-btn">
+          <img src="images/favorite.svg" alt="Favorite" /><span
+            id="favorite-count"
+            >0</span
+          >
+        </button>
+      </div>
+    </main>
+    <footer>
+      <script src="js/main-buttons.js"></script>
+      <script src="js/categorias-switchs.js"></script>
+      <script src="js/main-deck.js"></script>
+      <script src="js/favorite-deck.js"></script>
+    </footer>
+  </body>
 </html>

@@ -67,10 +67,11 @@ header {
 
 #comic-container {
     min-width: 85%;
+    max-width: 85%;
     height: 80%;
     margin-bottom: 1em;
-    border: 2px solid #ccc;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 2px solid #03a9f4;
+    box-shadow: 0 0 10px rgba(245,245,245,0.5);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -122,4 +123,26 @@ button img {
 
 #favorite-count{
     color: red;
+}
+
+/***************************/
+
+#eligeCategorias{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.categoria{
+  padding: 0.2em;
+  display: flex;
+  flex-direction: row;
+  font-size: 0.9em;
+
+}
+
+
+.active-categories-list{
+  font-size: 2em;
+  color: #03a9f4;
 }
