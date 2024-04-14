@@ -17,14 +17,14 @@
 
 #prev-comic, #fav-prev-comic {
     position: absolute;
-    top: 40%;
-    left: 5%;
+    top: 45%;
+    left: 2%;
 }
 
 #next-comic, #fav-next-comic  {
     position: absolute;
-    top: 40%;
-    right: 5%;
+    top: 45%;
+    right: 2%;
 }
 
 
@@ -41,8 +41,8 @@
     color: #212121; /* Color inicial del corazón */
     transition: color 0.3s; /* Transición suave para el color */
     position: absolute;
-    bottom: 22%;
-    right: 5%;
+    bottom: 0%;
+    right: 0%;
 }
 
 #heart-comic.active, #fav-heart-comic.active {
@@ -51,7 +51,26 @@
 
 .comic-status, .fav-comic-status{
     position: absolute;
-    top: 13%;
-    left: 14%;
+    top: 0%;
+    left: 0%;
     font-size: 2em; 
+    background: rgba(20, 20, 20, 0.8);
+    width: 100%;
+    height: 6%;
+    padding-left: 0.2em;
+}
+
+.comic-info, .fav-comic-info{
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    font-size: 1em; 
+    background: rgba(20, 20, 20, 0.8);
+    width: 100%;
+    height: 10%;
+}
+
+.ct{
+    padding: 1em;
+    font-size: 1.2em;
 }

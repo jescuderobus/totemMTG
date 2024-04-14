@@ -122,6 +122,13 @@ button img {
   overflow: hidden; /* Oculta cualquier parte de la imagen que exceda el contenedor */
 }
 
+#favorite-cont {
+  width: 100%;  /* Ajusta al 100% del contenedor padre */
+  height: 100%; /* Ajusta al 100% del contenedor padre */
+  position: relative; /* Posicionamiento relativo para más control si es necesario */
+  overflow: hidden; /* Oculta cualquier parte de la imagen que exceda el contenedor */
+}
+
 #main-deck-count{
     color:#03a9f4;
 }
