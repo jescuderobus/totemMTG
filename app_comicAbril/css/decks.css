@@ -10,7 +10,7 @@
     text-shadow: 2px 2px 4px #03a9f4; /* Borde azul alrededor de los botones */
     background-color: transparent; /* Fondo transparente */
     cursor: pointer; /* Cursor en forma de mano para indicar que son clickeables */
-    padding: 10px; /* Espaciado interno para mejorar la interacción */
+    padding: 2px; /* Espaciado interno para mejorar la interacción */
     transition: background-color 0.3s, color 0.3s; /* Transición suave para efectos de hover */
 
 }
@@ -18,13 +18,13 @@
 #prev-comic, #fav-prev-comic {
     position: absolute;
     top: 45%;
-    left: 2%;
+    left: -4%;
 }
 
 #next-comic, #fav-next-comic  {
     position: absolute;
     top: 45%;
-    right: 2%;
+    right: -4%;
 }
 
 
@@ -38,7 +38,7 @@
     border: none; /* Sin borde */
     background-color: transparent; /* Fondo transparente */
     cursor: pointer; /* Cursor en forma de mano */
-    color: #212121; /* Color inicial del corazón */
+    color: rgba(255, 0, 0, 0.2); /* Color inicial del corazón */
     transition: color 0.3s; /* Transición suave para el color */
     position: absolute;
     bottom: 0%;

@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function displayComic(index) {
     const comic = comicsData[index];
     comicInfo.innerHTML = `<br><span class="ct">${comic.title} <span class="ca">${comic.author}</span></span>`;
-    comicDisplay.innerHTML = `<img id="comic-cover" src="${comic.cover2}" style="width:100%; height:100%;">`;
+    comicDisplay.innerHTML = `<img id="comic-cover" src="${comic.cover1}" style="width:100%; height:900px;">`;
     comicStatus.textContent = `${index + 1}/${comicsData.length} - ${
       comic.category
     }`;
@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function displayFavorite(index) {
     const comic = favoritesData[index];
     favComicInfo.innerHTML = `<br><span class="ct">${comic.title} <span class="ca">${comic.author}</span></span>`;
-    favComicDisplay.innerHTML = `<img id="comic-cover" src="${comic.cover2}" style="width:100%; height:100%;">`;
+    favComicDisplay.innerHTML = `<img id="comic-cover" src="${comic.cover1}" style="width:100%; height:100%;">`;
     favComicStatus.textContent = `${index + 1}/${favoritesData.length} - ${
       comic.category
     }`;

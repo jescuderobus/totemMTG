@@ -46,7 +46,15 @@ curl -X GET "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/
 
 
 
-
+# Download Cover Open Library
 sed 's/-//g' Premios_Nacionales.json | jq '.bib[].isbn' | tee aux1
 sed -i 's|^"|curl -f -O https://covers.openlibrary.org/b/isbn/|g' aux1
 sed -i 's|"|-L.jpg|g' aux1
+rename 's/-L.jpg/.jpg/g' *
+
+
+# Download Cover Google
+- Quitar todos los guiones de los isbn
+https://www.googleapis.com/books/v1/volumes?q=9788417776640 (Revisar el BuyLink)
+https://books.google.com/books/publisher/content/images/frontcover/N9QJEAAAQBAJ?fife=w500-h750
+

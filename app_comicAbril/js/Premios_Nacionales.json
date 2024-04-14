@@ -4,7 +4,7 @@
             "mms_id": "991008905929704987",
             "title": "Las serpientes ciegas /",
             "author": "Hernández Cava, Felipe",
-            "isbn": "978-84-612-497-8-7",
+            "isbn": "9788461249787",
             "network_number": [
                 "(OCoLC)920220487",
                 "REBIUN5484718",
@@ -15,7 +15,7 @@
             "publisher_const": "BD Banda,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008905929704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/978-84-612-497-8-7.jpg",
+            "cover1": "./images/cover/9788461249787.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008905929704987.jpg",
             "cover3": ""
         },
@@ -33,7 +33,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009211249704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788415163046.jpg",
+            "cover1": "./images/cover/9788415163046.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009211249704987.jpg",
             "cover3": ""
         },
@@ -41,7 +41,7 @@
             "mms_id": "991010993529704987",
             "title": "Plaza elíptica /",
             "author": "Valenzuela, Santiago",
-            "isbn": "978-84-96730-58-8",
+            "isbn": "9788496730588",
             "network_number": [
                 "(OCoLC)1135234155",
                 "(esseubg)b24064269-34cbua_us"
@@ -51,7 +51,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010993529704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/978-84-96730-58-8.jpg",
+            "cover1": "./images/cover/9788496730588.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010993529704987.jpg",
             "cover3": ""
         },
@@ -69,7 +69,7 @@
             "publisher_const": "Sin sentido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011366819704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/97884415530145.jpg",
+            "cover1": "./images/cover/97884415530145.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011366819704987.jpg",
             "cover3": ""
         },
@@ -88,7 +88,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012125839704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788415163428.jpg",
+            "cover1": "./images/cover/9788415163428.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012125839704987.jpg",
             "cover3": ""
         },
@@ -107,7 +107,7 @@
             "publisher_const": "Ediciones Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012210659704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788496815391.jpg",
+            "cover1": "./images/cover/9788496815391.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012210659704987.jpg",
             "cover3": ""
         },
@@ -126,7 +126,7 @@
             "publisher_const": "NormaEditorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012436639704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788467924718.jpg",
+            "cover1": "./images/cover/9788467924718.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012436639704987.jpg",
             "cover3": ""
         },
@@ -134,7 +134,7 @@
             "mms_id": "991012498229704987",
             "title": "Ardalén /",
             "author": "Prado, Miguelanxo,",
-            "isbn": "978-84-679-0998-2",
+            "isbn": "9788467909982",
             "complete_edition": "3ª ed.",
             "network_number": [
                 "(OCoLC)864142989",
@@ -145,7 +145,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012498229704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/978-84-679-0998-2.jpg",
+            "cover1": "./images/cover/9788467909982.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012498229704987.jpg",
             "cover3": ""
         },
@@ -153,7 +153,7 @@
             "mms_id": "991012498269704987",
             "title": "Blacksad. Amarillo /",
             "author": "Díaz Canales, Juan,",
-            "isbn": "978-84-679-1425-2",
+            "isbn": "9788467914252",
             "complete_edition": "4a edición",
             "network_number": [
                 "(OCoLC)934387052",
@@ -164,7 +164,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012498269704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/978-84-679-1425-2.jpg",
+            "cover1": "./images/cover/9788467914252.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012498269704987.jpg",
             "cover3": ""
         },
@@ -182,7 +182,7 @@
             "publisher_const": "Sexto Piso,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012498359704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788415601937.jpg",
+            "cover1": "./images/cover/9788415601937.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012498359704987.jpg",
             "cover3": ""
         },
@@ -201,7 +201,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012509369704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788415685487.jpg",
+            "cover1": "./images/cover/9788415685487.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012509369704987.jpg",
             "cover3": ""
         },
@@ -219,7 +219,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012649529704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788416251513.jpg",
+            "cover1": "./images/cover/9788416251513.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012649529704987.jpg",
             "cover3": ""
         },
@@ -238,7 +238,7 @@
             "publisher_const": "La cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012923569704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788415724780.jpg",
+            "cover1": "./images/cover/9788415724780.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012923569704987.jpg",
             "cover3": ""
         },
@@ -246,7 +246,7 @@
             "mms_id": "991012938769704987",
             "title": "Estamos todas bien /",
             "author": "Penyas, Ana,",
-            "isbn": "978-84-16131-34-1",
+            "isbn": "9788416131341",
             "complete_edition": "Tercera edición",
             "network_number": [
                 "(OCoLC)1021856925",
@@ -257,7 +257,7 @@
             "publisher_const": "Salamandra Graphic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012938769704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/978-84-16131-34-1.jpg",
+            "cover1": "./images/cover/9788416131341.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012938769704987.jpg",
             "cover3": ""
         },
@@ -265,7 +265,7 @@
             "mms_id": "991013181397704987",
             "title": "El día 3 /",
             "author": "Durán, Cristina,",
-            "isbn": "978-84-16880-48-5",
+            "isbn": "9788416880485",
             "network_number": [
                 "(OCoLC)1124922645"
             ],
@@ -274,7 +274,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013181397704987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/978-84-16880-48-5.jpg",
+            "cover1": "./images/cover/9788416880485.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013181397704987.jpg",
             "cover3": ""
         },
@@ -290,7 +290,7 @@
             "publisher_const": "Universidad de Huelva, Campus Cómic, Área de Cultura,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013207209804987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788417776640.jpg",
+            "cover1": "./images/cover/9788417776640.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013207209804987.jpg",
             "cover3": ""
         },
@@ -307,7 +307,7 @@
             "publisher_const": "Astiberri Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013247009104987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/8417575022.jpg",
+            "cover1": "./images/cover/8417575022.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013247009104987.jpg",
             "cover3": ""
         },
@@ -324,7 +324,7 @@
             "publisher_const": "Autsaider Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013398879804987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788412007350.jpg",
+            "cover1": "./images/cover/9788412007350.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013398879804987.jpg",
             "cover3": ""
         },
@@ -341,7 +341,7 @@
             "publisher_const": "Autsaider Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013602549504987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788412007350.jpg",
+            "cover1": "./images/cover/9788412007350.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013602549504987.jpg",
             "cover3": ""
         },
@@ -359,7 +359,7 @@
             "publisher_const": "Nuevo Nueve,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013665103004987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788417989699.jpg",
+            "cover1": "./images/cover/9788417989699.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013665103004987.jpg",
             "cover3": ""
         },
@@ -377,7 +377,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764402504987",
             "genero": "Premios Nacionales",
-            "cover1": "../images/9788418052675.jpg",
+            "cover1": "./images/cover/9788418052675.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764402504987.jpg",
             "cover3": ""
         }

@@ -38,3 +38,7 @@ https://codepen.io/chriscoyier/pen/EKzpwo (Airtable emoji poll)
 https://codepen.io/yamini/pen/QqJgwX
 
 
+# Bola de cristal
+"tienes 20 segundos para imaginar"
+https://myartmagazine.com/meaningfull-illustrations-editorial-satirical-artworks-john-holcroft
+
