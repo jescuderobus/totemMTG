@@ -43,3 +43,10 @@ curl -X GET "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/
 curl -X GET "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/81367985790004987/bibs?apikey=l8xx72763ba7234243abaf9d967c37a77fff&limit=100&offset=0" -H "accept: application/json" | jq '.bib[] |= . + {"genero": "Social / LGTBI+"}' | jq '.bib[] |= . + {"cover1": ""}' | jq '.bib[] |= . + {"cover2": ""}' | jq '.bib[] |= . + {"cover3": ""}' | tee Social_LGTBIplus_0.json
 curl -X GET "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/81367985790004987/bibs?apikey=l8xx72763ba7234243abaf9d967c37a77fff&limit=100&offset=100" -H "accept: application/json" | jq '.bib[] |= . + {"genero": "Social / LGTBI+"}' | jq '.bib[] |= . + {"cover1": ""}' | jq '.bib[] |= . + {"cover2": ""}' | jq '.bib[] |= . + {"cover3": ""}' | tee Social_LGTBIplus_100.json
 curl -X GET "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/81367985790004987/bibs?apikey=l8xx72763ba7234243abaf9d967c37a77fff&limit=100&offset=200" -H "accept: application/json" | jq '.bib[] |= . + {"genero": "Social / LGTBI+"}' | jq '.bib[] |= . + {"cover1": ""}' | jq '.bib[] |= . + {"cover2": ""}' | jq '.bib[] |= . + {"cover3": ""}' | tee Social_LGTBIplus_200.json
+
+
+
+
+sed 's/-//g' Premios_Nacionales.json | jq '.bib[].isbn' | tee aux1
+sed -i 's|^"|curl -f -O https://covers.openlibrary.org/b/isbn/|g' aux1
+sed -i 's|"|-L.jpg|g' aux1
