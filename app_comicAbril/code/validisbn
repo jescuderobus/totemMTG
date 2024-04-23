@@ -1,0 +1,91 @@
+<?php
+
+/**
+ * Busca ISBNs que contengan la imagen de un libro, la asigna al mismo como cubierta
+ * y la guarda en una carpeta del servidor
+ */
+require_once('../include/app_init.php');
+ini_set('max_execution_time', 0);
+$resultado = Libro::obtenerTodosLibrosSinCubiertaValida();
+while ($linea = $resultado->fetch_assoc())
+{
+    //Recorremos el array de URLs para búsqueda de cubiertas
+    foreach ($URLS_IMAGEN as $url)
+    {
+        $j = 1;
+        $bueno = false;
+        //Recorremos los isbn
+        while ($j <= 4 && $bueno == false)
+        {
+            //Si no esta relleno el ISBN, comprobamos
+            if ($linea['isbn' . $j] != "")
+            {
+                if (strpos($url, 'casadellibro'))
+                {
+                    $url_isbn = str_ireplace("[ISBN]", trim($linea['isbn' . $j]), str_ireplace("[ISBN-2Last]", substr(trim($linea['isbn' . $j]), -2), str_ireplace("[ISBN-Last]", trim($linea['isbn' . $j])[-1], $url)));
+                }
+                else if (strpos($url, 'cegal'))
+                {
+                    $url_isbn = str_ireplace("[ISBN]", trim($linea['isbn' . $j]), str_ireplace("[ISBN-7First]", substr(trim($linea['isbn' . $j]), 0, 7), $url));
+                }
+                else
+                {
+                    $url_isbn = str_ireplace("[ISBN]", trim($linea['isbn' . $j]), $url);
+                }
+                //Comprobamos el tamaño de la imagen para ver si es válida
+                if (checkImageDim($url_isbn))
+                {
+                    $bueno = true;
+                    if ($linea['tabla'] == "electronicos")
+                    {
+                        $electronico = new Electronico();
+                        $electronico->actualizarISBNValido($j, $linea['cod_electronico']);
+                        $electronico->guardarCubiertaURL($linea['cod_electronico'], $linea['bibliografico'], $url_isbn);
+                        $urlNueva = UPLOAD . $linea['bibliografico'] . ".jpg";
+                        $electronico->actualizarUrlImagen($urlNueva, $linea['cod_electronico']);
+                    }
+                    else if ($linea['tabla'] == "impresos")
+                    {
+                        $impreso = new Impreso();
+                        $impreso->actualizarISBNValido($j, $linea['cod_electronico']);
+                        $impreso->guardarCubiertaURL($linea['cod_electronico'], $linea['bibliografico'], $url_isbn);
+                        $urlNueva = UPLOAD . $linea['bibliografico'] . ".jpg";
+                        $impreso->actualizarUrlImagen($urlNueva, $linea['cod_electronico']);
+                    }
+                }
+                else
+                {
+                    //Si no encuentra ponemos el 5, para saber que ya ha buscado
+                    if ($linea['tabla'] == "electronicos")
+                    {
+                        $electronico = new Electronico();
+                        $electronico->actualizarISBNValido("5", $linea['cod_electronico']);
+                    }
+                    else if ($linea['tabla'] == "impresos")
+                    {
+                        $impreso = new Impreso();
+                        $impreso->actualizarISBNValido("5", $linea['cod_electronico']);
+                    }
+                }
+            }
+            $j++;
+        }
+        //Salir del foreach, cuando encuentra una cubierta válida
+        if ($bueno)
+        {
+            break;
+        }
+    }
+}
+echo 'true';
+
+
+
+$URLS_IMAGEN = array(
+    "https://images-eu.ssl-images-amazon.com/images/P/[ISBN].01.LZZZZZZZ.jpg",
+    "https://editorial.tirant.com/low/[ISBN].jpg",
+        "https://www.sintesis.com/data/cubiertas/[ISBN].jpg",
+        "https://covers.openlibrary.org/b/isbn/[ISBN]-L.jpg",
+        "https://imagessl[ISBN-Last].casadellibro.com/a/l/t7/[ISBN-2Last]/[ISBN].jpg",
+    "https://static.cegal.es/imagenes/marcadas/[ISBN-7First]/[ISBN].gif"
+);
