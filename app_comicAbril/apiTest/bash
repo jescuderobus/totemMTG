@@ -1,0 +1,26 @@
+# generar la localización en el terminal
+
+locale -a
+sudo locale-gen es_ES.UTF-8
+sudo update-locale
+
+export LANG=es_ES.UTF-8
+export LC_ALL=es_ES.UTF-8
+
+python3 build_json_1.py | tee comandos_build_json_1
+
+./comandos_build_json_1
+
+python3 build_json_2.py
+
+
+python3 build_json_3.py
+
+jq '.bib[].isbn' TODO.json | wc -l
+
+
+python3 build_json_4.py
+
+
+# Hay que preguntar por cada mms_id y leer los holdinsgs y los items
+# 
