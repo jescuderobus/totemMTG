@@ -1,0 +1,25 @@
+isbn 9788418215209
+mms_id 991013412287904987
+holding_id 22368882560004987 HUM
+
+item_pid 23368882550004987
+
+
+barcode 601230979
+
+
+isbn 9788418215209
+mms_id 991013328494804987
+holding_id 22354713960004987 INF
+
+
+/almaws/v1/bibs/{mms_id}/holdings/{holding_id}/items
+
+## LAs aventuras de tintín
+mms: 991011275689704987
+Holding: 22354184820004987 EDU
+
+Holding: 22354713960004987 INF
+
+
+pid: 23354184790004987

@@ -24,3 +24,7 @@ python3 build_json_4.py
 
 # Hay que preguntar por cada mms_id y leer los holdinsgs y los items
 # 
+
+jq '.bib[] | select(.isbn | test("FAIL|INVALID"))' TODO.json
+
+
