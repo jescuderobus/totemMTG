@@ -15,7 +15,7 @@
             "publisher_const": "Alfar,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002102409704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991002102409704987.jpg",
             "cover3": ""
         },
@@ -34,7 +34,7 @@
             "publisher_const": "Lumen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003605759704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788426445032.jpg",
+            "cover1": "images/cover/9788426445032.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003605759704987.jpg",
             "cover3": ""
         },
@@ -53,7 +53,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005579169704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005579169704987.jpg",
             "cover3": ""
         },
@@ -71,7 +71,7 @@
             "publisher_const": "Norma editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005654469704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005654469704987.jpg",
             "cover3": ""
         },
@@ -91,7 +91,7 @@
             "publisher_const": "Norma ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006697019704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788484310280.jpg",
+            "cover1": "images/cover/9788484310280.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006697019704987.jpg",
             "cover3": ""
         },
@@ -110,7 +110,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006724349704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006724349704987.jpg",
             "cover3": ""
         },
@@ -128,7 +128,7 @@
             "publisher_const": "Sirpus,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008549469704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788489902756.jpg",
+            "cover1": "images/cover/9788489902756.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008549469704987.jpg",
             "cover3": ""
         },
@@ -146,7 +146,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008944559704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788478338818.jpg",
+            "cover1": "images/cover/9788478338818.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008944559704987.jpg",
             "cover3": ""
         },
@@ -164,7 +164,7 @@
             "publisher_const": "Abrams,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963719704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9780810994690.jpg",
+            "cover1": "images/cover/9780810994690.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963719704987.jpg",
             "cover3": ""
         },
@@ -182,7 +182,7 @@
             "publisher_const": "Universidad de Cádiz, Servicio de Publicaciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009058889704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009058889704987.jpg",
             "cover3": ""
         },
@@ -200,7 +200,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009079859704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788483463246.jpg",
+            "cover1": "images/cover/9788483463246.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009079859704987.jpg",
             "cover3": ""
         },
@@ -219,7 +219,7 @@
             "publisher_const": "European Union,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009129669704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9789279133800.jpg",
+            "cover1": "images/cover/9789279133800.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009129669704987.jpg",
             "cover3": ""
         },
@@ -238,7 +238,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167559704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788496815667.jpg",
+            "cover1": "images/cover/9788496815667.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167559704987.jpg",
             "cover3": ""
         },
@@ -257,7 +257,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009196869704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009196869704987.jpg",
             "cover3": ""
         },
@@ -277,7 +277,7 @@
             "publisher_const": "Astiberri",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009196879704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788496815742.jpg",
+            "cover1": "images/cover/9788496815742.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009196879704987.jpg",
             "cover3": ""
         },
@@ -295,7 +295,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222029704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782723415613.jpg",
+            "cover1": "images/cover/9782723415613.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222029704987.jpg",
             "cover3": ""
         },
@@ -313,7 +313,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222089704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782723425377.jpg",
+            "cover1": "images/cover/9782723425377.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222089704987.jpg",
             "cover3": ""
         },
@@ -331,7 +331,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222209704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782723425919.jpg",
+            "cover1": "images/cover/9782723425919.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222209704987.jpg",
             "cover3": ""
         },
@@ -349,7 +349,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222239704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782723425384.jpg",
+            "cover1": "images/cover/9782723425384.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222239704987.jpg",
             "cover3": ""
         },
@@ -367,7 +367,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222269704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782723428446.jpg",
+            "cover1": "images/cover/9782723428446.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222269704987.jpg",
             "cover3": ""
         },
@@ -385,7 +385,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222279704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782723425087.jpg",
+            "cover1": "images/cover/9782723425087.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222279704987.jpg",
             "cover3": ""
         },
@@ -403,7 +403,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222289704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782723428453.jpg",
+            "cover1": "images/cover/9782723428453.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222289704987.jpg",
             "cover3": ""
         },
@@ -422,7 +422,7 @@
             "publisher_const": "Bang,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009225049704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415051244.jpg",
+            "cover1": "images/cover/9788415051244.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009225049704987.jpg",
             "cover3": ""
         },
@@ -440,7 +440,7 @@
             "publisher_const": "Glenat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274169704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788484490258.jpg",
+            "cover1": "images/cover/9788484490258.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274169704987.jpg",
             "cover3": ""
         },
@@ -458,7 +458,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274179704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274179704987.jpg",
             "cover3": ""
         },
@@ -476,7 +476,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009276829704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788496730564.jpg",
+            "cover1": "images/cover/9788496730564.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009276829704987.jpg",
             "cover3": ""
         },
@@ -494,7 +494,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009375919704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782203399273.jpg",
+            "cover1": "images/cover/9782203399273.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009375919704987.jpg",
             "cover3": ""
         },
@@ -512,7 +512,7 @@
             "publisher_const": "Sinsentido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009432549704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788496722743.jpg",
+            "cover1": "images/cover/9788496722743.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009432549704987.jpg",
             "cover3": ""
         },
@@ -530,7 +530,7 @@
             "publisher_const": "Glenat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009478819704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788499471723.jpg",
+            "cover1": "images/cover/9788499471723.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009478819704987.jpg",
             "cover3": ""
         },
@@ -549,7 +549,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010880829704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788499471754.jpg",
+            "cover1": "images/cover/9788499471754.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010880829704987.jpg",
             "cover3": ""
         },
@@ -567,7 +567,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010985499704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/978849582597X.jpg",
+            "cover1": "images/cover/978849582597X.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010985499704987.jpg",
             "cover3": ""
         },
@@ -585,7 +585,7 @@
             "publisher_const": "Sinsentido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011017789704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788496722828.jpg",
+            "cover1": "images/cover/9788496722828.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011017789704987.jpg",
             "cover3": ""
         },
@@ -604,7 +604,7 @@
             "publisher_const": "Metropolitan Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011021749704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011021749704987.jpg",
             "cover3": ""
         },
@@ -623,7 +623,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011073279704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415163343.jpg",
+            "cover1": "images/cover/9788415163343.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011073279704987.jpg",
             "cover3": ""
         },
@@ -642,7 +642,7 @@
             "publisher_const": "Reservoir books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011102509704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788439720713.jpg",
+            "cover1": "images/cover/9788439720713.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011102509704987.jpg",
             "cover3": ""
         },
@@ -661,7 +661,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011111299704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011111299704987.jpg",
             "cover3": ""
         },
@@ -679,7 +679,7 @@
             "publisher_const": "Edicions de Ponent",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011166959704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788496730694.jpg",
+            "cover1": "images/cover/9788496730694.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011166959704987.jpg",
             "cover3": ""
         },
@@ -697,7 +697,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011167169704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788498851465.jpg",
+            "cover1": "images/cover/9788498851465.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011167169704987.jpg",
             "cover3": ""
         },
@@ -715,7 +715,7 @@
             "publisher_const": "Edicions Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011294559704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788496730687.jpg",
+            "cover1": "images/cover/9788496730687.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011294559704987.jpg",
             "cover3": ""
         },
@@ -734,7 +734,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011307739704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788498470666.jpg",
+            "cover1": "images/cover/9788498470666.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011307739704987.jpg",
             "cover3": ""
         },
@@ -752,7 +752,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011490569704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467911633.jpg",
+            "cover1": "images/cover/9788467911633.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011490569704987.jpg",
             "cover3": ""
         },
@@ -771,7 +771,7 @@
             "publisher_const": "Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011581479704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788439722526.jpg",
+            "cover1": "images/cover/9788439722526.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011581479704987.jpg",
             "cover3": ""
         },
@@ -790,7 +790,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011679039704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415685364.jpg",
+            "cover1": "images/cover/9788415685364.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011679039704987.jpg",
             "cover3": ""
         },
@@ -809,7 +809,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011679059704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467910988.jpg",
+            "cover1": "images/cover/9788467910988.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011679059704987.jpg",
             "cover3": ""
         },
@@ -828,7 +828,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011750309704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415685135.jpg",
+            "cover1": "images/cover/9788415685135.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011750309704987.jpg",
             "cover3": ""
         },
@@ -847,7 +847,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011966129704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788439729372.jpg",
+            "cover1": "images/cover/9788439729372.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011966129704987.jpg",
             "cover3": ""
         },
@@ -865,7 +865,7 @@
             "publisher_const": "Lunwerg,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012125899704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415888154.jpg",
+            "cover1": "images/cover/9788415888154.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012125899704987.jpg",
             "cover3": ""
         },
@@ -883,7 +883,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012182289704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467920758.jpg",
+            "cover1": "images/cover/9788467920758.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012182289704987.jpg",
             "cover3": ""
         },
@@ -902,7 +902,7 @@
             "publisher_const": "Panini España",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012183609704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788498858587.jpg",
+            "cover1": "images/cover/9788498858587.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012183609704987.jpg",
             "cover3": ""
         },
@@ -921,7 +921,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012196229704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788492769810.jpg",
+            "cover1": "images/cover/9788492769810.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012196229704987.jpg",
             "cover3": ""
         },
@@ -939,7 +939,7 @@
             "publisher_const": "Orphie,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012279509704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782877636742.jpg",
+            "cover1": "images/cover/9782877636742.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012279509704987.jpg",
             "cover3": ""
         },
@@ -957,7 +957,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012305489704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467923230.jpg",
+            "cover1": "images/cover/9788467923230.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012305489704987.jpg",
             "cover3": ""
         },
@@ -976,7 +976,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012319329704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415944447.jpg",
+            "cover1": "images/cover/9788415944447.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012319329704987.jpg",
             "cover3": ""
         },
@@ -994,7 +994,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012399129704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416251582.jpg",
+            "cover1": "images/cover/9788416251582.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012399129704987.jpg",
             "cover3": ""
         },
@@ -1013,7 +1013,7 @@
             "publisher_const": "Sapristi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012436929704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788494425783.jpg",
+            "cover1": "images/cover/9788494425783.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012436929704987.jpg",
             "cover3": ""
         },
@@ -1031,7 +1031,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437069704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415685654.jpg",
+            "cover1": "images/cover/9788415685654.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012437069704987.jpg",
             "cover3": ""
         },
@@ -1049,7 +1049,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012529339704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788466661614.jpg",
+            "cover1": "images/cover/9788466661614.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012529339704987.jpg",
             "cover3": ""
         },
@@ -1066,7 +1066,7 @@
             "publisher_const": "Spaceman Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012625849704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416417094.jpg",
+            "cover1": "images/cover/9788416417094.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012625849704987.jpg",
             "cover3": ""
         },
@@ -1084,7 +1084,7 @@
             "publisher_const": "Random House Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012669299704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788439720713.jpg",
+            "cover1": "images/cover/9788439720713.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012669299704987.jpg",
             "cover3": ""
         },
@@ -1102,7 +1102,7 @@
             "publisher_const": "Drawn and Quarterly,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012676529704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9781897299104.jpg",
+            "cover1": "images/cover/9781897299104.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012676529704987.jpg",
             "cover3": ""
         },
@@ -1119,7 +1119,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012865719704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415724483.jpg",
+            "cover1": "images/cover/9788415724483.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012865719704987.jpg",
             "cover3": ""
         },
@@ -1137,7 +1137,7 @@
             "publisher_const": "Otaku Manga,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012922149704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012922149704987.jpg",
             "cover3": ""
         },
@@ -1155,7 +1155,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012944739704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416880751.jpg",
+            "cover1": "images/cover/9788416880751.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012944739704987.jpg",
             "cover3": ""
         },
@@ -1172,7 +1172,7 @@
             "publisher_const": "Sillón Orejero,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013089977104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416880874.jpg",
+            "cover1": "images/cover/9788416880874.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013089977104987.jpg",
             "cover3": ""
         },
@@ -1191,7 +1191,7 @@
             "publisher_const": "Museo Nacional del Prado,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013110897204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788484805236.jpg",
+            "cover1": "images/cover/9788484805236.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013110897204987.jpg",
             "cover3": ""
         },
@@ -1208,7 +1208,7 @@
             "publisher_const": "Anaya,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013150208504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788441541115.jpg",
+            "cover1": "images/cover/9788441541115.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013150208504987.jpg",
             "cover3": ""
         },
@@ -1225,7 +1225,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013181397704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416880485.jpg",
+            "cover1": "images/cover/9788416880485.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013181397704987.jpg",
             "cover3": ""
         },
@@ -1242,7 +1242,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013203009004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417575267.jpg",
+            "cover1": "images/cover/9788417575267.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013203009004987.jpg",
             "cover3": ""
         },
@@ -1263,7 +1263,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013234609504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417910143.jpg",
+            "cover1": "images/cover/9788417910143.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013234609504987.jpg",
             "cover3": ""
         },
@@ -1280,7 +1280,7 @@
             "publisher_const": "Astiberri Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013247009104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417575021.jpg",
+            "cover1": "images/cover/9788417575021.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013247009104987.jpg",
             "cover3": ""
         },
@@ -1297,7 +1297,7 @@
             "publisher_const": "Delcourt,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013254705004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782756039718.jpg",
+            "cover1": "images/cover/9782756039718.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013254705004987.jpg",
             "cover3": ""
         },
@@ -1314,7 +1314,7 @@
             "publisher_const": "Astiberri Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013328494804987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418215209.jpg",
+            "cover1": "images/cover/9788418215209.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013328494804987.jpg",
             "cover3": ""
         },
@@ -1331,7 +1331,7 @@
             "publisher_const": "Alianza,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013336808204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788491043157.jpg",
+            "cover1": "images/cover/9788491043157.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013336808204987.jpg",
             "cover3": ""
         },
@@ -1348,7 +1348,7 @@
             "publisher_const": "Simboleditors,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013346202304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415315919.jpg",
+            "cover1": "images/cover/9788415315919.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013346202304987.jpg",
             "cover3": ""
         },
@@ -1365,7 +1365,7 @@
             "publisher_const": "Norma :",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013346303204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788476690932.jpg",
+            "cover1": "images/cover/9788476690932.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013346303204987.jpg",
             "cover3": ""
         },
@@ -1383,7 +1383,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013365003204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467943757.jpg",
+            "cover1": "images/cover/9788467943757.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013365003204987.jpg",
             "cover3": ""
         },
@@ -1400,7 +1400,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013365003404987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467944587.jpg",
+            "cover1": "images/cover/9788467944587.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013365003404987.jpg",
             "cover3": ""
         },
@@ -1417,7 +1417,7 @@
             "publisher_const": "Planeta Cómic",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013365003504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788413416007.jpg",
+            "cover1": "images/cover/9788413416007.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013365003504987.jpg",
             "cover3": ""
         },
@@ -1434,7 +1434,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013365005704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418215117.jpg",
+            "cover1": "images/cover/9788418215117.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013365005704987.jpg",
             "cover3": ""
         },
@@ -1451,7 +1451,7 @@
             "publisher_const": "Kraken,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013368706404987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416435401.jpg",
+            "cover1": "images/cover/9788416435401.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013368706404987.jpg",
             "cover3": ""
         },
@@ -1468,7 +1468,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013368906704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418215391.jpg",
+            "cover1": "images/cover/9788418215391.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013368906704987.jpg",
             "cover3": ""
         },
@@ -1487,7 +1487,7 @@
             "publisher_const": "Fundación de Estudios Libertarios \"Anselmo Lorenzo\",",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013369206304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788486864767.jpg",
+            "cover1": "images/cover/9788486864767.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013369206304987.jpg",
             "cover3": ""
         },
@@ -1505,7 +1505,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013376807304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467924701.jpg",
+            "cover1": "images/cover/9788467924701.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013376807304987.jpg",
             "cover3": ""
         },
@@ -1522,7 +1522,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013400679804987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467947441.jpg",
+            "cover1": "images/cover/9788467947441.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013400679804987.jpg",
             "cover3": ""
         },
@@ -1539,7 +1539,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013404975204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416880508.jpg",
+            "cover1": "images/cover/9788416880508.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013404975204987.jpg",
             "cover3": ""
         },
@@ -1557,7 +1557,7 @@
             "publisher_const": "Libros y publicaciones periódicas,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013405069704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013405069704987.jpg",
             "cover3": ""
         },
@@ -1574,7 +1574,7 @@
             "publisher_const": "Izquierda Diario,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013405272904987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788469732106.jpg",
+            "cover1": "images/cover/9788469732106.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013405272904987.jpg",
             "cover3": ""
         },
@@ -1593,7 +1593,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013406557104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467931433.jpg",
+            "cover1": "images/cover/9788467931433.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013406557104987.jpg",
             "cover3": ""
         },
@@ -1611,7 +1611,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411288204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467934076.jpg",
+            "cover1": "images/cover/9788467934076.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411288204987.jpg",
             "cover3": ""
         },
@@ -1629,7 +1629,7 @@
             "publisher_const": "Astiberri Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013412287904987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418215209.jpg",
+            "cover1": "images/cover/9788418215209.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013412287904987.jpg",
             "cover3": ""
         },
@@ -1647,7 +1647,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013427197704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416251186.jpg",
+            "cover1": "images/cover/9788416251186.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013427197704987.jpg",
             "cover3": ""
         },
@@ -1664,7 +1664,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013429097704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467948912.jpg",
+            "cover1": "images/cover/9788467948912.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013429097704987.jpg",
             "cover3": ""
         },
@@ -1681,7 +1681,7 @@
             "publisher_const": "Astiberri Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013429098204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418909016.jpg",
+            "cover1": "images/cover/9788418909016.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013429098204987.jpg",
             "cover3": ""
         },
@@ -1699,7 +1699,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013433872804987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788466671415.jpg",
+            "cover1": "images/cover/9788466671415.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013433872804987.jpg",
             "cover3": ""
         },
@@ -1716,7 +1716,7 @@
             "publisher_const": "Gallo Nero,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434391704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416529957.jpg",
+            "cover1": "images/cover/9788416529957.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434391704987.jpg",
             "cover3": ""
         },
@@ -1733,7 +1733,7 @@
             "publisher_const": "Sapristi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434392004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788412128284.jpg",
+            "cover1": "images/cover/9788412128284.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434392004987.jpg",
             "cover3": ""
         },
@@ -1750,7 +1750,7 @@
             "publisher_const": "Nuevo Nueve,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438320304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417989002.jpg",
+            "cover1": "images/cover/9788417989002.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438320304987.jpg",
             "cover3": ""
         },
@@ -1767,7 +1767,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788491739777.jpg",
+            "cover1": "images/cover/9788491739777.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322304987.jpg",
             "cover3": ""
         },
@@ -1784,7 +1784,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322404987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788413410937.jpg",
+            "cover1": "images/cover/9788413410937.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322404987.jpg",
             "cover3": ""
         },
@@ -1801,7 +1801,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438323304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416880331.jpg",
+            "cover1": "images/cover/9788416880331.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438323304987.jpg",
             "cover3": ""
         },
@@ -1818,7 +1818,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416400881.jpg",
+            "cover1": "images/cover/9788416400881.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620704987.jpg",
             "cover3": ""
         },
@@ -1836,7 +1836,7 @@
             "publisher_const": "Reino de Cordelia,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418141157.jpg",
+            "cover1": "images/cover/9788418141157.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924104987.jpg",
             "cover3": ""
         },
@@ -1853,7 +1853,7 @@
             "publisher_const": "Bruguera,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788402422118.jpg",
+            "cover1": "images/cover/9788402422118.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924304987.jpg",
             "cover3": ""
         },
@@ -1870,7 +1870,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924404987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788466334846.jpg",
+            "cover1": "images/cover/9788466334846.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924404987.jpg",
             "cover3": ""
         },
@@ -1888,7 +1888,7 @@
             "publisher_const": "Norma Editorial",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441116804987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467944600.jpg",
+            "cover1": "images/cover/9788467944600.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441116804987.jpg",
             "cover3": ""
         },
@@ -1905,7 +1905,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441217404987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418897030.jpg",
+            "cover1": "images/cover/9788418897030.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441217404987.jpg",
             "cover3": ""
         },
@@ -1923,7 +1923,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441220604987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418309250.jpg",
+            "cover1": "images/cover/9788418309250.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441220604987.jpg",
             "cover3": ""
         },
@@ -1940,7 +1940,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441221604987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416251230.jpg",
+            "cover1": "images/cover/9788416251230.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441221604987.jpg",
             "cover3": ""
         },
@@ -1957,7 +1957,7 @@
             "publisher_const": "La otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416763580.jpg",
+            "cover1": "images/cover/9788416763580.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441225204987.jpg",
             "cover3": ""
         },
@@ -1974,7 +1974,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417442187.jpg",
+            "cover1": "images/cover/9788417442187.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441225704987.jpg",
             "cover3": ""
         },
@@ -1995,7 +1995,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441421204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417910143.jpg",
+            "cover1": "images/cover/9788417910143.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441421204987.jpg",
             "cover3": ""
         },
@@ -2012,7 +2012,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441422204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788491749288.jpg",
+            "cover1": "images/cover/9788491749288.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441422204987.jpg",
             "cover3": ""
         },
@@ -2029,7 +2029,7 @@
             "publisher_const": "Nórdica Libros,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441424304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418930553.jpg",
+            "cover1": "images/cover/9788418930553.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441424304987.jpg",
             "cover3": ""
         },
@@ -2046,7 +2046,7 @@
             "publisher_const": "Loguez,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441817404987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788494273339.jpg",
+            "cover1": "images/cover/9788494273339.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441817404987.jpg",
             "cover3": ""
         },
@@ -2064,7 +2064,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013444122504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788466665087.jpg",
+            "cover1": "images/cover/9788466665087.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013444122504987.jpg",
             "cover3": ""
         },
@@ -2078,7 +2078,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452617104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788415480952.jpg",
+            "cover1": "images/cover/9788415480952.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452617104987.jpg",
             "cover3": ""
         },
@@ -2095,7 +2095,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452619504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418326936.jpg",
+            "cover1": "images/cover/9788418326936.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452619504987.jpg",
             "cover3": ""
         },
@@ -2113,7 +2113,7 @@
             "publisher_const": "Debate,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452625904987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788499926032.jpg",
+            "cover1": "images/cover/9788499926032.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452625904987.jpg",
             "cover3": ""
         },
@@ -2131,7 +2131,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452626004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417318550.jpg",
+            "cover1": "images/cover/9788417318550.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452626004987.jpg",
             "cover3": ""
         },
@@ -2149,7 +2149,7 @@
             "publisher_const": "Proyectos y Producciones Editoriales CYAN S.A.,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452626104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417318932.jpg",
+            "cover1": "images/cover/9788417318932.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452626104987.jpg",
             "cover3": ""
         },
@@ -2166,7 +2166,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456623504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788496815629.jpg",
+            "cover1": "images/cover/9788496815629.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456623504987.jpg",
             "cover3": ""
         },
@@ -2183,7 +2183,7 @@
             "publisher_const": "Errata Naturae,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456725404987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788419158024.jpg",
+            "cover1": "images/cover/9788419158024.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456725404987.jpg",
             "cover3": ""
         },
@@ -2200,7 +2200,7 @@
             "publisher_const": "Salamandra Graphic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013462134504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418621079.jpg",
+            "cover1": "images/cover/9788418621079.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013462134504987.jpg",
             "cover3": ""
         },
@@ -2217,7 +2217,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013476572304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467951158.jpg",
+            "cover1": "images/cover/9788467951158.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013476572304987.jpg",
             "cover3": ""
         },
@@ -2235,7 +2235,7 @@
             "publisher_const": "Les Arènes BD,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013481253004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9791037506146.jpg",
+            "cover1": "images/cover/9791037506146.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013481253004987.jpg",
             "cover3": ""
         },
@@ -2252,7 +2252,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013527561804987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788466342902.jpg",
+            "cover1": "images/cover/9788466342902.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013527561804987.jpg",
             "cover3": ""
         },
@@ -2269,7 +2269,7 @@
             "publisher_const": "Delcourt,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013604447704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782756050256.jpg",
+            "cover1": "images/cover/9782756050256.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013604447704987.jpg",
             "cover3": ""
         },
@@ -2284,7 +2284,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013619105704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417910884.jpg",
+            "cover1": "images/cover/9788417910884.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013619105704987.jpg",
             "cover3": ""
         },
@@ -2301,7 +2301,7 @@
             "publisher_const": "Salamandra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013623305504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416131556.jpg",
+            "cover1": "images/cover/9788416131556.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013623305504987.jpg",
             "cover3": ""
         },
@@ -2319,7 +2319,7 @@
             "publisher_const": "Cascaborra Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013625289304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788409141241.jpg",
+            "cover1": "images/cover/9788409141241.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013625289304987.jpg",
             "cover3": ""
         },
@@ -2337,7 +2337,7 @@
             "publisher_const": "Cascaborra Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013625801504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788409216031.jpg",
+            "cover1": "images/cover/9788409216031.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013625801504987.jpg",
             "cover3": ""
         },
@@ -2354,7 +2354,7 @@
             "publisher_const": "Cascaborra Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013625801704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788409108909.jpg",
+            "cover1": "images/cover/9788409108909.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013625801704987.jpg",
             "cover3": ""
         },
@@ -2373,7 +2373,7 @@
             "publisher_const": "SaludArte,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013625801804987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788412134742.jpg",
+            "cover1": "images/cover/9788412134742.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013625801804987.jpg",
             "cover3": ""
         },
@@ -2391,7 +2391,7 @@
             "publisher_const": "Nuevo Nueve,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627382004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788419148056.jpg",
+            "cover1": "images/cover/9788419148056.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013627382004987.jpg",
             "cover3": ""
         },
@@ -2409,7 +2409,7 @@
             "publisher_const": "Astiberri",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013628704904987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416880096.jpg",
+            "cover1": "images/cover/9788416880096.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013628704904987.jpg",
             "cover3": ""
         },
@@ -2427,7 +2427,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503804987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416251285.jpg",
+            "cover1": "images/cover/9788416251285.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503804987.jpg",
             "cover3": ""
         },
@@ -2445,7 +2445,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666505504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467948523.jpg",
+            "cover1": "images/cover/9788467948523.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666505504987.jpg",
             "cover3": ""
         },
@@ -2462,7 +2462,7 @@
             "publisher_const": "Akal,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013692197704987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788446053002.jpg",
+            "cover1": "images/cover/9788446053002.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013692197704987.jpg",
             "cover3": ""
         },
@@ -2481,7 +2481,7 @@
             "publisher_const": "Yermo Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013694396004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788419296337.jpg",
+            "cover1": "images/cover/9788419296337.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013694396004987.jpg",
             "cover3": ""
         },
@@ -2499,7 +2499,7 @@
             "publisher_const": "Cartem Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013694396104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788412358582.jpg",
+            "cover1": "images/cover/9788412358582.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013694396104987.jpg",
             "cover3": ""
         },
@@ -2517,7 +2517,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013694396304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467951172.jpg",
+            "cover1": "images/cover/9788467951172.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013694396304987.jpg",
             "cover3": ""
         },
@@ -2535,7 +2535,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013698002104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788417910402.jpg",
+            "cover1": "images/cover/9788417910402.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013698002104987.jpg",
             "cover3": ""
         },
@@ -2553,7 +2553,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713502204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788491749332.jpg",
+            "cover1": "images/cover/9788491749332.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713502204987.jpg",
             "cover3": ""
         },
@@ -2567,7 +2567,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713502804987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788466669863.jpg",
+            "cover1": "images/cover/9788466669863.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713502804987.jpg",
             "cover3": ""
         },
@@ -2585,7 +2585,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713503204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418897771.jpg",
+            "cover1": "images/cover/9788418897771.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713503204987.jpg",
             "cover3": ""
         },
@@ -2603,7 +2603,7 @@
             "publisher_const": "Cascaborra Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013724404304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788409348169.jpg",
+            "cover1": "images/cover/9788409348169.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013724404304987.jpg",
             "cover3": ""
         },
@@ -2621,7 +2621,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013734104904987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788419670076.jpg",
+            "cover1": "images/cover/9788419670076.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013734104904987.jpg",
             "cover3": ""
         },
@@ -2639,7 +2639,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013734105104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418909658.jpg",
+            "cover1": "images/cover/9788418909658.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013734105104987.jpg",
             "cover3": ""
         },
@@ -2656,7 +2656,7 @@
             "publisher_const": "IDW Pulbishing, a division of Idea and Design Works, LLC.,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013746205504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9781684058297.jpg",
+            "cover1": "images/cover/9781684058297.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013746205504987.jpg",
             "cover3": ""
         },
@@ -2673,7 +2673,7 @@
             "publisher_const": "Lua de Papel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013747705504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9789892354477.jpg",
+            "cover1": "images/cover/9789892354477.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013747705504987.jpg",
             "cover3": ""
         },
@@ -2690,7 +2690,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013754202804987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467962390.jpg",
+            "cover1": "images/cover/9788467962390.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013754202804987.jpg",
             "cover3": ""
         },
@@ -2707,7 +2707,7 @@
             "publisher_const": "Debate,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013754202904987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418056925.jpg",
+            "cover1": "images/cover/9788418056925.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013754202904987.jpg",
             "cover3": ""
         },
@@ -2724,7 +2724,7 @@
             "publisher_const": "Debate,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013754203004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788418006814.jpg",
+            "cover1": "images/cover/9788418006814.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013754203004987.jpg",
             "cover3": ""
         },
@@ -2741,7 +2741,7 @@
             "publisher_const": "Debate,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013756204504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788419399151.jpg",
+            "cover1": "images/cover/9788419399151.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013756204504987.jpg",
             "cover3": ""
         },
@@ -2759,7 +2759,7 @@
             "publisher_const": "Cascaborra Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013756404904987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788409474554.jpg",
+            "cover1": "images/cover/9788409474554.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013756404904987.jpg",
             "cover3": ""
         },
@@ -2777,7 +2777,7 @@
             "publisher_const": "Cascaborra Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013756405204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788412660852.jpg",
+            "cover1": "images/cover/9788412660852.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013756405204987.jpg",
             "cover3": ""
         },
@@ -2795,7 +2795,7 @@
             "publisher_const": "Penguin Random House :",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764101504987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416131785.jpg",
+            "cover1": "images/cover/9788416131785.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764101504987.jpg",
             "cover3": ""
         },
@@ -2812,7 +2812,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764402604987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467964738.jpg",
+            "cover1": "images/cover/9788467964738.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764402604987.jpg",
             "cover3": ""
         },
@@ -2832,7 +2832,7 @@
             "publisher_const": "Planeta Cómic",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013794005604987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788416543601.jpg",
+            "cover1": "images/cover/9788416543601.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013794005604987.jpg",
             "cover3": ""
         },
@@ -2849,7 +2849,7 @@
             "publisher_const": "001 Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013796904004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788897846895.jpg",
+            "cover1": "images/cover/9788897846895.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013796904004987.jpg",
             "cover3": ""
         },
@@ -2868,7 +2868,7 @@
             "publisher_const": "NormaEditorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013799705304987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467924718.jpg",
+            "cover1": "images/cover/9788467924718.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013799705304987.jpg",
             "cover3": ""
         },
@@ -2885,7 +2885,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013803504904987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788419670229.jpg",
+            "cover1": "images/cover/9788419670229.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013803504904987.jpg",
             "cover3": ""
         },
@@ -2902,7 +2902,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013815805204987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788492458677.jpg",
+            "cover1": "images/cover/9788492458677.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013815805204987.jpg",
             "cover3": ""
         },
@@ -2919,7 +2919,7 @@
             "publisher_const": "Delcourt,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013817404604987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013817404604987.jpg",
             "cover3": ""
         },
@@ -2936,7 +2936,7 @@
             "publisher_const": "Guy Delcourt Productions,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013817404904987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9782756009339.jpg",
+            "cover1": "images/cover/9782756009339.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013817404904987.jpg",
             "cover3": ""
         },
@@ -2954,7 +2954,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013832003404987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788419437495.jpg",
+            "cover1": "images/cover/9788419437495.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013832003404987.jpg",
             "cover3": ""
         },
@@ -2971,7 +2971,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841201104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788467922196.jpg",
+            "cover1": "images/cover/9788467922196.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013841201104987.jpg",
             "cover3": ""
         },
@@ -2989,7 +2989,7 @@
             "publisher_const": "[Jordi Bayarri Dolz],",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593004987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788493874674.jpg",
+            "cover1": "images/cover/9788493874674.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013841593004987.jpg",
             "cover3": ""
         },
@@ -3006,7 +3006,7 @@
             "publisher_const": "[Jordi Bayarri Dolz],",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593604987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/9788494569845.jpg",
+            "cover1": "images/cover/9788494569845.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013841593604987.jpg",
             "cover3": ""
         },
@@ -3023,7 +3023,7 @@
             "publisher_const": "Distrito manga,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013857104104987",
             "genero": "Histórico / Política",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013857104104987.jpg",
             "cover3": ""
         }

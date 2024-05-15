@@ -15,7 +15,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003133449704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003133449704987.jpg",
             "cover3": ""
         },
@@ -34,7 +34,7 @@
             "publisher_const": "Ikusager,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003133949704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003133949704987.jpg",
             "cover3": ""
         },
@@ -52,7 +52,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167469704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788498144956.jpg",
+            "cover1": "images/cover/9788498144956.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167469704987.jpg",
             "cover3": ""
         },
@@ -71,7 +71,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167599704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167599704987.jpg",
             "cover3": ""
         },
@@ -90,7 +90,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009168109704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009168109704987.jpg",
             "cover3": ""
         },
@@ -109,7 +109,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009168129704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009168129704987.jpg",
             "cover3": ""
         },
@@ -129,7 +129,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009168139704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009168139704987.jpg",
             "cover3": ""
         },
@@ -148,7 +148,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009169709704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788467454772.jpg",
+            "cover1": "images/cover/9788467454772.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009169709704987.jpg",
             "cover3": ""
         },
@@ -166,7 +166,7 @@
             "publisher_const": "Dargaud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219959704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782205057331.jpg",
+            "cover1": "images/cover/9782205057331.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219959704987.jpg",
             "cover3": ""
         },
@@ -184,7 +184,7 @@
             "publisher_const": "Dargaud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219979704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/4727201056259.jpg",
+            "cover1": "images/cover/4727201056259.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219979704987.jpg",
             "cover3": ""
         },
@@ -202,7 +202,7 @@
             "publisher_const": "Dupuis,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009220099704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782800145891.jpg",
+            "cover1": "images/cover/9782800145891.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009220099704987.jpg",
             "cover3": ""
         },
@@ -220,7 +220,7 @@
             "publisher_const": "Dupuis,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009220149704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782800145853.jpg",
+            "cover1": "images/cover/9782800145853.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009220149704987.jpg",
             "cover3": ""
         },
@@ -238,7 +238,7 @@
             "publisher_const": "Dupuis,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009220169704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782800145815.jpg",
+            "cover1": "images/cover/9782800145815.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009220169704987.jpg",
             "cover3": ""
         },
@@ -256,7 +256,7 @@
             "publisher_const": "Le Lombard,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009257079704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782803603596.jpg",
+            "cover1": "images/cover/9782803603596.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009257079704987.jpg",
             "cover3": ""
         },
@@ -274,7 +274,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274129704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788478336273.jpg",
+            "cover1": "images/cover/9788478336273.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274129704987.jpg",
             "cover3": ""
         },
@@ -292,7 +292,7 @@
             "publisher_const": "La Cúpula ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274139704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788478338375.jpg",
+            "cover1": "images/cover/9788478338375.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274139704987.jpg",
             "cover3": ""
         },
@@ -310,7 +310,7 @@
             "publisher_const": "Dargaud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010881099704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782205058147.jpg",
+            "cover1": "images/cover/9782205058147.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010881099704987.jpg",
             "cover3": ""
         },
@@ -328,7 +328,7 @@
             "publisher_const": "Dargaud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010881119704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782205062359.jpg",
+            "cover1": "images/cover/9782205062359.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010881119704987.jpg",
             "cover3": ""
         },
@@ -346,7 +346,7 @@
             "publisher_const": "Le Lombard,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010881229704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782803600014.jpg",
+            "cover1": "images/cover/9782803600014.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010881229704987.jpg",
             "cover3": ""
         },
@@ -364,7 +364,7 @@
             "publisher_const": "Le Lombard,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010881249704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782803605156.jpg",
+            "cover1": "images/cover/9782803605156.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010881249704987.jpg",
             "cover3": ""
         },
@@ -382,7 +382,7 @@
             "publisher_const": "Le Lombard,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010881259704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9782803607549.jpg",
+            "cover1": "images/cover/9782803607549.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010881259704987.jpg",
             "cover3": ""
         },
@@ -401,7 +401,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011051609704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788498147643.jpg",
+            "cover1": "images/cover/9788498147643.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011051609704987.jpg",
             "cover3": ""
         },
@@ -419,7 +419,7 @@
             "publisher_const": "Glenat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011089289704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011089289704987.jpg",
             "cover3": ""
         },
@@ -436,7 +436,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011147199704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788415480037.jpg",
+            "cover1": "images/cover/9788415480037.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011147199704987.jpg",
             "cover3": ""
         },
@@ -454,7 +454,7 @@
             "publisher_const": "Norma ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011155709704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788467908084.jpg",
+            "cover1": "images/cover/9788467908084.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011155709704987.jpg",
             "cover3": ""
         },
@@ -472,7 +472,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011171189704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788415163640.jpg",
+            "cover1": "images/cover/9788415163640.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011171189704987.jpg",
             "cover3": ""
         },
@@ -490,7 +490,7 @@
             "publisher_const": "RM Verlag,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011230829704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788415118060.jpg",
+            "cover1": "images/cover/9788415118060.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011230829704987.jpg",
             "cover3": ""
         },
@@ -507,7 +507,7 @@
             "publisher_const": "Ibero Mundial de Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011280209704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011280209704987.jpg",
             "cover3": ""
         },
@@ -526,7 +526,7 @@
             "publisher_const": "Vertigo/DC Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011677159704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011677159704987.jpg",
             "cover3": ""
         },
@@ -543,7 +543,7 @@
             "publisher_const": "Universidad Internacional de Andalucía ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011880069704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011880069704987.jpg",
             "cover3": ""
         },
@@ -562,7 +562,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011912099704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788498851564.jpg",
+            "cover1": "images/cover/9788498851564.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011912099704987.jpg",
             "cover3": ""
         },
@@ -581,7 +581,7 @@
             "publisher_const": "Entrecomics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930069704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788494012112.jpg",
+            "cover1": "images/cover/9788494012112.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930069704987.jpg",
             "cover3": ""
         },
@@ -600,7 +600,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012037729704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788467906769.jpg",
+            "cover1": "images/cover/9788467906769.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012037729704987.jpg",
             "cover3": ""
         },
@@ -618,7 +618,7 @@
             "publisher_const": "Koyama Press,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012270859704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9781927668047.jpg",
+            "cover1": "images/cover/9781927668047.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012270859704987.jpg",
             "cover3": ""
         },
@@ -637,7 +637,7 @@
             "publisher_const": "Grafito,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012281589704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788494300226.jpg",
+            "cover1": "images/cover/9788494300226.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012281589704987.jpg",
             "cover3": ""
         },
@@ -654,7 +654,7 @@
             "publisher_const": "Salamandra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012312739704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788498387360.jpg",
+            "cover1": "images/cover/9788498387360.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012312739704987.jpg",
             "cover3": ""
         },
@@ -672,7 +672,7 @@
             "publisher_const": "GP Ediciones",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012319679704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788494234941.jpg",
+            "cover1": "images/cover/9788494234941.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012319679704987.jpg",
             "cover3": ""
         },
@@ -690,7 +690,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012411699704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416251766.jpg",
+            "cover1": "images/cover/9788416251766.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012411699704987.jpg",
             "cover3": ""
         },
@@ -708,7 +708,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437019704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788415724964.jpg",
+            "cover1": "images/cover/9788415724964.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012437019704987.jpg",
             "cover3": ""
         },
@@ -727,7 +727,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437199704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788415163251.jpg",
+            "cover1": "images/cover/9788415163251.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012437199704987.jpg",
             "cover3": ""
         },
@@ -745,7 +745,7 @@
             "publisher_const": "Dibbuks ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012445609704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788415850595.jpg",
+            "cover1": "images/cover/9788415850595.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012445609704987.jpg",
             "cover3": ""
         },
@@ -763,7 +763,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012491239704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416251957.jpg",
+            "cover1": "images/cover/9788416251957.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012491239704987.jpg",
             "cover3": ""
         },
@@ -781,7 +781,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012504469704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416251476.jpg",
+            "cover1": "images/cover/9788416251476.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012504469704987.jpg",
             "cover3": ""
         },
@@ -799,7 +799,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012793949704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788415932581.jpg",
+            "cover1": "images/cover/9788415932581.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012793949704987.jpg",
             "cover3": ""
         },
@@ -817,7 +817,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012794029704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788415932635.jpg",
+            "cover1": "images/cover/9788415932635.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012794029704987.jpg",
             "cover3": ""
         },
@@ -835,7 +835,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012800199704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788415932932.jpg",
+            "cover1": "images/cover/9788415932932.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012800199704987.jpg",
             "cover3": ""
         },
@@ -853,7 +853,7 @@
             "publisher_const": "GP Ediciones",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012830379704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788494234903.jpg",
+            "cover1": "images/cover/9788494234903.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012830379704987.jpg",
             "cover3": ""
         },
@@ -871,7 +871,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012830829704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416400959.jpg",
+            "cover1": "images/cover/9788416400959.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012830829704987.jpg",
             "cover3": ""
         },
@@ -889,7 +889,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012852549704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416660261.jpg",
+            "cover1": "images/cover/9788416660261.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012852549704987.jpg",
             "cover3": ""
         },
@@ -907,7 +907,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012866289704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416255344.jpg",
+            "cover1": "images/cover/9788416255344.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012866289704987.jpg",
             "cover3": ""
         },
@@ -925,7 +925,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012874979704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788468414034.jpg",
+            "cover1": "images/cover/9788468414034.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012874979704987.jpg",
             "cover3": ""
         },
@@ -943,7 +943,7 @@
             "publisher_const": "Aleta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012915599704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416074211.jpg",
+            "cover1": "images/cover/9788416074211.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012915599704987.jpg",
             "cover3": ""
         },
@@ -960,7 +960,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013148304504987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013148304504987.jpg",
             "cover3": ""
         },
@@ -977,7 +977,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013198808204987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788467936322.jpg",
+            "cover1": "images/cover/9788467936322.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013198808204987.jpg",
             "cover3": ""
         },
@@ -994,7 +994,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013326604004987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788417125639.jpg",
+            "cover1": "images/cover/9788417125639.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013326604004987.jpg",
             "cover3": ""
         },
@@ -1011,7 +1011,7 @@
             "publisher_const": "Reino de Cordelia,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013340007904987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416968985.jpg",
+            "cover1": "images/cover/9788416968985.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013340007904987.jpg",
             "cover3": ""
         },
@@ -1028,7 +1028,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013367207304987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788418215445.jpg",
+            "cover1": "images/cover/9788418215445.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013367207304987.jpg",
             "cover3": ""
         },
@@ -1046,7 +1046,7 @@
             "publisher_const": "Norma",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013383203004987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788498144970.jpg",
+            "cover1": "images/cover/9788498144970.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013383203004987.jpg",
             "cover3": ""
         },
@@ -1063,7 +1063,7 @@
             "publisher_const": "Mondadori",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013406970104987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788418052187.jpg",
+            "cover1": "images/cover/9788418052187.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013406970104987.jpg",
             "cover3": ""
         },
@@ -1081,7 +1081,7 @@
             "publisher_const": "Impedimenta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013409483104987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788417115135.jpg",
+            "cover1": "images/cover/9788417115135.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013409483104987.jpg",
             "cover3": ""
         },
@@ -1098,7 +1098,7 @@
             "publisher_const": "Aleta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879804987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416486014.jpg",
+            "cover1": "images/cover/9788416486014.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879804987.jpg",
             "cover3": ""
         },
@@ -1115,7 +1115,7 @@
             "publisher_const": "Sapristi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411888604987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788494894725.jpg",
+            "cover1": "images/cover/9788494894725.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411888604987.jpg",
             "cover3": ""
         },
@@ -1134,7 +1134,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013427197904987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788417575144.jpg",
+            "cover1": "images/cover/9788417575144.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013427197904987.jpg",
             "cover3": ""
         },
@@ -1151,7 +1151,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013427198004987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788417575526.jpg",
+            "cover1": "images/cover/9788417575526.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013427198004987.jpg",
             "cover3": ""
         },
@@ -1168,7 +1168,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438317104987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416880119.jpg",
+            "cover1": "images/cover/9788416880119.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438317104987.jpg",
             "cover3": ""
         },
@@ -1189,7 +1189,7 @@
             "publisher_const": "Penguin Random House Grupo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439120604987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788416709298.jpg",
+            "cover1": "images/cover/9788416709298.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439120604987.jpg",
             "cover3": ""
         },
@@ -1206,7 +1206,7 @@
             "publisher_const": "Panini Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440625004987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788491679035.jpg",
+            "cover1": "images/cover/9788491679035.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440625004987.jpg",
             "cover3": ""
         },
@@ -1224,7 +1224,7 @@
             "publisher_const": "Norma",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440625804987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788467916737.jpg",
+            "cover1": "images/cover/9788467916737.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440625804987.jpg",
             "cover3": ""
         },
@@ -1242,7 +1242,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441121904987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788467933635.jpg",
+            "cover1": "images/cover/9788467933635.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441121904987.jpg",
             "cover3": ""
         },
@@ -1259,7 +1259,7 @@
             "publisher_const": "Planeta Comic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441122004987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788491464563.jpg",
+            "cover1": "images/cover/9788491464563.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441122004987.jpg",
             "cover3": ""
         },
@@ -1276,7 +1276,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441122104987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788413411446.jpg",
+            "cover1": "images/cover/9788413411446.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441122104987.jpg",
             "cover3": ""
         },
@@ -1293,7 +1293,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013451025404987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788411123075.jpg",
+            "cover1": "images/cover/9788411123075.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013451025404987.jpg",
             "cover3": ""
         },
@@ -1311,7 +1311,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452617004987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788418215100.jpg",
+            "cover1": "images/cover/9788418215100.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452617004987.jpg",
             "cover3": ""
         },
@@ -1329,7 +1329,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452619404987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788467940497.jpg",
+            "cover1": "images/cover/9788467940497.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452619404987.jpg",
             "cover3": ""
         },
@@ -1343,7 +1343,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013481856804987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788417956660.jpg",
+            "cover1": "images/cover/9788417956660.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013481856804987.jpg",
             "cover3": ""
         },
@@ -1360,7 +1360,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013481971504987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788411120494.jpg",
+            "cover1": "images/cover/9788411120494.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013481971504987.jpg",
             "cover3": ""
         },
@@ -1377,7 +1377,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013625503204987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788491737339.jpg",
+            "cover1": "images/cover/9788491737339.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013625503204987.jpg",
             "cover3": ""
         },
@@ -1394,7 +1394,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627502504987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013627502504987.jpg",
             "cover3": ""
         },
@@ -1408,7 +1408,7 @@
             "publisher_const": "J M Llorca",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627901404987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013627901404987.jpg",
             "cover3": ""
         },
@@ -1427,7 +1427,7 @@
             "publisher_const": "Ediciones La Uña Rota,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013631483404987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788418782091.jpg",
+            "cover1": "images/cover/9788418782091.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013631483404987.jpg",
             "cover3": ""
         },
@@ -1445,7 +1445,7 @@
             "publisher_const": "Salamandra Graphic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013638200204987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788418621239.jpg",
+            "cover1": "images/cover/9788418621239.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013638200204987.jpg",
             "cover3": ""
         },
@@ -1462,7 +1462,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013654005604987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788491749264.jpg",
+            "cover1": "images/cover/9788491749264.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013654005604987.jpg",
             "cover3": ""
         },
@@ -1479,7 +1479,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013655797404987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788418909511.jpg",
+            "cover1": "images/cover/9788418909511.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013655797404987.jpg",
             "cover3": ""
         },
@@ -1497,7 +1497,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503404987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788419351760.jpg",
+            "cover1": "images/cover/9788419351760.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503404987.jpg",
             "cover3": ""
         },
@@ -1514,7 +1514,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666504304987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788467959406.jpg",
+            "cover1": "images/cover/9788467959406.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666504304987.jpg",
             "cover3": ""
         },
@@ -1531,7 +1531,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666504704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788467904673.jpg",
+            "cover1": "images/cover/9788467904673.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666504704987.jpg",
             "cover3": ""
         },
@@ -1546,7 +1546,7 @@
             "publisher_const": "Toutain Editor,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674902704987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674902704987.jpg",
             "cover3": ""
         },
@@ -1565,7 +1565,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713503404987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788418052613.jpg",
+            "cover1": "images/cover/9788418052613.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713503404987.jpg",
             "cover3": ""
         },
@@ -1583,7 +1583,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013740604504987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788419325198.jpg",
+            "cover1": "images/cover/9788419325198.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013740604504987.jpg",
             "cover3": ""
         },
@@ -1600,7 +1600,7 @@
             "publisher_const": "[Jordi Bayarri Dolz],",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013841593504987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/9788494569890.jpg",
+            "cover1": "images/cover/9788494569890.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013841593504987.jpg",
             "cover3": ""
         },
@@ -1616,7 +1616,7 @@
             "publisher_const": "Universidad de Sevilla, Facultad de Comunicación,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013864003404987",
             "genero": "Ciencia Ficción",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013864003404987.jpg",
             "cover3": ""
         }

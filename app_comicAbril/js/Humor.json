@@ -13,7 +13,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006451489704987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006451489704987.jpg",
             "cover3": ""
         },
@@ -29,7 +29,7 @@
             "publisher_const": "sn,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008507329704987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008507329704987.jpg",
             "cover3": ""
         },
@@ -48,7 +48,7 @@
             "publisher_const": "Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008515269704987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008515269704987.jpg",
             "cover3": ""
         },
@@ -66,7 +66,7 @@
             "publisher_const": "Random House Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008572079704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788439721888.jpg",
+            "cover1": "images/cover/9788439721888.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008572079704987.jpg",
             "cover3": ""
         },
@@ -84,7 +84,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009148999704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788483579121.jpg",
+            "cover1": "images/cover/9788483579121.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009148999704987.jpg",
             "cover3": ""
         },
@@ -102,7 +102,7 @@
             "publisher_const": "Planeta DeAgostini ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153049704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788467461251.jpg",
+            "cover1": "images/cover/9788467461251.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153049704987.jpg",
             "cover3": ""
         },
@@ -122,7 +122,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167639704987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167639704987.jpg",
             "cover3": ""
         },
@@ -138,7 +138,7 @@
             "publisher_const": "DibBuks,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009168099704987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009168099704987.jpg",
             "cover3": ""
         },
@@ -157,7 +157,7 @@
             "publisher_const": "Norma ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009168169704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788484312284.jpg",
+            "cover1": "images/cover/9788484312284.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009168169704987.jpg",
             "cover3": ""
         },
@@ -175,7 +175,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009196849704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9789514664397.jpg",
+            "cover1": "images/cover/9789514664397.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009196849704987.jpg",
             "cover3": ""
         },
@@ -193,7 +193,7 @@
             "publisher_const": "Glénat ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009232839704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788483576717.jpg",
+            "cover1": "images/cover/9788483576717.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009232839704987.jpg",
             "cover3": ""
         },
@@ -212,7 +212,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274279704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788484492221.jpg",
+            "cover1": "images/cover/9788484492221.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274279704987.jpg",
             "cover3": ""
         },
@@ -230,7 +230,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274379704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788492769117.jpg",
+            "cover1": "images/cover/9788492769117.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274379704987.jpg",
             "cover3": ""
         },
@@ -249,7 +249,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274399704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788493508876.jpg",
+            "cover1": "images/cover/9788493508876.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274399704987.jpg",
             "cover3": ""
         },
@@ -267,7 +267,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274469704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788492769247.jpg",
+            "cover1": "images/cover/9788492769247.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274469704987.jpg",
             "cover3": ""
         },
@@ -286,7 +286,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009300859704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788478338023.jpg",
+            "cover1": "images/cover/9788478338023.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009300859704987.jpg",
             "cover3": ""
         },
@@ -305,7 +305,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009300949704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788466644464.jpg",
+            "cover1": "images/cover/9788466644464.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009300949704987.jpg",
             "cover3": ""
         },
@@ -324,7 +324,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009300979704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788466644471.jpg",
+            "cover1": "images/cover/9788466644471.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009300979704987.jpg",
             "cover3": ""
         },
@@ -342,7 +342,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009301059704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788466645003.jpg",
+            "cover1": "images/cover/9788466645003.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009301059704987.jpg",
             "cover3": ""
         },
@@ -361,7 +361,7 @@
             "publisher_const": "Lumen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009304429704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788426445735.jpg",
+            "cover1": "images/cover/9788426445735.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009304429704987.jpg",
             "cover3": ""
         },
@@ -380,7 +380,7 @@
             "publisher_const": "RBA",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308479704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362714.jpg",
+            "cover1": "images/cover/9788447362714.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308479704987.jpg",
             "cover3": ""
         },
@@ -399,7 +399,7 @@
             "publisher_const": "RBA",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308499704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362752.jpg",
+            "cover1": "images/cover/9788447362752.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308499704987.jpg",
             "cover3": ""
         },
@@ -418,7 +418,7 @@
             "publisher_const": "RBA",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308519704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362745.jpg",
+            "cover1": "images/cover/9788447362745.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308519704987.jpg",
             "cover3": ""
         },
@@ -437,7 +437,7 @@
             "publisher_const": "RBA",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308549704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362738.jpg",
+            "cover1": "images/cover/9788447362738.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308549704987.jpg",
             "cover3": ""
         },
@@ -456,7 +456,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308559704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362721.jpg",
+            "cover1": "images/cover/9788447362721.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308559704987.jpg",
             "cover3": ""
         },
@@ -475,7 +475,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308599704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362707.jpg",
+            "cover1": "images/cover/9788447362707.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308599704987.jpg",
             "cover3": ""
         },
@@ -494,7 +494,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308609704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362660.jpg",
+            "cover1": "images/cover/9788447362660.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308609704987.jpg",
             "cover3": ""
         },
@@ -513,7 +513,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308629704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362684.jpg",
+            "cover1": "images/cover/9788447362684.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308629704987.jpg",
             "cover3": ""
         },
@@ -532,7 +532,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308679704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362677.jpg",
+            "cover1": "images/cover/9788447362677.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308679704987.jpg",
             "cover3": ""
         },
@@ -551,7 +551,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308699704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362127.jpg",
+            "cover1": "images/cover/9788447362127.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308699704987.jpg",
             "cover3": ""
         },
@@ -570,7 +570,7 @@
             "publisher_const": "RBA",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308709704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362158.jpg",
+            "cover1": "images/cover/9788447362158.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308709704987.jpg",
             "cover3": ""
         },
@@ -589,7 +589,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308719704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362080.jpg",
+            "cover1": "images/cover/9788447362080.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308719704987.jpg",
             "cover3": ""
         },
@@ -608,7 +608,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308729704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362066.jpg",
+            "cover1": "images/cover/9788447362066.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308729704987.jpg",
             "cover3": ""
         },
@@ -627,7 +627,7 @@
             "publisher_const": "sn,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308739704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362103.jpg",
+            "cover1": "images/cover/9788447362103.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308739704987.jpg",
             "cover3": ""
         },
@@ -646,7 +646,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308749704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447360703.jpg",
+            "cover1": "images/cover/9788447360703.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308749704987.jpg",
             "cover3": ""
         },
@@ -665,7 +665,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308779704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447360666.jpg",
+            "cover1": "images/cover/9788447360666.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308779704987.jpg",
             "cover3": ""
         },
@@ -684,7 +684,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308789704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362639.jpg",
+            "cover1": "images/cover/9788447362639.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308789704987.jpg",
             "cover3": ""
         },
@@ -703,7 +703,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308809704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447360697.jpg",
+            "cover1": "images/cover/9788447360697.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308809704987.jpg",
             "cover3": ""
         },
@@ -722,7 +722,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308829704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362783.jpg",
+            "cover1": "images/cover/9788447362783.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308829704987.jpg",
             "cover3": ""
         },
@@ -741,7 +741,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308839704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362776.jpg",
+            "cover1": "images/cover/9788447362776.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308839704987.jpg",
             "cover3": ""
         },
@@ -760,7 +760,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308899704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362769.jpg",
+            "cover1": "images/cover/9788447362769.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308899704987.jpg",
             "cover3": ""
         },
@@ -779,7 +779,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308909704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362691.jpg",
+            "cover1": "images/cover/9788447362691.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308909704987.jpg",
             "cover3": ""
         },
@@ -798,7 +798,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308959704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362134.jpg",
+            "cover1": "images/cover/9788447362134.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308959704987.jpg",
             "cover3": ""
         },
@@ -817,7 +817,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009308989704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362653.jpg",
+            "cover1": "images/cover/9788447362653.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009308989704987.jpg",
             "cover3": ""
         },
@@ -836,7 +836,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009309039704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447360642.jpg",
+            "cover1": "images/cover/9788447360642.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009309039704987.jpg",
             "cover3": ""
         },
@@ -855,7 +855,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009309089704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447360611.jpg",
+            "cover1": "images/cover/9788447360611.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009309089704987.jpg",
             "cover3": ""
         },
@@ -874,7 +874,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009309139704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447360680.jpg",
+            "cover1": "images/cover/9788447360680.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009309139704987.jpg",
             "cover3": ""
         },
@@ -893,7 +893,7 @@
             "publisher_const": "RBA",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009309169704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447360659.jpg",
+            "cover1": "images/cover/9788447360659.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009309169704987.jpg",
             "cover3": ""
         },
@@ -912,7 +912,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009309189704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362813.jpg",
+            "cover1": "images/cover/9788447362813.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009309189704987.jpg",
             "cover3": ""
         },
@@ -931,7 +931,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009309209704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362806.jpg",
+            "cover1": "images/cover/9788447362806.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009309209704987.jpg",
             "cover3": ""
         },
@@ -950,7 +950,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009309229704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362790.jpg",
+            "cover1": "images/cover/9788447362790.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009309229704987.jpg",
             "cover3": ""
         },
@@ -969,7 +969,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009309309704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447362820.jpg",
+            "cover1": "images/cover/9788447362820.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009309309704987.jpg",
             "cover3": ""
         },
@@ -988,7 +988,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009311039704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447360635.jpg",
+            "cover1": "images/cover/9788447360635.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009311039704987.jpg",
             "cover3": ""
         },
@@ -1007,7 +1007,7 @@
             "publisher_const": "RBA,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009311059704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788447360628.jpg",
+            "cover1": "images/cover/9788447360628.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009311059704987.jpg",
             "cover3": ""
         },
@@ -1025,7 +1025,7 @@
             "publisher_const": "Audie/Fluide Glacial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009375819704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9782858158676.jpg",
+            "cover1": "images/cover/9782858158676.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009375819704987.jpg",
             "cover3": ""
         },
@@ -1043,7 +1043,7 @@
             "publisher_const": "Random House Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009432799704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788439721123.jpg",
+            "cover1": "images/cover/9788439721123.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009432799704987.jpg",
             "cover3": ""
         },
@@ -1061,7 +1061,7 @@
             "publisher_const": "Dark Horse Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009490989704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9781595825018.jpg",
+            "cover1": "images/cover/9781595825018.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009490989704987.jpg",
             "cover3": ""
         },
@@ -1079,7 +1079,7 @@
             "publisher_const": "Dargaud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010881389704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9782205008814.jpg",
+            "cover1": "images/cover/9782205008814.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010881389704987.jpg",
             "cover3": ""
         },
@@ -1097,7 +1097,7 @@
             "publisher_const": "Dargaud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010881409704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9782205011555.jpg",
+            "cover1": "images/cover/9782205011555.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010881409704987.jpg",
             "cover3": ""
         },
@@ -1116,7 +1116,7 @@
             "publisher_const": "La Cupula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010950019704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788478338245.jpg",
+            "cover1": "images/cover/9788478338245.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010950019704987.jpg",
             "cover3": ""
         },
@@ -1134,7 +1134,7 @@
             "publisher_const": "Fantagraphics Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010972389704987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010972389704987.jpg",
             "cover3": ""
         },
@@ -1152,7 +1152,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010973289704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788415163312.jpg",
+            "cover1": "images/cover/9788415163312.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010973289704987.jpg",
             "cover3": ""
         },
@@ -1170,7 +1170,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010974469704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788499471778.jpg",
+            "cover1": "images/cover/9788499471778.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010974469704987.jpg",
             "cover3": ""
         },
@@ -1188,7 +1188,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010974479704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788478339235.jpg",
+            "cover1": "images/cover/9788478339235.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010974479704987.jpg",
             "cover3": ""
         },
@@ -1207,7 +1207,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011012489704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788478339297.jpg",
+            "cover1": "images/cover/9788478339297.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011012489704987.jpg",
             "cover3": ""
         },
@@ -1227,7 +1227,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011012579704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788478337774.jpg",
+            "cover1": "images/cover/9788478337774.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011012579704987.jpg",
             "cover3": ""
         },
@@ -1246,7 +1246,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011027169704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788478339587.jpg",
+            "cover1": "images/cover/9788478339587.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011027169704987.jpg",
             "cover3": ""
         },
@@ -1265,7 +1265,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011051499704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788496815131.jpg",
+            "cover1": "images/cover/9788496815131.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011051499704987.jpg",
             "cover3": ""
         },
@@ -1283,7 +1283,7 @@
             "publisher_const": "Caramba,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011203509704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788493930660.jpg",
+            "cover1": "images/cover/9788493930660.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011203509704987.jpg",
             "cover3": ""
         },
@@ -1301,7 +1301,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011227919704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788478339747.jpg",
+            "cover1": "images/cover/9788478339747.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011227919704987.jpg",
             "cover3": ""
         },
@@ -1320,7 +1320,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011366629704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788496730748.jpg",
+            "cover1": "images/cover/9788496730748.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011366629704987.jpg",
             "cover3": ""
         },
@@ -1338,7 +1338,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011366719704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788478339952.jpg",
+            "cover1": "images/cover/9788478339952.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011366719704987.jpg",
             "cover3": ""
         },
@@ -1356,7 +1356,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011366809704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788415724070.jpg",
+            "cover1": "images/cover/9788415724070.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011366809704987.jpg",
             "cover3": ""
         },
@@ -1375,7 +1375,7 @@
             "publisher_const": "El Nadir,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011395639704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788492890569.jpg",
+            "cover1": "images/cover/9788492890569.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011395639704987.jpg",
             "cover3": ""
         },
@@ -1393,7 +1393,7 @@
             "publisher_const": "Planeta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011609479704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788408091950.jpg",
+            "cover1": "images/cover/9788408091950.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011609479704987.jpg",
             "cover3": ""
         },
@@ -1411,7 +1411,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011626799704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788499471624.jpg",
+            "cover1": "images/cover/9788499471624.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011626799704987.jpg",
             "cover3": ""
         },
@@ -1429,7 +1429,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011679109704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788439727903.jpg",
+            "cover1": "images/cover/9788439727903.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011679109704987.jpg",
             "cover3": ""
         },
@@ -1447,7 +1447,7 @@
             "publisher_const": "Libros del Zorro Rojo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011696809704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494161957.jpg",
+            "cover1": "images/cover/9788494161957.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011696809704987.jpg",
             "cover3": ""
         },
@@ -1465,7 +1465,7 @@
             "publisher_const": "Reino de Cordelia,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011758889704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788415973089.jpg",
+            "cover1": "images/cover/9788415973089.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011758889704987.jpg",
             "cover3": ""
         },
@@ -1483,7 +1483,7 @@
             "publisher_const": "Blackie Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011925599704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494224713.jpg",
+            "cover1": "images/cover/9788494224713.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011925599704987.jpg",
             "cover3": ""
         },
@@ -1502,7 +1502,7 @@
             "publisher_const": "Blackie Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011929779704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788493874520.jpg",
+            "cover1": "images/cover/9788493874520.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011929779704987.jpg",
             "cover3": ""
         },
@@ -1521,7 +1521,7 @@
             "publisher_const": "Fulgencio Pimentel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011929899704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788493608163.jpg",
+            "cover1": "images/cover/9788493608163.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011929899704987.jpg",
             "cover3": ""
         },
@@ -1540,7 +1540,7 @@
             "publisher_const": "Smithsonian Institution",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011965909704987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011965909704987.jpg",
             "cover3": ""
         },
@@ -1559,7 +1559,7 @@
             "publisher_const": "Fulgencio Pimentel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012032369704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788493977276.jpg",
+            "cover1": "images/cover/9788493977276.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012032369704987.jpg",
             "cover3": ""
         },
@@ -1577,7 +1577,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012146629704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788490623145.jpg",
+            "cover1": "images/cover/9788490623145.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012146629704987.jpg",
             "cover3": ""
         },
@@ -1597,7 +1597,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012180069704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788466654388.jpg",
+            "cover1": "images/cover/9788466654388.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012180069704987.jpg",
             "cover3": ""
         },
@@ -1615,7 +1615,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012212869704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788466657938.jpg",
+            "cover1": "images/cover/9788466657938.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012212869704987.jpg",
             "cover3": ""
         },
@@ -1633,7 +1633,7 @@
             "publisher_const": "Dehavilland,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012268679704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494323287.jpg",
+            "cover1": "images/cover/9788494323287.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012268679704987.jpg",
             "cover3": ""
         },
@@ -1652,7 +1652,7 @@
             "publisher_const": "Grafito,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012319339704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494300219.jpg",
+            "cover1": "images/cover/9788494300219.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012319339704987.jpg",
             "cover3": ""
         },
@@ -1671,7 +1671,7 @@
             "publisher_const": "Grafito,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012319369704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494300257.jpg",
+            "cover1": "images/cover/9788494300257.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012319369704987.jpg",
             "cover3": ""
         },
@@ -1691,7 +1691,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012436899704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788416400386.jpg",
+            "cover1": "images/cover/9788416400386.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012436899704987.jpg",
             "cover3": ""
         },
@@ -1708,7 +1708,7 @@
             "publisher_const": "Caja San Fernando",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012476839704987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012476839704987.jpg",
             "cover3": ""
         },
@@ -1726,7 +1726,7 @@
             "publisher_const": "Diminuta [etc.],",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012503009704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494239946.jpg",
+            "cover1": "images/cover/9788494239946.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012503009704987.jpg",
             "cover3": ""
         },
@@ -1743,7 +1743,7 @@
             "publisher_const": "Diminuta editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012503419704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494239984.jpg",
+            "cover1": "images/cover/9788494239984.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012503419704987.jpg",
             "cover3": ""
         },
@@ -1762,7 +1762,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012503819704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788416400034.jpg",
+            "cover1": "images/cover/9788416400034.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012503819704987.jpg",
             "cover3": ""
         },
@@ -1781,7 +1781,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012625289704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788415724308.jpg",
+            "cover1": "images/cover/9788415724308.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012625289704987.jpg",
             "cover3": ""
         },
@@ -1799,7 +1799,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012648599704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788416880232.jpg",
+            "cover1": "images/cover/9788416880232.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012648599704987.jpg",
             "cover3": ""
         },
@@ -1818,7 +1818,7 @@
             "publisher_const": "Lumen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012787119704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788426401946.jpg",
+            "cover1": "images/cover/9788426401946.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012787119704987.jpg",
             "cover3": ""
         },
@@ -1837,7 +1837,7 @@
             "publisher_const": "Lumen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012787129704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788426400246.jpg",
+            "cover1": "images/cover/9788426400246.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012787129704987.jpg",
             "cover3": ""
         },
@@ -1855,7 +1855,7 @@
             "publisher_const": "Lumen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012787289704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788408176886.jpg",
+            "cover1": "images/cover/9788408176886.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012787289704987.jpg",
             "cover3": ""
         },
@@ -1873,7 +1873,7 @@
             "publisher_const": "ZAS! Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012793639704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788460865568.jpg",
+            "cover1": "images/cover/9788460865568.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012793639704987.jpg",
             "cover3": ""
         },
@@ -1891,7 +1891,7 @@
             "publisher_const": "Nórdica,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012800149704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788416112364.jpg",
+            "cover1": "images/cover/9788416112364.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012800149704987.jpg",
             "cover3": ""
         },
@@ -1909,7 +1909,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012822559704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788415480938.jpg",
+            "cover1": "images/cover/9788415480938.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012822559704987.jpg",
             "cover3": ""
         },
@@ -1927,7 +1927,7 @@
             "publisher_const": "¡Caramba!,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012828889704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494060274.jpg",
+            "cover1": "images/cover/9788494060274.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012828889704987.jpg",
             "cover3": ""
         },
@@ -1945,7 +1945,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012830459704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788415944058.jpg",
+            "cover1": "images/cover/9788415944058.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012830459704987.jpg",
             "cover3": ""
         },
@@ -1962,7 +1962,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012853369704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788416400300.jpg",
+            "cover1": "images/cover/9788416400300.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012853369704987.jpg",
             "cover3": ""
         },
@@ -1980,7 +1980,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012914009704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788467922264.jpg",
+            "cover1": "images/cover/9788467922264.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012914009704987.jpg",
             "cover3": ""
         },
@@ -1999,7 +1999,7 @@
             "publisher_const": "Ediciones B",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012952769704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788466660730.jpg",
+            "cover1": "images/cover/9788466660730.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012952769704987.jpg",
             "cover3": ""
         },
@@ -2018,7 +2018,7 @@
             "publisher_const": "Ediciones B",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012952819704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788466641074.jpg",
+            "cover1": "images/cover/9788466641074.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012952819704987.jpg",
             "cover3": ""
         },
@@ -2032,7 +2032,7 @@
             "publisher_const": "Espasa,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012952959704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788467041026.jpg",
+            "cover1": "images/cover/9788467041026.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012952959704987.jpg",
             "cover3": ""
         },
@@ -2050,7 +2050,7 @@
             "publisher_const": "Apa-Apa Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013103499904987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788492615230.jpg",
+            "cover1": "images/cover/9788492615230.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013103499904987.jpg",
             "cover3": ""
         },
@@ -2067,7 +2067,7 @@
             "publisher_const": "New York Review of Book,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013154703804987",
             "genero": "Humor",
-            "cover1": "../images/cover/9781681373010.jpg",
+            "cover1": "images/cover/9781681373010.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013154703804987.jpg",
             "cover3": ""
         },
@@ -2086,7 +2086,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013326603404987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788492769933.jpg",
+            "cover1": "images/cover/9788492769933.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013326603404987.jpg",
             "cover3": ""
         },
@@ -2103,7 +2103,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013326603504987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788496815445.jpg",
+            "cover1": "images/cover/9788496815445.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013326603504987.jpg",
             "cover3": ""
         },
@@ -2120,7 +2120,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013326603604987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788496815032.jpg",
+            "cover1": "images/cover/9788496815032.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013326603604987.jpg",
             "cover3": ""
         },
@@ -2137,7 +2137,7 @@
             "publisher_const": "Grao,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013328401004987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788418058127.jpg",
+            "cover1": "images/cover/9788418058127.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013328401004987.jpg",
             "cover3": ""
         },
@@ -2154,7 +2154,7 @@
             "publisher_const": "Bruguera,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013328694004987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788402424044.jpg",
+            "cover1": "images/cover/9788402424044.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013328694004987.jpg",
             "cover3": ""
         },
@@ -2172,7 +2172,7 @@
             "publisher_const": "Reino de Cordelia,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013340008304987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788416968619.jpg",
+            "cover1": "images/cover/9788416968619.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013340008304987.jpg",
             "cover3": ""
         },
@@ -2190,7 +2190,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013383203104987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788478333615.jpg",
+            "cover1": "images/cover/9788478333615.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013383203104987.jpg",
             "cover3": ""
         },
@@ -2207,7 +2207,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013406872504987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788418052125.jpg",
+            "cover1": "images/cover/9788418052125.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013406872504987.jpg",
             "cover3": ""
         },
@@ -2224,7 +2224,7 @@
             "publisher_const": "Sapristi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013428996704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788412128253.jpg",
+            "cover1": "images/cover/9788412128253.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013428996704987.jpg",
             "cover3": ""
         },
@@ -2241,7 +2241,7 @@
             "publisher_const": "Dibbuks,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438320204987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788416507252.jpg",
+            "cover1": "images/cover/9788416507252.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438320204987.jpg",
             "cover3": ""
         },
@@ -2256,7 +2256,7 @@
             "publisher_const": "ABC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439621304987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439621304987.jpg",
             "cover3": ""
         },
@@ -2273,7 +2273,7 @@
             "publisher_const": "Salamandra Graphic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441223504987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788416131723.jpg",
+            "cover1": "images/cover/9788416131723.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441223504987.jpg",
             "cover3": ""
         },
@@ -2291,7 +2291,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225904987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788417442477.jpg",
+            "cover1": "images/cover/9788417442477.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441225904987.jpg",
             "cover3": ""
         },
@@ -2308,7 +2308,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013448626104987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788415685692.jpg",
+            "cover1": "images/cover/9788415685692.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013448626104987.jpg",
             "cover3": ""
         },
@@ -2325,7 +2325,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452625304987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788417442804.jpg",
+            "cover1": "images/cover/9788417442804.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452625304987.jpg",
             "cover3": ""
         },
@@ -2342,7 +2342,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456623804987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788417442682.jpg",
+            "cover1": "images/cover/9788417442682.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456623804987.jpg",
             "cover3": ""
         },
@@ -2360,7 +2360,7 @@
             "publisher_const": "SM,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013461021004987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788467594454.jpg",
+            "cover1": "images/cover/9788467594454.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013461021004987.jpg",
             "cover3": ""
         },
@@ -2378,7 +2378,7 @@
             "publisher_const": "Harperkids,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013462129504987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788417222291.jpg",
+            "cover1": "images/cover/9788417222291.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013462129504987.jpg",
             "cover3": ""
         },
@@ -2397,7 +2397,7 @@
             "publisher_const": "Salamandra Graphic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013487464204987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788418347672.jpg",
+            "cover1": "images/cover/9788418347672.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013487464204987.jpg",
             "cover3": ""
         },
@@ -2411,7 +2411,7 @@
             "publisher_const": "Cyan,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013599850304987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788418309472.jpg",
+            "cover1": "images/cover/9788418309472.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013599850304987.jpg",
             "cover3": ""
         },
@@ -2428,7 +2428,7 @@
             "publisher_const": "UFG Editores,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013600451104987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013600451104987.jpg",
             "cover3": ""
         },
@@ -2442,7 +2442,7 @@
             "publisher_const": "Roca Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013604446304987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494556807.jpg",
+            "cover1": "images/cover/9788494556807.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013604446304987.jpg",
             "cover3": ""
         },
@@ -2456,7 +2456,7 @@
             "publisher_const": "editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013604446504987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494506376.jpg",
+            "cover1": "images/cover/9788494506376.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013604446504987.jpg",
             "cover3": ""
         },
@@ -2474,7 +2474,7 @@
             "publisher_const": "Dibbuks,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013626404204987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788415850007.jpg",
+            "cover1": "images/cover/9788415850007.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013626404204987.jpg",
             "cover3": ""
         },
@@ -2491,7 +2491,7 @@
             "publisher_const": "Bruguera,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013634404804987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788402422033.jpg",
+            "cover1": "images/cover/9788402422033.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013634404804987.jpg",
             "cover3": ""
         },
@@ -2508,7 +2508,7 @@
             "publisher_const": "Grijalbo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013634405704987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788425361319.jpg",
+            "cover1": "images/cover/9788425361319.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013634405704987.jpg",
             "cover3": ""
         },
@@ -2526,7 +2526,7 @@
             "publisher_const": "Salamandra Graphic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013638200204987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788418621239.jpg",
+            "cover1": "images/cover/9788418621239.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013638200204987.jpg",
             "cover3": ""
         },
@@ -2545,7 +2545,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503904987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788417644918.jpg",
+            "cover1": "images/cover/9788417644918.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503904987.jpg",
             "cover3": ""
         },
@@ -2562,7 +2562,7 @@
             "publisher_const": "Roca,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666698204987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788494414008.jpg",
+            "cover1": "images/cover/9788494414008.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666698204987.jpg",
             "cover3": ""
         },
@@ -2578,7 +2578,7 @@
             "publisher_const": "La Factoría de Ideas,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013694793904987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013694793904987.jpg",
             "cover3": ""
         },
@@ -2595,7 +2595,7 @@
             "publisher_const": "Under Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013694796404987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013694796404987.jpg",
             "cover3": ""
         },
@@ -2612,7 +2612,7 @@
             "publisher_const": "Astiberri ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013734105404987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788418909344.jpg",
+            "cover1": "images/cover/9788418909344.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013734105404987.jpg",
             "cover3": ""
         },
@@ -2631,7 +2631,7 @@
             "publisher_const": "Espasa,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013776002504987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788467067699.jpg",
+            "cover1": "images/cover/9788467067699.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013776002504987.jpg",
             "cover3": ""
         },
@@ -2645,7 +2645,7 @@
             "publisher_const": "Andana gráfica,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013784102604987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788419605115.jpg",
+            "cover1": "images/cover/9788419605115.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013784102604987.jpg",
             "cover3": ""
         },
@@ -2662,7 +2662,7 @@
             "publisher_const": "Aristas Martínez,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013803505004987",
             "genero": "Humor",
-            "cover1": "../images/cover/9788419550033.jpg",
+            "cover1": "images/cover/9788419550033.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013803505004987.jpg",
             "cover3": ""
         },
@@ -2678,7 +2678,7 @@
             "publisher_const": "Universidad de Sevilla, Facultad de Comunicación,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013864003404987",
             "genero": "Humor",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013864003404987.jpg",
             "cover3": ""
         }

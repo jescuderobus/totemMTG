@@ -15,7 +15,7 @@
             "publisher_const": "Omega,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991001747739704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991001747739704987.jpg",
             "cover3": ""
         },
@@ -34,7 +34,7 @@
             "publisher_const": "Gustavo Gili,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002096879704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991002096879704987.jpg",
             "cover3": ""
         },
@@ -54,7 +54,7 @@
             "publisher_const": "Península,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002518229704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991002518229704987.jpg",
             "cover3": ""
         },
@@ -73,7 +73,7 @@
             "publisher_const": "Cátedra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002823969704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991002823969704987.jpg",
             "cover3": ""
         },
@@ -92,7 +92,7 @@
             "publisher_const": "Plaza & Janés,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002843609704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991002843609704987.jpg",
             "cover3": ""
         },
@@ -111,7 +111,7 @@
             "publisher_const": "Gustavo Gili,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002945789704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991002945789704987.jpg",
             "cover3": ""
         },
@@ -130,7 +130,7 @@
             "publisher_const": "Trillas,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003184189704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003184189704987.jpg",
             "cover3": ""
         },
@@ -149,7 +149,7 @@
             "publisher_const": "Presses Universitaires de Lyon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003245369704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003245369704987.jpg",
             "cover3": ""
         },
@@ -169,7 +169,7 @@
             "publisher_const": "Vicens-Vives,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003677429704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003677429704987.jpg",
             "cover3": ""
         },
@@ -189,7 +189,7 @@
             "publisher_const": "Pierre Horay,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003727589704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003727589704987.jpg",
             "cover3": ""
         },
@@ -209,7 +209,7 @@
             "publisher_const": "Paidós Ibérica etc,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003753429704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003753429704987.jpg",
             "cover3": ""
         },
@@ -227,7 +227,7 @@
             "publisher_const": "Gustavo Gili,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003868479704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003868479704987.jpg",
             "cover3": ""
         },
@@ -246,7 +246,7 @@
             "publisher_const": "Temas de Hoy,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991004279019704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991004279019704987.jpg",
             "cover3": ""
         },
@@ -265,7 +265,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991004424599704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991004424599704987.jpg",
             "cover3": ""
         },
@@ -284,7 +284,7 @@
             "publisher_const": "Universidad de Burgos, Servicio de Publicaciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991004657039704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991004657039704987.jpg",
             "cover3": ""
         },
@@ -303,7 +303,7 @@
             "publisher_const": "Paidós,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991004662419704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991004662419704987.jpg",
             "cover3": ""
         },
@@ -322,7 +322,7 @@
             "publisher_const": "Edaf,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991004751439704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788441406827.jpg",
+            "cover1": "images/cover/9788441406827.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991004751439704987.jpg",
             "cover3": ""
         },
@@ -340,7 +340,7 @@
             "publisher_const": "Facultad de Ciencias de la Información,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991004806799704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788460727156.jpg",
+            "cover1": "images/cover/9788460727156.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991004806799704987.jpg",
             "cover3": ""
         },
@@ -358,7 +358,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991004921829704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788484314134.jpg",
+            "cover1": "images/cover/9788484314134.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991004921829704987.jpg",
             "cover3": ""
         },
@@ -376,7 +376,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005274739704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005274739704987.jpg",
             "cover3": ""
         },
@@ -394,7 +394,7 @@
             "publisher_const": "Routledge,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005549149704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005549149704987.jpg",
             "cover3": ""
         },
@@ -412,7 +412,7 @@
             "publisher_const": "Cátedra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005549849704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005549849704987.jpg",
             "cover3": ""
         },
@@ -430,7 +430,7 @@
             "publisher_const": "Harry N Abrams",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005559389704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005559389704987.jpg",
             "cover3": ""
         },
@@ -447,7 +447,7 @@
             "publisher_const": "Comunicación Social",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005645979704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788496082021.jpg",
+            "cover1": "images/cover/9788496082021.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005645979704987.jpg",
             "cover3": ""
         },
@@ -465,7 +465,7 @@
             "publisher_const": "Presses Universitaires du Mirail,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005691189704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005691189704987.jpg",
             "cover3": ""
         },
@@ -483,7 +483,7 @@
             "publisher_const": "Páginas de Espuma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005725899704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005725899704987.jpg",
             "cover3": ""
         },
@@ -501,7 +501,7 @@
             "publisher_const": "Cátedra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006074039704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788437622194.jpg",
+            "cover1": "images/cover/9788437622194.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006074039704987.jpg",
             "cover3": ""
         },
@@ -519,7 +519,7 @@
             "publisher_const": "Ediciones El Jueves,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006112509704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788497415552.jpg",
+            "cover1": "images/cover/9788497415552.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006112509704987.jpg",
             "cover3": ""
         },
@@ -538,7 +538,7 @@
             "publisher_const": "Universidad de la Rioja, Servicio de Publicaciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006113529704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006113529704987.jpg",
             "cover3": ""
         },
@@ -556,7 +556,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006149529704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788474859614.jpg",
+            "cover1": "images/cover/9788474859614.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006149529704987.jpg",
             "cover3": ""
         },
@@ -573,7 +573,7 @@
             "publisher_const": "Taschen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006311389704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9783822831243.jpg",
+            "cover1": "images/cover/9783822831243.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006311389704987.jpg",
             "cover3": ""
         },
@@ -592,7 +592,7 @@
             "publisher_const": "Diputación de Zaragoza",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006727229704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788486947033.jpg",
+            "cover1": "images/cover/9788486947033.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006727229704987.jpg",
             "cover3": ""
         },
@@ -610,7 +610,7 @@
             "publisher_const": "Watson-Guptill Publications,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007790549704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780823010301.jpg",
+            "cover1": "images/cover/9780823010301.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007790549704987.jpg",
             "cover3": ""
         },
@@ -628,7 +628,7 @@
             "publisher_const": "Watson-Guptill Publications,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007790579704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780823010295.jpg",
+            "cover1": "images/cover/9780823010295.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007790579704987.jpg",
             "cover3": ""
         },
@@ -646,7 +646,7 @@
             "publisher_const": "Watson-Guptill Publications,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007790589704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780823010288.jpg",
+            "cover1": "images/cover/9780823010288.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007790589704987.jpg",
             "cover3": ""
         },
@@ -664,7 +664,7 @@
             "publisher_const": "HarperPerennial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007790669704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780060780944.jpg",
+            "cover1": "images/cover/9780060780944.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007790669704987.jpg",
             "cover3": ""
         },
@@ -682,7 +682,7 @@
             "publisher_const": "Watson-Guptill,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007790689704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780823010271.jpg",
+            "cover1": "images/cover/9780823010271.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007790689704987.jpg",
             "cover3": ""
         },
@@ -700,7 +700,7 @@
             "publisher_const": "Twomorrows Publishing,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007790769704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781893905146.jpg",
+            "cover1": "images/cover/9781893905146.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007790769704987.jpg",
             "cover3": ""
         },
@@ -718,7 +718,7 @@
             "publisher_const": "Stickman Graphics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007790779704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780967542300.jpg",
+            "cover1": "images/cover/9780967542300.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007790779704987.jpg",
             "cover3": ""
         },
@@ -736,7 +736,7 @@
             "publisher_const": "Delcourt,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007790799704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9782756002279.jpg",
+            "cover1": "images/cover/9782756002279.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007790799704987.jpg",
             "cover3": ""
         },
@@ -754,7 +754,7 @@
             "publisher_const": "Ilex,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007790849704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781904705017.jpg",
+            "cover1": "images/cover/9781904705017.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007790849704987.jpg",
             "cover3": ""
         },
@@ -772,7 +772,7 @@
             "publisher_const": "Phaidon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007796199704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780714839936.jpg",
+            "cover1": "images/cover/9780714839936.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007796199704987.jpg",
             "cover3": ""
         },
@@ -790,7 +790,7 @@
             "publisher_const": "Gingko Press,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007823499704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781584232261.jpg",
+            "cover1": "images/cover/9781584232261.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007823499704987.jpg",
             "cover3": ""
         },
@@ -808,7 +808,7 @@
             "publisher_const": "Harper,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007823579704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007823579704987.jpg",
             "cover3": ""
         },
@@ -827,7 +827,7 @@
             "publisher_const": "Continuum,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008072649704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008072649704987.jpg",
             "cover3": ""
         },
@@ -846,7 +846,7 @@
             "publisher_const": "Random House Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008073569704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788439711773.jpg",
+            "cover1": "images/cover/9788439711773.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008073569704987.jpg",
             "cover3": ""
         },
@@ -864,7 +864,7 @@
             "publisher_const": "Arkadin",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008274069704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788493635213.jpg",
+            "cover1": "images/cover/9788493635213.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008274069704987.jpg",
             "cover3": ""
         },
@@ -882,7 +882,7 @@
             "publisher_const": "Gustavo Gili,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008436619704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788425222689.jpg",
+            "cover1": "images/cover/9788425222689.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008436619704987.jpg",
             "cover3": ""
         },
@@ -900,7 +900,7 @@
             "publisher_const": "Gustavo Gili ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008436639704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788425223013.jpg",
+            "cover1": "images/cover/9788425223013.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008436639704987.jpg",
             "cover3": ""
         },
@@ -918,7 +918,7 @@
             "publisher_const": "Gustavo Gili ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008443469704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788425222900.jpg",
+            "cover1": "images/cover/9788425222900.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008443469704987.jpg",
             "cover3": ""
         },
@@ -936,7 +936,7 @@
             "publisher_const": "Viaje a Bizancio ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008555969704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788493621971.jpg",
+            "cover1": "images/cover/9788493621971.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008555969704987.jpg",
             "cover3": ""
         },
@@ -955,7 +955,7 @@
             "publisher_const": "University Press of Mississippi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008962889704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781604732672.jpg",
+            "cover1": "images/cover/9781604732672.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008962889704987.jpg",
             "cover3": ""
         },
@@ -973,7 +973,7 @@
             "publisher_const": "First Second,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963669704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781596431317.jpg",
+            "cover1": "images/cover/9781596431317.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963669704987.jpg",
             "cover3": ""
         },
@@ -992,7 +992,7 @@
             "publisher_const": "Barron's,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963729704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963729704987.jpg",
             "cover3": ""
         },
@@ -1011,7 +1011,7 @@
             "publisher_const": "Corwin Press,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963769704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963769704987.jpg",
             "cover3": ""
         },
@@ -1029,7 +1029,7 @@
             "publisher_const": "Image",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963779704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963779704987.jpg",
             "cover3": ""
         },
@@ -1048,7 +1048,7 @@
             "publisher_const": "Collins Design,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963809704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963809704987.jpg",
             "cover3": ""
         },
@@ -1066,7 +1066,7 @@
             "publisher_const": "University Press of Mississippi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963819704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963819704987.jpg",
             "cover3": ""
         },
@@ -1085,7 +1085,7 @@
             "publisher_const": "University Press of Mississippi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963829704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963829704987.jpg",
             "cover3": ""
         },
@@ -1104,7 +1104,7 @@
             "publisher_const": "University Press of Mississippi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963839704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781604731088.jpg",
+            "cover1": "images/cover/9781604731088.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963839704987.jpg",
             "cover3": ""
         },
@@ -1122,7 +1122,7 @@
             "publisher_const": "Chamberlain Bros,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008963859704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781596090781.jpg",
+            "cover1": "images/cover/9781596090781.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008963859704987.jpg",
             "cover3": ""
         },
@@ -1139,7 +1139,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008964729704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788484490265.jpg",
+            "cover1": "images/cover/9788484490265.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008964729704987.jpg",
             "cover3": ""
         },
@@ -1157,7 +1157,7 @@
             "publisher_const": "Ilex,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009004729704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781905814701.jpg",
+            "cover1": "images/cover/9781905814701.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009004729704987.jpg",
             "cover3": ""
         },
@@ -1175,7 +1175,7 @@
             "publisher_const": "El Jueves,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009055009704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788497415897.jpg",
+            "cover1": "images/cover/9788497415897.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009055009704987.jpg",
             "cover3": ""
         },
@@ -1193,7 +1193,7 @@
             "publisher_const": "Medea Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009058389704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788496789609.jpg",
+            "cover1": "images/cover/9788496789609.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009058389704987.jpg",
             "cover3": ""
         },
@@ -1211,7 +1211,7 @@
             "publisher_const": "Universidad de Cádiz, Servicio de Publicaciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009058889704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009058889704987.jpg",
             "cover3": ""
         },
@@ -1229,7 +1229,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009076939704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788492458622.jpg",
+            "cover1": "images/cover/9788492458622.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009076939704987.jpg",
             "cover3": ""
         },
@@ -1247,7 +1247,7 @@
             "publisher_const": "Tres i cuatre,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009085179704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788475028507.jpg",
+            "cover1": "images/cover/9788475028507.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009085179704987.jpg",
             "cover3": ""
         },
@@ -1265,7 +1265,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009085249704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788492769308.jpg",
+            "cover1": "images/cover/9788492769308.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009085249704987.jpg",
             "cover3": ""
         },
@@ -1283,7 +1283,7 @@
             "publisher_const": "Parramón,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009124979704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788434236752.jpg",
+            "cover1": "images/cover/9788434236752.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009124979704987.jpg",
             "cover3": ""
         },
@@ -1301,7 +1301,7 @@
             "publisher_const": "Ediciones Universidad de Salamanca,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009127629704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788478002764.jpg",
+            "cover1": "images/cover/9788478002764.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009127629704987.jpg",
             "cover3": ""
         },
@@ -1319,7 +1319,7 @@
             "publisher_const": "EH Editores,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009140299704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788493703912.jpg",
+            "cover1": "images/cover/9788493703912.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009140299704987.jpg",
             "cover3": ""
         },
@@ -1337,7 +1337,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009211139704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788497269827.jpg",
+            "cover1": "images/cover/9788497269827.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009211139704987.jpg",
             "cover3": ""
         },
@@ -1355,7 +1355,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009232869704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788466638166.jpg",
+            "cover1": "images/cover/9788466638166.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009232869704987.jpg",
             "cover3": ""
         },
@@ -1373,7 +1373,7 @@
             "publisher_const": "Blackie Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009256779704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788493827212.jpg",
+            "cover1": "images/cover/9788493827212.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009256779704987.jpg",
             "cover3": ""
         },
@@ -1391,7 +1391,7 @@
             "publisher_const": "Continuum,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009257849704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780826429971.jpg",
+            "cover1": "images/cover/9780826429971.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009257849704987.jpg",
             "cover3": ""
         },
@@ -1409,7 +1409,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009257899704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788466644204.jpg",
+            "cover1": "images/cover/9788466644204.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009257899704987.jpg",
             "cover3": ""
         },
@@ -1427,7 +1427,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009285979704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788466644211.jpg",
+            "cover1": "images/cover/9788466644211.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009285979704987.jpg",
             "cover3": ""
         },
@@ -1445,7 +1445,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009296869704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788492769810.jpg",
+            "cover1": "images/cover/9788492769810.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009296869704987.jpg",
             "cover3": ""
         },
@@ -1464,7 +1464,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009301129704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009301129704987.jpg",
             "cover3": ""
         },
@@ -1483,7 +1483,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009301159704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788496730533.jpg",
+            "cover1": "images/cover/9788496730533.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009301159704987.jpg",
             "cover3": ""
         },
@@ -1503,7 +1503,7 @@
             "publisher_const": "Stone Bridge Press,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009347839704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781880656235.jpg",
+            "cover1": "images/cover/9781880656235.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009347839704987.jpg",
             "cover3": ""
         },
@@ -1521,7 +1521,7 @@
             "publisher_const": "Arbor,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010977949704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788483196243.jpg",
+            "cover1": "images/cover/9788483196243.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010977949704987.jpg",
             "cover3": ""
         },
@@ -1539,7 +1539,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010986809704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788490248904.jpg",
+            "cover1": "images/cover/9788490248904.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010986809704987.jpg",
             "cover3": ""
         },
@@ -1557,7 +1557,7 @@
             "publisher_const": "Catedra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011055569704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788437629681.jpg",
+            "cover1": "images/cover/9788437629681.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011055569704987.jpg",
             "cover3": ""
         },
@@ -1576,7 +1576,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011149489704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788415201274.jpg",
+            "cover1": "images/cover/9788415201274.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011149489704987.jpg",
             "cover3": ""
         },
@@ -1594,7 +1594,7 @@
             "publisher_const": "Asociación Cultural del Cómic (Japonés),",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011230039704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788415296508.jpg",
+            "cover1": "images/cover/9788415296508.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011230039704987.jpg",
             "cover3": ""
         },
@@ -1613,7 +1613,7 @@
             "publisher_const": "HarperCollins Publishers,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011321039704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780060976255.jpg",
+            "cover1": "images/cover/9780060976255.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011321039704987.jpg",
             "cover3": ""
         },
@@ -1631,7 +1631,7 @@
             "publisher_const": "Comunicación Social,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011390399704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788492860654.jpg",
+            "cover1": "images/cover/9788492860654.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011390399704987.jpg",
             "cover3": ""
         },
@@ -1649,7 +1649,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011474729704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788490243343.jpg",
+            "cover1": "images/cover/9788490243343.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011474729704987.jpg",
             "cover3": ""
         },
@@ -1667,7 +1667,7 @@
             "publisher_const": "Errata Naturae,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011506529704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788415217442.jpg",
+            "cover1": "images/cover/9788415217442.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011506529704987.jpg",
             "cover3": ""
         },
@@ -1685,7 +1685,7 @@
             "publisher_const": "Taschen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011579949704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9783836535762.jpg",
+            "cover1": "images/cover/9783836535762.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011579949704987.jpg",
             "cover3": ""
         },
@@ -1703,7 +1703,7 @@
             "publisher_const": "Modernito books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011582159704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788493950262.jpg",
+            "cover1": "images/cover/9788493950262.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011582159704987.jpg",
             "cover3": ""
         },
@@ -1722,7 +1722,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011618079704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788496815124.jpg",
+            "cover1": "images/cover/9788496815124.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011618079704987.jpg",
             "cover3": ""
         },
@@ -1741,7 +1741,7 @@
             "publisher_const": "Publicacions de la Universitat de València,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011660319704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788437091266.jpg",
+            "cover1": "images/cover/9788437091266.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011660319704987.jpg",
             "cover3": ""
         },
@@ -1760,7 +1760,7 @@
             "publisher_const": "Praeger,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011679179704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011679179704987.jpg",
             "cover3": ""
         },
@@ -1778,7 +1778,7 @@
             "publisher_const": "Sequart Research & Literacy Organization,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011721199704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780578060767.jpg",
+            "cover1": "images/cover/9780578060767.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011721199704987.jpg",
             "cover3": ""
         },
@@ -1797,7 +1797,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011739969704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788496815148.jpg",
+            "cover1": "images/cover/9788496815148.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011739969704987.jpg",
             "cover3": ""
         },
@@ -1815,7 +1815,7 @@
             "publisher_const": "ACyT Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011802719704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788461689545.jpg",
+            "cover1": "images/cover/9788461689545.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011802719704987.jpg",
             "cover3": ""
         },
@@ -1833,7 +1833,7 @@
             "publisher_const": "Iberoamericana",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011840919704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9783865277169.jpg",
+            "cover1": "images/cover/9783865277169.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011840919704987.jpg",
             "cover3": ""
         },
@@ -1852,7 +1852,7 @@
             "publisher_const": "Dolmen ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011921609704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788415201380.jpg",
+            "cover1": "images/cover/9788415201380.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011921609704987.jpg",
             "cover3": ""
         },
@@ -1871,7 +1871,7 @@
             "publisher_const": "Dolmen ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011921669704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788415201861.jpg",
+            "cover1": "images/cover/9788415201861.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011921669704987.jpg",
             "cover3": ""
         },
@@ -1889,7 +1889,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011952349704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788415944256.jpg",
+            "cover1": "images/cover/9788415944256.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011952349704987.jpg",
             "cover3": ""
         },
@@ -1908,7 +1908,7 @@
             "publisher_const": "Taylor Pub,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011954589704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780878336593.jpg",
+            "cover1": "images/cover/9780878336593.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011954589704987.jpg",
             "cover3": ""
         },
@@ -1925,7 +1925,7 @@
             "publisher_const": "Pennsylvania State University Press,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011955279704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780271019628.jpg",
+            "cover1": "images/cover/9780271019628.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011955279704987.jpg",
             "cover3": ""
         },
@@ -1945,7 +1945,7 @@
             "publisher_const": "IMPACT Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011955289704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011955289704987.jpg",
             "cover3": ""
         },
@@ -1963,7 +1963,7 @@
             "publisher_const": "Martínez Roca,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011964809704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011964809704987.jpg",
             "cover3": ""
         },
@@ -1982,7 +1982,7 @@
             "publisher_const": "University Press of Mississippi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011965929704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780878056743.jpg",
+            "cover1": "images/cover/9780878056743.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011965929704987.jpg",
             "cover3": ""
         },
@@ -2001,7 +2001,7 @@
             "publisher_const": "University Press of Mississippi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011965949704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011965949704987.jpg",
             "cover3": ""
         },
@@ -2021,7 +2021,7 @@
             "publisher_const": "Crown",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011965959704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780517503034.jpg",
+            "cover1": "images/cover/9780517503034.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011965959704987.jpg",
             "cover3": ""
         },
@@ -2040,7 +2040,7 @@
             "publisher_const": "Toutain,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011966189704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011966189704987.jpg",
             "cover3": ""
         },
@@ -2057,7 +2057,7 @@
             "publisher_const": "Harvard University Press,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012004789704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780674744431.jpg",
+            "cover1": "images/cover/9780674744431.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012004789704987.jpg",
             "cover3": ""
         },
@@ -2076,7 +2076,7 @@
             "publisher_const": "Abada,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012021549704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788416160082.jpg",
+            "cover1": "images/cover/9788416160082.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012021549704987.jpg",
             "cover3": ""
         },
@@ -2096,7 +2096,7 @@
             "publisher_const": "Libros del Zorro Rojo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012056199704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788494247316.jpg",
+            "cover1": "images/cover/9788494247316.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012056199704987.jpg",
             "cover3": ""
         },
@@ -2115,7 +2115,7 @@
             "publisher_const": "Turner,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012091319704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788475067865.jpg",
+            "cover1": "images/cover/9788475067865.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012091319704987.jpg",
             "cover3": ""
         },
@@ -2133,7 +2133,7 @@
             "publisher_const": "Fragua,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012243609704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788470744143.jpg",
+            "cover1": "images/cover/9788470744143.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012243609704987.jpg",
             "cover3": ""
         },
@@ -2151,7 +2151,7 @@
             "publisher_const": "Palgrave Macmillan,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012290979704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781137501103.jpg",
+            "cover1": "images/cover/9781137501103.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012290979704987.jpg",
             "cover3": ""
         },
@@ -2169,7 +2169,7 @@
             "publisher_const": "Presses Universitaires de France,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012406399704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9782130736561.jpg",
+            "cover1": "images/cover/9782130736561.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012406399704987.jpg",
             "cover3": ""
         },
@@ -2187,7 +2187,7 @@
             "publisher_const": "Sequart Organization,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012436019704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781940589077.jpg",
+            "cover1": "images/cover/9781940589077.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012436019704987.jpg",
             "cover3": ""
         },
@@ -2206,7 +2206,7 @@
             "publisher_const": "Grupo Zeta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012497459704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788466660686.jpg",
+            "cover1": "images/cover/9788466660686.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012497459704987.jpg",
             "cover3": ""
         },
@@ -2224,7 +2224,7 @@
             "publisher_const": "Rutgers University Press,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012503729704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780813564180.jpg",
+            "cover1": "images/cover/9780813564180.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012503729704987.jpg",
             "cover3": ""
         },
@@ -2242,7 +2242,7 @@
             "publisher_const": "Mcfarland & Co Inc,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012506389704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780786471225.jpg",
+            "cover1": "images/cover/9780786471225.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012506389704987.jpg",
             "cover3": ""
         },
@@ -2260,7 +2260,7 @@
             "publisher_const": "Redbook,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012522949704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788494596148.jpg",
+            "cover1": "images/cover/9788494596148.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012522949704987.jpg",
             "cover3": ""
         },
@@ -2278,7 +2278,7 @@
             "publisher_const": "Laberinto,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012535249704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788484838791.jpg",
+            "cover1": "images/cover/9788484838791.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012535249704987.jpg",
             "cover3": ""
         },
@@ -2296,7 +2296,7 @@
             "publisher_const": "Errata Nature,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012535259704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788416544431.jpg",
+            "cover1": "images/cover/9788416544431.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012535259704987.jpg",
             "cover3": ""
         },
@@ -2314,7 +2314,7 @@
             "publisher_const": "Ma Non Troppo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012535919704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788494650413.jpg",
+            "cover1": "images/cover/9788494650413.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012535919704987.jpg",
             "cover3": ""
         },
@@ -2332,7 +2332,7 @@
             "publisher_const": "Taylor Pub. Co.,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012687509704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780878337460.jpg",
+            "cover1": "images/cover/9780878337460.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012687509704987.jpg",
             "cover3": ""
         },
@@ -2350,7 +2350,7 @@
             "publisher_const": "Taylor Pub. Co.,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012687519704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780878338146.jpg",
+            "cover1": "images/cover/9780878338146.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012687519704987.jpg",
             "cover3": ""
         },
@@ -2368,7 +2368,7 @@
             "publisher_const": "Taylor Pub. Co.,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012687539704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780878337897.jpg",
+            "cover1": "images/cover/9780878337897.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012687539704987.jpg",
             "cover3": ""
         },
@@ -2386,7 +2386,7 @@
             "publisher_const": "Taylor Pub.,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012687559704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780878338085.jpg",
+            "cover1": "images/cover/9780878338085.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012687559704987.jpg",
             "cover3": ""
         },
@@ -2404,7 +2404,7 @@
             "publisher_const": "Taylor Pub. Co.,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012687569704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780878338597.jpg",
+            "cover1": "images/cover/9780878338597.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012687569704987.jpg",
             "cover3": ""
         },
@@ -2421,7 +2421,7 @@
             "publisher_const": "Planeta-De Agostini",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012687579704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788439502654.jpg",
+            "cover1": "images/cover/9788439502654.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012687579704987.jpg",
             "cover3": ""
         },
@@ -2437,7 +2437,7 @@
             "publisher_const": "Satori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012779179704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012779179704987.jpg",
             "cover3": ""
         },
@@ -2455,7 +2455,7 @@
             "publisher_const": "Comunicación Social,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012782619704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788415544630.jpg",
+            "cover1": "images/cover/9788415544630.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012782619704987.jpg",
             "cover3": ""
         },
@@ -2473,7 +2473,7 @@
             "publisher_const": "Doble J,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012785319704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788496875685.jpg",
+            "cover1": "images/cover/9788496875685.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012785319704987.jpg",
             "cover3": ""
         },
@@ -2491,7 +2491,7 @@
             "publisher_const": "Universidad de Barcelona,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012796059704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788449072550.jpg",
+            "cover1": "images/cover/9788449072550.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012796059704987.jpg",
             "cover3": ""
         },
@@ -2508,7 +2508,7 @@
             "publisher_const": "Fantagraphics Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012828099704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781606991473.jpg",
+            "cover1": "images/cover/9781606991473.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012828099704987.jpg",
             "cover3": ""
         },
@@ -2526,7 +2526,7 @@
             "publisher_const": "Universidad de León,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012831039704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788416613632.jpg",
+            "cover1": "images/cover/9788416613632.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012831039704987.jpg",
             "cover3": ""
         },
@@ -2544,7 +2544,7 @@
             "publisher_const": "Cátedra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012923439704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788437638829.jpg",
+            "cover1": "images/cover/9788437638829.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012923439704987.jpg",
             "cover3": ""
         },
@@ -2563,7 +2563,7 @@
             "publisher_const": "Prensa de la Universidad de Zaragoza,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013089728104987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788417633080.jpg",
+            "cover1": "images/cover/9788417633080.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013089728104987.jpg",
             "cover3": ""
         },
@@ -2579,7 +2579,7 @@
             "publisher_const": "Es Pop Ënsayo ;",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013097308404987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013097308404987.jpg",
             "cover3": ""
         },
@@ -2596,7 +2596,7 @@
             "publisher_const": "Cátedra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013172208504987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788437640594.jpg",
+            "cover1": "images/cover/9788437640594.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013172208504987.jpg",
             "cover3": ""
         },
@@ -2613,7 +2613,7 @@
             "publisher_const": "Universidad de León,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013238001604987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788417315856.jpg",
+            "cover1": "images/cover/9788417315856.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013238001604987.jpg",
             "cover3": ""
         },
@@ -2630,7 +2630,7 @@
             "publisher_const": "McFarland & Company, Inc., Publishers,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013250508404987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9780786443048.jpg",
+            "cover1": "images/cover/9780786443048.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013250508404987.jpg",
             "cover3": ""
         },
@@ -2647,7 +2647,7 @@
             "publisher_const": "Universidad de León, Secretariado de Publicaciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013337409304987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788497739788.jpg",
+            "cover1": "images/cover/9788497739788.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013337409304987.jpg",
             "cover3": ""
         },
@@ -2664,7 +2664,7 @@
             "publisher_const": "Universidad de León,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013337608404987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788497739924.jpg",
+            "cover1": "images/cover/9788497739924.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013337608404987.jpg",
             "cover3": ""
         },
@@ -2681,7 +2681,7 @@
             "publisher_const": "Universidad de León,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013338105904987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788497739900.jpg",
+            "cover1": "images/cover/9788497739900.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013338105904987.jpg",
             "cover3": ""
         },
@@ -2700,7 +2700,7 @@
             "publisher_const": "Salamandra Graphic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013352806804987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788416131747.jpg",
+            "cover1": "images/cover/9788416131747.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013352806804987.jpg",
             "cover3": ""
         },
@@ -2718,7 +2718,7 @@
             "publisher_const": "Gallo Nero",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013392478104987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788416529674.jpg",
+            "cover1": "images/cover/9788416529674.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013392478104987.jpg",
             "cover3": ""
         },
@@ -2734,7 +2734,7 @@
             "publisher_const": "Sevilla :",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438316704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788409352531.jpg",
+            "cover1": "images/cover/9788409352531.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438316704987.jpg",
             "cover3": ""
         },
@@ -2753,7 +2753,7 @@
             "publisher_const": "Fosfatina",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439124204987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788494631214.jpg",
+            "cover1": "images/cover/9788494631214.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439124204987.jpg",
             "cover3": ""
         },
@@ -2771,7 +2771,7 @@
             "publisher_const": "Norma Editorial ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440625604987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788467919417.jpg",
+            "cover1": "images/cover/9788467919417.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440625604987.jpg",
             "cover3": ""
         },
@@ -2787,7 +2787,7 @@
             "publisher_const": "Zaragoza :",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013625405504987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788413404288.jpg",
+            "cover1": "images/cover/9788413404288.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013625405504987.jpg",
             "cover3": ""
         },
@@ -2803,7 +2803,7 @@
             "publisher_const": "Zaragoza :",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013625503304987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788413404394.jpg",
+            "cover1": "images/cover/9788413404394.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013625503304987.jpg",
             "cover3": ""
         },
@@ -2821,7 +2821,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666697704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788467925203.jpg",
+            "cover1": "images/cover/9788467925203.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666697704987.jpg",
             "cover3": ""
         },
@@ -2838,7 +2838,7 @@
             "publisher_const": "Le Grimh,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666699204987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9782862727677.jpg",
+            "cover1": "images/cover/9782862727677.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666699204987.jpg",
             "cover3": ""
         },
@@ -2855,7 +2855,7 @@
             "publisher_const": "Universidad de León,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674903004987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788418490545.jpg",
+            "cover1": "images/cover/9788418490545.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674903004987.jpg",
             "cover3": ""
         },
@@ -2871,7 +2871,7 @@
             "publisher_const": "Asociación de Críticos y Divulgadores de Cómic de España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674903504987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674903504987.jpg",
             "cover3": ""
         },
@@ -2888,7 +2888,7 @@
             "publisher_const": "Asociación de Críticos y Divulgadores de Cómic de España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674903604987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674903604987.jpg",
             "cover3": ""
         },
@@ -2904,7 +2904,7 @@
             "publisher_const": "Marmotilla,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674903704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674903704987.jpg",
             "cover3": ""
         },
@@ -2920,7 +2920,7 @@
             "publisher_const": "Marmotilla,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674903804987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674903804987.jpg",
             "cover3": ""
         },
@@ -2937,7 +2937,7 @@
             "publisher_const": "Cátedra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013675404204987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788437645346.jpg",
+            "cover1": "images/cover/9788437645346.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013675404204987.jpg",
             "cover3": ""
         },
@@ -2955,7 +2955,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013675505104987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013675505104987.jpg",
             "cover3": ""
         },
@@ -2973,7 +2973,7 @@
             "publisher_const": "Penthalon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013675505304987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013675505304987.jpg",
             "cover3": ""
         },
@@ -2991,7 +2991,7 @@
             "publisher_const": "Asociación Cultural Tebeosfera,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013675505404987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788460682462.jpg",
+            "cover1": "images/cover/9788460682462.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013675505404987.jpg",
             "cover3": ""
         },
@@ -3009,7 +3009,7 @@
             "publisher_const": "El Europeo & La Tripulación,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013675505504987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013675505504987.jpg",
             "cover3": ""
         },
@@ -3025,7 +3025,7 @@
             "publisher_const": "León :",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013710504804987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788418490378.jpg",
+            "cover1": "images/cover/9788418490378.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013710504804987.jpg",
             "cover3": ""
         },
@@ -3039,7 +3039,7 @@
             "publisher_const": "Ediciones Marmotilla,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013723099204987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788409468218.jpg",
+            "cover1": "images/cover/9788409468218.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013723099204987.jpg",
             "cover3": ""
         },
@@ -3057,7 +3057,7 @@
             "publisher_const": "Prensas de la Universidad de Zaragoza,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013723105604987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788413406084.jpg",
+            "cover1": "images/cover/9788413406084.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013723105604987.jpg",
             "cover3": ""
         },
@@ -3074,7 +3074,7 @@
             "publisher_const": "Routledge,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013758103704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781138243330.jpg",
+            "cover1": "images/cover/9781138243330.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013758103704987.jpg",
             "cover3": ""
         },
@@ -3092,7 +3092,7 @@
             "publisher_const": "Diminuta Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764294704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788494637650.jpg",
+            "cover1": "images/cover/9788494637650.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764294704987.jpg",
             "cover3": ""
         },
@@ -3110,7 +3110,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764294904987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764294904987.jpg",
             "cover3": ""
         },
@@ -3127,7 +3127,7 @@
             "publisher_const": "Satori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764991704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788419035639.jpg",
+            "cover1": "images/cover/9788419035639.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764991704987.jpg",
             "cover3": ""
         },
@@ -3144,7 +3144,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013795604204987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9782203018075.jpg",
+            "cover1": "images/cover/9782203018075.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013795604204987.jpg",
             "cover3": ""
         },
@@ -3163,7 +3163,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013796902104987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788415685487.jpg",
+            "cover1": "images/cover/9788415685487.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013796902104987.jpg",
             "cover3": ""
         },
@@ -3183,7 +3183,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013796904104987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781908007926.jpg",
+            "cover1": "images/cover/9781908007926.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013796904104987.jpg",
             "cover3": ""
         },
@@ -3202,7 +3202,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013796904304987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788467914245.jpg",
+            "cover1": "images/cover/9788467914245.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013796904304987.jpg",
             "cover3": ""
         },
@@ -3218,7 +3218,7 @@
             "publisher_const": "Errata Naturae Editores",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013800702204987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788419158475.jpg",
+            "cover1": "images/cover/9788419158475.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013800702204987.jpg",
             "cover3": ""
         },
@@ -3237,7 +3237,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013800702304987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788419437921.jpg",
+            "cover1": "images/cover/9788419437921.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013800702304987.jpg",
             "cover3": ""
         },
@@ -3254,7 +3254,7 @@
             "publisher_const": "Fulgencio Pimentel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013800904004987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788494143908.jpg",
+            "cover1": "images/cover/9788494143908.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013800904004987.jpg",
             "cover3": ""
         },
@@ -3272,7 +3272,7 @@
             "publisher_const": "Colectivo D. Tebeos",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805805504987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788461333806.jpg",
+            "cover1": "images/cover/9788461333806.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805805504987.jpg",
             "cover3": ""
         },
@@ -3289,7 +3289,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805805604987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788496706644.jpg",
+            "cover1": "images/cover/9788496706644.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805805604987.jpg",
             "cover3": ""
         },
@@ -3307,7 +3307,7 @@
             "publisher_const": "De Tebeos,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805805704987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788461333790.jpg",
+            "cover1": "images/cover/9788461333790.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805805704987.jpg",
             "cover3": ""
         },
@@ -3324,7 +3324,7 @@
             "publisher_const": "Lexington Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013832601204987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9781666930849.jpg",
+            "cover1": "images/cover/9781666930849.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013832601204987.jpg",
             "cover3": ""
         },
@@ -3341,7 +3341,7 @@
             "publisher_const": "Applehead Team Creaciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013868905604987",
             "genero": "Metacomic",
-            "cover1": "../images/cover/9788412789577.jpg",
+            "cover1": "images/cover/9788412789577.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013868905604987.jpg",
             "cover3": ""
         }

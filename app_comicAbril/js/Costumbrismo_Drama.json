@@ -15,7 +15,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003133679704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003133679704987.jpg",
             "cover3": ""
         },
@@ -33,7 +33,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007792489704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467403831.jpg",
+            "cover1": "images/cover/9788467403831.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007792489704987.jpg",
             "cover3": ""
         },
@@ -50,7 +50,7 @@
             "publisher_const": "Barbara Fiore,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007982189704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788493481162.jpg",
+            "cover1": "images/cover/9788493481162.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007982189704987.jpg",
             "cover3": ""
         },
@@ -68,7 +68,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008571939704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496815919.jpg",
+            "cover1": "images/cover/9788496815919.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008571939704987.jpg",
             "cover3": ""
         },
@@ -86,7 +86,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009079759704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788498476965.jpg",
+            "cover1": "images/cover/9788498476965.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009079759704987.jpg",
             "cover3": ""
         },
@@ -104,7 +104,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009079819704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467901993.jpg",
+            "cover1": "images/cover/9788467901993.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009079819704987.jpg",
             "cover3": ""
         },
@@ -122,7 +122,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167399704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167399704987.jpg",
             "cover3": ""
         },
@@ -141,7 +141,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167429704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496815063.jpg",
+            "cover1": "images/cover/9788496815063.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167429704987.jpg",
             "cover3": ""
         },
@@ -160,7 +160,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009169679704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496815605.jpg",
+            "cover1": "images/cover/9788496815605.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009169679704987.jpg",
             "cover3": ""
         },
@@ -179,7 +179,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009169699704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788492769285.jpg",
+            "cover1": "images/cover/9788492769285.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009169699704987.jpg",
             "cover3": ""
         },
@@ -198,7 +198,7 @@
             "publisher_const": "Denoël,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009191009704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9782207240038.jpg",
+            "cover1": "images/cover/9782207240038.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009191009704987.jpg",
             "cover3": ""
         },
@@ -216,7 +216,7 @@
             "publisher_const": "Gallimard,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009191089704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9782070118229.jpg",
+            "cover1": "images/cover/9782070118229.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009191089704987.jpg",
             "cover3": ""
         },
@@ -235,7 +235,7 @@
             "publisher_const": "Astiberri",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009196889704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009196889704987.jpg",
             "cover3": ""
         },
@@ -253,7 +253,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009211189704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496815254.jpg",
+            "cover1": "images/cover/9788496815254.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009211189704987.jpg",
             "cover3": ""
         },
@@ -272,7 +272,7 @@
             "publisher_const": "Diabolo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009213919704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788493676483.jpg",
+            "cover1": "images/cover/9788493676483.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009213919704987.jpg",
             "cover3": ""
         },
@@ -291,7 +291,7 @@
             "publisher_const": "Drawn and Quarterly,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009240279704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9780224090612.jpg",
+            "cover1": "images/cover/9780224090612.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009240279704987.jpg",
             "cover3": ""
         },
@@ -309,7 +309,7 @@
             "publisher_const": "Rey Lear,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274099704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788492403059.jpg",
+            "cover1": "images/cover/9788492403059.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274099704987.jpg",
             "cover3": ""
         },
@@ -327,7 +327,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274149704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788492769452.jpg",
+            "cover1": "images/cover/9788492769452.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274149704987.jpg",
             "cover3": ""
         },
@@ -345,7 +345,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274519704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788483573402.jpg",
+            "cover1": "images/cover/9788483573402.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274519704987.jpg",
             "cover3": ""
         },
@@ -364,7 +364,7 @@
             "publisher_const": "Ediciones Sinsentido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009275429704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496722507.jpg",
+            "cover1": "images/cover/9788496722507.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009275429704987.jpg",
             "cover3": ""
         },
@@ -382,7 +382,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009329719704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467491913.jpg",
+            "cover1": "images/cover/9788467491913.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009329719704987.jpg",
             "cover3": ""
         },
@@ -401,7 +401,7 @@
             "publisher_const": "Sinsentido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009334309704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496722668.jpg",
+            "cover1": "images/cover/9788496722668.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009334309704987.jpg",
             "cover3": ""
         },
@@ -419,7 +419,7 @@
             "publisher_const": "Dargaud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009340209704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9782205066395.jpg",
+            "cover1": "images/cover/9782205066395.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009340209704987.jpg",
             "cover3": ""
         },
@@ -437,7 +437,7 @@
             "publisher_const": "Sins Entido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009388949704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496722736.jpg",
+            "cover1": "images/cover/9788496722736.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009388949704987.jpg",
             "cover3": ""
         },
@@ -455,7 +455,7 @@
             "publisher_const": "La cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009388959704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788478339327.jpg",
+            "cover1": "images/cover/9788478339327.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009388959704987.jpg",
             "cover3": ""
         },
@@ -473,7 +473,7 @@
             "publisher_const": "Glenat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009478819704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788499471723.jpg",
+            "cover1": "images/cover/9788499471723.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009478819704987.jpg",
             "cover3": ""
         },
@@ -491,7 +491,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010893629704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467491920.jpg",
+            "cover1": "images/cover/9788467491920.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010893629704987.jpg",
             "cover3": ""
         },
@@ -509,7 +509,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010893649704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467491937.jpg",
+            "cover1": "images/cover/9788467491937.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010893649704987.jpg",
             "cover3": ""
         },
@@ -527,7 +527,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010993529704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496730588.jpg",
+            "cover1": "images/cover/9788496730588.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010993529704987.jpg",
             "cover3": ""
         },
@@ -545,7 +545,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011011099704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788478339440.jpg",
+            "cover1": "images/cover/9788478339440.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011011099704987.jpg",
             "cover3": ""
         },
@@ -563,7 +563,7 @@
             "publisher_const": "Sinsentido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011034159704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496722606.jpg",
+            "cover1": "images/cover/9788496722606.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011034159704987.jpg",
             "cover3": ""
         },
@@ -582,7 +582,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011051449704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011051449704987.jpg",
             "cover3": ""
         },
@@ -601,7 +601,7 @@
             "publisher_const": "La Cúpula",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011051469704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788478337545.jpg",
+            "cover1": "images/cover/9788478337545.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011051469704987.jpg",
             "cover3": ""
         },
@@ -620,7 +620,7 @@
             "publisher_const": "La Cúpula",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011051489704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788478337736.jpg",
+            "cover1": "images/cover/9788478337736.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011051489704987.jpg",
             "cover3": ""
         },
@@ -639,7 +639,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011051659704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788493522957.jpg",
+            "cover1": "images/cover/9788493522957.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011051659704987.jpg",
             "cover3": ""
         },
@@ -658,7 +658,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011051679704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011051679704987.jpg",
             "cover3": ""
         },
@@ -677,7 +677,7 @@
             "publisher_const": "Random House Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011060149704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788439721697.jpg",
+            "cover1": "images/cover/9788439721697.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011060149704987.jpg",
             "cover3": ""
         },
@@ -695,7 +695,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011108879704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415163121.jpg",
+            "cover1": "images/cover/9788415163121.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011108879704987.jpg",
             "cover3": ""
         },
@@ -714,7 +714,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011108909704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467902464.jpg",
+            "cover1": "images/cover/9788467902464.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011108909704987.jpg",
             "cover3": ""
         },
@@ -732,7 +732,7 @@
             "publisher_const": "Apa-Apa Còmics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011127389704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788492615036.jpg",
+            "cover1": "images/cover/9788492615036.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011127389704987.jpg",
             "cover3": ""
         },
@@ -750,7 +750,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011167079704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496730755.jpg",
+            "cover1": "images/cover/9788496730755.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011167079704987.jpg",
             "cover3": ""
         },
@@ -768,7 +768,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011167159704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415163763.jpg",
+            "cover1": "images/cover/9788415163763.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011167159704987.jpg",
             "cover3": ""
         },
@@ -786,7 +786,7 @@
             "publisher_const": "Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011191979704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788439723981.jpg",
+            "cover1": "images/cover/9788439723981.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011191979704987.jpg",
             "cover3": ""
         },
@@ -804,7 +804,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011227919704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788478339747.jpg",
+            "cover1": "images/cover/9788478339747.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011227919704987.jpg",
             "cover3": ""
         },
@@ -822,7 +822,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011230959704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788478335947.jpg",
+            "cover1": "images/cover/9788478335947.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011230959704987.jpg",
             "cover3": ""
         },
@@ -841,7 +841,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011496319704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788492769421.jpg",
+            "cover1": "images/cover/9788492769421.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011496319704987.jpg",
             "cover3": ""
         },
@@ -859,7 +859,7 @@
             "publisher_const": "Random House Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011565419704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788439727149.jpg",
+            "cover1": "images/cover/9788439727149.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011565419704987.jpg",
             "cover3": ""
         },
@@ -878,7 +878,7 @@
             "publisher_const": "Random House Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011619189704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788439722304.jpg",
+            "cover1": "images/cover/9788439722304.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011619189704987.jpg",
             "cover3": ""
         },
@@ -897,7 +897,7 @@
             "publisher_const": "Sinsentido",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011626369704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415530206.jpg",
+            "cover1": "images/cover/9788415530206.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011626369704987.jpg",
             "cover3": ""
         },
@@ -915,7 +915,7 @@
             "publisher_const": "Nórdica,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011921039704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416112418.jpg",
+            "cover1": "images/cover/9788416112418.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011921039704987.jpg",
             "cover3": ""
         },
@@ -934,7 +934,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012076739704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415944102.jpg",
+            "cover1": "images/cover/9788415944102.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012076739704987.jpg",
             "cover3": ""
         },
@@ -952,7 +952,7 @@
             "publisher_const": "Top Shelf Productions,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012089709704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9781603090582.jpg",
+            "cover1": "images/cover/9781603090582.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012089709704987.jpg",
             "cover3": ""
         },
@@ -970,7 +970,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012146629704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788490623145.jpg",
+            "cover1": "images/cover/9788490623145.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012146629704987.jpg",
             "cover3": ""
         },
@@ -988,7 +988,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012154909704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467903829.jpg",
+            "cover1": "images/cover/9788467903829.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012154909704987.jpg",
             "cover3": ""
         },
@@ -1006,7 +1006,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012180249704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415685951.jpg",
+            "cover1": "images/cover/9788415685951.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012180249704987.jpg",
             "cover3": ""
         },
@@ -1025,7 +1025,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012195579704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496815919.jpg",
+            "cover1": "images/cover/9788496815919.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012195579704987.jpg",
             "cover3": ""
         },
@@ -1044,7 +1044,7 @@
             "publisher_const": "Ediciones Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012195969704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496815391.jpg",
+            "cover1": "images/cover/9788496815391.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012195969704987.jpg",
             "cover3": ""
         },
@@ -1062,7 +1062,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012197729704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416251001.jpg",
+            "cover1": "images/cover/9788416251001.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012197729704987.jpg",
             "cover3": ""
         },
@@ -1081,7 +1081,7 @@
             "publisher_const": "Ediciones Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012210659704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496815391.jpg",
+            "cover1": "images/cover/9788496815391.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012210659704987.jpg",
             "cover3": ""
         },
@@ -1101,7 +1101,7 @@
             "publisher_const": "La Cúpula",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012256209704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415724735.jpg",
+            "cover1": "images/cover/9788415724735.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012256209704987.jpg",
             "cover3": ""
         },
@@ -1119,7 +1119,7 @@
             "publisher_const": "Salamandra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012280519704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416131143.jpg",
+            "cover1": "images/cover/9788416131143.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012280519704987.jpg",
             "cover3": ""
         },
@@ -1137,7 +1137,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012305489704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467923230.jpg",
+            "cover1": "images/cover/9788467923230.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012305489704987.jpg",
             "cover3": ""
         },
@@ -1155,7 +1155,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012436579704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416251322.jpg",
+            "cover1": "images/cover/9788416251322.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012436579704987.jpg",
             "cover3": ""
         },
@@ -1174,7 +1174,7 @@
             "publisher_const": "NormaEditorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012436639704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467924718.jpg",
+            "cover1": "images/cover/9788467924718.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012436639704987.jpg",
             "cover3": ""
         },
@@ -1192,7 +1192,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437019704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415724964.jpg",
+            "cover1": "images/cover/9788415724964.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012437019704987.jpg",
             "cover3": ""
         },
@@ -1210,7 +1210,7 @@
             "publisher_const": "Libros del Zorro Rojo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012495499704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788494650611.jpg",
+            "cover1": "images/cover/9788494650611.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012495499704987.jpg",
             "cover3": ""
         },
@@ -1229,7 +1229,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012498229704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467909982.jpg",
+            "cover1": "images/cover/9788467909982.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012498229704987.jpg",
             "cover3": ""
         },
@@ -1247,7 +1247,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012754359704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415685739.jpg",
+            "cover1": "images/cover/9788415685739.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012754359704987.jpg",
             "cover3": ""
         },
@@ -1265,7 +1265,7 @@
             "publisher_const": "Ediciones de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012800089704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415944072.jpg",
+            "cover1": "images/cover/9788415944072.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012800089704987.jpg",
             "cover3": ""
         },
@@ -1283,7 +1283,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012823599704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415724421.jpg",
+            "cover1": "images/cover/9788415724421.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012823599704987.jpg",
             "cover3": ""
         },
@@ -1301,7 +1301,7 @@
             "publisher_const": "Ediciones de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012826299704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415944089.jpg",
+            "cover1": "images/cover/9788415944089.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012826299704987.jpg",
             "cover3": ""
         },
@@ -1319,7 +1319,7 @@
             "publisher_const": "Archie Comic Publications,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012860879704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9781627388931.jpg",
+            "cover1": "images/cover/9781627388931.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012860879704987.jpg",
             "cover3": ""
         },
@@ -1339,7 +1339,7 @@
             "publisher_const": "Reprodukt,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012911539704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9783956401350.jpg",
+            "cover1": "images/cover/9783956401350.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012911539704987.jpg",
             "cover3": ""
         },
@@ -1357,7 +1357,7 @@
             "publisher_const": "Sapristi",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012913949704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788494785245.jpg",
+            "cover1": "images/cover/9788494785245.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012913949704987.jpg",
             "cover3": ""
         },
@@ -1375,7 +1375,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013144896104987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467935851.jpg",
+            "cover1": "images/cover/9788467935851.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013144896104987.jpg",
             "cover3": ""
         },
@@ -1393,7 +1393,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013144896204987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467934410.jpg",
+            "cover1": "images/cover/9788467934410.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013144896204987.jpg",
             "cover3": ""
         },
@@ -1410,7 +1410,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013181397704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416880485.jpg",
+            "cover1": "images/cover/9788416880485.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013181397704987.jpg",
             "cover3": ""
         },
@@ -1427,7 +1427,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013198808104987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788417575069.jpg",
+            "cover1": "images/cover/9788417575069.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013198808104987.jpg",
             "cover3": ""
         },
@@ -1444,7 +1444,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013198808204987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467936322.jpg",
+            "cover1": "images/cover/9788467936322.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013198808204987.jpg",
             "cover3": ""
         },
@@ -1461,7 +1461,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013203009004987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788417575267.jpg",
+            "cover1": "images/cover/9788417575267.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013203009004987.jpg",
             "cover3": ""
         },
@@ -1478,7 +1478,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013250809404987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788417442347.jpg",
+            "cover1": "images/cover/9788417442347.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013250809404987.jpg",
             "cover3": ""
         },
@@ -1495,7 +1495,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013250809504987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788417910044.jpg",
+            "cover1": "images/cover/9788417910044.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013250809504987.jpg",
             "cover3": ""
         },
@@ -1512,7 +1512,7 @@
             "publisher_const": "Salamandra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013250809604987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416131440.jpg",
+            "cover1": "images/cover/9788416131440.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013250809604987.jpg",
             "cover3": ""
         },
@@ -1531,7 +1531,7 @@
             "publisher_const": "Astiberri",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013326603204987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416251643.jpg",
+            "cover1": "images/cover/9788416251643.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013326603204987.jpg",
             "cover3": ""
         },
@@ -1549,7 +1549,7 @@
             "publisher_const": "Salamandra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013326604104987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416131266.jpg",
+            "cover1": "images/cover/9788416131266.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013326604104987.jpg",
             "cover3": ""
         },
@@ -1566,7 +1566,7 @@
             "publisher_const": "Astiberri Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013328494804987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788418215209.jpg",
+            "cover1": "images/cover/9788418215209.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013328494804987.jpg",
             "cover3": ""
         },
@@ -1584,7 +1584,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013365003204987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467943757.jpg",
+            "cover1": "images/cover/9788467943757.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013365003204987.jpg",
             "cover3": ""
         },
@@ -1601,7 +1601,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013367306204987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416251001.jpg",
+            "cover1": "images/cover/9788416251001.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013367306204987.jpg",
             "cover3": ""
         },
@@ -1618,7 +1618,7 @@
             "publisher_const": "Autsaider Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013398879804987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788412007350.jpg",
+            "cover1": "images/cover/9788412007350.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013398879804987.jpg",
             "cover3": ""
         },
@@ -1636,7 +1636,7 @@
             "publisher_const": "Apa Apa Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013404975104987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788492615261.jpg",
+            "cover1": "images/cover/9788492615261.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013404975104987.jpg",
             "cover3": ""
         },
@@ -1654,7 +1654,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013405066304987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467941265.jpg",
+            "cover1": "images/cover/9788467941265.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013405066304987.jpg",
             "cover3": ""
         },
@@ -1672,7 +1672,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411288204987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467934076.jpg",
+            "cover1": "images/cover/9788467934076.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411288204987.jpg",
             "cover3": ""
         },
@@ -1689,7 +1689,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879404987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788417442415.jpg",
+            "cover1": "images/cover/9788417442415.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879404987.jpg",
             "cover3": ""
         },
@@ -1706,7 +1706,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411888404987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788417442552.jpg",
+            "cover1": "images/cover/9788417442552.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411888404987.jpg",
             "cover3": ""
         },
@@ -1724,7 +1724,7 @@
             "publisher_const": "Astiberri Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013412287904987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788418215209.jpg",
+            "cover1": "images/cover/9788418215209.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013412287904987.jpg",
             "cover3": ""
         },
@@ -1741,7 +1741,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013427197804987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788495825476.jpg",
+            "cover1": "images/cover/9788495825476.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013427197804987.jpg",
             "cover3": ""
         },
@@ -1758,7 +1758,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013427198204987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788418215162.jpg",
+            "cover1": "images/cover/9788418215162.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013427198204987.jpg",
             "cover3": ""
         },
@@ -1775,7 +1775,7 @@
             "publisher_const": "Astiberri Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013429097904987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788418909023.jpg",
+            "cover1": "images/cover/9788418909023.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013429097904987.jpg",
             "cover3": ""
         },
@@ -1792,7 +1792,7 @@
             "publisher_const": "Norma editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013429098904987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467949209.jpg",
+            "cover1": "images/cover/9788467949209.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013429098904987.jpg",
             "cover3": ""
         },
@@ -1809,7 +1809,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434392604987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788418052057.jpg",
+            "cover1": "images/cover/9788418052057.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434392604987.jpg",
             "cover3": ""
         },
@@ -1826,7 +1826,7 @@
             "publisher_const": "Nuevo Nueve Editores,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924204987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788417989491.jpg",
+            "cover1": "images/cover/9788417989491.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924204987.jpg",
             "cover3": ""
         },
@@ -1843,7 +1843,7 @@
             "publisher_const": "Sexto Piso,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441222004987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496867987.jpg",
+            "cover1": "images/cover/9788496867987.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441222004987.jpg",
             "cover3": ""
         },
@@ -1860,7 +1860,7 @@
             "publisher_const": "Sugoi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441226004987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788461478132.jpg",
+            "cover1": "images/cover/9788461478132.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441226004987.jpg",
             "cover3": ""
         },
@@ -1878,7 +1878,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456623704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415163633.jpg",
+            "cover1": "images/cover/9788415163633.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456623704987.jpg",
             "cover3": ""
         },
@@ -1895,7 +1895,7 @@
             "publisher_const": "Errata Naturae,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456725404987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788419158024.jpg",
+            "cover1": "images/cover/9788419158024.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456725404987.jpg",
             "cover3": ""
         },
@@ -1912,7 +1912,7 @@
             "publisher_const": "Gallo Nero Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013462134404987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788419168009.jpg",
+            "cover1": "images/cover/9788419168009.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013462134404987.jpg",
             "cover3": ""
         },
@@ -1929,7 +1929,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013476572604987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467901863.jpg",
+            "cover1": "images/cover/9788467901863.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013476572604987.jpg",
             "cover3": ""
         },
@@ -1946,7 +1946,7 @@
             "publisher_const": "Bruguera",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013634404604987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788402425164.jpg",
+            "cover1": "images/cover/9788402425164.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013634404604987.jpg",
             "cover3": ""
         },
@@ -1963,7 +1963,7 @@
             "publisher_const": "Bridge,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013634405004987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788418253126.jpg",
+            "cover1": "images/cover/9788418253126.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013634405004987.jpg",
             "cover3": ""
         },
@@ -1980,7 +1980,7 @@
             "publisher_const": "Grijalbo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013634405504987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788425360039.jpg",
+            "cover1": "images/cover/9788425360039.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013634405504987.jpg",
             "cover3": ""
         },
@@ -1997,7 +1997,7 @@
             "publisher_const": "Grijalbo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013634405604987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788425361050.jpg",
+            "cover1": "images/cover/9788425361050.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013634405604987.jpg",
             "cover3": ""
         },
@@ -2014,7 +2014,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013655798304987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788418909528.jpg",
+            "cover1": "images/cover/9788418909528.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013655798304987.jpg",
             "cover3": ""
         },
@@ -2032,7 +2032,7 @@
             "publisher_const": "Salamandra Graphic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666504404987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788416131112.jpg",
+            "cover1": "images/cover/9788416131112.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666504404987.jpg",
             "cover3": ""
         },
@@ -2050,7 +2050,7 @@
             "publisher_const": "Bruguera,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666504504987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788402426970.jpg",
+            "cover1": "images/cover/9788402426970.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666504504987.jpg",
             "cover3": ""
         },
@@ -2069,7 +2069,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666697804987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467927320.jpg",
+            "cover1": "images/cover/9788467927320.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666697804987.jpg",
             "cover3": ""
         },
@@ -2086,7 +2086,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013734104804987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788418909573.jpg",
+            "cover1": "images/cover/9788418909573.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013734104804987.jpg",
             "cover3": ""
         },
@@ -2103,7 +2103,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013736899704987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467962413.jpg",
+            "cover1": "images/cover/9788467962413.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013736899704987.jpg",
             "cover3": ""
         },
@@ -2122,7 +2122,7 @@
             "publisher_const": "Astiberri",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013784402504987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788496815070.jpg",
+            "cover1": "images/cover/9788496815070.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013784402504987.jpg",
             "cover3": ""
         },
@@ -2140,7 +2140,7 @@
             "publisher_const": "Norma",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013784402904987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013784402904987.jpg",
             "cover3": ""
         },
@@ -2161,7 +2161,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013794005004987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788418897481.jpg",
+            "cover1": "images/cover/9788418897481.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013794005004987.jpg",
             "cover3": ""
         },
@@ -2179,7 +2179,7 @@
             "publisher_const": "La Cúpula",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013794005204987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788415724599.jpg",
+            "cover1": "images/cover/9788415724599.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013794005204987.jpg",
             "cover3": ""
         },
@@ -2196,7 +2196,7 @@
             "publisher_const": "Editorial Planeta ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013794005304987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788413414935.jpg",
+            "cover1": "images/cover/9788413414935.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013794005304987.jpg",
             "cover3": ""
         },
@@ -2214,7 +2214,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013861804004987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/9788467961829.jpg",
+            "cover1": "images/cover/9788467961829.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013861804004987.jpg",
             "cover3": ""
         },
@@ -2230,7 +2230,7 @@
             "publisher_const": "Universidad de Sevilla, Facultad de Comunicación,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013864003404987",
             "genero": "Costumbrismo / Drama",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013864003404987.jpg",
             "cover3": ""
         }

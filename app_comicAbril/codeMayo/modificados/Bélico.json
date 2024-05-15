@@ -15,7 +15,7 @@
             "publisher_const": "Toray,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002426739704987",
             "genero": "Bélico",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991002426739704987.jpg",
             "cover3": ""
         },
@@ -34,7 +34,7 @@
             "publisher_const": "Toray,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002463959704987",
             "genero": "Bélico",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991002463959704987.jpg",
             "cover3": ""
         },
@@ -52,7 +52,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222769704987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9782203359055.jpg",
+            "cover1": "images/cover/9782203359055.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222769704987.jpg",
             "cover3": ""
         },
@@ -71,7 +71,7 @@
             "publisher_const": "Astiberri",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010974439704987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9788415163275.jpg",
+            "cover1": "images/cover/9788415163275.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010974439704987.jpg",
             "cover3": ""
         },
@@ -89,7 +89,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011490569704987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9788467911633.jpg",
+            "cover1": "images/cover/9788467911633.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011490569704987.jpg",
             "cover3": ""
         },
@@ -108,7 +108,7 @@
             "publisher_const": "Edicions de Ponent",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012281679704987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9788496730991.jpg",
+            "cover1": "images/cover/9788496730991.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012281679704987.jpg",
             "cover3": ""
         },
@@ -126,7 +126,7 @@
             "publisher_const": "Dover Publications, Inc.,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012646669704987",
             "genero": "Bélico",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012646669704987.jpg",
             "cover3": ""
         },
@@ -144,7 +144,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012800229704987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9788415932949.jpg",
+            "cover1": "images/cover/9788415932949.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012800229704987.jpg",
             "cover3": ""
         },
@@ -162,7 +162,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013406969904987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9788418215285.jpg",
+            "cover1": "images/cover/9788418215285.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013406969904987.jpg",
             "cover3": ""
         },
@@ -179,7 +179,7 @@
             "publisher_const": "Norma editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013429098904987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9788467949209.jpg",
+            "cover1": "images/cover/9788467949209.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013429098904987.jpg",
             "cover3": ""
         },
@@ -196,7 +196,7 @@
             "publisher_const": "ECC Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434391804987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9788418974847.jpg",
+            "cover1": "images/cover/9788418974847.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434391804987.jpg",
             "cover3": ""
         },
@@ -214,7 +214,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013734105104987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9788418909658.jpg",
+            "cover1": "images/cover/9788418909658.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013734105104987.jpg",
             "cover3": ""
         },
@@ -231,7 +231,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805305004987",
             "genero": "Bélico",
-            "cover1": "../images/cover/9788496706941.jpg",
+            "cover1": "images/cover/9788496706941.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805305004987.jpg",
             "cover3": ""
         }

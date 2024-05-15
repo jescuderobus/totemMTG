@@ -15,7 +15,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167429704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788496815063.jpg",
+            "cover1": "images/cover/9788496815063.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167429704987.jpg",
             "cover3": ""
         },
@@ -34,7 +34,7 @@
             "publisher_const": "Norma",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167579704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788498149838.jpg",
+            "cover1": "images/cover/9788498149838.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167579704987.jpg",
             "cover3": ""
         },
@@ -52,7 +52,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009209849704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788492769537.jpg",
+            "cover1": "images/cover/9788492769537.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009209849704987.jpg",
             "cover3": ""
         },
@@ -71,7 +71,7 @@
             "publisher_const": "Diabolo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009213919704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788493676483.jpg",
+            "cover1": "images/cover/9788493676483.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009213919704987.jpg",
             "cover3": ""
         },
@@ -90,7 +90,7 @@
             "publisher_const": "Drawn and Quarterly,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009240279704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9780224090612.jpg",
+            "cover1": "images/cover/9780224090612.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009240279704987.jpg",
             "cover3": ""
         },
@@ -109,7 +109,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009275259704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788499081915.jpg",
+            "cover1": "images/cover/9788499081915.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009275259704987.jpg",
             "cover3": ""
         },
@@ -128,7 +128,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009275269704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788499081922.jpg",
+            "cover1": "images/cover/9788499081922.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009275269704987.jpg",
             "cover3": ""
         },
@@ -147,7 +147,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009275299704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788499082219.jpg",
+            "cover1": "images/cover/9788499082219.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009275299704987.jpg",
             "cover3": ""
         },
@@ -166,7 +166,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009275339704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788499082226.jpg",
+            "cover1": "images/cover/9788499082226.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009275339704987.jpg",
             "cover3": ""
         },
@@ -185,7 +185,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009275359704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788499082905.jpg",
+            "cover1": "images/cover/9788499082905.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009275359704987.jpg",
             "cover3": ""
         },
@@ -204,7 +204,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009275379704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788499083476.jpg",
+            "cover1": "images/cover/9788499083476.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009275379704987.jpg",
             "cover3": ""
         },
@@ -222,7 +222,7 @@
             "publisher_const": "Reino de Cordelia,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009301119704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788493796341.jpg",
+            "cover1": "images/cover/9788493796341.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009301119704987.jpg",
             "cover3": ""
         },
@@ -240,7 +240,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009301599704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009301599704987.jpg",
             "cover3": ""
         },
@@ -258,7 +258,7 @@
             "publisher_const": "Diabolo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009302869704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788493742263.jpg",
+            "cover1": "images/cover/9788493742263.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009302869704987.jpg",
             "cover3": ""
         },
@@ -276,7 +276,7 @@
             "publisher_const": "Soleil Productions,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009330189704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9782877647120.jpg",
+            "cover1": "images/cover/9782877647120.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009330189704987.jpg",
             "cover3": ""
         },
@@ -294,7 +294,7 @@
             "publisher_const": "Sins Entido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009388949704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788496722736.jpg",
+            "cover1": "images/cover/9788496722736.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009388949704987.jpg",
             "cover3": ""
         },
@@ -312,7 +312,7 @@
             "publisher_const": "Sinsentido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010973199704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788496722835.jpg",
+            "cover1": "images/cover/9788496722835.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010973199704987.jpg",
             "cover3": ""
         },
@@ -330,7 +330,7 @@
             "publisher_const": "Soleil Productions,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011044959704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9782302000513.jpg",
+            "cover1": "images/cover/9782302000513.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011044959704987.jpg",
             "cover3": ""
         },
@@ -348,7 +348,7 @@
             "publisher_const": "Soleil Productions,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011044969704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9782877648493.jpg",
+            "cover1": "images/cover/9782877648493.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011044969704987.jpg",
             "cover3": ""
         },
@@ -367,7 +367,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011051669704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788478337326.jpg",
+            "cover1": "images/cover/9788478337326.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011051669704987.jpg",
             "cover3": ""
         },
@@ -386,7 +386,7 @@
             "publisher_const": "Random House Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011060149704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788439721697.jpg",
+            "cover1": "images/cover/9788439721697.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011060149704987.jpg",
             "cover3": ""
         },
@@ -403,7 +403,7 @@
             "publisher_const": "Dolmen Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011106309704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788415201687.jpg",
+            "cover1": "images/cover/9788415201687.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011106309704987.jpg",
             "cover3": ""
         },
@@ -421,7 +421,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011230919704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788493399203.jpg",
+            "cover1": "images/cover/9788493399203.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011230919704987.jpg",
             "cover3": ""
         },
@@ -439,7 +439,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011230939704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788492444366.jpg",
+            "cover1": "images/cover/9788492444366.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011230939704987.jpg",
             "cover3": ""
         },
@@ -457,7 +457,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011230979704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788478337828.jpg",
+            "cover1": "images/cover/9788478337828.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011230979704987.jpg",
             "cover3": ""
         },
@@ -476,7 +476,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011649159704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788415520832.jpg",
+            "cover1": "images/cover/9788415520832.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011649159704987.jpg",
             "cover3": ""
         },
@@ -494,7 +494,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011677769704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788415821809.jpg",
+            "cover1": "images/cover/9788415821809.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011677769704987.jpg",
             "cover3": ""
         },
@@ -513,7 +513,7 @@
             "publisher_const": "Planeta-De Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011925929704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011925929704987.jpg",
             "cover3": ""
         },
@@ -531,7 +531,7 @@
             "publisher_const": "Fulgencio Pimentel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930059704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788416167098.jpg",
+            "cover1": "images/cover/9788416167098.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930059704987.jpg",
             "cover3": ""
         },
@@ -549,7 +549,7 @@
             "publisher_const": "Grafito,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012319459704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788494300240.jpg",
+            "cover1": "images/cover/9788494300240.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012319459704987.jpg",
             "cover3": ""
         },
@@ -566,7 +566,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012427349704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788496415546.jpg",
+            "cover1": "images/cover/9788496415546.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012427349704987.jpg",
             "cover3": ""
         },
@@ -585,7 +585,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437199704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788415163251.jpg",
+            "cover1": "images/cover/9788415163251.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012437199704987.jpg",
             "cover3": ""
         },
@@ -604,7 +604,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012440629704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788416400126.jpg",
+            "cover1": "images/cover/9788416400126.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012440629704987.jpg",
             "cover3": ""
         },
@@ -622,7 +622,7 @@
             "publisher_const": "El verano del cohete,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012503839704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788494261046.jpg",
+            "cover1": "images/cover/9788494261046.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012503839704987.jpg",
             "cover3": ""
         },
@@ -641,7 +641,7 @@
             "publisher_const": "Fulgencio Pimentel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012509279704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788416167258.jpg",
+            "cover1": "images/cover/9788416167258.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012509279704987.jpg",
             "cover3": ""
         },
@@ -658,7 +658,7 @@
             "publisher_const": "Ediciones Glenat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012541659704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788499472942.jpg",
+            "cover1": "images/cover/9788499472942.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012541659704987.jpg",
             "cover3": ""
         },
@@ -676,7 +676,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012830309704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788415944041.jpg",
+            "cover1": "images/cover/9788415944041.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012830309704987.jpg",
             "cover3": ""
         },
@@ -693,7 +693,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012830889704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788417206468.jpg",
+            "cover1": "images/cover/9788417206468.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012830889704987.jpg",
             "cover3": ""
         },
@@ -711,7 +711,7 @@
             "publisher_const": "GP Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012839949704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788494234958.jpg",
+            "cover1": "images/cover/9788494234958.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012839949704987.jpg",
             "cover3": ""
         },
@@ -728,7 +728,7 @@
             "publisher_const": "Grafito editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012840019704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788494767029.jpg",
+            "cover1": "images/cover/9788494767029.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012840019704987.jpg",
             "cover3": ""
         },
@@ -745,7 +745,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012915079704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788416400607.jpg",
+            "cover1": "images/cover/9788416400607.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012915079704987.jpg",
             "cover3": ""
         },
@@ -762,7 +762,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013103499404987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788494598432.jpg",
+            "cover1": "images/cover/9788494598432.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013103499404987.jpg",
             "cover3": ""
         },
@@ -779,7 +779,7 @@
             "publisher_const": "Diábolo Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013107606204987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788416217212.jpg",
+            "cover1": "images/cover/9788416217212.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013107606204987.jpg",
             "cover3": ""
         },
@@ -796,7 +796,7 @@
             "publisher_const": "Sapristi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013148309004987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788494506369.jpg",
+            "cover1": "images/cover/9788494506369.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013148309004987.jpg",
             "cover3": ""
         },
@@ -813,7 +813,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013203008604987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788417575120.jpg",
+            "cover1": "images/cover/9788417575120.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013203008604987.jpg",
             "cover3": ""
         },
@@ -830,7 +830,7 @@
             "publisher_const": "El Paseo ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013327608704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788494740435.jpg",
+            "cover1": "images/cover/9788494740435.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013327608704987.jpg",
             "cover3": ""
         },
@@ -847,7 +847,7 @@
             "publisher_const": "Reservoir books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013367207204987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788417511906.jpg",
+            "cover1": "images/cover/9788417511906.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013367207204987.jpg",
             "cover3": ""
         },
@@ -865,7 +865,7 @@
             "publisher_const": "Impedimenta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013367301004987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788417553289.jpg",
+            "cover1": "images/cover/9788417553289.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013367301004987.jpg",
             "cover3": ""
         },
@@ -883,7 +883,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013427198104987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788418215247.jpg",
+            "cover1": "images/cover/9788418215247.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013427198104987.jpg",
             "cover3": ""
         },
@@ -902,7 +902,7 @@
             "publisher_const": "Edelvives,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013433890804987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788426372475.jpg",
+            "cover1": "images/cover/9788426372475.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013433890804987.jpg",
             "cover3": ""
         },
@@ -919,7 +919,7 @@
             "publisher_const": "Sapristi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434392404987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788412128291.jpg",
+            "cover1": "images/cover/9788412128291.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434392404987.jpg",
             "cover3": ""
         },
@@ -936,7 +936,7 @@
             "publisher_const": "Salamandra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434392504987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788416131662.jpg",
+            "cover1": "images/cover/9788416131662.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434392504987.jpg",
             "cover3": ""
         },
@@ -953,7 +953,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434393504987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788418215544.jpg",
+            "cover1": "images/cover/9788418215544.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434393504987.jpg",
             "cover3": ""
         },
@@ -971,7 +971,7 @@
             "publisher_const": "Apa Apa Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439124104987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788492615308.jpg",
+            "cover1": "images/cover/9788492615308.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439124104987.jpg",
             "cover3": ""
         },
@@ -987,7 +987,7 @@
             "publisher_const": "Madrid :",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440925504987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788418668203.jpg",
+            "cover1": "images/cover/9788418668203.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440925504987.jpg",
             "cover3": ""
         },
@@ -1005,7 +1005,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441117004987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788418897344.jpg",
+            "cover1": "images/cover/9788418897344.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441117004987.jpg",
             "cover3": ""
         },
@@ -1022,7 +1022,7 @@
             "publisher_const": "Planeta Comic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441122004987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788491464563.jpg",
+            "cover1": "images/cover/9788491464563.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441122004987.jpg",
             "cover3": ""
         },
@@ -1039,7 +1039,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441122104987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788413411446.jpg",
+            "cover1": "images/cover/9788413411446.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441122104987.jpg",
             "cover3": ""
         },
@@ -1056,7 +1056,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452625104987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788417442767.jpg",
+            "cover1": "images/cover/9788417442767.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452625104987.jpg",
             "cover3": ""
         },
@@ -1074,7 +1074,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456723404987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9781910856499.jpg",
+            "cover1": "images/cover/9781910856499.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456723404987.jpg",
             "cover3": ""
         },
@@ -1091,7 +1091,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013481971504987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788411120494.jpg",
+            "cover1": "images/cover/9788411120494.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013481971504987.jpg",
             "cover3": ""
         },
@@ -1108,7 +1108,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013625503204987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788491737339.jpg",
+            "cover1": "images/cover/9788491737339.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013625503204987.jpg",
             "cover3": ""
         },
@@ -1125,7 +1125,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013631398604987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013631398604987.jpg",
             "cover3": ""
         },
@@ -1143,7 +1143,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503804987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788416251285.jpg",
+            "cover1": "images/cover/9788416251285.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503804987.jpg",
             "cover3": ""
         },
@@ -1161,7 +1161,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666504004987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788418909290.jpg",
+            "cover1": "images/cover/9788418909290.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666504004987.jpg",
             "cover3": ""
         },
@@ -1174,7 +1174,7 @@
             "publisher_const": "Toray,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013687104604987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013687104604987.jpg",
             "cover3": ""
         },
@@ -1192,7 +1192,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013740604904987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788416195213.jpg",
+            "cover1": "images/cover/9788416195213.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013740604904987.jpg",
             "cover3": ""
         },
@@ -1211,7 +1211,7 @@
             "publisher_const": "Desfiladero Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013747705704987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788412096859.jpg",
+            "cover1": "images/cover/9788412096859.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013747705704987.jpg",
             "cover3": ""
         },
@@ -1228,7 +1228,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013803505204987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788419437150.jpg",
+            "cover1": "images/cover/9788419437150.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013803505204987.jpg",
             "cover3": ""
         },
@@ -1246,7 +1246,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805805104987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788492458561.jpg",
+            "cover1": "images/cover/9788492458561.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805805104987.jpg",
             "cover3": ""
         },
@@ -1264,7 +1264,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805805204987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788496706798.jpg",
+            "cover1": "images/cover/9788496706798.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805805204987.jpg",
             "cover3": ""
         },
@@ -1282,7 +1282,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805805304987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9788496121898.jpg",
+            "cover1": "images/cover/9788496121898.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805805304987.jpg",
             "cover3": ""
         },
@@ -1300,7 +1300,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805805404987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805805404987.jpg",
             "cover3": ""
         },
@@ -1317,7 +1317,7 @@
             "publisher_const": "Futuropolis,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013814902904987",
             "genero": "Fantasía / Romance",
-            "cover1": "../images/cover/9782754802291.jpg",
+            "cover1": "images/cover/9782754802291.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013814902904987.jpg",
             "cover3": ""
         }

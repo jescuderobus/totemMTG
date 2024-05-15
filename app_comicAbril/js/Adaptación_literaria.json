@@ -14,7 +14,7 @@
             "publisher_const": "Random House Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009211039704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788439722519.jpg",
+            "cover1": "images/cover/9788439722519.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009211039704987.jpg",
             "cover3": ""
         },
@@ -33,7 +33,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009211259704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788496815025.jpg",
+            "cover1": "images/cover/9788496815025.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009211259704987.jpg",
             "cover3": ""
         },
@@ -51,7 +51,7 @@
             "publisher_const": "Albin Michel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009248579704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9782226136428.jpg",
+            "cover1": "images/cover/9782226136428.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009248579704987.jpg",
             "cover3": ""
         },
@@ -69,7 +69,7 @@
             "publisher_const": "Sexto Piso,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010917609704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788496867697.jpg",
+            "cover1": "images/cover/9788496867697.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010917609704987.jpg",
             "cover3": ""
         },
@@ -87,7 +87,7 @@
             "publisher_const": "Sinsentido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010973229704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788496722910.jpg",
+            "cover1": "images/cover/9788496722910.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010973229704987.jpg",
             "cover3": ""
         },
@@ -105,7 +105,7 @@
             "publisher_const": "Sinsentido,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011034159704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788496722606.jpg",
+            "cover1": "images/cover/9788496722606.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011034159704987.jpg",
             "cover3": ""
         },
@@ -124,7 +124,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011138089704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788496325814.jpg",
+            "cover1": "images/cover/9788496325814.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011138089704987.jpg",
             "cover3": ""
         },
@@ -142,7 +142,7 @@
             "publisher_const": "Norma ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011155709704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467908084.jpg",
+            "cover1": "images/cover/9788467908084.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011155709704987.jpg",
             "cover3": ""
         },
@@ -160,7 +160,7 @@
             "publisher_const": "Glenat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011167029704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788499470030.jpg",
+            "cover1": "images/cover/9788499470030.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011167029704987.jpg",
             "cover3": ""
         },
@@ -178,7 +178,7 @@
             "publisher_const": "Impedimenta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011732089704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788415979166.jpg",
+            "cover1": "images/cover/9788415979166.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011732089704987.jpg",
             "cover3": ""
         },
@@ -196,7 +196,7 @@
             "publisher_const": "Nórdica,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011921099704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416112449.jpg",
+            "cover1": "images/cover/9788416112449.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011921099704987.jpg",
             "cover3": ""
         },
@@ -214,7 +214,7 @@
             "publisher_const": "Entrecomics comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930079704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788494012174.jpg",
+            "cover1": "images/cover/9788494012174.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930079704987.jpg",
             "cover3": ""
         },
@@ -231,7 +231,7 @@
             "publisher_const": "Editorial Universidad de Sevilla,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011935399704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788447216000.jpg",
+            "cover1": "images/cover/9788447216000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011935399704987.jpg",
             "cover3": ""
         },
@@ -250,7 +250,7 @@
             "publisher_const": "Panini",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012173909704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788490249505.jpg",
+            "cover1": "images/cover/9788490249505.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012173909704987.jpg",
             "cover3": ""
         },
@@ -268,7 +268,7 @@
             "publisher_const": "Salamandra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012364389704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416131174.jpg",
+            "cover1": "images/cover/9788416131174.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012364389704987.jpg",
             "cover3": ""
         },
@@ -286,7 +286,7 @@
             "publisher_const": "Sexto Piso,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012498359704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788415601937.jpg",
+            "cover1": "images/cover/9788415601937.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012498359704987.jpg",
             "cover3": ""
         },
@@ -304,7 +304,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012865729704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788498853445.jpg",
+            "cover1": "images/cover/9788498853445.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012865729704987.jpg",
             "cover3": ""
         },
@@ -322,7 +322,7 @@
             "publisher_const": "Nórdica Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012866109704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416440030.jpg",
+            "cover1": "images/cover/9788416440030.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012866109704987.jpg",
             "cover3": ""
         },
@@ -339,7 +339,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013198807604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417511517.jpg",
+            "cover1": "images/cover/9788417511517.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013198807604987.jpg",
             "cover3": ""
         },
@@ -356,7 +356,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013203009404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417575502.jpg",
+            "cover1": "images/cover/9788417575502.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013203009404987.jpg",
             "cover3": ""
         },
@@ -373,7 +373,7 @@
             "publisher_const": "Impedimenta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013254709404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417553531.jpg",
+            "cover1": "images/cover/9788417553531.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013254709404987.jpg",
             "cover3": ""
         },
@@ -391,7 +391,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013324409504987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417575618.jpg",
+            "cover1": "images/cover/9788417575618.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013324409504987.jpg",
             "cover3": ""
         },
@@ -408,7 +408,7 @@
             "publisher_const": "De bolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013332407504987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788466352062.jpg",
+            "cover1": "images/cover/9788466352062.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013332407504987.jpg",
             "cover3": ""
         },
@@ -426,7 +426,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013365003104987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467940787.jpg",
+            "cover1": "images/cover/9788467940787.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013365003104987.jpg",
             "cover3": ""
         },
@@ -444,7 +444,7 @@
             "publisher_const": "Gallo Nero,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013369203904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416529902.jpg",
+            "cover1": "images/cover/9788416529902.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013369203904987.jpg",
             "cover3": ""
         },
@@ -461,7 +461,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013376807704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788413416465.jpg",
+            "cover1": "images/cover/9788413416465.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013376807704987.jpg",
             "cover3": ""
         },
@@ -478,7 +478,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013376807804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788466340564.jpg",
+            "cover1": "images/cover/9788466340564.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013376807804987.jpg",
             "cover3": ""
         },
@@ -496,7 +496,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013394077104987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788415685357.jpg",
+            "cover1": "images/cover/9788415685357.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013394077104987.jpg",
             "cover3": ""
         },
@@ -513,7 +513,7 @@
             "publisher_const": "Ponet Mont,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013406969404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788418309229.jpg",
+            "cover1": "images/cover/9788418309229.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013406969404987.jpg",
             "cover3": ""
         },
@@ -531,7 +531,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013406969904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788418215285.jpg",
+            "cover1": "images/cover/9788418215285.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013406969904987.jpg",
             "cover3": ""
         },
@@ -548,7 +548,7 @@
             "publisher_const": "Planeta Colombia,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013406976104987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9789584273543.jpg",
+            "cover1": "images/cover/9789584273543.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013406976104987.jpg",
             "cover3": ""
         },
@@ -566,7 +566,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013420994904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416763054.jpg",
+            "cover1": "images/cover/9788416763054.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013420994904987.jpg",
             "cover3": ""
         },
@@ -583,7 +583,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013428999604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417910242.jpg",
+            "cover1": "images/cover/9788417910242.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013428999604987.jpg",
             "cover3": ""
         },
@@ -600,7 +600,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013429098604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788418909047.jpg",
+            "cover1": "images/cover/9788418909047.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013429098604987.jpg",
             "cover3": ""
         },
@@ -618,7 +618,7 @@
             "publisher_const": "Edelvives, 2011-<2018>",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013433895904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013433895904987.jpg",
             "cover3": ""
         },
@@ -635,7 +635,7 @@
             "publisher_const": "Salamandra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438314504987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416131808.jpg",
+            "cover1": "images/cover/9788416131808.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438314504987.jpg",
             "cover3": ""
         },
@@ -652,7 +652,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438314804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788491737223.jpg",
+            "cover1": "images/cover/9788491737223.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438314804987.jpg",
             "cover3": ""
         },
@@ -669,7 +669,7 @@
             "publisher_const": "Bang Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438314904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416114153.jpg",
+            "cover1": "images/cover/9788416114153.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438314904987.jpg",
             "cover3": ""
         },
@@ -686,7 +686,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438315104987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788418215551.jpg",
+            "cover1": "images/cover/9788418215551.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438315104987.jpg",
             "cover3": ""
         },
@@ -703,7 +703,7 @@
             "publisher_const": "Planeta Comic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438315304987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788491469896.jpg",
+            "cover1": "images/cover/9788491469896.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438315304987.jpg",
             "cover3": ""
         },
@@ -720,7 +720,7 @@
             "publisher_const": "Quaterni,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438315504987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788494344916.jpg",
+            "cover1": "images/cover/9788494344916.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438315504987.jpg",
             "cover3": ""
         },
@@ -737,7 +737,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438321604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417318673.jpg",
+            "cover1": "images/cover/9788417318673.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438321604987.jpg",
             "cover3": ""
         },
@@ -754,7 +754,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438321704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416401345.jpg",
+            "cover1": "images/cover/9788416401345.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438321704987.jpg",
             "cover3": ""
         },
@@ -771,7 +771,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438321804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416051557.jpg",
+            "cover1": "images/cover/9788416051557.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438321804987.jpg",
             "cover3": ""
         },
@@ -788,7 +788,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438321904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467926255.jpg",
+            "cover1": "images/cover/9788467926255.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438321904987.jpg",
             "cover3": ""
         },
@@ -805,7 +805,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322304987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788491739777.jpg",
+            "cover1": "images/cover/9788491739777.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322304987.jpg",
             "cover3": ""
         },
@@ -822,7 +822,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788413410937.jpg",
+            "cover1": "images/cover/9788413410937.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322404987.jpg",
             "cover3": ""
         },
@@ -839,7 +839,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416540518.jpg",
+            "cover1": "images/cover/9788416540518.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322604987.jpg",
             "cover3": ""
         },
@@ -856,7 +856,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788413416885.jpg",
+            "cover1": "images/cover/9788413416885.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322704987.jpg",
             "cover3": ""
         },
@@ -873,7 +873,7 @@
             "publisher_const": "La Otra H",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416540457.jpg",
+            "cover1": "images/cover/9788416540457.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322804987.jpg",
             "cover3": ""
         },
@@ -890,7 +890,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788418309274.jpg",
+            "cover1": "images/cover/9788418309274.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322904987.jpg",
             "cover3": ""
         },
@@ -907,7 +907,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438323204987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467918298.jpg",
+            "cover1": "images/cover/9788467918298.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438323204987.jpg",
             "cover3": ""
         },
@@ -924,7 +924,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438323304987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416880331.jpg",
+            "cover1": "images/cover/9788416880331.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438323304987.jpg",
             "cover3": ""
         },
@@ -941,7 +941,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438323404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788413411996.jpg",
+            "cover1": "images/cover/9788413411996.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438323404987.jpg",
             "cover3": ""
         },
@@ -958,7 +958,7 @@
             "publisher_const": "Norma",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438323504987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467917239.jpg",
+            "cover1": "images/cover/9788467917239.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438323504987.jpg",
             "cover3": ""
         },
@@ -975,7 +975,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438323604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788413412092.jpg",
+            "cover1": "images/cover/9788413412092.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438323604987.jpg",
             "cover3": ""
         },
@@ -992,7 +992,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438323804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9781910856864.jpg",
+            "cover1": "images/cover/9781910856864.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438323804987.jpg",
             "cover3": ""
         },
@@ -1009,7 +1009,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438323904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416880683.jpg",
+            "cover1": "images/cover/9788416880683.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438323904987.jpg",
             "cover3": ""
         },
@@ -1026,7 +1026,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438324004987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788491737230.jpg",
+            "cover1": "images/cover/9788491737230.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438324004987.jpg",
             "cover3": ""
         },
@@ -1043,7 +1043,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438324404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417442729.jpg",
+            "cover1": "images/cover/9788417442729.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438324404987.jpg",
             "cover3": ""
         },
@@ -1060,7 +1060,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438324604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788413410876.jpg",
+            "cover1": "images/cover/9788413410876.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438324604987.jpg",
             "cover3": ""
         },
@@ -1077,7 +1077,7 @@
             "publisher_const": "Random Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438324704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417247201.jpg",
+            "cover1": "images/cover/9788417247201.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438324704987.jpg",
             "cover3": ""
         },
@@ -1095,7 +1095,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438324804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417442002.jpg",
+            "cover1": "images/cover/9788417442002.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438324804987.jpg",
             "cover3": ""
         },
@@ -1112,7 +1112,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438324904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788413410869.jpg",
+            "cover1": "images/cover/9788413410869.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438324904987.jpg",
             "cover3": ""
         },
@@ -1130,7 +1130,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438325204987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788413410920.jpg",
+            "cover1": "images/cover/9788413410920.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438325204987.jpg",
             "cover3": ""
         },
@@ -1147,7 +1147,7 @@
             "publisher_const": "Planeta Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438325304987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788413411965.jpg",
+            "cover1": "images/cover/9788413411965.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438325304987.jpg",
             "cover3": ""
         },
@@ -1164,7 +1164,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619304987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467922080.jpg",
+            "cover1": "images/cover/9788467922080.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619304987.jpg",
             "cover3": ""
         },
@@ -1181,7 +1181,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467928440.jpg",
+            "cover1": "images/cover/9788467928440.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619404987.jpg",
             "cover3": ""
         },
@@ -1198,7 +1198,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619504987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467931136.jpg",
+            "cover1": "images/cover/9788467931136.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619504987.jpg",
             "cover3": ""
         },
@@ -1215,7 +1215,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467936230.jpg",
+            "cover1": "images/cover/9788467936230.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619604987.jpg",
             "cover3": ""
         },
@@ -1232,7 +1232,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467938326.jpg",
+            "cover1": "images/cover/9788467938326.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619704987.jpg",
             "cover3": ""
         },
@@ -1250,7 +1250,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467944594.jpg",
+            "cover1": "images/cover/9788467944594.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619804987.jpg",
             "cover3": ""
         },
@@ -1267,7 +1267,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467942576.jpg",
+            "cover1": "images/cover/9788467942576.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619904987.jpg",
             "cover3": ""
         },
@@ -1281,7 +1281,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620004987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467945928.jpg",
+            "cover1": "images/cover/9788467945928.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620004987.jpg",
             "cover3": ""
         },
@@ -1298,7 +1298,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620104987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467931969.jpg",
+            "cover1": "images/cover/9788467931969.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620104987.jpg",
             "cover3": ""
         },
@@ -1315,7 +1315,7 @@
             "publisher_const": "Bruguera,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620204987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788402421425.jpg",
+            "cover1": "images/cover/9788402421425.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620204987.jpg",
             "cover3": ""
         },
@@ -1332,7 +1332,7 @@
             "publisher_const": "La Otra H",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620304987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416763320.jpg",
+            "cover1": "images/cover/9788416763320.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620304987.jpg",
             "cover3": ""
         },
@@ -1350,7 +1350,7 @@
             "publisher_const": "Reino de Cordelia,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924104987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788418141157.jpg",
+            "cover1": "images/cover/9788418141157.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924104987.jpg",
             "cover3": ""
         },
@@ -1367,7 +1367,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788466334846.jpg",
+            "cover1": "images/cover/9788466334846.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924404987.jpg",
             "cover3": ""
         },
@@ -1384,7 +1384,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924504987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416540211.jpg",
+            "cover1": "images/cover/9788416540211.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924504987.jpg",
             "cover3": ""
         },
@@ -1401,7 +1401,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416540754.jpg",
+            "cover1": "images/cover/9788416540754.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924704987.jpg",
             "cover3": ""
         },
@@ -1418,7 +1418,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416540815.jpg",
+            "cover1": "images/cover/9788416540815.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924804987.jpg",
             "cover3": ""
         },
@@ -1435,7 +1435,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440925104987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416763085.jpg",
+            "cover1": "images/cover/9788416763085.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440925104987.jpg",
             "cover3": ""
         },
@@ -1453,7 +1453,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440925204987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416540068.jpg",
+            "cover1": "images/cover/9788416540068.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440925204987.jpg",
             "cover3": ""
         },
@@ -1470,7 +1470,7 @@
             "publisher_const": "Panini Comics",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440925604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788490242414.jpg",
+            "cover1": "images/cover/9788490242414.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440925604987.jpg",
             "cover3": ""
         },
@@ -1488,7 +1488,7 @@
             "publisher_const": "Herder Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440926004987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416540273.jpg",
+            "cover1": "images/cover/9788416540273.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440926004987.jpg",
             "cover3": ""
         },
@@ -1506,7 +1506,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441218504987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788466346818.jpg",
+            "cover1": "images/cover/9788466346818.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441218504987.jpg",
             "cover3": ""
         },
@@ -1523,7 +1523,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441220804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467947830.jpg",
+            "cover1": "images/cover/9788467947830.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441220804987.jpg",
             "cover3": ""
         },
@@ -1540,7 +1540,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441220904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467948288.jpg",
+            "cover1": "images/cover/9788467948288.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441220904987.jpg",
             "cover3": ""
         },
@@ -1557,7 +1557,7 @@
             "publisher_const": "Sexto Piso,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441221904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416677634.jpg",
+            "cover1": "images/cover/9788416677634.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441221904987.jpg",
             "cover3": ""
         },
@@ -1574,7 +1574,7 @@
             "publisher_const": "Astiberri",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441222404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788496815025.jpg",
+            "cover1": "images/cover/9788496815025.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441222404987.jpg",
             "cover3": ""
         },
@@ -1591,7 +1591,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225004987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416540990.jpg",
+            "cover1": "images/cover/9788416540990.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441225004987.jpg",
             "cover3": ""
         },
@@ -1608,7 +1608,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225104987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788416763207.jpg",
+            "cover1": "images/cover/9788416763207.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441225104987.jpg",
             "cover3": ""
         },
@@ -1622,7 +1622,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452616904987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788411120302.jpg",
+            "cover1": "images/cover/9788411120302.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452616904987.jpg",
             "cover3": ""
         },
@@ -1640,7 +1640,7 @@
             "publisher_const": "Cascaborra Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013625801604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788409210442.jpg",
+            "cover1": "images/cover/9788409210442.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013625801604987.jpg",
             "cover3": ""
         },
@@ -1657,7 +1657,7 @@
             "publisher_const": "Tengu,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013634404404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788409324699.jpg",
+            "cover1": "images/cover/9788409324699.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013634404404987.jpg",
             "cover3": ""
         },
@@ -1671,7 +1671,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013651605604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788411124812.jpg",
+            "cover1": "images/cover/9788411124812.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013651605604987.jpg",
             "cover3": ""
         },
@@ -1688,7 +1688,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666504204987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788411120418.jpg",
+            "cover1": "images/cover/9788411120418.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666504204987.jpg",
             "cover3": ""
         },
@@ -1706,7 +1706,7 @@
             "publisher_const": "Delcourt ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013684900404987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9782413001867.jpg",
+            "cover1": "images/cover/9782413001867.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013684900404987.jpg",
             "cover3": ""
         },
@@ -1725,7 +1725,7 @@
             "publisher_const": "Panini España, S.A.,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013710505004987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788411016346.jpg",
+            "cover1": "images/cover/9788411016346.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013710505004987.jpg",
             "cover3": ""
         },
@@ -1743,7 +1743,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713502204987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788491749332.jpg",
+            "cover1": "images/cover/9788491749332.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713502204987.jpg",
             "cover3": ""
         },
@@ -1760,7 +1760,7 @@
             "publisher_const": "Lumen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713502304987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788426425737.jpg",
+            "cover1": "images/cover/9788426425737.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713502304987.jpg",
             "cover3": ""
         },
@@ -1774,7 +1774,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713502504987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788411404266.jpg",
+            "cover1": "images/cover/9788411404266.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713502504987.jpg",
             "cover3": ""
         },
@@ -1788,7 +1788,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713502804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788466669863.jpg",
+            "cover1": "images/cover/9788466669863.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713502804987.jpg",
             "cover3": ""
         },
@@ -1805,7 +1805,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013736900204987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788411407434.jpg",
+            "cover1": "images/cover/9788411407434.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013736900204987.jpg",
             "cover3": ""
         },
@@ -1824,7 +1824,7 @@
             "publisher_const": "Desfiladero Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013747705704987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788412096859.jpg",
+            "cover1": "images/cover/9788412096859.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013747705704987.jpg",
             "cover3": ""
         },
@@ -1841,7 +1841,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764402604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467964738.jpg",
+            "cover1": "images/cover/9788467964738.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764402604987.jpg",
             "cover3": ""
         },
@@ -1858,7 +1858,7 @@
             "publisher_const": "Deusto,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013783205304987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788423436293.jpg",
+            "cover1": "images/cover/9788423436293.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013783205304987.jpg",
             "cover3": ""
         },
@@ -1872,7 +1872,7 @@
             "publisher_const": "Andana gráfica,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013784102604987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788419605115.jpg",
+            "cover1": "images/cover/9788419605115.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013784102604987.jpg",
             "cover3": ""
         },
@@ -1889,7 +1889,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013801002804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788467909227.jpg",
+            "cover1": "images/cover/9788467909227.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013801002804987.jpg",
             "cover3": ""
         },
@@ -1908,7 +1908,7 @@
             "publisher_const": "Random Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013832295804987",
             "genero": "Adaptación literaria",
-            "cover1": "../images/cover/9788417247096.jpg",
+            "cover1": "images/cover/9788417247096.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013832295804987.jpg",
             "cover3": ""
         }

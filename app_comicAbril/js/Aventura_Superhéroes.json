@@ -15,7 +15,7 @@
             "publisher_const": "Grijalbo Mondadori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991002423299704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991002423299704987.jpg",
             "cover3": ""
         },
@@ -32,7 +32,7 @@
             "publisher_const": "Ttarttalo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003134129704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991003134129704987.jpg",
             "cover3": ""
         },
@@ -51,7 +51,7 @@
             "publisher_const": "Juventud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991004335519704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991004335519704987.jpg",
             "cover3": ""
         },
@@ -68,7 +68,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005402989704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005402989704987.jpg",
             "cover3": ""
         },
@@ -87,7 +87,7 @@
             "publisher_const": "Ediciones La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005579169704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005579169704987.jpg",
             "cover3": ""
         },
@@ -104,7 +104,7 @@
             "publisher_const": "Distrinovel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005623569704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005623569704987.jpg",
             "cover3": ""
         },
@@ -123,7 +123,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006668419704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006668419704987.jpg",
             "cover3": ""
         },
@@ -141,7 +141,7 @@
             "publisher_const": "Ponent Mqn,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007792529704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496427525.jpg",
+            "cover1": "images/cover/9788496427525.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007792529704987.jpg",
             "cover3": ""
         },
@@ -160,7 +160,7 @@
             "publisher_const": "Grijalbo/Dargaud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991007986059704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788475100326.jpg",
+            "cover1": "images/cover/9788475100326.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991007986059704987.jpg",
             "cover3": ""
         },
@@ -178,7 +178,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991008439289704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467433975.jpg",
+            "cover1": "images/cover/9788467433975.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991008439289704987.jpg",
             "cover3": ""
         },
@@ -196,7 +196,7 @@
             "publisher_const": "Salvat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009088869704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788434567320.jpg",
+            "cover1": "images/cover/9788434567320.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009088869704987.jpg",
             "cover3": ""
         },
@@ -215,7 +215,7 @@
             "publisher_const": "Panini España",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009149089704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498851649.jpg",
+            "cover1": "images/cover/9788498851649.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009149089704987.jpg",
             "cover3": ""
         },
@@ -232,7 +232,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009152969704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467449051.jpg",
+            "cover1": "images/cover/9788467449051.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009152969704987.jpg",
             "cover3": ""
         },
@@ -251,7 +251,7 @@
             "publisher_const": "Planeta DeAgostiniNorma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009152999704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467453980.jpg",
+            "cover1": "images/cover/9788467453980.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009152999704987.jpg",
             "cover3": ""
         },
@@ -269,7 +269,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153029704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153029704987.jpg",
             "cover3": ""
         },
@@ -288,7 +288,7 @@
             "publisher_const": "Planeta DeAgostini",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153059704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467434736.jpg",
+            "cover1": "images/cover/9788467434736.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153059704987.jpg",
             "cover3": ""
         },
@@ -307,7 +307,7 @@
             "publisher_const": "Planeta de Agostini",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153279704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467475197.jpg",
+            "cover1": "images/cover/9788467475197.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153279704987.jpg",
             "cover3": ""
         },
@@ -325,7 +325,7 @@
             "publisher_const": "Planeta-De Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153289704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467416794.jpg",
+            "cover1": "images/cover/9788467416794.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153289704987.jpg",
             "cover3": ""
         },
@@ -344,7 +344,7 @@
             "publisher_const": "Planeta de Agostini",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153299704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153299704987.jpg",
             "cover3": ""
         },
@@ -361,7 +361,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153309704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153309704987.jpg",
             "cover3": ""
         },
@@ -380,7 +380,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153339704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498853988.jpg",
+            "cover1": "images/cover/9788498853988.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153339704987.jpg",
             "cover3": ""
         },
@@ -398,7 +398,7 @@
             "publisher_const": "Panini",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153349704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498852998.jpg",
+            "cover1": "images/cover/9788498852998.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153349704987.jpg",
             "cover3": ""
         },
@@ -417,7 +417,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153359704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153359704987.jpg",
             "cover3": ""
         },
@@ -436,7 +436,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153369704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153369704987.jpg",
             "cover3": ""
         },
@@ -454,7 +454,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153379704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496874244.jpg",
+            "cover1": "images/cover/9788496874244.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153379704987.jpg",
             "cover3": ""
         },
@@ -473,7 +473,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009153389704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009153389704987.jpg",
             "cover3": ""
         },
@@ -491,7 +491,7 @@
             "publisher_const": "Hachette,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009159589704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782012101562.jpg",
+            "cover1": "images/cover/9782012101562.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009159589704987.jpg",
             "cover3": ""
         },
@@ -510,7 +510,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009162939704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467438000.jpg",
+            "cover1": "images/cover/9788467438000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009162939704987.jpg",
             "cover3": ""
         },
@@ -529,7 +529,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167389704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167389704987.jpg",
             "cover3": ""
         },
@@ -548,7 +548,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009167449704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009167449704987.jpg",
             "cover3": ""
         },
@@ -567,7 +567,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009169729704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467482263.jpg",
+            "cover1": "images/cover/9788467482263.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009169729704987.jpg",
             "cover3": ""
         },
@@ -585,7 +585,7 @@
             "publisher_const": "Panini",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009174339704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496871052.jpg",
+            "cover1": "images/cover/9788496871052.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009174339704987.jpg",
             "cover3": ""
         },
@@ -604,7 +604,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009190629704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203024465.jpg",
+            "cover1": "images/cover/9782203024465.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009190629704987.jpg",
             "cover3": ""
         },
@@ -623,7 +623,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009190699704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203024489.jpg",
+            "cover1": "images/cover/9782203024489.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009190699704987.jpg",
             "cover3": ""
         },
@@ -642,7 +642,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009190729704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203024465.jpg",
+            "cover1": "images/cover/9782203024465.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009190729704987.jpg",
             "cover3": ""
         },
@@ -660,7 +660,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009191239704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203001046.jpg",
+            "cover1": "images/cover/9782203001046.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009191239704987.jpg",
             "cover3": ""
         },
@@ -678,7 +678,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009191249704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203001053.jpg",
+            "cover1": "images/cover/9782203001053.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009191249704987.jpg",
             "cover3": ""
         },
@@ -696,7 +696,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009191259704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203001015.jpg",
+            "cover1": "images/cover/9782203001015.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009191259704987.jpg",
             "cover3": ""
         },
@@ -714,7 +714,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009196859704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496815537.jpg",
+            "cover1": "images/cover/9788496815537.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009196859704987.jpg",
             "cover3": ""
         },
@@ -732,7 +732,7 @@
             "publisher_const": "Hachette,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219209704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782012101524.jpg",
+            "cover1": "images/cover/9782012101524.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219209704987.jpg",
             "cover3": ""
         },
@@ -750,7 +750,7 @@
             "publisher_const": "Hachette,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219219704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782012101463.jpg",
+            "cover1": "images/cover/9782012101463.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219219704987.jpg",
             "cover3": ""
         },
@@ -768,7 +768,7 @@
             "publisher_const": "Hachette,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219229704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782012101548.jpg",
+            "cover1": "images/cover/9782012101548.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219229704987.jpg",
             "cover3": ""
         },
@@ -786,7 +786,7 @@
             "publisher_const": "Hachette,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009219239704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782012101371.jpg",
+            "cover1": "images/cover/9782012101371.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009219239704987.jpg",
             "cover3": ""
         },
@@ -804,7 +804,7 @@
             "publisher_const": "Delcourt,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009220739704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782840550594.jpg",
+            "cover1": "images/cover/9782840550594.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009220739704987.jpg",
             "cover3": ""
         },
@@ -822,7 +822,7 @@
             "publisher_const": "Delcourt,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009220759704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782840552369.jpg",
+            "cover1": "images/cover/9782840552369.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009220759704987.jpg",
             "cover3": ""
         },
@@ -840,7 +840,7 @@
             "publisher_const": "Delcourt,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009220779704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782840551430.jpg",
+            "cover1": "images/cover/9782840551430.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009220779704987.jpg",
             "cover3": ""
         },
@@ -858,7 +858,7 @@
             "publisher_const": "Gautier-Languereau,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222509704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782211710022.jpg",
+            "cover1": "images/cover/9782211710022.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222509704987.jpg",
             "cover3": ""
         },
@@ -876,7 +876,7 @@
             "publisher_const": "Gautier-Languereau,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009222549704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782217100032.jpg",
+            "cover1": "images/cover/9782217100032.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009222549704987.jpg",
             "cover3": ""
         },
@@ -894,7 +894,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009274519704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788483573402.jpg",
+            "cover1": "images/cover/9788483573402.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009274519704987.jpg",
             "cover3": ""
         },
@@ -913,7 +913,7 @@
             "publisher_const": "Juventud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009293819704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788426109651.jpg",
+            "cover1": "images/cover/9788426109651.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009293819704987.jpg",
             "cover3": ""
         },
@@ -932,7 +932,7 @@
             "publisher_const": "Juventud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009293869704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788426103826.jpg",
+            "cover1": "images/cover/9788426103826.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009293869704987.jpg",
             "cover3": ""
         },
@@ -950,7 +950,7 @@
             "publisher_const": "Hachette,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009375539704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782012101388.jpg",
+            "cover1": "images/cover/9782012101388.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009375539704987.jpg",
             "cover3": ""
         },
@@ -968,7 +968,7 @@
             "publisher_const": "Hachette,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009375549704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782012101418.jpg",
+            "cover1": "images/cover/9782012101418.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009375549704987.jpg",
             "cover3": ""
         },
@@ -986,7 +986,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009375739704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203001886.jpg",
+            "cover1": "images/cover/9782203001886.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009375739704987.jpg",
             "cover3": ""
         },
@@ -1005,7 +1005,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399399704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788479041922.jpg",
+            "cover1": "images/cover/9788479041922.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399399704987.jpg",
             "cover3": ""
         },
@@ -1023,7 +1023,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399409704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788479042226.jpg",
+            "cover1": "images/cover/9788479042226.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399409704987.jpg",
             "cover3": ""
         },
@@ -1041,7 +1041,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399419704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788479042295.jpg",
+            "cover1": "images/cover/9788479042295.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399419704987.jpg",
             "cover3": ""
         },
@@ -1060,7 +1060,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399439704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788479042295.jpg",
+            "cover1": "images/cover/9788479042295.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399439704987.jpg",
             "cover3": ""
         },
@@ -1079,7 +1079,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399479704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399479704987.jpg",
             "cover3": ""
         },
@@ -1098,7 +1098,7 @@
             "publisher_const": "Norma",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399489704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399489704987.jpg",
             "cover3": ""
         },
@@ -1117,7 +1117,7 @@
             "publisher_const": "Norma",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399499704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788479044879.jpg",
+            "cover1": "images/cover/9788479044879.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399499704987.jpg",
             "cover3": ""
         },
@@ -1136,7 +1136,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399519704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399519704987.jpg",
             "cover3": ""
         },
@@ -1154,7 +1154,7 @@
             "publisher_const": "Norma editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399529704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788486595906.jpg",
+            "cover1": "images/cover/9788486595906.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399529704987.jpg",
             "cover3": ""
         },
@@ -1173,7 +1173,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399539704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399539704987.jpg",
             "cover3": ""
         },
@@ -1193,7 +1193,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399549704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399549704987.jpg",
             "cover3": ""
         },
@@ -1212,7 +1212,7 @@
             "publisher_const": "Norma editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009399559704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009399559704987.jpg",
             "cover3": ""
         },
@@ -1230,7 +1230,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009478859704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788499891064.jpg",
+            "cover1": "images/cover/9788499891064.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009478859704987.jpg",
             "cover3": ""
         },
@@ -1248,7 +1248,7 @@
             "publisher_const": "Dark Horse Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009490249704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9781595824318.jpg",
+            "cover1": "images/cover/9781595824318.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009490249704987.jpg",
             "cover3": ""
         },
@@ -1266,7 +1266,7 @@
             "publisher_const": "Dark Horse,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009490489704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9781595824776.jpg",
+            "cover1": "images/cover/9781595824776.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009490489704987.jpg",
             "cover3": ""
         },
@@ -1284,7 +1284,7 @@
             "publisher_const": "Dark Horse,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009490529704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9781595827401.jpg",
+            "cover1": "images/cover/9781595827401.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009490529704987.jpg",
             "cover3": ""
         },
@@ -1302,7 +1302,7 @@
             "publisher_const": "Dark Horse Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009490989704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9781595825018.jpg",
+            "cover1": "images/cover/9781595825018.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009490989704987.jpg",
             "cover3": ""
         },
@@ -1320,7 +1320,7 @@
             "publisher_const": "DC Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010970349704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010970349704987.jpg",
             "cover3": ""
         },
@@ -1337,7 +1337,7 @@
             "publisher_const": "Titan Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010972519704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010972519704987.jpg",
             "cover3": ""
         },
@@ -1355,7 +1355,7 @@
             "publisher_const": "Titan Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010972529704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9781845761561.jpg",
+            "cover1": "images/cover/9781845761561.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010972529704987.jpg",
             "cover3": ""
         },
@@ -1373,7 +1373,7 @@
             "publisher_const": "Edicions de Ponent,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010973239704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496730670.jpg",
+            "cover1": "images/cover/9788496730670.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010973239704987.jpg",
             "cover3": ""
         },
@@ -1392,7 +1392,7 @@
             "publisher_const": "Ediciones B,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991010974459704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788466649704.jpg",
+            "cover1": "images/cover/9788466649704.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991010974459704987.jpg",
             "cover3": ""
         },
@@ -1410,7 +1410,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011035059704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467478662.jpg",
+            "cover1": "images/cover/9788467478662.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011035059704987.jpg",
             "cover3": ""
         },
@@ -1428,7 +1428,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011066869704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498857597.jpg",
+            "cover1": "images/cover/9788498857597.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011066869704987.jpg",
             "cover3": ""
         },
@@ -1447,7 +1447,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011073269704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467498684.jpg",
+            "cover1": "images/cover/9788467498684.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011073269704987.jpg",
             "cover3": ""
         },
@@ -1465,7 +1465,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011082629704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788415163497.jpg",
+            "cover1": "images/cover/9788415163497.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011082629704987.jpg",
             "cover3": ""
         },
@@ -1484,7 +1484,7 @@
             "publisher_const": "Planeta DeAgostini",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011086499704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467451986.jpg",
+            "cover1": "images/cover/9788467451986.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011086499704987.jpg",
             "cover3": ""
         },
@@ -1502,7 +1502,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011086629704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467475159.jpg",
+            "cover1": "images/cover/9788467475159.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011086629704987.jpg",
             "cover3": ""
         },
@@ -1520,7 +1520,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011089259704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011089259704987.jpg",
             "cover3": ""
         },
@@ -1539,7 +1539,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011089599704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467441352.jpg",
+            "cover1": "images/cover/9788467441352.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011089599704987.jpg",
             "cover3": ""
         },
@@ -1557,7 +1557,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011097629704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467499858.jpg",
+            "cover1": "images/cover/9788467499858.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011097629704987.jpg",
             "cover3": ""
         },
@@ -1576,7 +1576,7 @@
             "publisher_const": "Panini España",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011114059704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496874275.jpg",
+            "cover1": "images/cover/9788496874275.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011114059704987.jpg",
             "cover3": ""
         },
@@ -1595,7 +1595,7 @@
             "publisher_const": "Planeta-De Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011140219704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467457650.jpg",
+            "cover1": "images/cover/9788467457650.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011140219704987.jpg",
             "cover3": ""
         },
@@ -1613,7 +1613,7 @@
             "publisher_const": "Panini España",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011142389704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496874350.jpg",
+            "cover1": "images/cover/9788496874350.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011142389704987.jpg",
             "cover3": ""
         },
@@ -1631,7 +1631,7 @@
             "publisher_const": "Panini España",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011142419704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496874213.jpg",
+            "cover1": "images/cover/9788496874213.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011142419704987.jpg",
             "cover3": ""
         },
@@ -1649,7 +1649,7 @@
             "publisher_const": "Dargaud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011152479704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782205054873.jpg",
+            "cover1": "images/cover/9782205054873.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011152479704987.jpg",
             "cover3": ""
         },
@@ -1667,7 +1667,7 @@
             "publisher_const": "Marvel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011210079704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498856132.jpg",
+            "cover1": "images/cover/9788498856132.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011210079704987.jpg",
             "cover3": ""
         },
@@ -1685,7 +1685,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236639704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203001008.jpg",
+            "cover1": "images/cover/9782203001008.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236639704987.jpg",
             "cover3": ""
         },
@@ -1703,7 +1703,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236669704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203019980.jpg",
+            "cover1": "images/cover/9782203019980.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236669704987.jpg",
             "cover3": ""
         },
@@ -1721,7 +1721,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236689704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203019997.jpg",
+            "cover1": "images/cover/9782203019997.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236689704987.jpg",
             "cover3": ""
         },
@@ -1739,7 +1739,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236699704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203026445.jpg",
+            "cover1": "images/cover/9782203026445.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236699704987.jpg",
             "cover3": ""
         },
@@ -1757,7 +1757,7 @@
             "publisher_const": "Casterman,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011236729704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782203020047.jpg",
+            "cover1": "images/cover/9782203020047.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011236729704987.jpg",
             "cover3": ""
         },
@@ -1774,7 +1774,7 @@
             "publisher_const": "Juventud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011275689704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011275689704987.jpg",
             "cover3": ""
         },
@@ -1792,7 +1792,7 @@
             "publisher_const": "Aleta Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011361659704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788415225386.jpg",
+            "cover1": "images/cover/9788415225386.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011361659704987.jpg",
             "cover3": ""
         },
@@ -1810,7 +1810,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011361909704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788415163879.jpg",
+            "cover1": "images/cover/9788415163879.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011361909704987.jpg",
             "cover3": ""
         },
@@ -1828,7 +1828,7 @@
             "publisher_const": "Editores de Tebeos,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011366909704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788499476513.jpg",
+            "cover1": "images/cover/9788499476513.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011366909704987.jpg",
             "cover3": ""
         },
@@ -1846,7 +1846,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011391999704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011391999704987.jpg",
             "cover3": ""
         },
@@ -1864,7 +1864,7 @@
             "publisher_const": "ECC Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011396859704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011396859704987.jpg",
             "cover3": ""
         },
@@ -1883,7 +1883,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011396879704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498851618.jpg",
+            "cover1": "images/cover/9788498851618.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011396879704987.jpg",
             "cover3": ""
         },
@@ -1902,7 +1902,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011624359704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788490241882.jpg",
+            "cover1": "images/cover/9788490241882.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011624359704987.jpg",
             "cover3": ""
         },
@@ -1922,7 +1922,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011641329704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9782356480972.jpg",
+            "cover1": "images/cover/9782356480972.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011641329704987.jpg",
             "cover3": ""
         },
@@ -1940,7 +1940,7 @@
             "publisher_const": "DC Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011648469704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9781401233792.jpg",
+            "cover1": "images/cover/9781401233792.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011648469704987.jpg",
             "cover3": ""
         },
@@ -1958,7 +1958,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011654599704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011654599704987.jpg",
             "cover3": ""
         },
@@ -1976,7 +1976,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011659199704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498851632.jpg",
+            "cover1": "images/cover/9788498851632.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011659199704987.jpg",
             "cover3": ""
         },
@@ -1994,7 +1994,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011659259704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498853650.jpg",
+            "cover1": "images/cover/9788498853650.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011659259704987.jpg",
             "cover3": ""
         },
@@ -2012,7 +2012,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011659299704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498852486.jpg",
+            "cover1": "images/cover/9788498852486.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011659299704987.jpg",
             "cover3": ""
         },
@@ -2029,7 +2029,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011659329704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011659329704987.jpg",
             "cover3": ""
         },
@@ -2046,7 +2046,7 @@
             "publisher_const": "Vértigo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011721189704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9781401234591.jpg",
+            "cover1": "images/cover/9781401234591.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011721189704987.jpg",
             "cover3": ""
         },
@@ -2065,7 +2065,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011755129704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788415163961.jpg",
+            "cover1": "images/cover/9788415163961.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011755129704987.jpg",
             "cover3": ""
         },
@@ -2084,7 +2084,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011755139704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496815711.jpg",
+            "cover1": "images/cover/9788496815711.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011755139704987.jpg",
             "cover3": ""
         },
@@ -2102,7 +2102,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011900159704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788415925613.jpg",
+            "cover1": "images/cover/9788415925613.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011900159704987.jpg",
             "cover3": ""
         },
@@ -2121,7 +2121,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011912099704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498851564.jpg",
+            "cover1": "images/cover/9788498851564.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011912099704987.jpg",
             "cover3": ""
         },
@@ -2141,7 +2141,7 @@
             "publisher_const": "Fulgencio Pimentel,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930019704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416167005.jpg",
+            "cover1": "images/cover/9788416167005.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930019704987.jpg",
             "cover3": ""
         },
@@ -2159,7 +2159,7 @@
             "publisher_const": "Panini",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930089704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788490249598.jpg",
+            "cover1": "images/cover/9788490249598.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930089704987.jpg",
             "cover3": ""
         },
@@ -2178,7 +2178,7 @@
             "publisher_const": "Panini Comics",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930099704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788490245323.jpg",
+            "cover1": "images/cover/9788490245323.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930099704987.jpg",
             "cover3": ""
         },
@@ -2197,7 +2197,7 @@
             "publisher_const": "Panini España",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930109704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788490248867.jpg",
+            "cover1": "images/cover/9788490248867.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930109704987.jpg",
             "cover3": ""
         },
@@ -2216,7 +2216,7 @@
             "publisher_const": "Panini Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011930119704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788490246993.jpg",
+            "cover1": "images/cover/9788490246993.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011930119704987.jpg",
             "cover3": ""
         },
@@ -2235,7 +2235,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011940749704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416194803.jpg",
+            "cover1": "images/cover/9788416194803.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011940749704987.jpg",
             "cover3": ""
         },
@@ -2254,7 +2254,7 @@
             "publisher_const": "ECC",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011978179704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416194377.jpg",
+            "cover1": "images/cover/9788416194377.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011978179704987.jpg",
             "cover3": ""
         },
@@ -2273,7 +2273,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012041079704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467439960.jpg",
+            "cover1": "images/cover/9788467439960.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012041079704987.jpg",
             "cover3": ""
         },
@@ -2292,7 +2292,7 @@
             "publisher_const": "Panini España",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012073329704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788498854756.jpg",
+            "cover1": "images/cover/9788498854756.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012073329704987.jpg",
             "cover3": ""
         },
@@ -2310,7 +2310,7 @@
             "publisher_const": "Norma editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379719704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467924770.jpg",
+            "cover1": "images/cover/9788467924770.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379719704987.jpg",
             "cover3": ""
         },
@@ -2329,7 +2329,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379729704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467908879.jpg",
+            "cover1": "images/cover/9788467908879.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379729704987.jpg",
             "cover3": ""
         },
@@ -2347,7 +2347,7 @@
             "publisher_const": "Yermo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379789704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416428526.jpg",
+            "cover1": "images/cover/9788416428526.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379789704987.jpg",
             "cover3": ""
         },
@@ -2365,7 +2365,7 @@
             "publisher_const": "Yermo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379819704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416428670.jpg",
+            "cover1": "images/cover/9788416428670.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379819704987.jpg",
             "cover3": ""
         },
@@ -2384,7 +2384,7 @@
             "publisher_const": "Yermo",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012379829704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012379829704987.jpg",
             "cover3": ""
         },
@@ -2402,7 +2402,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437149704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788484317333.jpg",
+            "cover1": "images/cover/9788484317333.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012437149704987.jpg",
             "cover3": ""
         },
@@ -2420,7 +2420,7 @@
             "publisher_const": "ECC Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012437229704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416840441.jpg",
+            "cover1": "images/cover/9788416840441.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012437229704987.jpg",
             "cover3": ""
         },
@@ -2439,7 +2439,7 @@
             "publisher_const": "Aleta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012440739704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416074709.jpg",
+            "cover1": "images/cover/9788416074709.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012440739704987.jpg",
             "cover3": ""
         },
@@ -2457,7 +2457,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012504489704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467922561.jpg",
+            "cover1": "images/cover/9788467922561.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012504489704987.jpg",
             "cover3": ""
         },
@@ -2476,7 +2476,7 @@
             "publisher_const": "Sans Soleil,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012613689704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788494292262.jpg",
+            "cover1": "images/cover/9788494292262.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012613689704987.jpg",
             "cover3": ""
         },
@@ -2494,7 +2494,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012648579704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467928785.jpg",
+            "cover1": "images/cover/9788467928785.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012648579704987.jpg",
             "cover3": ""
         },
@@ -2511,7 +2511,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012673709704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012673709704987.jpg",
             "cover3": ""
         },
@@ -2529,7 +2529,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012855569704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416475582.jpg",
+            "cover1": "images/cover/9788416475582.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012855569704987.jpg",
             "cover3": ""
         },
@@ -2547,7 +2547,7 @@
             "publisher_const": "Planeta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012855659704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416401901.jpg",
+            "cover1": "images/cover/9788416401901.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012855659704987.jpg",
             "cover3": ""
         },
@@ -2564,7 +2564,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012861199704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788490944899.jpg",
+            "cover1": "images/cover/9788490944899.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012861199704987.jpg",
             "cover3": ""
         },
@@ -2582,7 +2582,7 @@
             "publisher_const": "Norma editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012875059704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012875059704987.jpg",
             "cover3": ""
         },
@@ -2600,7 +2600,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012914029704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788417316389.jpg",
+            "cover1": "images/cover/9788417316389.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012914029704987.jpg",
             "cover3": ""
         },
@@ -2618,7 +2618,7 @@
             "publisher_const": "Salvat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012915569704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788447117116.jpg",
+            "cover1": "images/cover/9788447117116.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012915569704987.jpg",
             "cover3": ""
         },
@@ -2636,7 +2636,7 @@
             "publisher_const": "Dibbuks",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013104008904987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788417294236.jpg",
+            "cover1": "images/cover/9788417294236.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013104008904987.jpg",
             "cover3": ""
         },
@@ -2654,7 +2654,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013147808004987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788417612955.jpg",
+            "cover1": "images/cover/9788417612955.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013147808004987.jpg",
             "cover3": ""
         },
@@ -2671,7 +2671,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013148308904987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788491673569.jpg",
+            "cover1": "images/cover/9788491673569.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013148308904987.jpg",
             "cover3": ""
         },
@@ -2689,7 +2689,7 @@
             "publisher_const": "DC Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013149899004987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9781401272944.jpg",
+            "cover1": "images/cover/9781401272944.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013149899004987.jpg",
             "cover3": ""
         },
@@ -2706,7 +2706,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013150099704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788415844723.jpg",
+            "cover1": "images/cover/9788415844723.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013150099704987.jpg",
             "cover3": ""
         },
@@ -2723,7 +2723,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013203008704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416880959.jpg",
+            "cover1": "images/cover/9788416880959.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013203008704987.jpg",
             "cover3": ""
         },
@@ -2740,7 +2740,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013203008804987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788417575014.jpg",
+            "cover1": "images/cover/9788417575014.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013203008804987.jpg",
             "cover3": ""
         },
@@ -2756,7 +2756,7 @@
             "publisher_const": "Universidad de Huelva, Campus Cómic, Área de Cultura,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013207209804987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788417776640.jpg",
+            "cover1": "images/cover/9788417776640.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013207209804987.jpg",
             "cover3": ""
         },
@@ -2773,7 +2773,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013250809504987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788417910044.jpg",
+            "cover1": "images/cover/9788417910044.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013250809504987.jpg",
             "cover3": ""
         },
@@ -2791,7 +2791,7 @@
             "publisher_const": "ECC : Black Label,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013319690304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788417908362.jpg",
+            "cover1": "images/cover/9788417908362.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013319690304987.jpg",
             "cover3": ""
         },
@@ -2810,7 +2810,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013324395104987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788491676218.jpg",
+            "cover1": "images/cover/9788491676218.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013324395104987.jpg",
             "cover3": ""
         },
@@ -2827,7 +2827,7 @@
             "publisher_const": "Panini Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013324395204987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788491670926.jpg",
+            "cover1": "images/cover/9788491670926.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013324395204987.jpg",
             "cover3": ""
         },
@@ -2844,7 +2844,7 @@
             "publisher_const": "Evolution Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013324395304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788491678571.jpg",
+            "cover1": "images/cover/9788491678571.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013324395304987.jpg",
             "cover3": ""
         },
@@ -2863,7 +2863,7 @@
             "publisher_const": "Debolsillo",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013326603304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788466337663.jpg",
+            "cover1": "images/cover/9788466337663.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013326603304987.jpg",
             "cover3": ""
         },
@@ -2880,7 +2880,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013327609404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788417665609.jpg",
+            "cover1": "images/cover/9788417665609.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013327609404987.jpg",
             "cover3": ""
         },
@@ -2898,7 +2898,7 @@
             "publisher_const": "Panini Comics ;",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013364908704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496389168.jpg",
+            "cover1": "images/cover/9788496389168.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013364908704987.jpg",
             "cover3": ""
         },
@@ -2916,7 +2916,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013365003104987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467940787.jpg",
+            "cover1": "images/cover/9788467940787.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013365003104987.jpg",
             "cover3": ""
         },
@@ -2933,7 +2933,7 @@
             "publisher_const": "Imprenta Gallardo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013369206004987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013369206004987.jpg",
             "cover3": ""
         },
@@ -2948,7 +2948,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013369206104987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788485733125.jpg",
+            "cover1": "images/cover/9788485733125.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013369206104987.jpg",
             "cover3": ""
         },
@@ -2967,7 +2967,7 @@
             "publisher_const": "Juventud,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013369206204987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013369206204987.jpg",
             "cover3": ""
         },
@@ -2984,7 +2984,7 @@
             "publisher_const": "Bruño,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013405269404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788469663875.jpg",
+            "cover1": "images/cover/9788469663875.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013405269404987.jpg",
             "cover3": ""
         },
@@ -3002,7 +3002,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013406969704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416880218.jpg",
+            "cover1": "images/cover/9788416880218.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013406969704987.jpg",
             "cover3": ""
         },
@@ -3019,7 +3019,7 @@
             "publisher_const": "GP Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879104987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788494848414.jpg",
+            "cover1": "images/cover/9788494848414.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879104987.jpg",
             "cover3": ""
         },
@@ -3036,7 +3036,7 @@
             "publisher_const": "ECC Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879504987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416660582.jpg",
+            "cover1": "images/cover/9788416660582.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879504987.jpg",
             "cover3": ""
         },
@@ -3053,7 +3053,7 @@
             "publisher_const": "GP Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879604987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788494848452.jpg",
+            "cover1": "images/cover/9788494848452.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879604987.jpg",
             "cover3": ""
         },
@@ -3070,7 +3070,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9770005339009.jpg",
+            "cover1": "images/cover/9770005339009.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879704987.jpg",
             "cover3": ""
         },
@@ -3084,7 +3084,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411879904987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788417401740.jpg",
+            "cover1": "images/cover/9788417401740.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411879904987.jpg",
             "cover3": ""
         },
@@ -3101,7 +3101,7 @@
             "publisher_const": "Panini Manga,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013421289304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788413340715.jpg",
+            "cover1": "images/cover/9788413340715.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013421289304987.jpg",
             "cover3": ""
         },
@@ -3118,7 +3118,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434393304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418809170.jpg",
+            "cover1": "images/cover/9788418809170.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434393304987.jpg",
             "cover3": ""
         },
@@ -3135,7 +3135,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620104987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467931969.jpg",
+            "cover1": "images/cover/9788467931969.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620104987.jpg",
             "cover3": ""
         },
@@ -3153,7 +3153,7 @@
             "publisher_const": "Norma Comic ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440623304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467947014.jpg",
+            "cover1": "images/cover/9788467947014.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440623304987.jpg",
             "cover3": ""
         },
@@ -3170,7 +3170,7 @@
             "publisher_const": "Panini Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440623404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788491678793.jpg",
+            "cover1": "images/cover/9788491678793.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440623404987.jpg",
             "cover3": ""
         },
@@ -3188,7 +3188,7 @@
             "publisher_const": "Dibbuks",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440624404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788416507870.jpg",
+            "cover1": "images/cover/9788416507870.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440624404987.jpg",
             "cover3": ""
         },
@@ -3207,7 +3207,7 @@
             "publisher_const": "Dibbuks",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440624704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788415850632.jpg",
+            "cover1": "images/cover/9788415850632.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440624704987.jpg",
             "cover3": ""
         },
@@ -3226,7 +3226,7 @@
             "publisher_const": "Norma Editorial ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440625504987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467910070.jpg",
+            "cover1": "images/cover/9788467910070.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440625504987.jpg",
             "cover3": ""
         },
@@ -3243,7 +3243,7 @@
             "publisher_const": "Panini España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441114704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788411010382.jpg",
+            "cover1": "images/cover/9788411010382.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441114704987.jpg",
             "cover3": ""
         },
@@ -3261,7 +3261,7 @@
             "publisher_const": "Penguin Random House,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441117004987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418897344.jpg",
+            "cover1": "images/cover/9788418897344.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441117004987.jpg",
             "cover3": ""
         },
@@ -3278,7 +3278,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441221704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788415685012.jpg",
+            "cover1": "images/cover/9788415685012.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441221704987.jpg",
             "cover3": ""
         },
@@ -3296,7 +3296,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452617004987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418215100.jpg",
+            "cover1": "images/cover/9788418215100.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452617004987.jpg",
             "cover3": ""
         },
@@ -3313,7 +3313,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013452619504987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418326936.jpg",
+            "cover1": "images/cover/9788418326936.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013452619504987.jpg",
             "cover3": ""
         },
@@ -3331,7 +3331,7 @@
             "publisher_const": "SM,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013461021004987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467594454.jpg",
+            "cover1": "images/cover/9788467594454.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013461021004987.jpg",
             "cover3": ""
         },
@@ -3349,7 +3349,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013476572404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467950663.jpg",
+            "cover1": "images/cover/9788467950663.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013476572404987.jpg",
             "cover3": ""
         },
@@ -3366,7 +3366,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013481666804987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788413349732.jpg",
+            "cover1": "images/cover/9788413349732.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013481666804987.jpg",
             "cover3": ""
         },
@@ -3383,7 +3383,7 @@
             "publisher_const": "Panini Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013481672404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788411013635.jpg",
+            "cover1": "images/cover/9788411013635.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013481672404987.jpg",
             "cover3": ""
         },
@@ -3400,7 +3400,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013487771304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467913736.jpg",
+            "cover1": "images/cover/9788467913736.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013487771304987.jpg",
             "cover3": ""
         },
@@ -3414,7 +3414,7 @@
             "publisher_const": "Random Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013599850404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418040306.jpg",
+            "cover1": "images/cover/9788418040306.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013599850404987.jpg",
             "cover3": ""
         },
@@ -3432,7 +3432,7 @@
             "publisher_const": "Editorial Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013623301804987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788468459516.jpg",
+            "cover1": "images/cover/9788468459516.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013623301804987.jpg",
             "cover3": ""
         },
@@ -3446,7 +3446,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627502104987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788479043568.jpg",
+            "cover1": "images/cover/9788479043568.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013627502104987.jpg",
             "cover3": ""
         },
@@ -3460,7 +3460,7 @@
             "publisher_const": "Esco",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627901304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013627901304987.jpg",
             "cover3": ""
         },
@@ -3474,7 +3474,7 @@
             "publisher_const": "Randon Comics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013628705004987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418040122.jpg",
+            "cover1": "images/cover/9788418040122.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013628705004987.jpg",
             "cover3": ""
         },
@@ -3492,7 +3492,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013655505704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418475528.jpg",
+            "cover1": "images/cover/9788418475528.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013655505704987.jpg",
             "cover3": ""
         },
@@ -3509,7 +3509,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013655797404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418909511.jpg",
+            "cover1": "images/cover/9788418909511.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013655797404987.jpg",
             "cover3": ""
         },
@@ -3527,7 +3527,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788419351760.jpg",
+            "cover1": "images/cover/9788419351760.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503404987.jpg",
             "cover3": ""
         },
@@ -3545,7 +3545,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503504987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418326783.jpg",
+            "cover1": "images/cover/9788418326783.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503504987.jpg",
             "cover3": ""
         },
@@ -3562,7 +3562,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666503704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418897689.jpg",
+            "cover1": "images/cover/9788418897689.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666503704987.jpg",
             "cover3": ""
         },
@@ -3580,7 +3580,7 @@
             "publisher_const": "Sapristi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666697904987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788494506390.jpg",
+            "cover1": "images/cover/9788494506390.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666697904987.jpg",
             "cover3": ""
         },
@@ -3598,7 +3598,7 @@
             "publisher_const": "Roca",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666698004987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788494425776.jpg",
+            "cover1": "images/cover/9788494425776.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666698004987.jpg",
             "cover3": ""
         },
@@ -3616,7 +3616,7 @@
             "publisher_const": "Sapristi,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666698104987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788494616785.jpg",
+            "cover1": "images/cover/9788494616785.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666698104987.jpg",
             "cover3": ""
         },
@@ -3631,7 +3631,7 @@
             "publisher_const": "Nueva Frontera,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674902804987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674902804987.jpg",
             "cover3": ""
         },
@@ -3647,7 +3647,7 @@
             "publisher_const": "Nueva Frontera,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013674902904987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013674902904987.jpg",
             "cover3": ""
         },
@@ -3664,7 +3664,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013675403804987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467936469.jpg",
+            "cover1": "images/cover/9788467936469.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013675403804987.jpg",
             "cover3": ""
         },
@@ -3681,7 +3681,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013687105004987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467952063.jpg",
+            "cover1": "images/cover/9788467952063.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013687105004987.jpg",
             "cover3": ""
         },
@@ -3698,7 +3698,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013736899804987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788411408554.jpg",
+            "cover1": "images/cover/9788411408554.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013736899804987.jpg",
             "cover3": ""
         },
@@ -3715,7 +3715,7 @@
             "publisher_const": "Astiberri Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013736899904987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788419670045.jpg",
+            "cover1": "images/cover/9788419670045.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013736899904987.jpg",
             "cover3": ""
         },
@@ -3733,7 +3733,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013739602104987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788419021120.jpg",
+            "cover1": "images/cover/9788419021120.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013739602104987.jpg",
             "cover3": ""
         },
@@ -3751,7 +3751,7 @@
             "publisher_const": "ECC Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013740604804987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418026799.jpg",
+            "cover1": "images/cover/9788418026799.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013740604804987.jpg",
             "cover3": ""
         },
@@ -3768,7 +3768,7 @@
             "publisher_const": "Norma editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013753402604987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788467911381.jpg",
+            "cover1": "images/cover/9788467911381.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013753402604987.jpg",
             "cover3": ""
         },
@@ -3787,7 +3787,7 @@
             "publisher_const": "La Cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013759801304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013759801304987.jpg",
             "cover3": ""
         },
@@ -3805,7 +3805,7 @@
             "publisher_const": "Aleta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764100404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496992528.jpg",
+            "cover1": "images/cover/9788496992528.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764100404987.jpg",
             "cover3": ""
         },
@@ -3822,7 +3822,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013780203404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788490942055.jpg",
+            "cover1": "images/cover/9788490942055.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013780203404987.jpg",
             "cover3": ""
         },
@@ -3840,7 +3840,7 @@
             "publisher_const": "Panini Cómics,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013780203504987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788490940730.jpg",
+            "cover1": "images/cover/9788490940730.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013780203504987.jpg",
             "cover3": ""
         },
@@ -3857,7 +3857,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013780203604987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788411501019.jpg",
+            "cover1": "images/cover/9788411501019.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013780203604987.jpg",
             "cover3": ""
         },
@@ -3877,7 +3877,7 @@
             "publisher_const": "Norma",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013784402704987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788484314660.jpg",
+            "cover1": "images/cover/9788484314660.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013784402704987.jpg",
             "cover3": ""
         },
@@ -3898,7 +3898,7 @@
             "publisher_const": "Salamadra Graphic",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013794005404987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418347689.jpg",
+            "cover1": "images/cover/9788418347689.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013794005404987.jpg",
             "cover3": ""
         },
@@ -3913,7 +3913,7 @@
             "publisher_const": "ECC Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013801103304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418862021.jpg",
+            "cover1": "images/cover/9788418862021.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013801103304987.jpg",
             "cover3": ""
         },
@@ -3930,7 +3930,7 @@
             "publisher_const": "Dolmen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013805805604987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788496706644.jpg",
+            "cover1": "images/cover/9788496706644.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013805805604987.jpg",
             "cover3": ""
         },
@@ -3947,7 +3947,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013807405204987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788418326790.jpg",
+            "cover1": "images/cover/9788418326790.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013807405204987.jpg",
             "cover3": ""
         },
@@ -3964,7 +3964,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013830202304987",
             "genero": "Aventura / Superhéroes",
-            "cover1": "../images/cover/9788419678355.jpg",
+            "cover1": "images/cover/9788419678355.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013830202304987.jpg",
             "cover3": ""
         }

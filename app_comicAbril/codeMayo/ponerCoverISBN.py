@@ -34,9 +34,9 @@ def modify_json(json_data):
 
         # Asignar la URL de la portada
         if len(isbn) == 13 and all(c in '0123456789X' for c in isbn):
-            book['cover1'] = f"../images/cover/{isbn}.jpg"
+            book['cover1'] = f"images/cover/{isbn}.jpg"
         else:
-            book['cover1'] = "../images/cover/00000000000000.jpg"
+            book['cover1'] = "images/cover/00000000000000.jpg"
 
 # Iterar sobre todos los archivos JSON en la carpeta "originales"
 for filename in os.listdir("originales"):

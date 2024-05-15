@@ -14,7 +14,7 @@
             "publisher_const": "Dragon comic/tebeos,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991005577209704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991005577209704987.jpg",
             "cover3": ""
         },
@@ -31,7 +31,7 @@
             "publisher_const": "Taschen,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991006311389704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9783822831243.jpg",
+            "cover1": "images/cover/9783822831243.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991006311389704987.jpg",
             "cover3": ""
         },
@@ -49,7 +49,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009195779704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788492769681.jpg",
+            "cover1": "images/cover/9788492769681.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009195779704987.jpg",
             "cover3": ""
         },
@@ -68,7 +68,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009233989704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788492769346.jpg",
+            "cover1": "images/cover/9788492769346.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009233989704987.jpg",
             "cover3": ""
         },
@@ -87,7 +87,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009233999704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788483570753.jpg",
+            "cover1": "images/cover/9788483570753.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009233999704987.jpg",
             "cover3": ""
         },
@@ -105,7 +105,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009234019704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009234019704987.jpg",
             "cover3": ""
         },
@@ -123,7 +123,7 @@
             "publisher_const": "La cúpula,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009234029704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788478337026.jpg",
+            "cover1": "images/cover/9788478337026.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009234029704987.jpg",
             "cover3": ""
         },
@@ -142,7 +142,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009234039704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009234039704987.jpg",
             "cover3": ""
         },
@@ -160,7 +160,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009234049704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788492444427.jpg",
+            "cover1": "images/cover/9788492444427.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009234049704987.jpg",
             "cover3": ""
         },
@@ -178,7 +178,7 @@
             "publisher_const": "Glenat ,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009234059704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009234059704987.jpg",
             "cover3": ""
         },
@@ -195,7 +195,7 @@
             "publisher_const": "Planeta de Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009239199704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467496697.jpg",
+            "cover1": "images/cover/9788467496697.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009239199704987.jpg",
             "cover3": ""
         },
@@ -213,7 +213,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009390329704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788492769506.jpg",
+            "cover1": "images/cover/9788492769506.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009390329704987.jpg",
             "cover3": ""
         },
@@ -231,7 +231,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009390339704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788492769773.jpg",
+            "cover1": "images/cover/9788492769773.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009390339704987.jpg",
             "cover3": ""
         },
@@ -249,7 +249,7 @@
             "publisher_const": "Astiberri,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991009390349704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788492769988.jpg",
+            "cover1": "images/cover/9788492769988.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991009390349704987.jpg",
             "cover3": ""
         },
@@ -267,7 +267,7 @@
             "publisher_const": "Glenat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011169789704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011169789704987.jpg",
             "cover3": ""
         },
@@ -285,7 +285,7 @@
             "publisher_const": "Glénat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011767019704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788499472959.jpg",
+            "cover1": "images/cover/9788499472959.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011767019704987.jpg",
             "cover3": ""
         },
@@ -301,7 +301,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991011890559704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991011890559704987.jpg",
             "cover3": ""
         },
@@ -318,7 +318,7 @@
             "publisher_const": "Ediciones Glenat,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012541659704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788499472942.jpg",
+            "cover1": "images/cover/9788499472942.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012541659704987.jpg",
             "cover3": ""
         },
@@ -335,7 +335,7 @@
             "publisher_const": "Planeta-De Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012848209704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012848209704987.jpg",
             "cover3": ""
         },
@@ -352,7 +352,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012851189704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012851189704987.jpg",
             "cover3": ""
         },
@@ -370,7 +370,7 @@
             "publisher_const": "Norma",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012852259704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012852259704987.jpg",
             "cover3": ""
         },
@@ -388,7 +388,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012889029704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012889029704987.jpg",
             "cover3": ""
         },
@@ -406,7 +406,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012913809704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467923063.jpg",
+            "cover1": "images/cover/9788467923063.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012913809704987.jpg",
             "cover3": ""
         },
@@ -424,7 +424,7 @@
             "publisher_const": "Panini Manga,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012921139704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012921139704987.jpg",
             "cover3": ""
         },
@@ -442,7 +442,7 @@
             "publisher_const": "Ediciones Glénat España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012935199704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788483571040.jpg",
+            "cover1": "images/cover/9788483571040.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012935199704987.jpg",
             "cover3": ""
         },
@@ -460,7 +460,7 @@
             "publisher_const": "Ediciones Glénat España,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991012935369704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788483573488.jpg",
+            "cover1": "images/cover/9788483573488.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991012935369704987.jpg",
             "cover3": ""
         },
@@ -477,7 +477,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013146205604987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416543793.jpg",
+            "cover1": "images/cover/9788416543793.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013146205604987.jpg",
             "cover3": ""
         },
@@ -495,7 +495,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013383203404987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416540181.jpg",
+            "cover1": "images/cover/9788416540181.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013383203404987.jpg",
             "cover3": ""
         },
@@ -512,7 +512,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013411883004987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013411883004987.jpg",
             "cover3": ""
         },
@@ -529,7 +529,7 @@
             "publisher_const": "Ponet Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013421289104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9781910856161.jpg",
+            "cover1": "images/cover/9781910856161.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013421289104987.jpg",
             "cover3": ""
         },
@@ -546,7 +546,7 @@
             "publisher_const": "Debolsillo",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013421289204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788466334648.jpg",
+            "cover1": "images/cover/9788466334648.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013421289204987.jpg",
             "cover3": ""
         },
@@ -563,7 +563,7 @@
             "publisher_const": "Panini Manga,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013421289304987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788413340715.jpg",
+            "cover1": "images/cover/9788413340715.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013421289304987.jpg",
             "cover3": ""
         },
@@ -580,7 +580,7 @@
             "publisher_const": "Gallo Nero,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434391704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416529957.jpg",
+            "cover1": "images/cover/9788416529957.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434391704987.jpg",
             "cover3": ""
         },
@@ -597,7 +597,7 @@
             "publisher_const": "Planeta DeAgostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013434392104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788468475783.jpg",
+            "cover1": "images/cover/9788468475783.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013434392104987.jpg",
             "cover3": ""
         },
@@ -614,7 +614,7 @@
             "publisher_const": "Quaterni,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438315504987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788494344916.jpg",
+            "cover1": "images/cover/9788494344916.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438315504987.jpg",
             "cover3": ""
         },
@@ -631,7 +631,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322604987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416540518.jpg",
+            "cover1": "images/cover/9788416540518.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322604987.jpg",
             "cover3": ""
         },
@@ -648,7 +648,7 @@
             "publisher_const": "La Otra H",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013438322804987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416540457.jpg",
+            "cover1": "images/cover/9788416540457.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013438322804987.jpg",
             "cover3": ""
         },
@@ -666,7 +666,7 @@
             "publisher_const": "Cyan, Proyectos y Producciones Editoriales,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439424004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788418309144.jpg",
+            "cover1": "images/cover/9788418309144.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439424004987.jpg",
             "cover3": ""
         },
@@ -683,7 +683,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619304987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467922080.jpg",
+            "cover1": "images/cover/9788467922080.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619304987.jpg",
             "cover3": ""
         },
@@ -700,7 +700,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619404987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467928440.jpg",
+            "cover1": "images/cover/9788467928440.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619404987.jpg",
             "cover3": ""
         },
@@ -717,7 +717,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619504987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467931136.jpg",
+            "cover1": "images/cover/9788467931136.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619504987.jpg",
             "cover3": ""
         },
@@ -734,7 +734,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619604987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467936230.jpg",
+            "cover1": "images/cover/9788467936230.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619604987.jpg",
             "cover3": ""
         },
@@ -751,7 +751,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467938326.jpg",
+            "cover1": "images/cover/9788467938326.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619704987.jpg",
             "cover3": ""
         },
@@ -768,7 +768,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439619904987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467942576.jpg",
+            "cover1": "images/cover/9788467942576.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439619904987.jpg",
             "cover3": ""
         },
@@ -782,7 +782,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467945928.jpg",
+            "cover1": "images/cover/9788467945928.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620004987.jpg",
             "cover3": ""
         },
@@ -799,7 +799,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467931969.jpg",
+            "cover1": "images/cover/9788467931969.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620104987.jpg",
             "cover3": ""
         },
@@ -816,7 +816,7 @@
             "publisher_const": "La Otra H",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013439620304987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416763320.jpg",
+            "cover1": "images/cover/9788416763320.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013439620304987.jpg",
             "cover3": ""
         },
@@ -833,7 +833,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924504987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416540211.jpg",
+            "cover1": "images/cover/9788416540211.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924504987.jpg",
             "cover3": ""
         },
@@ -850,7 +850,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416540754.jpg",
+            "cover1": "images/cover/9788416540754.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924704987.jpg",
             "cover3": ""
         },
@@ -867,7 +867,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440924804987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416540815.jpg",
+            "cover1": "images/cover/9788416540815.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440924804987.jpg",
             "cover3": ""
         },
@@ -884,7 +884,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440925104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416763085.jpg",
+            "cover1": "images/cover/9788416763085.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440925104987.jpg",
             "cover3": ""
         },
@@ -902,7 +902,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440925204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416540068.jpg",
+            "cover1": "images/cover/9788416540068.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440925204987.jpg",
             "cover3": ""
         },
@@ -920,7 +920,7 @@
             "publisher_const": "Herder Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013440926004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416540273.jpg",
+            "cover1": "images/cover/9788416540273.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013440926004987.jpg",
             "cover3": ""
         },
@@ -938,7 +938,7 @@
             "publisher_const": "Debolsillo,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441116204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788490628034.jpg",
+            "cover1": "images/cover/9788490628034.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441116204987.jpg",
             "cover3": ""
         },
@@ -955,7 +955,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441217404987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788418897030.jpg",
+            "cover1": "images/cover/9788418897030.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441217404987.jpg",
             "cover3": ""
         },
@@ -972,7 +972,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441220804987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467947830.jpg",
+            "cover1": "images/cover/9788467947830.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441220804987.jpg",
             "cover3": ""
         },
@@ -989,7 +989,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441220904987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467948288.jpg",
+            "cover1": "images/cover/9788467948288.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441220904987.jpg",
             "cover3": ""
         },
@@ -1006,7 +1006,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416540990.jpg",
+            "cover1": "images/cover/9788416540990.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441225004987.jpg",
             "cover3": ""
         },
@@ -1023,7 +1023,7 @@
             "publisher_const": "La Otra H,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013441225104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416763207.jpg",
+            "cover1": "images/cover/9788416763207.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013441225104987.jpg",
             "cover3": ""
         },
@@ -1042,7 +1042,7 @@
             "publisher_const": "Satori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456325404987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788417419479.jpg",
+            "cover1": "images/cover/9788417419479.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456325404987.jpg",
             "cover3": ""
         },
@@ -1060,7 +1060,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456722904987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456722904987.jpg",
             "cover3": ""
         },
@@ -1076,7 +1076,7 @@
             "publisher_const": "Planeta-De Agostini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456723804987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456723804987.jpg",
             "cover3": ""
         },
@@ -1094,7 +1094,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456724004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788413416328.jpg",
+            "cover1": "images/cover/9788413416328.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456724004987.jpg",
             "cover3": ""
         },
@@ -1111,7 +1111,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456724104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788491467823.jpg",
+            "cover1": "images/cover/9788491467823.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456724104987.jpg",
             "cover3": ""
         },
@@ -1128,7 +1128,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456724204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788491469803.jpg",
+            "cover1": "images/cover/9788491469803.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456724204987.jpg",
             "cover3": ""
         },
@@ -1146,7 +1146,7 @@
             "publisher_const": "Ponent Mon,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013456724604987",
             "genero": "Manga",
-            "cover1": "../images/cover/9781908007919.jpg",
+            "cover1": "images/cover/9781908007919.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013456724604987.jpg",
             "cover3": ""
         },
@@ -1163,7 +1163,7 @@
             "publisher_const": "Gallo Nero Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013462134404987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788419168009.jpg",
+            "cover1": "images/cover/9788419168009.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013462134404987.jpg",
             "cover3": ""
         },
@@ -1180,7 +1180,7 @@
             "publisher_const": "Editorial Hidra,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013627601104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788418359767.jpg",
+            "cover1": "images/cover/9788418359767.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013627601104987.jpg",
             "cover3": ""
         },
@@ -1198,7 +1198,7 @@
             "publisher_const": "Astiberri",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013628704904987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416880096.jpg",
+            "cover1": "images/cover/9788416880096.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013628704904987.jpg",
             "cover3": ""
         },
@@ -1216,7 +1216,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013666701204987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013666701204987.jpg",
             "cover3": ""
         },
@@ -1234,7 +1234,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013698904904987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467945195.jpg",
+            "cover1": "images/cover/9788467945195.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013698904904987.jpg",
             "cover3": ""
         },
@@ -1248,7 +1248,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013698905004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467945850.jpg",
+            "cover1": "images/cover/9788467945850.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013698905004987.jpg",
             "cover3": ""
         },
@@ -1262,7 +1262,7 @@
             "publisher_const": "Planeta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013698905104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788491734857.jpg",
+            "cover1": "images/cover/9788491734857.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013698905104987.jpg",
             "cover3": ""
         },
@@ -1276,7 +1276,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013698905304987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416840656.jpg",
+            "cover1": "images/cover/9788416840656.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013698905304987.jpg",
             "cover3": ""
         },
@@ -1290,7 +1290,7 @@
             "publisher_const": "Milky Way Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013699095404987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416960392.jpg",
+            "cover1": "images/cover/9788416960392.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013699095404987.jpg",
             "cover3": ""
         },
@@ -1308,7 +1308,7 @@
             "publisher_const": "Milky Way Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013699095504987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788494429613.jpg",
+            "cover1": "images/cover/9788494429613.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013699095504987.jpg",
             "cover3": ""
         },
@@ -1326,7 +1326,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013699095804987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788418061011.jpg",
+            "cover1": "images/cover/9788418061011.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013699095804987.jpg",
             "cover3": ""
         },
@@ -1340,7 +1340,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013708204704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013708204704987.jpg",
             "cover3": ""
         },
@@ -1358,7 +1358,7 @@
             "publisher_const": "Panini Manga",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013708204804987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788491671800.jpg",
+            "cover1": "images/cover/9788491671800.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013708204804987.jpg",
             "cover3": ""
         },
@@ -1376,7 +1376,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709105104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467937817.jpg",
+            "cover1": "images/cover/9788467937817.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709105104987.jpg",
             "cover3": ""
         },
@@ -1390,7 +1390,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709105404987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709105404987.jpg",
             "cover3": ""
         },
@@ -1404,7 +1404,7 @@
             "publisher_const": "Planeta,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709402604987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788491748373.jpg",
+            "cover1": "images/cover/9788491748373.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709402604987.jpg",
             "cover3": ""
         },
@@ -1418,7 +1418,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709403004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467941159.jpg",
+            "cover1": "images/cover/9788467941159.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709403004987.jpg",
             "cover3": ""
         },
@@ -1432,7 +1432,7 @@
             "publisher_const": "Milk Way Editions,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709403104987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709403104987.jpg",
             "cover3": ""
         },
@@ -1449,7 +1449,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709403204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788418837036.jpg",
+            "cover1": "images/cover/9788418837036.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709403204987.jpg",
             "cover3": ""
         },
@@ -1467,7 +1467,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709403704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467920611.jpg",
+            "cover1": "images/cover/9788467920611.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709403704987.jpg",
             "cover3": ""
         },
@@ -1485,7 +1485,7 @@
             "publisher_const": "ECC Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709403804987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788417644093.jpg",
+            "cover1": "images/cover/9788417644093.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709403804987.jpg",
             "cover3": ""
         },
@@ -1503,7 +1503,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709404004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788417665548.jpg",
+            "cover1": "images/cover/9788417665548.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709404004987.jpg",
             "cover3": ""
         },
@@ -1517,7 +1517,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709404204987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709404204987.jpg",
             "cover3": ""
         },
@@ -1531,7 +1531,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709697204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788419673619.jpg",
+            "cover1": "images/cover/9788419673619.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709697204987.jpg",
             "cover3": ""
         },
@@ -1545,7 +1545,7 @@
             "publisher_const": "Panini,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709697704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788413340746.jpg",
+            "cover1": "images/cover/9788413340746.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709697704987.jpg",
             "cover3": ""
         },
@@ -1563,7 +1563,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013709697804987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788491461395.jpg",
+            "cover1": "images/cover/9788491461395.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013709697804987.jpg",
             "cover3": ""
         },
@@ -1577,7 +1577,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013710504304987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788415513278.jpg",
+            "cover1": "images/cover/9788415513278.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013710504304987.jpg",
             "cover3": ""
         },
@@ -1594,7 +1594,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013710504504987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788413426259.jpg",
+            "cover1": "images/cover/9788413426259.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013710504504987.jpg",
             "cover3": ""
         },
@@ -1612,7 +1612,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013710504604987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467926514.jpg",
+            "cover1": "images/cover/9788467926514.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013710504604987.jpg",
             "cover3": ""
         },
@@ -1626,7 +1626,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013710504704987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013710504704987.jpg",
             "cover3": ""
         },
@@ -1644,7 +1644,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713204704987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467934373.jpg",
+            "cover1": "images/cover/9788467934373.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713204704987.jpg",
             "cover3": ""
         },
@@ -1658,7 +1658,7 @@
             "publisher_const": "MilkyWay Ediciones,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713204804987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416960347.jpg",
+            "cover1": "images/cover/9788416960347.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713204804987.jpg",
             "cover3": ""
         },
@@ -1676,7 +1676,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713205004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467921038.jpg",
+            "cover1": "images/cover/9788467921038.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713205004987.jpg",
             "cover3": ""
         },
@@ -1694,7 +1694,7 @@
             "publisher_const": "Norma,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713205104987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467920574.jpg",
+            "cover1": "images/cover/9788467920574.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713205104987.jpg",
             "cover3": ""
         },
@@ -1712,7 +1712,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713205204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788417292591.jpg",
+            "cover1": "images/cover/9788417292591.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713205204987.jpg",
             "cover3": ""
         },
@@ -1730,7 +1730,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713205304987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416604944.jpg",
+            "cover1": "images/cover/9788416604944.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713205304987.jpg",
             "cover3": ""
         },
@@ -1748,7 +1748,7 @@
             "publisher_const": "Ivrea,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713205404987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788416352791.jpg",
+            "cover1": "images/cover/9788416352791.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713205404987.jpg",
             "cover3": ""
         },
@@ -1766,7 +1766,7 @@
             "publisher_const": "Reservoir Books,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013713503204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788418897771.jpg",
+            "cover1": "images/cover/9788418897771.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013713503204987.jpg",
             "cover3": ""
         },
@@ -1783,7 +1783,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013736900004987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788467962550.jpg",
+            "cover1": "images/cover/9788467962550.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013736900004987.jpg",
             "cover3": ""
         },
@@ -1800,7 +1800,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013736900204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788411407434.jpg",
+            "cover1": "images/cover/9788411407434.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013736900204987.jpg",
             "cover3": ""
         },
@@ -1818,7 +1818,7 @@
             "publisher_const": "ECC,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013764400204987",
             "genero": "Manga",
-            "cover1": "../images/cover/9788418931574.jpg",
+            "cover1": "images/cover/9788418931574.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013764400204987.jpg",
             "cover3": ""
         },
@@ -1835,7 +1835,7 @@
             "publisher_const": "Planeta Cómic,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013780504804987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013780504804987.jpg",
             "cover3": ""
         },
@@ -1852,7 +1852,7 @@
             "publisher_const": "Norma Editorial,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013830505604987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013830505604987.jpg",
             "cover3": ""
         },
@@ -1869,7 +1869,7 @@
             "publisher_const": "Satori,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013832604304987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013832604304987.jpg",
             "cover3": ""
         },
@@ -1886,7 +1886,7 @@
             "publisher_const": "Distrito manga,",
             "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991013857104104987",
             "genero": "Manga",
-            "cover1": "../images/cover/00000000000000.jpg",
+            "cover1": "images/cover/00000000000000.jpg",
             "cover2": "https://biblus.us.es/fama2/com/COMIC/991013857104104987.jpg",
             "cover3": ""
         }
