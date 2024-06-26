@@ -7,7 +7,7 @@
     <script>
       if ('serviceWorker' in navigator) {
           window.addEventListener('load', function() {
-              navigator.serviceWorker.register('/service-worker.js')
+              navigator.serviceWorker.register('./service-worker.js')
               .then(function(registration) {
                   console.log('ServiceWorker registration successful with scope: ', registration.scope);
               })
@@ -20,11 +20,11 @@
     <title>Biblioteca de Comunicación</title>
 </head>
 <body>
-    <p>Te redirigiremos a otra página en 10 segundos...</p>
+    <p>Te redirigiremos a otra página en 11 segundos...</p>
     <script>
         setTimeout(function() {
             window.location.href = "app_MAIN/index.html";
-        }, 10000); // 5000 milisegundos = 5 segundos
+        }, 11000); // 5000 milisegundos = 5 segundos
     </script>
 </body>
 </html>
