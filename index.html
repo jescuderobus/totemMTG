@@ -3,6 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="manifest" href="./manifest.json"/>
+    <script>
+      if ('serviceWorker' in navigator) {
+          window.addEventListener('load', function() {
+              navigator.serviceWorker.register('/service-worker.js')
+              .then(function(registration) {
+                  console.log('ServiceWorker registration successful with scope: ', registration.scope);
+              })
+              .catch(function(err) {
+                  console.log('ServiceWorker registration failed: ', err);
+              });
+          });
+      }
+    </script>
     <title>Biblioteca de Comunicación</title>
 </head>
 <body>
