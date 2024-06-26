@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="manifest" href="manifest.json" />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Biblioteca de Comunicación</title>
+    <link rel="stylesheet" href="app_MAIN/css/styles.css" />
+    <link rel="stylesheet" href="app_MAIN/css/stylesPuntoDeInformacionBUS.css" />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
+    />
+    <link rel="manifest" href="manifest.json">
+
     <script>
       if ('serviceWorker' in navigator) {
           window.addEventListener('load', function() {
-              navigator.serviceWorker.register('./service-worker.js')
+              navigator.serviceWorker.register('service-worker.js')
               .then(function(registration) {
                   console.log('ServiceWorker registration successful with scope: ', registration.scope);
               })
@@ -17,16 +29,206 @@
           });
       }
     </script>
-    <title>Biblioteca de Comunicación</title>
-</head>
-<body>
-    <p>Te redirigiremos a otra página en 20 segundos...</p>
-    <script>
-        setTimeout(function() {
-            window.location.href = "./app_MAIN/index.html";
-        }, 20000); // 5000 milisegundos = 5 segundos
-    </script>
-</body>
+
+
+  </head>
+  <body>
+    <header>
+      <div class="biblioteca">Biblioteca de Comunicación</div>
+      <div class="dia"></div>
+    </header>
+
+    <main>
+      <div class="menu">
+        <input type="checkbox" id="toggle" />
+        <label id="show-menu" for="toggle">
+          <div class="btn">
+            <i class="material-icons md-36 toggleBtn menuBtn">menu</i>
+            <i class="material-icons md-36 toggleBtn closeBtn">close</i>
+          </div>
+          <div class="btn">
+            <a href="#">
+              <span
+                class="mdi mdi-information-slab-circle"
+                style="
+                  font-size: 4em;
+                  color: #03a9f4;
+                  transform: translateY(1%);
+                "
+              ></span>
+            </a>
+          </div>
+          <div class="btn">
+            <a href="app_preguntasFrecuentes/index.html">
+              <span
+                class="mdi mdi-frequently-asked-questions"
+                style="font-size: 2.5em; color: #03a9f4"
+              ></span>
+            </a>
+          </div>
+
+          <div class="btn">
+            <a href="app_carteleriaOculus/index.html">
+              <img
+                src="app_MAIN/images/eye-3-svgrepo-com.svg"
+                alt="ojo oculus"
+                width="60px"
+              />
+            </a>
+          </div>
+
+          <div class="btn">
+            <a href="app_workingOn/index.html">
+              <span
+                class="mdi mdi-bookshelf"
+                style="font-size: 3em; color: #03a9f4"
+              ></span>
+            </a>
+          </div>
+
+          <div class="btn">
+            <a href="app_comicAbril/index.html">
+              <img
+                src="app_MAIN/images/noun-comic-5640534.svg"
+                alt="Comic"
+                width="50px"
+              />
+            </a>
+          </div>
+
+          <div class="btn">
+            <a href="app_woodyAllen/index.html">
+              <img
+                src="app_MAIN/images/noun-woody-allen-105159.svg"
+                alt="WoodyAllen"
+                width="50px"
+              />
+            </a>
+          </div>
+
+          <div class="btn">
+            <a href="app_relojUniversal/index.html">
+              <span
+                class="mdi mdi-clock-time-four-outline"
+                style="font-size: 3em; color: #03a9f4"
+              ></span>
+            </a>
+          </div>
+
+          <div class="btn">
+            <a href="app_teNecesitamos/index.html">
+              <img
+                src="app_MAIN/images/warp-galaxy-svgrepo-com.svg"
+                alt="agujero negro"
+                width="50px"
+              />
+            </a>
+          </div>
+        </label>
+      </div>
+
+      <!-- Modal -->
+      <div id="infoModal" class="modal">
+        <div class="modal-content">
+          <div class="cabecera-modal-content">
+            <span class="modal-content-title">Punto de información BUS</span>
+            <span class="close">&times;</span>
+          </div>
+
+          <div class="app1 app">
+            <div class="circleApp circle1"></div>
+            <div class="infoApp info1">
+              <p>
+                <strong>Información de esta aplicación.</strong> Te contamos los
+                posibles usos informativos de este dispositivo.
+              </p>
+            </div>
+          </div>
+
+          <div class="app2 app">
+            <div class="circleApp circle2"></div>
+            <div class="infoApp info2">
+              <p>
+                <strong>Preguntas frecuentes.</strong> Es una selección de las
+                preguntas que más frecuentemente hacen a nuestros
+                bibliotecarios, si están ocupados puedes que encuentres tus
+                dudas resueltas aquí.
+              </p>
+            </div>
+          </div>
+
+          <div class="app3 app">
+            <div class="circleApp circle3"></div>
+            <div class="infoApp info3">
+              <p>
+                <strong>Carteleria BUS.</strong> Noticias, horarios especiales,
+                normas y recomendaciones para el buen uso de nuestra biblioteca.
+              </p>
+            </div>
+          </div>
+
+          <div class="app4 app">
+            <div class="circleApp circle4"></div>
+            <div class="infoApp info4">
+              <p>
+                <strong>NovaBUS.</strong> Últimas adquisiciones de tu
+                biblioteca, un lugar para repasar los ultimos libros comprados,
+                tanto físicos como electrónicos.
+              </p>
+            </div>
+          </div>
+
+          <div class="app5 app">
+            <div class="circleApp circle5"></div>
+            <div class="infoApp info5">
+              <p>
+                <strong>Seleccionador de Comics.</strong> Una aplicación para
+                ayudarte en la elección de un comic de nuestra amplia colección.
+              </p>
+            </div>
+          </div>
+
+          <div class="app6 app">
+            <div class="circleApp circle6"></div>
+            <div class="infoApp info6">
+              <p>
+                <strong>Exposición Woody Allen.</strong>Por si quieres saber un
+                poco más de este director y de su forma de aproximarse al cine.
+              </p>
+            </div>
+          </div>
+
+          <div class="app7 app">
+            <div class="circleApp circle7"></div>
+            <div class="infoApp info7">
+              <p>
+                <strong>Aquí el más tonto hace relojes.</strong> Una reflexión
+                sobre el paso del tiempo, cada minuto verás un reloj distinto.
+              </p>
+            </div>
+          </div>
+
+          <div class="app8 app">
+            <div class="circleApp circle8"></div>
+            <div class="infoApp info8">
+              <p>
+                <strong>La Biblioteca te necesita.</strong>. 
+                Una seleccion de enlaces para que nos ayudes 
+                haciendonos llegar lo que piensas de nosotros.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script src="js/rotatoryModal.js"></script>
+      <!-- FIN del Modal -->
+    </main>
+
+    <footer>
+      <div class="hora"></div>
+      <script src="js/javascript.js"></script>
+    </footer>
+
+    <!--https://boxy-svg.com/-->
+  </body>
 </html>
-
-

@@ -27,7 +27,6 @@
     const CACHE_NAME = "totem-cache";
 
     const PRECACHE_ASSETS = [
-        "./app_MAIN/index.html",
         "./app_23deAbril/css/styles.css",
         "./app_23deAbril/images/dragon-1-svgrepo-com.svg",
         "./app_23deAbril/images/postcardBack1.png",
@@ -461,8 +460,6 @@
         "./icons/manifest-icon-512.maskable.png",
         "./icons/manifest-icon-96.maskable.png",
         "./index.html",
-        "./labCopilot.md",
-        "./public_dirs.txt",
         "./screenshots/screenshot_appMain.png",
         "./screenshots/screenshot_appMain2.png",
         "./screenshots/screenshot_CartelesBiblioteca.png",

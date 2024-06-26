@@ -2,7 +2,7 @@
   "name": "TOTEM",
   "short_name": "TOTEM",
   "description": "Aplicación Oculus",
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#0AB5A0",
@@ -10,7 +10,7 @@
   "shortcuts": [
     {
       "name": "Main",
-      "url": "./index.html",
+      "url": "index.html",
       "icons":[
         {
           "src": "icons/manifest-icon-96.maskable.png",
